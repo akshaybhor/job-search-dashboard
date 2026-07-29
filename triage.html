@@ -587,13 +587,13 @@
     { name: 'output/governmentjobs_jobs.json', src: 'NEOGOV' },
     { name: 'output/calopps_jobs.json',  src: 'CalOpps'    },
     // Cumulative master kept by the scrapers (the rolling files above only hold
-    // their latest window). Lets the Rank tab show every recently-seen role.
-    { name: 'output/all_jobs.json',      src: 'Master'   },
+    // their latest window). Lets the Rank tab show every recently-seen role. The
+    // dashboard now merges these sources directly.
+    // { name: 'output/all_jobs.json',      src: 'Master'   },
   ];
 
   // Fit scores from the nightly triage agent, keyed by job URL (optional file).
   let SCORES = {};
-
   // ---------- Persistence ----------
   // v3: scraped source files are authoritative for the job list. Bump forces
   // browsers to drop older additive caches that kept aged-out jobs visible.
@@ -1249,10 +1249,10 @@
     const settled = await Promise.allSettled(
       SOURCES.map(s => fetch(s.name + bust).then(r => {
         if (!r.ok) throw new Error(`${s.name}: ${r.status}`);
-        return r.json();
+        return r.json().then(data => ({ ...data, _sourceName: s.src }));
       }))
     );
-    const byUrl = new Map();
+    const byUrl = new Map(); // url -> job object
     let scraped_at = '', new_count = 0, new_jobs = [];
     let okCount = 0;
     settled.forEach((r, i) => {
@@ -1262,14 +1262,15 @@
       }
       okCount++;
       const d = r.value;
-      const isMaster = SOURCES[i].src === 'Master';
       (d.jobs || []).forEach(j => {
         if (!j || !j.url || !/^https?:\/\//i.test(j.url)) return;  // defensive URL guard
+        j.ats = j.ats || d._sourceName; // Backfill ATS from source name
         const existing = byUrl.get(j.url);
-        if (!existing) byUrl.set(j.url, j);
-        // Per-source entries win the dedupe but lack first_seen — backfill it
-        // from the master so sub-day date filters have a real timestamp.
-        else if (isMaster && j.first_seen && !existing.first_seen) existing.first_seen = j.first_seen;
+        if (!existing) {
+          byUrl.set(j.url, j);
+        } else if (_richness(j) > _richness(existing)) {
+          byUrl.set(j.url, { ...j, duplicate_urls: _dupUrlList(existing) });
+        }
       });
       (d.new_jobs || []).forEach(j => new_jobs.push(j));
       new_count += (d.new_count || 0);
