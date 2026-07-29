@@ -1,0 +1,48 @@
+name: Triage Agent Evals
+
+on:
+  # Auto-run when the scoring system changes. NOTE: the profile/resume live in
+  # Actions secrets — editing a secret does NOT trigger this workflow. After
+  # changing CANDIDATE_PROFILE/CANDIDATE_RESUME, run it manually
+  # (Actions → Triage Agent Evals → Run workflow).
+  push:
+    paths:
+      - triage_agent.py
+      - eval_triage.py
+      - .github/workflows/evals.yml
+  workflow_dispatch:
+
+jobs:
+  evals:
+    name: Golden-case evals vs candidate profile
+    runs-on: ubuntu-latest
+    # Expose the secret as a job-level env var so we can gate on it below
+    # (secrets context is not available in step `if:` conditions).
+    env:
+      CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
+
+    permissions:
+      contents: read   # read-only: evals never write scores.json
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Anthropic SDK
+        run: pip install anthropic
+
+      # ~9 Haiku calls with the prompt-cached profile prefix — pennies per run.
+      # Exit code 1 on any failed case fails the workflow.
+      # Skipped silently when CANDIDATE_PROFILE secret is not set (e.g. upstream template).
+      - name: Run evals
+        if: ${{ env.CANDIDATE_PROFILE != '' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
+          CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
+        run: python eval_triage.py

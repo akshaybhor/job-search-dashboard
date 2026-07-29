@@ -1,0 +1,181 @@
+name: Validate Setup
+
+on:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: Check configuration and secrets
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Check required items
+        id: required
+        run: |
+          PASS=0
+          FAIL=0
+
+          echo "════════════════════════════════════════════════════"
+          echo " Job Scraper — Setup Validation Report"
+          echo "════════════════════════════════════════════════════"
+          echo ""
+          echo "── Required ─────────────────────────────────────────"
+
+          # ENABLE_DATA_COMMITS
+          if [ "$ENABLE_DATA_COMMITS" = "true" ]; then
+            echo "✓  ENABLE_DATA_COMMITS = true"
+            PASS=$((PASS+1))
+          else
+            echo "✗  ENABLE_DATA_COMMITS is NOT set to 'true'"
+            echo "   Fix: Settings → Secrets and variables → Actions → Variables tab"
+            echo "        Add variable:  ENABLE_DATA_COMMITS = true"
+            FAIL=$((FAIL+1))
+          fi
+
+          # config.json
+          if [ -f "config.json" ]; then
+            echo "✓  config.json exists"
+            PASS=$((PASS+1))
+          else
+            echo "✗  config.json missing"
+            echo "   Fix: Copy config.example.json → config.json and edit your keywords/locations."
+            echo "        (See README Step 2 or use docs/cv-to-config-prompt.md)"
+            FAIL=$((FAIL+1))
+          fi
+
+          echo "REQUIRED_PASS=$PASS" >> "$GITHUB_OUTPUT"
+          echo "REQUIRED_FAIL=$FAIL" >> "$GITHUB_OUTPUT"
+        env:
+          ENABLE_DATA_COMMITS: ${{ vars.ENABLE_DATA_COMMITS }}
+
+      - name: Check optional — notifications
+        run: |
+          echo ""
+          echo "── Optional — phone notifications ───────────────────"
+
+          if [ -n "$PUSHOVER_TOKEN" ] && [ -n "$PUSHOVER_USER" ]; then
+            echo "✓  PUSHOVER_TOKEN + PUSHOVER_USER: configured"
+            echo "   Run 'Actions → Test Pushover Notification' to verify delivery."
+          elif [ -n "$PUSHOVER_TOKEN" ] || [ -n "$PUSHOVER_USER" ]; then
+            echo "⚠  Pushover: only one of PUSHOVER_TOKEN / PUSHOVER_USER is set — both are needed."
+          else
+            echo "   PUSHOVER_TOKEN / PUSHOVER_USER: not set"
+            echo "   (optional — without these, notifications are simply off)"
+          fi
+
+          if [ -n "$NOTIFY_MIN_FIT" ]; then
+            echo "✓  NOTIFY_MIN_FIT = $NOTIFY_MIN_FIT (instant-ping threshold)"
+          else
+            echo "   NOTIFY_MIN_FIT: not set (default 75 used)"
+          fi
+
+          if [ "$WEEKLY_DIGEST_PUSHOVER" = "true" ]; then
+            echo "✓  WEEKLY_DIGEST_PUSHOVER = true"
+          else
+            echo "   WEEKLY_DIGEST_PUSHOVER: not set (weekly digest notifications off)"
+          fi
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          NOTIFY_MIN_FIT: ${{ vars.NOTIFY_MIN_FIT }}
+          WEEKLY_DIGEST_PUSHOVER: ${{ vars.WEEKLY_DIGEST_PUSHOVER }}
+
+      - name: Check optional — AI fit-scoring
+        run: |
+          echo ""
+          echo "── Optional — AI fit-scoring (Claude API) ───────────"
+
+          if [ -n "$ANTHROPIC_API_KEY" ]; then
+            echo "✓  ANTHROPIC_API_KEY: configured"
+          else
+            echo "   ANTHROPIC_API_KEY: not set"
+            echo "   (optional — without this, triage.yml should stay disabled)"
+          fi
+
+          if [ -n "$CANDIDATE_PROFILE" ]; then
+            echo "✓  CANDIDATE_PROFILE: configured"
+          else
+            echo "   CANDIDATE_PROFILE: not set (needed for AI triage)"
+          fi
+
+          if [ -n "$CANDIDATE_RESUME" ]; then
+            echo "✓  CANDIDATE_RESUME: configured"
+          else
+            echo "   CANDIDATE_RESUME: not set (needed for AI triage)"
+          fi
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
+          CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
+
+      - name: Check optional — JobSpy scrapers
+        run: |
+          echo ""
+          echo "── Optional — JobSpy-backed sources (Indeed, Glassdoor, ZipRecruiter) ──"
+
+          if [ -n "$JOBSPY_PROXIES" ]; then
+            echo "✓  JOBSPY_PROXIES: configured (helps avoid rate limiting)"
+          else
+            echo "   JOBSPY_PROXIES: not set (scrapers may hit rate limits without proxies)"
+          fi
+
+          if [ -n "$JOBSPY_USER_AGENT" ]; then
+            echo "✓  JOBSPY_USER_AGENT = $JOBSPY_USER_AGENT"
+          else
+            echo "   JOBSPY_USER_AGENT: not set (default used)"
+          fi
+
+          if [ "$ENABLE_GLASSDOOR_WATCHER" = "true" ]; then
+            echo "✓  ENABLE_GLASSDOOR_WATCHER = true (Glassdoor scheduled runs active)"
+          else
+            echo "   ENABLE_GLASSDOOR_WATCHER: not set (Glassdoor scheduled runs disabled — opt-in only)"
+          fi
+        env:
+          JOBSPY_PROXIES: ${{ secrets.JOBSPY_PROXIES }}
+          JOBSPY_USER_AGENT: ${{ vars.JOBSPY_USER_AGENT }}
+          ENABLE_GLASSDOOR_WATCHER: ${{ vars.ENABLE_GLASSDOOR_WATCHER }}
+
+      - name: Check optional — scoring profile and other config
+        run: |
+          echo ""
+          echo "── Optional — other ──────────────────────────────────"
+
+          if [ -f "scoring_profile.json" ]; then
+            echo "✓  scoring_profile.json exists"
+          else
+            echo "   scoring_profile.json: not found"
+            echo "   (optional — copy scoring_profile.example.json and calibrate fit terms)"
+          fi
+
+          if [ -n "$SERPAPI_API_KEY" ]; then
+            echo "✓  SERPAPI_API_KEY: configured (Google Jobs fallback)"
+          else
+            echo "   SERPAPI_API_KEY: not set (Google Jobs uses JobSpy by default)"
+          fi
+        env:
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+
+      - name: Print summary
+        run: |
+          REQUIRED_PASS=${{ steps.required.outputs.REQUIRED_PASS }}
+          REQUIRED_FAIL=${{ steps.required.outputs.REQUIRED_FAIL }}
+
+          echo ""
+          echo "════════════════════════════════════════════════════"
+          if [ "$REQUIRED_FAIL" = "0" ]; then
+            echo " Status: ✓ Core setup looks good!"
+            echo " Scrapers will run on schedule and commit results."
+          else
+            echo " Status: ✗ $REQUIRED_FAIL required item(s) need attention (see above)."
+            echo " Fix the items marked with ✗ before scrapers will save data."
+          fi
+          echo "════════════════════════════════════════════════════"
+          echo ""
+          echo "Quick-start: bash scripts/setup.sh  (if you have gh CLI installed)"
+          echo "Full guide:  see README.md Steps 2–5"
+
+          # Fail the workflow run if required items are missing, so the red X is visible
+          [ "$REQUIRED_FAIL" = "0" ] || exit 1

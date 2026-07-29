@@ -1,0 +1,45 @@
+name: CSU Careers Watcher
+
+on:
+  # Daily, offset from CalCareers and local-gov watchers.
+  schedule:
+    - cron: "37 16 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    name: CSU Careers scrape
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Scrape CSU Careers
+        run: python scrape_jobs.py --csucareers-only
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          NOTIFY_MIN_FIT: ${{ vars.NOTIFY_MIN_FIT }}
+
+      - name: Commit results to repo
+        if: vars.ENABLE_DATA_COMMITS == 'true'
+        run: |
+          git config user.name  "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add -f output/csucareers_jobs.json output/csucareers_jobs.md output/csucareers_jobs.html output/all_jobs.json output/notified.json
+          git diff --cached --quiet || git commit -m "chore: update csucareers listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
+          git pull --rebase -X ours origin main
+          git push

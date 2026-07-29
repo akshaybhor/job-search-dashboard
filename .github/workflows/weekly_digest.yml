@@ -1,0 +1,51 @@
+name: Weekly Job Digest
+
+on:
+  schedule:
+    # Monday morning after the nightly triage run has had a chance to score jobs.
+    - cron: "30 16 * * 1"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Lookback window in days"
+        required: false
+        default: "7"
+      force_send:
+        description: "Bypass WEEKLY_DIGEST_PUSHOVER for this manual run"
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  digest:
+    name: Send weekly Pushover brief
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Send weekly digest
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          WEEKLY_DIGEST_PUSHOVER: ${{ vars.WEEKLY_DIGEST_PUSHOVER }}
+          WEEKLY_DIGEST_DAYS: ${{ vars.WEEKLY_DIGEST_DAYS }}
+          DASHBOARD_URL: ${{ vars.DASHBOARD_URL }}
+        run: |
+          args=(--weekly-digest)
+          if [ -n "${{ github.event.inputs.days }}" ]; then
+            args+=(--days "${{ github.event.inputs.days }}")
+          fi
+          if [ "${{ github.event.inputs.force_send }}" = "true" ]; then
+            args+=(--force)
+          fi
+          python notify.py "${args[@]}"

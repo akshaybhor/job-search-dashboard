@@ -1,0 +1,5 @@
+# Ignore personal and sensitive files
+my_resume.txt
+
+# Ignore local development files and caches
+__pycache__/

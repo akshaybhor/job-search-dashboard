@@ -1,0 +1,65 @@
+name: Local & State Gov Watcher (NEOGOV + CalOpps)
+
+on:
+  # Daily — government postings change at day resolution. Runs at 16:22 UTC
+  # (~9am PT), offset from the other watchers, plus on demand.
+  schedule:
+    - cron: "22 16 * * *"
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: "One-time backfill: fetch last 60 days of NEOGOV instead of 21 (run once when setting up)"
+        required: false
+        type: boolean
+        default: false
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    name: Scrape NEOGOV + CalOpps
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Scrape GovernmentJobs / NEOGOV (CA/OR state & local, or 60-day backfill)
+        run: |
+          if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
+            python scrape_jobs.py --governmentjobs-backfill
+          else
+            python scrape_jobs.py --governmentjobs-only
+          fi
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          NOTIFY_MIN_FIT: ${{ vars.NOTIFY_MIN_FIT }}
+
+      - name: Scrape CalOpps (CA local agencies)
+        run: python scrape_jobs.py --calopps-only
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          NOTIFY_MIN_FIT: ${{ vars.NOTIFY_MIN_FIT }}
+
+      - name: Commit results to repo
+        if: vars.ENABLE_DATA_COMMITS == 'true'
+        run: |
+          git config user.name  "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add -f output/governmentjobs_jobs.json output/governmentjobs_jobs.md output/governmentjobs_jobs.html \
+                     output/calopps_jobs.json output/calopps_jobs.md output/calopps_jobs.html output/all_jobs.json output/notified.json
+          git diff --cached --quiet || git commit -m "chore: update local-gov listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
+          git pull --rebase -X ours origin main
+          git push

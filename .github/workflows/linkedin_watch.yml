@@ -1,0 +1,83 @@
+name: LinkedIn Watcher
+
+on:
+  # Native GitHub cron, hourly at :17 during the active window (8am–8pm PT ≈
+  # 15:00–03:00 UTC). GH's scheduler occasionally skips a slot, so the watchdog
+  # (linkedin_watch_backup.yml at :33) re-dispatches as backup. For higher
+  # reliability you can also drive this externally via cron-job.org → the
+  # workflow_dispatch API; both triggers are safe to run together (dedupe + the
+  # commit-push concurrency group prevent collisions).
+  schedule:
+    - cron: "17 15-23,0-3 * * *"
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: "One-time backfill: fetch last 30 days instead of last hour (run once when setting up)"
+        required: false
+        type: boolean
+        default: false
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    name: LinkedIn scrape
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Scrape LinkedIn (last 1h, or 30-day backfill)
+        run: |
+          if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
+            python scrape_jobs.py --linkedin-backfill
+          else
+            python scrape_jobs.py --linkedin-only
+          fi
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          NOTIFY_MIN_FIT: ${{ vars.NOTIFY_MIN_FIT }}
+
+      - name: Record workflow run
+        run: |
+          python - <<'EOF'
+          import json
+          import os
+          from datetime import datetime, timezone
+
+          with open("output/linkedin_jobs.json", encoding="utf-8") as f:
+              data = json.load(f)
+
+          entry = {
+              "workflow": "linkedin",
+              "timestamp": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+              "job_count": int(data.get("total", 0)),
+              "run_id": os.environ.get("GITHUB_RUN_ID", ""),
+              "run_attempt": os.environ.get("GITHUB_RUN_ATTEMPT", ""),
+          }
+
+          with open("output/workflow_runs.jsonl", "a", encoding="utf-8") as f:
+              f.write(json.dumps(entry, sort_keys=True) + "\n")
+          EOF
+
+      - name: Commit results to repo
+        if: vars.ENABLE_DATA_COMMITS == 'true'
+        run: |
+          git config user.name  "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add -f output/linkedin_jobs.json output/linkedin_jobs.md output/linkedin_jobs.html output/workflow_runs.jsonl output/all_jobs.json output/notified.json
+          git diff --cached --quiet || git commit -m "chore: update linkedin listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
+          git pull --rebase -X ours origin main
+          git push
