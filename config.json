@@ -10,33 +10,42 @@
     "keywords": {
         "include": [
             "software engineer",
-            "backend engineer",
             "c++ developer",
             "python developer",
             "machine learning engineer",
             "ai engineer",
             "systems engineer",
-            "performance engineer"
+            "backend engineer",
+            "performance engineer",
+            "llm engineer",
+            "computer vision",
+            "generative ai"
         ],
         "exclude": [
             "intern",
             "internship",
+            "entry level",
+            "junior",
             "manager",
             "director",
             "sales",
             "support",
             "frontend",
-            "web developer"
+            "web developer",
+            "data analyst"
         ]
     },
     "search_terms": {
         "default": [
             "C++ Software Engineer",
+            "High Performance C++ Engineer",
             "Backend Engineer C++",
             "Machine Learning Engineer Python",
             "AI Infrastructure Engineer",
             "Distributed Systems Engineer",
-            "LLM Engineer"
+            "LLM Engineer",
+            "Generative AI Engineer",
+            "Computer Vision Engineer"
         ]
     },
     "locations": {
