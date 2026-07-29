@@ -1,12 +1,9 @@
 # 🔥 LinkedIn — Software Engineering Job Search Roles
-*Last updated: 2026-07-29 21:47 UTC*
+*Last updated: 2026-07-29 22:20 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Earth Science Software Engineer (ES4)](https://www.linkedin.com/jobs/view/4446847991/) — Amentum
-- 📍 **Location:** Huntsville, AL
-- 🕒 **Posted:** 2026-07-29
-
-### [Python Software Engineer](https://www.linkedin.com/jobs/view/4446423868/) — CPS, Inc.
-- 📍 **Location:** Chicago, IL
+### [RL Environment Software Engineer](https://www.linkedin.com/jobs/view/4446870412/) — talentpluto
+- 📍 **Location:** United States
+- 💰 **Salary:** $180,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-07-29
