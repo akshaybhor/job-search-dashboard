@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Plan — Surface Salary in the Indeed Digest</title>
+<style>
+  :root {
+    --bg: #ffffff;
+    --surface: #f6f7f9;
+    --border: #e3e6ea;
+    --text: #1c1f23;
+    --muted: #5b636c;
+    --accent: #4f46e5;
+    --accent-soft: #eef0fd;
+    --code-bg: #0f1320;
+    --code-text: #e6e8ef;
+    --note: #2563eb;
+    --tip: #059669;
+    --warn: #d97706;
+    --maxw: 820px;
+    --radius: 10px;
+    --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1115; --surface: #171a21; --border: #262b34;
+      --text: #e7e9ee; --muted: #9aa3ad; --accent: #8b85ff;
+      --accent-soft: #1e1d3a; --code-bg: #0a0d16; --code-text: #e6e8ef;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font-family: var(--font); line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { display: grid; grid-template-columns: 240px minmax(0, var(--maxw)); gap: 48px;
+          max-width: 1140px; margin: 0 auto; padding: 0 24px; }
+  nav.toc { position: sticky; top: 0; align-self: start; height: 100vh;
+            padding: 40px 0; overflow-y: auto; font-size: 14px; }
+  nav.toc strong { display: block; color: var(--muted); text-transform: uppercase;
+                   letter-spacing: .06em; font-size: 11px; margin-bottom: 12px; }
+  nav.toc a { display: block; color: var(--muted); text-decoration: none;
+              padding: 5px 10px; border-left: 2px solid transparent; border-radius: 0 6px 6px 0; }
+  nav.toc a:hover { color: var(--text); background: var(--surface); }
+  nav.toc a.active { color: var(--accent); border-left-color: var(--accent); background: var(--accent-soft); }
+  main { padding: 40px 0 120px; }
+  @media (max-width: 760px) {
+    .wrap { grid-template-columns: 1fr; gap: 0; }
+    nav.toc { position: static; height: auto; padding: 24px 0 0; }
+    nav.toc a { display: inline-block; border-left: none; }
+  }
+  header.doc { border-bottom: 1px solid var(--border); padding-bottom: 24px; margin-bottom: 8px; }
+  header.doc h1 { font-size: 30px; line-height: 1.2; margin: 0 0 8px; letter-spacing: -.02em; }
+  header.doc .summary { font-size: 17px; color: var(--muted); margin: 0 0 14px; }
+  header.doc .meta { font-size: 13px; color: var(--muted); display: flex; gap: 16px; flex-wrap: wrap; }
+  header.doc .meta span::before { content: "·"; margin-right: 16px; color: var(--border); }
+  header.doc .meta span:first-child::before { content: none; }
+  h2 { font-size: 21px; margin: 44px 0 12px; letter-spacing: -.01em; scroll-margin-top: 24px; }
+  h3 { font-size: 16px; margin: 28px 0 8px; }
+  p, li { font-size: 15.5px; }
+  a { color: var(--accent); }
+  table { width: 100%; border-collapse: collapse; margin: 18px 0; font-size: 14.5px; }
+  th, td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { font-weight: 600; color: var(--muted); border-bottom: 2px solid var(--border); }
+  tr:hover td { background: var(--surface); }
+  pre { background: var(--code-bg); color: var(--code-text); border-radius: var(--radius);
+        padding: 16px 18px; overflow-x: auto; font-family: var(--mono); font-size: 13px; line-height: 1.55; margin: 0; }
+  code { font-family: var(--mono); font-size: .92em; }
+  p code, li code, td code { background: var(--surface); padding: 1px 6px; border-radius: 5px; }
+  .codeblock { margin: 18px 0; border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; }
+  .codeblock .bar { background: var(--surface); padding: 7px 14px; font-family: var(--mono);
+                    font-size: 12px; color: var(--muted); border-bottom: 1px solid var(--border); }
+  .codeblock pre { border-radius: 0; }
+  .callout { border-left: 3px solid var(--note); background: var(--surface);
+             padding: 12px 16px; border-radius: 0 var(--radius) var(--radius) 0; margin: 18px 0; font-size: 14.5px; }
+  .callout .label { font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: .05em; margin-bottom: 4px; }
+  .callout.note  { border-color: var(--note); } .callout.note .label  { color: var(--note); }
+  .callout.tip   { border-color: var(--tip);  } .callout.tip .label   { color: var(--tip); }
+  .callout.warn  { border-color: var(--warn); } .callout.warn .label  { color: var(--warn); }
+  figure { margin: 22px 0; } figure svg { max-width: 100%; height: auto; display: block; }
+  figcaption { font-size: 13px; color: var(--muted); margin-top: 8px; text-align: center; }
+  .add { color: var(--tip); }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <nav class="toc">
+    <strong>Contents</strong>
+    <a href="#overview">Overview</a>
+    <a href="#dataflow">Data flow</a>
+    <a href="#changes">Changes</a>
+    <a href="#code">Code</a>
+    <a href="#gotchas">Gotchas &amp; open questions</a>
+  </nav>
+
+  <main>
+    <header class="doc">
+      <h1>Surface Salary in the Indeed Digest</h1>
+      <p class="summary">Capture the pay data <code>python-jobspy</code> already returns for Indeed roles and render it in the Indeed digest — without touching the LinkedIn or biotech pipelines.</p>
+      <div class="meta">
+        <span>2026-05-30</span>
+        <span>Implementation Plan</span>
+        <span>Target: <code>scrape_jobs.py</code></span>
+      </div>
+    </header>
+
+    <section>
+      <h2 id="overview">Overview</h2>
+      <p>The three watchers each emit a <code>.json</code> / <code>.md</code> / <code>.html</code> digest through one shared path, <code>save_jobs_output()</code>. The Indeed watcher pulls results via <code>python-jobspy</code>, whose result rows include compensation columns — but <code>scrape_indeed_recent()</code> drops them: the job dict it builds (<code>scrape_jobs.py:770&ndash;777</code>) keeps only <code>company</code>, <code>title</code>, <code>location</code>, <code>url</code>, <code>date_posted</code>, and <code>ats</code>.</p>
+      <p>This plan adds an optional <code>salary</code> field, populated <em>only</em> on the Indeed path, and renders it in that digest's Markdown and HTML. Because every renderer reads the field defensively with <code>.get("salary")</code>, the LinkedIn, biotech, and legacy outputs need no change — they simply never set it.</p>
+      <div class="callout tip">
+        <div class="label">Goal in one line</div>
+        Stop throwing away salary data we already fetch; show it on Indeed cards. Minimal blast radius, no schema change for sources that lack pay data.
+      </div>
+    </section>
+
+    <section>
+      <h2 id="dataflow">Data flow</h2>
+      <p>Salary is captured once at the Indeed row, normalized to a display string, stored on the job dict, then read by the two Indeed renderers. The JSON file gains one key as a side effect of storing it on the dict.</p>
+      <figure>
+        <svg viewBox="0 0 880 200" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif" font-size="12.5">
+          <defs><marker id="a" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto">
+            <path d="M0,0 L6,3 L0,6 Z" fill="var(--muted)"/></marker></defs>
+
+          <rect x="10"  y="78" width="120" height="46" rx="8" fill="var(--accent-soft)" stroke="var(--accent)"/>
+          <text x="70"  y="100" text-anchor="middle" fill="var(--text)">jobspy row</text>
+          <text x="70"  y="115" text-anchor="middle" fill="var(--muted)" font-size="11">df.iterrows()</text>
+
+          <line x1="130" y1="101" x2="168" y2="101" stroke="var(--muted)" marker-end="url(#a)"/>
+
+          <rect x="170" y="78" width="150" height="46" rx="8" fill="var(--accent-soft)" stroke="var(--accent)"/>
+          <text x="245" y="100" text-anchor="middle" fill="var(--text)">format_salary()</text>
+          <text x="245" y="115" text-anchor="middle" fill="var(--muted)" font-size="11">new helper</text>
+
+          <line x1="320" y1="101" x2="358" y2="101" stroke="var(--muted)" marker-end="url(#a)"/>
+
+          <rect x="360" y="78" width="140" height="46" rx="8" fill="var(--accent-soft)" stroke="var(--accent)"/>
+          <text x="430" y="100" text-anchor="middle" fill="var(--text)">job["salary"]</text>
+          <text x="430" y="115" text-anchor="middle" fill="var(--muted)" font-size="11">dict + JSON</text>
+
+          <line x1="500" y1="101" x2="538" y2="101" stroke="var(--muted)" marker-end="url(#a)"/>
+
+          <rect x="540" y="78" width="160" height="46" rx="8" fill="var(--surface)" stroke="var(--border)"/>
+          <text x="620" y="100" text-anchor="middle" fill="var(--text)">save_jobs_output()</text>
+          <text x="620" y="115" text-anchor="middle" fill="var(--muted)" font-size="11">shared renderer</text>
+
+          <!-- branch -->
+          <line x1="700" y1="92" x2="744" y2="40" stroke="var(--muted)" marker-end="url(#a)"/>
+          <line x1="700" y1="110" x2="744" y2="162" stroke="var(--muted)" marker-end="url(#a)"/>
+
+          <rect x="746" y="18" width="128" height="42" rx="8" fill="var(--accent-soft)" stroke="var(--accent)"/>
+          <text x="810" y="39" text-anchor="middle" fill="var(--text)" font-size="11.5">indeed_jobs.md</text>
+          <text x="810" y="53" text-anchor="middle" fill="var(--muted)" font-size="10.5">💰 line</text>
+
+          <rect x="746" y="140" width="128" height="42" rx="8" fill="var(--accent-soft)" stroke="var(--accent)"/>
+          <text x="810" y="161" text-anchor="middle" fill="var(--text)" font-size="11">_render_jobs_html()</text>
+          <text x="810" y="175" text-anchor="middle" fill="var(--muted)" font-size="10.5">meta-item span</text>
+        </svg>
+        <figcaption>Capture → normalize → store → render. Only the Indeed source sets the field; the shared renderer shows it when present.</figcaption>
+      </figure>
+    </section>
+
+    <section>
+      <h2 id="changes">Changes</h2>
+      <p>All edits are in <code>scrape_jobs.py</code>. Four touch points, one of them new:</p>
+      <table>
+        <thead><tr><th>Symbol</th><th>Approx. line</th><th>Change</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><code>format_salary()</code></td>
+            <td>new, near <code>_job_identity</code> (~810)</td>
+            <td>Build a display string (e.g. <code>$150k&ndash;$190k/yr</code>) from jobspy pay fields; return <code>""</code> when no bounds are present.</td>
+          </tr>
+          <tr>
+            <td><code>scrape_indeed_recent()</code></td>
+            <td>770&ndash;777</td>
+            <td>Add <code class="add">"salary": format_salary(...)</code> to the job dict, reading <code>min_amount</code> / <code>max_amount</code> / <code>interval</code> from the row.</td>
+          </tr>
+          <tr>
+            <td><code>save_jobs_output()</code></td>
+            <td>882&ndash;887</td>
+            <td>In the Markdown loop, append <code>- 💰 **Salary:** {job['salary']}</code> when <code>job.get("salary")</code> is truthy.</td>
+          </tr>
+          <tr>
+            <td><code>_render_jobs_html()</code></td>
+            <td>947&ndash;965</td>
+            <td>Add a <code>.meta-item</code> salary span, mirroring the existing <code>posted</code> span pattern (lines 948&ndash;951).</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="callout note">
+        <div class="label">Why no change elsewhere</div>
+        <code>save_linkedin_results()</code>, <code>save_biotech_linkedin_results()</code>, and the legacy <code>save_results()</code> all funnel through the same two renderers. Since both renderers gate on <code>.get("salary")</code>, sources that never set the key render exactly as today.
+      </div>
+    </section>
+
+    <section>
+      <h2 id="code">Code</h2>
+
+      <h3>1. Capture salary in <code>scrape_indeed_recent()</code></h3>
+      <p>The DataFrame columns are already lowercased (line 755) and NaNs filled with <code>""</code> (line 756), so <code>row.get(...)</code> returns clean strings. Add the one field:</p>
+      <div class="codeblock">
+        <div class="bar">scrape_jobs.py · scrape_indeed_recent() · ~770</div>
+        <pre><code>jobs_by_id[ident] = {
+    "company": str(row.get("company", "") or "Unknown"),
+    "title": title,
+    "location": loc,
+    "url": url,
+    "date_posted": str(row.get("date_posted", "") or ""),
+    "salary": format_salary(                 # NEW
+        row.get("min_amount", ""),
+        row.get("max_amount", ""),
+        row.get("interval", ""),
+    ),
+    "ats": "Indeed",
+}</code></pre>
+      </div>
+
+      <h3>2. The <code>format_salary()</code> helper</h3>
+      <p>Pure string formatting — no jobspy import, easy to unit-test in isolation:</p>
+      <div class="codeblock">
+        <div class="bar">scrape_jobs.py · new, near _job_identity</div>
+        <pre><code>def format_salary(min_amount, max_amount, interval) -> str:
+    """'$150k–$190k/yr' from jobspy pay fields; '' when no data."""
+    def k(v):
+        try:
+            return f"${int(float(v)) // 1000}k"
+        except (TypeError, ValueError):
+            return ""
+    lo, hi = k(min_amount), k(max_amount)
+    if not lo and not hi:
+        return ""
+    span = f"{lo}–{hi}" if lo and hi and lo != hi else (lo or hi)
+    unit = {"yearly": "/yr", "hourly": "/hr"}.get(str(interval).lower(), "")
+    return f"{span}{unit}"</code></pre>
+      </div>
+    </section>
+
+    <section>
+      <h2 id="gotchas">Gotchas &amp; open questions</h2>
+
+      <div class="callout warn">
+        <div class="label">Unverified — jobspy column names</div>
+        The fields <code>min_amount</code> / <code>max_amount</code> / <code>interval</code> are <em>assumed</em>. <code>requirements.txt</code> pins no version (<code>python-jobspy</code> only), and the schema has shifted across releases. Verify against the installed version before trusting these keys — a wrong name silently yields <code>""</code> (no salary ever shows, no error).
+      </div>
+
+      <div class="callout warn">
+        <div class="label">Risk — triage.html JSON coupling</div>
+        Adding <code>salary</code> to each job in <code>indeed_jobs.json</code> changes the shape that <code>triage.html</code> fetches and merges at view time. Confirm the dashboard ignores unknown keys (it should — JS reads named fields), and decide whether the cockpit should display salary too, or just the email digest.
+      </div>
+
+      <div class="callout note">
+        <div class="label">Completeness — tests</div>
+        The repo has no test suite. At minimum add a focused unit test for <code>format_salary()</code> covering: both bounds, one bound, neither, equal bounds, and hourly vs yearly intervals.
+      </div>
+
+      <div class="callout note">
+        <div class="label">Scope — keep it small</div>
+        In scope: USD, yearly/hourly. Out of scope: currency conversion, locale formatting, per-source salary on LinkedIn (the guest endpoint doesn't expose it reliably). Resist gold-plating.
+      </div>
+    </section>
+  </main>
+</div>
+
+<script>
+  (function () {
+    var links = Array.prototype.slice.call(document.querySelectorAll('nav.toc a'));
+    var map = {};
+    links.forEach(function (a) {
+      var el = document.querySelector(a.getAttribute('href'));
+      if (el) map[a.getAttribute('href')] = a;
+    });
+    var obs = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (e.isIntersecting) {
+          links.forEach(function (l) { l.classList.remove('active'); });
+          var a = map['#' + e.target.id];
+          if (a) a.classList.add('active');
+        }
+      });
+    }, { rootMargin: '0px 0px -75% 0px' });
+    Object.keys(map).forEach(function (href) {
+      var el = document.querySelector(href);
+      if (el) obs.observe(el);
+    });
+  })();
+</script>
+</body>
+</html>

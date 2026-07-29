@@ -1,0 +1,298 @@
+{
+"version": 1,
+"description": "Scoring profile for senior environmental toxicology, drinking-water risk assessment, microplastics, and regulatory science roles.",
+"settings": {
+"title_multiplier": 3,
+"body_multiplier": 1,
+"score_multiplier": 1.6,
+"generic_cap": 35,
+"standout_threshold": 60
+},
+"fit_terms": [
+{
+"pattern": "\bStaff Toxicologist\b|\bSenior Toxicologist\b|\bMicroplastics Toxicologist\b|\bEnvironmental Toxicologist\b|\bRegulatory Toxicologist\b",
+"weight": 16
+},
+{
+"pattern": "\bmicroplastics?\b|\bnanoplastics?\b|\bplastic particles?\b|\bplastic pollution\b",
+"weight": 14
+},
+{
+"pattern": "\bdrinking water\b.*\bhealth effects\b|\bhealth effects\b.*\bdrinking water\b|\bwater contaminants?\b.*\bhealth\b|\bcontaminants? in drinking water\b",
+"weight": 14
+},
+{
+"pattern": "\bhuman health risk assessment\b|\bhealth risk assessment\b|\brisk assessment documents?\b|\brisk assessments? of environmental contaminants?\b|\benvironmental health risk assessment\b",
+"weight": 14
+},
+{
+"pattern": "\bprincipal environmental risk assessor\b|\bsenior environmental risk assessor\b",
+"weight": 7
+},
+{
+"pattern": "\btoxicology director\b|\bdirector, toxicology\b|\bprincipal toxicologist\b",
+"weight": 5
+},
+{
+"pattern": "\bbiocompat(?:ibility|ability)\b.*\btoxicolog(?:y|ical)\b|\btoxicolog(?:y|ical)\b.*\bbiocompat(?:ibility|ability)\b",
+"weight": 5
+},
+{
+"pattern": "\bfrontier biological and chemical risks?\b|\bchemical and biological risks?\b|\bCBRN\b|\bchemical risk\b.*\bAI safety\b|\bbiosecurity\b.*\bAI\b",
+"weight": 5
+},
+{
+"pattern": "\benvironmental risk assessor\b|\brisk assessor\b|\bHHRA\b|\bERA\b|\becological risk assessment\b|\btoxicity criteria\b|\btoxicity reference values\b|\bexposure pathway analysis\b|\brisk characterization\b",
+"weight": 5
+},
+{
+"pattern": "\bPublic Health Goals?\b|\bPHGs?\b|\bnotification levels?\b|\bNL recommendations?\b|\bhealth protective concentrations?\b|\bHPCs?\b",
+"weight": 13
+},
+{
+"pattern": "\bdose[- ]response\b|\bdose response assessment\b|\bdose[- ]response modeling\b|\bbenchmark dose\b|\bBMD\b|\btoxicity threshold\b|\bhealth[- ]protective level\b",
+"weight": 12
+},
+{
+"pattern": "\btoxicology data\b.*\breview\b|\breview\b.*\btoxicology data\b|\bevaluate toxicolog(?:y|ical) studies\b|\bcritical studies\b|\bcritical effects\b|\btarget organs?\b|\btarget tissues?\b",
+"weight": 12
+},
+{
+"pattern": "\btoxicokinetics?\b|\bpharmacokinetics?\b|\bPBPK\b|\bphysiologically based pharmacokinetic\b|\bIVIVE\b|\bin vitro to in vivo\b|\bcomputational toxicology\b",
+"weight": 11
+},
+{
+"pattern": "\bnonclinical toxicology\b|\bnonclinical safety assessment\b|\bIND[- ]enabling\b|\bfirst[- ]in[- ]human\b|\btoxicology strategy\b|\bGLP\b|\bCROs?\b",
+"weight": 3
+},
+{
+"pattern": "\bISO 10993\b|\bbiocompatibility evaluation plans?\b|\bbiocompatibility reports?\b|\bbiological safety\b|\bmedical devices?\b|\bregulatory submissions?\b",
+"weight": 3
+},
+{
+"pattern": "\bfrontier AI\b|\bAI safety\b|\bred[- ]teaming\b|\bcapability evaluations?\b|\bevaluation cards?\b|\bLLM[- ]enabled\b|\bML research engineering\b|\bthreat models?\b",
+"weight": 3
+},
+{
+"pattern": "\bnovel modeling techniques?\b|\bstatistical methods?\b|\bprobabilistic risk\b|\bMonte Carlo\b|\buncertainty analysis\b|\bmachine learning\b|\bdata science\b|\bR programming\b|\bPython\b",
+"weight": 10
+},
+{
+"pattern": "\bexposure assessment\b|\bhuman exposures?\b|\bexposure modeling\b|\bwater monitoring data\b|\benvironmental media\b|\bair, soil, food, water\b",
+"weight": 9
+},
+{
+"pattern": "\bcontaminants? of emerging concern\b|\bCECs?\b|\bPFAS\b|\bunassessed chemicals?\b|\bchemical contaminants?\b|\bemerging contaminants?\b",
+"weight": 8
+},
+{
+"pattern": "\bOEHHA\b|\bCalEPA\b|\bState Water Resources Control Board\b|\bSWRCB\b|\bUS EPA\b|\bstate government\b|\bpublic health agency\b|\bregulatory agency\b",
+"weight": 8
+},
+{
+"pattern": "\bCERCLA\b|\bRCRA\b|\bstate cleanup frameworks?\b|\brisk[- ]based cleanup levels?\b|\bcleanup levels?\b|\bregulatory negotiations?\b",
+"weight": 3
+},
+{
+"pattern": "\bSafe Drinking Water Act\b|\bHealth and Safety Code\b|\bSenate Bill 1147\b|\bSB 1147\b|\bregulatory standards?\b|\bregulatory action\b|\bmandates?\b",
+"weight": 8
+},
+{
+"pattern": "\bsubject matter expert\b|\bSME\b|\bproject lead\b|\bteam leader\b|\bspecialist\b|\bsenior scientist\b|\bprincipal scientist\b",
+"weight": 7
+},
+{
+"pattern": "\bpeer review comments?\b|\brespond to comments?\b|\bscientific determinations?\b|\brationale and documentation\b|\btechnical reports?\b|\bwebsite posting\b",
+"weight": 7
+},
+{
+"pattern": "\bpublic workshops?\b|\bWater Board meetings?\b|\bscientific presentations?\b|\bpublic comment\b|\bpress inquiries\b|\bscience communication\b",
+"weight": 6
+},
+{
+"pattern": "\bRacial Equity and Environmental Justice\b|\bREEJ\b|\benvironmental justice\b|\bpublic outreach\b|\beducational activities\b",
+"weight": 4
+}
+],
+"signature_terms": [
+"\bmicroplastics?\b.*\b(drinking water|health effects|risk assessment|toxicolog(?:y|ical)|dose[- ]response|health protective|PHG|HPC)\b",
+"\b(drinking water|health effects|risk assessment|toxicolog(?:y|ical)|dose[- ]response|health protective|PHG|HPC)\b.*\bmicroplastics?\b",
+"\bPublic Health Goals?\b|\bPHGs?\b|\bnotification levels?\b|\bNL recommendations?\b|\bhealth protective concentrations?\b|\bHPCs?\b",
+"\bStaff Toxicologist\b|\bSenior Toxicologist\b|\bRegulatory Toxicologist\b|\bMicroplastics Toxicologist\b",
+"\b(toxicokinetics?|pharmacokinetics?|PBPK|IVIVE|computational toxicology)\b.*\b(risk assessment|dose[- ]response|chemical contaminants?|drinking water|regulatory)\b",
+"\b(risk assessment|dose[- ]response|chemical contaminants?|drinking water|regulatory)\b.*\b(toxicokinetics?|pharmacokinetics?|PBPK|IVIVE|computational toxicology)\b",
+"\bOEHHA\b|\bCalEPA\b|\bState Water Resources Control Board\b|\bSWRCB\b|\bUS EPA\b",
+"\bSenate Bill 1147\b|\bSB 1147\b|\bSafe Drinking Water Act\b|\bHealth and Safety Code section 116376\.2\b",
+"\bcomplicated statistical methods\b|\bnovel modeling techniques\b|\bprobabilistic risk framework\b|\bMonte Carlo\b.*\btoxicolog(?:y|ical)\b"
+],
+"poor_fit_terms": [
+{
+"pattern": "\bair pollution monitoring\b|\bambient air monitoring\b|\bair quality technician\b|\bemissions testing\b|\bsource testing\b|\bstack testing\b|\bmeteorological monitoring\b",
+"penalty": 35
+},
+{
+"pattern": "\benvironmental remediation\b|\bsite remediation\b|\bremediation project manager\b|\bcleanup project manager\b|\bconstruction management\b|\bsoil excavation\b|\bUST\b|\bPhase I ESA\b|\bPhase II ESA\b",
+"penalty": 35
+},
+{
+"pattern": "\bstormwater\b|\bNPDES permit compliance\b|\bSWPPP\b|\bbest management practices\b|\bBMP inspections?\b|\berosion control\b|\bsediment control\b",
+"penalty": 32
+},
+{
+"pattern": "\bmicrobiology\b|\bmicrobial\b|\bpathogen monitoring\b|\bbioburden\b|\bsterility testing\b|\bcell culture technician\b|\benvironmental monitoring analyst\b",
+"penalty": 32
+},
+{
+"pattern": "\blaboratory technician\b|\blab analyst\b|\bsample preparation\b|\bwet chemistry\b|\bbench chemist\b|\bQA\/QC technician\b|\broutine analytical testing\b",
+"penalty": 28
+},
+{
+"pattern": "\bfield technician\b|\bfield sampling\b|\bsample collection\b|\bchain of custody\b|\bsite inspections?\b|\bmonitoring equipment maintenance\b",
+"penalty": 28
+},
+{
+"pattern": "\bwastewater operator\b|\bwater treatment operator\b|\bplant operator\b|\bdistribution operator\b|\butilities operator\b|\blicensed operator\b",
+"penalty": 30
+},
+{
+"pattern": "\bEHS manager\b|\benvironmental health and safety\b|\bworkplace safety\b|\bOSHA\b|\bhazardous waste compliance\b|\bindustrial hygiene\b",
+"penalty": 26
+},
+{
+"pattern": "\bconsulting project manager\b|\bclient management\b|\bbusiness development\b|\bproposal management\b|\bseller-doer\b|\bbillable hours\b",
+"penalty": 34
+},
+{
+"pattern": "\bbiotechnology\b|\bpharmaceutical development\b|\bsmall molecules?\b|\bbiologics?\b|\bclinical development\b|\bINDs?\b|\bpre[- ]IND\b|\binvestigator brochures?\b|\bhealth authority questions?\b",
+"penalty": 18
+},
+{
+"pattern": "\bmedical devices?\b|\bISO 10993\b|\bbiocompatibility\b|\bbiocompatability\b|\bregulatory affairs\b|\bFDA\b|\bEMA\b|\bcustomer regulatory submissions?\b",
+"penalty": 14
+},
+{
+"pattern": "\bfrontier AI\b|\bAI safety\b|\bML research engineering\b|\bLLM[- ]enabled\b|\bmodel evaluations?\b|\bcapability evaluations?\b|\bgraders\b|\brubrics\b|\bred[- ]teaming\b",
+"penalty": 18
+},
+{
+"pattern": "\bentry level\b|\bjunior\b|\bassistant scientist\b|\bresearch assistant\b|\bintern\b|\bassociate analyst\b|\btechnician I\b",
+"penalty": 30
+},
+{
+"pattern": "\bpostdoctoral\b|\bpostdoc\b|\bgraduate student\b|\bPhD student\b|\bfellowship\b",
+"penalty": 18
+},
+{
+"pattern": "\bmarine debris cleanup\b|\bbeach cleanup\b|\brecycling coordinator\b|\bzero waste coordinator\b|\bsustainability coordinator\b|\bsolid waste outreach\b",
+"penalty": 28
+},
+{
+"pattern": "\bdata engineer\b|\bsoftware engineer\b|\bfull stack\b|\bDevOps\b|\bcloud engineer\b|\bdatabase administrator\b",
+"penalty": 24
+},
+{
+"pattern": "\bclinical toxicology\b|\bpoison control\b|\bmedical toxicologist\b|\bpharmaceutical safety\b|\bclinical pharmacology\b",
+"penalty": 22
+},
+{
+"pattern": "\bfood safety inspector\b|\bquality assurance specialist\b|\bGMP\b|\bGLP study monitor\b|\bproduct stewardship\b",
+"penalty": 20
+},
+{
+"pattern": "\bwetlands? delineation\b|\bbiological surveys?\b|\bendangered species\b|\bhabitat restoration\b|\bNEPA documentation\b|\bCEQA planner\b",
+"penalty": 26
+}
+],
+"test_cases": [
+{
+"title": "Staff Toxicologist (Specialist) - Microplastics Toxicologist",
+"company": "California public health and environmental agency",
+"description": "Senior specialist role developing human health risk assessment documents for chemical contaminants in drinking water, with emphasis on microplastics; evaluating toxicology, epidemiology, exposure, and water monitoring data; developing PHGs, notification level recommendations, and health-protective concentrations using dose-response modeling, toxicokinetics, statistical methods, and novel modeling techniques; coordinating with water regulators and responding to peer review and public comments.",
+"expected_score_range": [
+100,
+100
+],
+"rationale": "Exact target role combining senior regulatory toxicology, microplastics, drinking-water health effects, risk assessment, dose-response modeling, toxicokinetics, and government scientific work products."
+},
+{
+"title": "Senior Environmental Health Risk Assessor - Emerging Contaminants",
+"company": "State environmental health agency",
+"description": "Develop human health risk assessments for drinking water contaminants including PFAS, microplastics, and other contaminants of emerging concern. Review toxicology and epidemiology studies, perform exposure and dose-response assessments, derive health-protective values, prepare technical reports, and brief regulators and public advisory groups.",
+"expected_score_range": [
+82,
+92
+],
+"rationale": "Strong adjacent role with the same regulated public-health risk-assessment domain and many target methods, but not the exact gold-standard position."
+},
+{
+"title": "Computational Toxicology Scientist - Chemical Risk Assessment",
+"company": "Federal research agency",
+"description": "Apply toxicokinetic models, IVIVE, PBPK, dose-response methods, and computational toxicology tools to evaluate chemical hazard and support regulatory risk assessment for environmental contaminants. Prepare peer-reviewed reports and collaborate with program scientists.",
+"expected_score_range": [
+70,
+88
+],
+"rationale": "Strong technical overlap in toxicokinetics, dose-response, computational toxicology, and regulatory risk assessment, but lacks drinking-water microplastics focus."
+},
+{
+"title": "Environmental Scientist - Contaminants of Emerging Concern",
+"company": "Water research organization",
+"description": "Support research on contaminants of emerging concern in water systems. Review literature, summarize monitoring data, assist with data visualization, and help prepare technical memos for clients and partner agencies.",
+"expected_score_range": [
+42,
+58
+],
+"rationale": "Plausible adjacent water and emerging-contaminants role, but generic and missing senior toxicology, health-protective values, dose-response, toxicokinetics, and microplastics-specific regulatory deliverables."
+},
+{
+"title": "Senior Stormwater Scientist",
+"company": "Environmental consulting firm",
+"description": "Manage stormwater compliance projects, prepare SWPPPs, conduct NPDES permit support, oversee BMP inspections, coordinate field sampling, and support client reporting for municipal and industrial stormwater programs.",
+"expected_score_range": [
+10,
+24
+],
+"rationale": "Misleading overlap with water and environment, but wrong job family and task type; compliance, field sampling, and stormwater management are not target risk-assessment toxicology work."
+},
+{
+"title": "Air Pollution Monitoring Technical Support Specialist",
+"company": "Air quality district",
+"description": "Maintain ambient air monitoring equipment, perform data validation, support emissions inventories, conduct field audits, and troubleshoot monitoring stations for regulatory air quality programs.",
+"expected_score_range": [
+5,
+22
+],
+"rationale": "Government environmental role with broad regulatory and data terms, but wrong medium, wrong task family, and no toxicology risk assessment, drinking-water health effects, or microplastics work."
+},
+{
+"title": "Microbiology and Environmental Monitoring Analyst",
+"company": "Pharmaceutical manufacturing laboratory",
+"description": "Perform microbial environmental monitoring, sample preparation, sterility testing, QA documentation, and routine laboratory analysis under GMP requirements.",
+"expected_score_range": [
+5,
+20
+],
+"rationale": "Contains environmental monitoring and analyst terms, but is a routine microbiology laboratory quality role rather than senior environmental toxicology or regulatory risk assessment."
+},
+{
+"title": "Principal Environmental Risk Assessor",
+"company": "Geosyntec Consultants",
+"description": "Senior leadership role in toxicology, ecological risk assessment (ERA), and human health risk assessment (HHRA). Lead complex site investigation, remediation, and redevelopment projects under CERCLA, RCRA, PFAS, sediment, vapor intrusion, and risk-based cleanup projects. Serve as a senior technical resource in toxicology, exposure assessment, fate and transport, conceptual site model development, and risk-based cleanup strategy. Develop ERA and HHRA projects including toxicity criteria, toxicity reference values, exposure pathway analysis, risk characterization, and cleanup levels. Work with USEPA, CalEPA, clients, regulators, business development, proposals, and consulting teams.",
+"expected_score_range": [
+52,
+62
+],
+"rationale": "Technically credible adjacent role with strong toxicology, HHRA/ERA, exposure, PFAS, CalEPA, and risk-characterization overlap, but it should stay below ideal-fit roles because principal consulting, client management, business development, and cleanup-site practice growth are not the core target profile."
+},
+{
+"title": "Environmental Remediation Project Manager",
+"company": "Engineering consulting firm",
+"description": "Lead site remediation projects, Phase I and Phase II environmental site assessments, soil and groundwater investigations, cleanup planning, subcontractor coordination, client management, and regulatory compliance reporting.",
+"expected_score_range": [
+8,
+24
+],
+"rationale": "Contains environmental, groundwater, and regulatory terms, but the core work is remediation project management rather than toxicology, dose-response, health effects, or microplastics assessment."
+}
+]
+}
