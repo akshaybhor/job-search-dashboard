@@ -586,10 +586,8 @@
     { name: 'output/usajobs_jobs.json',  src: 'USAJOBS'    },
     { name: 'output/governmentjobs_jobs.json', src: 'NEOGOV' },
     { name: 'output/calopps_jobs.json',  src: 'CalOpps'    },
-    // Cumulative master kept by the scrapers (the rolling files above only hold
-    // their latest window). Lets the Rank tab show every recently-seen role. The
-    // dashboard now merges these sources directly.
-    // { name: 'output/all_jobs.json',      src: 'Master'   },
+    // Cumulative master file. The dashboard reads this to get all jobs.
+    { name: 'output/all_jobs.json',      src: 'Master'   },
   ];
 
   // Fit scores from the nightly triage agent, keyed by job URL (optional file).
@@ -1269,13 +1267,18 @@
         if (!existing) {
           byUrl.set(j.url, j);
         } else if (_richness(j) > _richness(existing)) {
-          byUrl.set(j.url, { ...j, duplicate_urls: _dupUrlList(existing) });
+          // Preserve first_seen from the existing record when overwriting.
+          const first_seen = existing.first_seen;
+          byUrl.set(j.url, { ...j, first_seen, duplicate_urls: _dupUrlList(existing) });
         }
       });
-      (d.new_jobs || []).forEach(j => new_jobs.push(j));
-      new_count += (d.new_count || 0);
-      if ((d.scraped_at || '') > scraped_at) scraped_at = d.scraped_at;
+      if (d._sourceName !== 'Master') {
+        (d.new_jobs || []).forEach(j => new_jobs.push(j));
+        new_count += (d.new_count || 0);
+        if ((d.scraped_at || '') > scraped_at) scraped_at = d.scraped_at;
+      }
     });
+
     if (okCount === 0) throw new Error('all sources failed');
     const jobs = [...byUrl.values()]
       .filter(j => !isPharma(j.company))   // env-tox only — drop pharma/drug-dev
