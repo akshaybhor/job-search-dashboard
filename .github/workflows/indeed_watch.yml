@@ -1,20 +1,11 @@
-name: Indeed Watcher
+name: Indeed MLE/DS Watcher
 
 on:
-  # Native GitHub cron, hourly at :47 during the active window (8am–8pm PT ≈
-  # 15:00–03:00 UTC). Offset from LinkedIn (:17) to reduce contention on the
-  # commit-push concurrency group. (Indeed has no watchdog backup, so this
-  # native schedule is its only automatic trigger — add cron-job.org too if you
-  # want belt-and-suspenders.)
-  schedule:
-    - cron: "47 15-23,0-3 * * *"
+  # Scheduling is driven externally by cron-job.org (hourly at :47 PT, 8am-8pm).
+  # Offset from LinkedIn (:17) to reduce contention on the commit-push
+  # concurrency group. Watchdog workflow (linkedin_watch_backup.yml
+  # at :33) is the in-GH backup in case cron-job.org has an outage.
   workflow_dispatch:
-    inputs:
-      backfill:
-        description: "One-time backfill: fetch last 50 days instead of last 24h (run once when setting up)"
-        required: false
-        type: boolean
-        default: false
 
 concurrency:
   group: job-scraper-commit-push
@@ -42,19 +33,12 @@ jobs:
       - name: Install Indeed deps
         run: pip install -r requirements.txt
 
-      - name: Scrape Indeed (last 24h, or 50-day backfill)
-        run: |
-          if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
-            python scrape_jobs.py --indeed-backfill
-          else
-            python scrape_jobs.py --indeed-only
-          fi
+      - name: Scrape Indeed (last 24h)
+        run: python scrape_jobs.py --indeed-only
         env:
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
-          NOTIFY_MIN_FIT: ${{ vars.NOTIFY_MIN_FIT }}
-          JOBSPY_PROXIES: ${{ secrets.JOBSPY_PROXIES }}
-          JOBSPY_USER_AGENT: ${{ vars.JOBSPY_USER_AGENT }}
+          NOTIFY_TERMS: ${{ vars.NOTIFY_TERMS }}
 
       - name: Record workflow run
         run: |
@@ -63,7 +47,7 @@ jobs:
           import os
           from datetime import datetime, timezone
 
-          with open("output/indeed_jobs.json", encoding="utf-8") as f:
+          with open("indeed_jobs.json", encoding="utf-8") as f:
               data = json.load(f)
 
           entry = {
@@ -74,19 +58,15 @@ jobs:
               "run_attempt": os.environ.get("GITHUB_RUN_ATTEMPT", ""),
           }
 
-          with open("output/workflow_runs.jsonl", "a", encoding="utf-8") as f:
+          with open("workflow_runs.jsonl", "a", encoding="utf-8") as f:
               f.write(json.dumps(entry, sort_keys=True) + "\n")
           EOF
 
       - name: Commit results to repo
-        if: vars.ENABLE_DATA_COMMITS == 'true'
         run: |
-          git config user.name  "${{ github.actor }}"
-          git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git add -f output/indeed_jobs.json output/indeed_jobs.md output/indeed_jobs.html output/workflow_runs.jsonl output/all_jobs.json
-          if [ -f "output/notified.json" ]; then
-            git add -f output/notified.json
-          fi
-          git diff --cached --quiet || git commit -m "chore: update indeed listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
-          git pull --rebase -X ours origin main
-          git push
+          git config user.name  "ernestod1998"
+          git config user.email "61074783+ernestod1998@users.noreply.github.com"
+          python ci_commit_push.py \
+            --message "chore: update indeed listings [$(date -u '+%Y-%m-%d %H:%MZ')]" \
+            indeed_jobs.json indeed_jobs.md indeed_jobs.html \
+            workflow_runs.jsonl all_jobs.json notified.json

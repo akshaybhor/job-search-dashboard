@@ -1,5 +1,20 @@
-# Ignore personal and sensitive files
-my_resume.txt
-
-# Ignore local development files and caches
+.DS_Store
 __pycache__/
+
+# Personal data — NEVER commit (public repo). CI gets these via Actions secrets.
+candidate_profile.md
+resume.md
+resume.txt
+shortlist.*
+
+# Sync service (sync/ deploys to Vercel from the CLI). GitHub Pages serves this
+# repo's root, so anything committed here is published — keep credentials and
+# dependencies out. .env* must be ignored BEFORE any `vercel env pull`.
+sync/.env*
+sync/.vercel/
+node_modules/
+# Vendor agent-docs the Upstash integration drops in on install — ~40 markdown
+# files that aren't ours, get regenerated, and would be published by Pages.
+sync/.agents/
+sync/.claude/
+sync/skills-lock.json

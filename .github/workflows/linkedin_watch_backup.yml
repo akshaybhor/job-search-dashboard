@@ -72,7 +72,7 @@ jobs:
           echo "No indeed_watch run in $current_hour, dispatching backup"
           gh -R ${{ github.repository }} workflow run indeed_watch.yml --ref main
 
-      - name: Priority Employer — dispatch backup if >25h stale
+      - name: Biotech — dispatch backup if >25h stale
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |

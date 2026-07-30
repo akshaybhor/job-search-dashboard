@@ -40,17 +40,18 @@ jobs:
       # --limit bounds worst-case daily spend; raise/lower as the cost knob.
       - name: Run triage agent
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Gemini is the cheap ranking backend (triage_agent picks it first).
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
           CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
-        run: python triage_agent.py --limit 300
+        # --judge audits each fit score >= 50 (the shortlist) and writes judge_*
+        # fields the dashboard renders as ✅/⚖️ markers. Advisory, never gates.
+        run: python triage_agent.py --limit 300 --judge
 
       - name: Commit scores to repo
-        if: vars.ENABLE_DATA_COMMITS == 'true'
         run: |
-          git config user.name  "${{ github.actor }}"
-          git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git add -f output/scores.json
-          git diff --cached --quiet || git commit -m "chore: update fit scores [$(date -u '+%Y-%m-%d %H:%MZ')]"
-          git pull --rebase -X ours origin main
-          git push
+          git config user.name  "ernestod1998"
+          git config user.email "61074783+ernestod1998@users.noreply.github.com"
+          python ci_commit_push.py \
+            --message "chore: update fit scores [$(date -u '+%Y-%m-%d %H:%MZ')]" \
+            scores.json

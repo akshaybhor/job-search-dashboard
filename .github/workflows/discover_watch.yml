@@ -1,0 +1,43 @@
+name: Startup Discovery
+
+on:
+  schedule:
+    # Mondays 12:27 UTC — off-hour minute avoids GitHub Actions throttling at :00.
+    - cron: "27 12 * * 1"
+
+  workflow_dispatch:
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    name: Discover startups from portfolios
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Discover startups (SOSV/IndieBio + YC portfolios) and update the seed file
+        # --limit 0 resolves the full widened net; the discovered_todo.json
+        # cooldown cache keeps repeat runs fast (only new/expired companies
+        # are re-probed).
+        run: python discover.py --portfolios --write --limit 0
+
+      - name: Commit discovered companies to repo
+        run: |
+          git config user.name  "ernestod1998"
+          git config user.email "61074783+ernestod1998@users.noreply.github.com"
+          python ci_commit_push.py \
+            --message "chore: update discovered startups [$(date -u '+%Y-%m-%d')]" \
+            discovered_companies.json discovered_todo.json
