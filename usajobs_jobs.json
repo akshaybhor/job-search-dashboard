@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-31 17:08 UTC",
+  "scraped_at": "2026-08-01 16:31 UTC",
   "total": 17,
-  "new_count": 3,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Consumer Product Safety Commission",
@@ -112,21 +112,21 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "National Park Service",
-      "title": "Data Scientist",
-      "location": "Homestead, Florida",
-      "url": "https://www.usajobs.gov/job/877116800",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $79,533 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Air Force Elements, U.S. Strategic Command",
       "title": "SOFTWARE DEVELOPER/DATA SCIENTIST (INTERDISCIPLINARY) - DIRECT HIRE AUTHORITY",
       "location": "Dahlgren, Virginia",
       "url": "https://www.usajobs.gov/job/870514400",
       "date_posted": "2026-05-26",
       "salary": "Starting at $101,103 Per year (DR 2)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Nuclear Regulatory Commission",
+      "title": "Direct Hire Public Notice - Data Scientist",
+      "location": "Atlanta, Georgia",
+      "url": "https://www.usajobs.gov/job/867782600",
+      "date_posted": "2026-05-04",
+      "salary": "Starting at $74,678 Per year (GG 11-15)",
       "ats": "USAJOBS"
     },
     {
@@ -159,30 +159,12 @@
   ],
   "new_jobs": [
     {
-      "company": "Defense Human Resources Activity",
-      "title": "OPERATIONS RESEARCH ANALYST (DATA SCIENTIST)",
-      "location": "Alexandria, Virginia",
-      "url": "https://www.usajobs.gov/job/878826100",
-      "date_posted": "2026-07-31",
-      "salary": "Starting at $102,415 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "National Institute of Standards and Technology",
-      "title": "RF Systems Data Scientist",
-      "location": "Boulder, Colorado",
-      "url": "https://www.usajobs.gov/job/878537000",
-      "date_posted": "2026-07-30",
-      "salary": "Starting at $83,265 Per year (ZP 3)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Social Security Administration",
-      "title": "Top Secret Security Software Engineer - DHA",
-      "location": "Woodlawn, Maryland",
-      "url": "https://www.usajobs.gov/job/878397800",
-      "date_posted": "2026-07-30",
-      "salary": "Starting at $111,147 Per year (GS 13)",
+      "company": "Nuclear Regulatory Commission",
+      "title": "Direct Hire Public Notice - Data Scientist",
+      "location": "Atlanta, Georgia",
+      "url": "https://www.usajobs.gov/job/867782600",
+      "date_posted": "2026-05-04",
+      "salary": "Starting at $74,678 Per year (GG 11-15)",
       "ats": "USAJOBS"
     }
   ]
