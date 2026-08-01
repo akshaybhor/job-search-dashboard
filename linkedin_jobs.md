@@ -1,37 +1,24 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-01 21:27 UTC*
+*Last updated: 2026-08-01 22:29 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Technical Lead Platform Engineer](https://www.linkedin.com/jobs/view/4447611269/) — Jobright.ai
+### [Senior Software Engineer, Perception Future Sensing Platforms](https://www.linkedin.com/jobs/view/4424665015/) — Waymo
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Senior Software Engineer, Perception Future Sensing Platforms](https://www.linkedin.com/jobs/view/4424653102/) — Waymo
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4447616176/) — Jobright.ai
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4447618144/) — Jobright.ai
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-08-01
 
-### [Backend Developer](https://www.linkedin.com/jobs/view/4447618099/) — LightRemit
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Frontend Developer](https://www.linkedin.com/jobs/view/4447613201/) — LightRemit
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Full-Stack Engineer Intern](https://www.linkedin.com/jobs/view/4447610217/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-01
-
-### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4447602430/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-01
-
-### [Data Engineer (Market Intelligence)](https://www.linkedin.com/jobs/view/4446790385/) — Randstad Digital Americas
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $58.61/hr - $68.61/hr
-- 🕒 **Posted:** 2026-08-01
-
-### [Database Administrator - Data Engineer](https://www.linkedin.com/jobs/view/4447836907/) — AGM Tech Solutions - A Woman and Latina-owned IT Staffing Firm-an Inc. 5000 company
-- 📍 **Location:** Parsippany, NJ
-- 🕒 **Posted:** 2026-08-01
-
-### [Sr. DevOps Engineer](https://www.linkedin.com/jobs/view/4447831996/) — ProDex Labs
-- 📍 **Location:** New York City Metropolitan Area
+### [Backend Engineer (Golang)](https://www.linkedin.com/jobs/view/4447850217/) — World HR Services
+- 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-08-01
