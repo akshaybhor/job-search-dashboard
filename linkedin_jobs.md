@@ -1,24 +1,8 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-01 22:29 UTC*
+*Last updated: 2026-08-01 23:32 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Senior Software Engineer, Perception Future Sensing Platforms](https://www.linkedin.com/jobs/view/4424665015/) — Waymo
+### [AI Systems engineer](https://www.linkedin.com/jobs/view/4447844031/) — Tilted AI
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Software Engineer, Perception Future Sensing Platforms](https://www.linkedin.com/jobs/view/4424653102/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4447616176/) — Jobright.ai
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4447618144/) — Jobright.ai
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Backend Engineer (Golang)](https://www.linkedin.com/jobs/view/4447850217/) — World HR Services
-- 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-08-01
