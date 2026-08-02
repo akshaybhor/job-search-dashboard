@@ -1,96 +1,41 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-02 19:45 UTC*
+*Last updated: 2026-08-02 21:28 UTC*
 
-**23 new role(s)** since last run · 23 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4447669226/) — Wajo AI
+### [Senior Software Engineer (Full-Stack)](https://www.linkedin.com/jobs/view/4445864001/) — World HR Services
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-02
 
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4447650772/) — Jobright.ai
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447658563/) — Jobright.ai
+- 📍 **Location:** Los Altos, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4447673239/) — Jobright.ai
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4447673242/) — Jobright.ai
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4447669315/) — Jobright.ai
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-02
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/3986118126/) — Epic
-- 📍 **Location:** Sunnyvale, CA
+### [Full-Stack Engineer Intern](https://www.linkedin.com/jobs/view/4447665340/) — Jobright.ai
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-02
 
-### [Software Engineer II - Identity](https://www.linkedin.com/jobs/view/4417997343/) — Electronic Arts (EA)
-- 📍 **Location:** Redwood City, CA
+### [Infrastructure Engineer architect /Full time role](https://www.linkedin.com/jobs/view/4448116566/) — HARAMAIN SYSTEMS INC.
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $150,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-08-02
 
-### [Software Engineer, Early Career (AI)](https://www.linkedin.com/jobs/view/4447673132/) — Catalis Partners Group
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer - C++ Quantitative Trading](https://www.linkedin.com/jobs/view/4441003793/) — Acquire Me
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-08-02
 
-### [Software Engineer, AI Workflows](https://www.linkedin.com/jobs/view/4447663319/) — Catalis Partners Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Software Engineer, AI Platform](https://www.linkedin.com/jobs/view/4447653601/) — Catalis Partners Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Tech Lead - Data Infrastructure Site Reliability](https://www.linkedin.com/jobs/view/4447668187/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Site Reliability Engineer - Data Infrastructure](https://www.linkedin.com/jobs/view/4447671145/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Software Engineer, Early Career](https://www.linkedin.com/jobs/view/4447649754/) — Catalis Partners Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Software Engineer, Trust](https://www.linkedin.com/jobs/view/4447660370/) — Catalis Partners Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Software Engineer, Developer Experience (Go Lead)](https://www.linkedin.com/jobs/view/4447652560/) — Catalis Partners Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Senior Software Engineer, At Scale Compute Analysis](https://www.linkedin.com/jobs/view/4402775288/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Software Engineer, AI Security](https://www.linkedin.com/jobs/view/4447662364/) — Catalis Partners Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Software Engineer, TensorRT Specialized Platforms - New College Grad 2025](https://www.linkedin.com/jobs/view/4422061566/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Senior Embedded Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4402755737/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Senior Site Reliability Engineer - Data Infrastructure (San Jose)](https://www.linkedin.com/jobs/view/4447650680/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [GPU Development Tools System Software Engineer](https://www.linkedin.com/jobs/view/4401821154/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [System Software Engineer, GPU Development Tools](https://www.linkedin.com/jobs/view/4402307640/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Software Engineer, Collections Experience](https://www.linkedin.com/jobs/view/4447668230/) — Catalis Partners Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [HBITS-08-14920-Cloud Engineer-Senior](https://www.linkedin.com/jobs/view/4448111454/) — Knowledge Builders Inc
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-02
-
-### [Senior Machine Learning Engineer, Personalization, Magenta](https://www.linkedin.com/jobs/view/4411645730/) — Spotify
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-02
-
-### [Jr. Embedded Software Engineer](https://www.linkedin.com/jobs/view/4448120240/) — MillenniumSoft Inc
-- 📍 **Location:** Franklin Lakes, NJ
+### [Site Reliability Engineer - Quantitative Trading](https://www.linkedin.com/jobs/view/4429410207/) — Acquire Me
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-08-02
