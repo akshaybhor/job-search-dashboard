@@ -1,226 +1,375 @@
 {
-  "scraped_at": "2026-08-02 17:37 UTC",
-  "total": 15,
-  "new_count": 12,
+  "scraped_at": "2026-08-02 19:45 UTC",
+  "total": 23,
+  "new_count": 23,
   "jobs": [
     {
-      "company": "Microsoft",
-      "title": "Senior Applied Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411609385/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Glean",
-      "title": "Software Engineer, Data Foundations",
+      "company": "Wajo AI",
+      "title": "Machine Learning Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4326300588/",
+      "url": "https://www.linkedin.com/jobs/view/4447669226/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "PwC",
-      "title": "GenAI Python Systems Engineer \u2013 Senior Associate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411727554/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ambience Healthcare",
-      "title": "Senior Software Engineer, Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402659397/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Character.AI",
-      "title": "Software Engineer, Backend",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4342556259/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AI Talent Hunt Cloud",
-      "title": "Senior Software Engineer (Full-Stack)",
+      "company": "Jobright.ai",
+      "title": "Data Scientist Intern",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4445849649/",
+      "url": "https://www.linkedin.com/jobs/view/4447650772/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Scribe",
-      "title": "Senior Backend Engineer",
+      "company": "Epic",
+      "title": "Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/3986118126/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Electronic Arts (EA)",
+      "title": "Software Engineer II - Identity",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417997343/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Catalis Partners Group",
+      "title": "Software Engineer, Early Career (AI)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4365159736/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn",
-      "salary": "$170,000.00/yr - $230,000.00/yr"
-    },
-    {
-      "company": "CHEManager International",
-      "title": "Applied Scientist- Pricing, Dynamic Pricing & Offer Selection",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4447668119/",
+      "url": "https://www.linkedin.com/jobs/view/4447673132/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Genentech",
-      "title": "Machine Learning Scientist/Senior Machine Learning Scientist - Synthesis Planning and Optimization, AI for Drug Discovery",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4431314616/",
+      "company": "Catalis Partners Group",
+      "title": "Software Engineer, AI Workflows",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447663319/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Moment",
-      "title": "Distributed Systems Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4436684258/",
+      "company": "Catalis Partners Group",
+      "title": "Software Engineer, AI Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447653601/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "CNN",
-      "title": "Senior Software Engineer (Roku)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4411791117/",
+      "company": "ByteDance",
+      "title": "Tech Lead - Data Infrastructure Site Reliability",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447668187/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "PwC",
-      "title": "Full-Stack Cloud Engineer",
-      "location": "Florham Park, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4438944416/",
+      "company": "TikTok",
+      "title": "Site Reliability Engineer - Data Infrastructure",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447671145/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bloomberg",
-      "title": "Senior Software Engineer - Hadoop Infrastructure",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4390011376/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn",
-      "salary": "$160,000.00/yr - $240,000.00/yr"
-    },
-    {
-      "company": "Posh",
-      "title": "Senior Software Engineer, Backend (AI)",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4370585061/",
+      "company": "Catalis Partners Group",
+      "title": "Software Engineer, Early Career",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447649754/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "RailWorks Corporation",
-      "title": "Signal Systems Engineer",
+      "company": "Catalis Partners Group",
+      "title": "Software Engineer, Trust",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447660370/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Catalis Partners Group",
+      "title": "Software Engineer, Developer Experience (Go Lead)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447652560/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, At Scale Compute Analysis",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402775288/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Catalis Partners Group",
+      "title": "Software Engineer, AI Security",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447662364/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Software Engineer, TensorRT Specialized Platforms - New College Grad 2025",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422061566/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Embedded Software Engineer - AV Platform",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402755737/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Senior Site Reliability Engineer - Data Infrastructure (San Jose)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447650680/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "GPU Development Tools System Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4401821154/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "System Software Engineer, GPU Development Tools",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402307640/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Catalis Partners Group",
+      "title": "Software Engineer, Collections Experience",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447668230/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Knowledge Builders Inc",
+      "title": "HBITS-08-14920-Cloud Engineer-Senior",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4378334553/",
+      "url": "https://www.linkedin.com/jobs/view/4448111454/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Spotify",
+      "title": "Senior Machine Learning Engineer, Personalization, Magenta",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4411645730/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "MillenniumSoft Inc",
+      "title": "Jr. Embedded Software Engineer",
+      "location": "Franklin Lakes, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4448120240/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Microsoft",
-      "title": "Senior Applied Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411609385/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Glean",
-      "title": "Software Engineer, Data Foundations",
+      "company": "Wajo AI",
+      "title": "Machine Learning Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4326300588/",
+      "url": "https://www.linkedin.com/jobs/view/4447669226/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "PwC",
-      "title": "GenAI Python Systems Engineer \u2013 Senior Associate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411727554/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ambience Healthcare",
-      "title": "Senior Software Engineer, Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402659397/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AI Talent Hunt Cloud",
-      "title": "Senior Software Engineer (Full-Stack)",
+      "company": "Jobright.ai",
+      "title": "Data Scientist Intern",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4445849649/",
+      "url": "https://www.linkedin.com/jobs/view/4447650772/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "CHEManager International",
-      "title": "Applied Scientist- Pricing, Dynamic Pricing & Offer Selection",
+      "company": "Epic",
+      "title": "Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/3986118126/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Electronic Arts (EA)",
+      "title": "Software Engineer II - Identity",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417997343/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Catalis Partners Group",
+      "title": "Software Engineer, Early Career (AI)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447673132/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Catalis Partners Group",
+      "title": "Software Engineer, AI Workflows",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447663319/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Catalis Partners Group",
+      "title": "Software Engineer, AI Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447653601/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Tech Lead - Data Infrastructure Site Reliability",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447668187/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Site Reliability Engineer - Data Infrastructure",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447671145/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Catalis Partners Group",
+      "title": "Software Engineer, Early Career",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447649754/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Catalis Partners Group",
+      "title": "Software Engineer, Trust",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447660370/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Catalis Partners Group",
+      "title": "Software Engineer, Developer Experience (Go Lead)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447652560/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, At Scale Compute Analysis",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402775288/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Catalis Partners Group",
+      "title": "Software Engineer, AI Security",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447662364/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Software Engineer, TensorRT Specialized Platforms - New College Grad 2025",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422061566/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Embedded Software Engineer - AV Platform",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402755737/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Senior Site Reliability Engineer - Data Infrastructure (San Jose)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447650680/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "GPU Development Tools System Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4401821154/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "System Software Engineer, GPU Development Tools",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402307640/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Catalis Partners Group",
+      "title": "Software Engineer, Collections Experience",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447668230/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Knowledge Builders Inc",
+      "title": "HBITS-08-14920-Cloud Engineer-Senior",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4447668119/",
+      "url": "https://www.linkedin.com/jobs/view/4448111454/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Genentech",
-      "title": "Machine Learning Scientist/Senior Machine Learning Scientist - Synthesis Planning and Optimization, AI for Drug Discovery",
+      "company": "Spotify",
+      "title": "Senior Machine Learning Engineer, Personalization, Magenta",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4431314616/",
+      "url": "https://www.linkedin.com/jobs/view/4411645730/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Moment",
-      "title": "Distributed Systems Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4436684258/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CNN",
-      "title": "Senior Software Engineer (Roku)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4411791117/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PwC",
-      "title": "Full-Stack Cloud Engineer",
-      "location": "Florham Park, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4438944416/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bloomberg",
-      "title": "Senior Software Engineer - Hadoop Infrastructure",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4390011376/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn",
-      "salary": "$160,000.00/yr - $240,000.00/yr"
-    },
-    {
-      "company": "Posh",
-      "title": "Senior Software Engineer, Backend (AI)",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4370585061/",
+      "company": "MillenniumSoft Inc",
+      "title": "Jr. Embedded Software Engineer",
+      "location": "Franklin Lakes, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4448120240/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     }
