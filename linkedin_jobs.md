@@ -1,38 +1,80 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-03 01:11 UTC*
+*Last updated: 2026-08-03 05:08 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**19 new role(s)** since last run · 19 total in last 1h
 
-### [Security Engineer](https://www.linkedin.com/jobs/view/4447683114/) — METR
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-02
-
-### [Medical Device Systems Engineer - Requirements & Testing](https://www.linkedin.com/jobs/view/4447672558/) — Rock Health
+### [Applied ML Engineer ($200K–$350K + Equity) Building Infra to End AI Slop](https://www.linkedin.com/jobs/view/4447690332/) — CoffeeSpace
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-02
 
-### [Senior Associate, AI Data Scientist](https://www.linkedin.com/jobs/view/4448124115/) — TWG AI
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $190,000.00/yr - $200,000.00/yr
+### [Full-Stack Software Engineer ($215K–$290K + Equity) Innovating Voice AI in Call Centers](https://www.linkedin.com/jobs/view/4447679604/) — CoffeeSpace
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-02
 
-### [Data Scientist, Sales AI](https://www.linkedin.com/jobs/view/4448115737/) — Amazon
-- 📍 **Location:** New York, NY
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4447694412/) — Employia
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-02
 
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4448132090/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $60.00/hr - $80.00/hr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447678745/) — Employia
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-02
 
-### [Senior Android Engineer](https://www.linkedin.com/jobs/view/4447665559/) — Compass Real Estate - Peninsula
-- 📍 **Location:** Manhattan, NY
+### [Full Stack Engineer ($140K–$200K + Equity) Building Data Systems for Scientific Research](https://www.linkedin.com/jobs/view/4447689371/) — CoffeeSpace
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-02
 
-### [Senior Android Engineer](https://www.linkedin.com/jobs/view/4447662656/) — Compass Real Estate - Peninsula
-- 📍 **Location:** Manhattan, NY
+### [Software Engineer, Early Career](https://www.linkedin.com/jobs/view/4448121814/) — CareersElite.com
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-02
 
-### [Senior Android Engineer](https://www.linkedin.com/jobs/view/4447665558/) — Compass Real Estate - Peninsula
-- 📍 **Location:** Manhattan, NY
+### [Machine Learning Engineer Graduate (TikTok-Data-Search-Visual Search) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4447696141/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Machine Learning Engineer Graduate (TikTok-Data-Search-Search Quality) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4447685340/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Machine Learning Engineer Graduate (TikTok-Data-Search-Recommendation) - 2027 Start](https://www.linkedin.com/jobs/view/4447690247/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Machine Learning Engineer Graduate (TikTok-Data-Search-Search Quality) - 2027 Start](https://www.linkedin.com/jobs/view/4447698045/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Machine Learning Engineer Graduate (TikTok-Data-Search-Visual Search) - 2027 Start](https://www.linkedin.com/jobs/view/4447676704/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [AI Infrastructure Engineer Graduate (Algorithm Infrastructure) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4447677626/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Software Engineer Sys 4](https://www.linkedin.com/jobs/view/4447694215/) — Lam Research
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [(General Hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start](https://www.linkedin.com/jobs/view/4447682418/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Backend Software Engineer Graduate (Business Governace) - 2027 Start](https://www.linkedin.com/jobs/view/4447678500/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [ENIOR SITE RELIABILITY ENGINEER (SRE) - MICROSOFT HYPER-V | PRIVATE CLOUD | AZURE](https://www.linkedin.com/jobs/view/4445860993/) — VeriiPro
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Senior Platform Engineer ($180K–$220K + Equity) Innovative Self-Service Leasing AI](https://www.linkedin.com/jobs/view/4447693299/) — CoffeeSpace
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-08-02
+
+### [Robotics Engineer - Perception](https://www.linkedin.com/jobs/view/4447687480/) — Van Kaizen
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-08-02
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4445868280/) — Athena Executive Search & Consulting (AESC)
+- 📍 **Location:** Newark, NJ
 - 🕒 **Posted:** 2026-08-02

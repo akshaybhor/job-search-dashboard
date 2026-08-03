@@ -1,139 +1,311 @@
 {
-  "scraped_at": "2026-08-03 01:11 UTC",
-  "total": 8,
-  "new_count": 8,
+  "scraped_at": "2026-08-03 05:08 UTC",
+  "total": 19,
+  "new_count": 19,
   "jobs": [
     {
-      "company": "METR",
-      "title": "Security Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4447683114/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Rock Health",
-      "title": "Medical Device Systems Engineer - Requirements & Testing",
+      "company": "CoffeeSpace",
+      "title": "Applied ML Engineer ($200K\u2013$350K + Equity) Building Infra to End AI Slop",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4447672558/",
+      "url": "https://www.linkedin.com/jobs/view/4447690332/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "TWG AI",
-      "title": "Senior Associate, AI Data Scientist",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4448124115/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn",
-      "salary": "$190,000.00/yr - $200,000.00/yr"
-    },
-    {
-      "company": "Amazon",
-      "title": "Data Scientist, Sales AI",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4448115737/",
+      "company": "CoffeeSpace",
+      "title": "Full-Stack Software Engineer ($215K\u2013$290K + Equity) Innovating Voice AI in Call Centers",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4447679604/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Alignerr",
-      "title": "Senior Machine Learning Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4448132090/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn",
-      "salary": "$60.00/hr - $80.00/hr"
-    },
-    {
-      "company": "Compass Real Estate - Peninsula",
-      "title": "Senior Android Engineer",
-      "location": "Manhattan, NY",
-      "url": "https://www.linkedin.com/jobs/view/4447665559/",
+      "company": "Employia",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447694412/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Compass Real Estate - Peninsula",
-      "title": "Senior Android Engineer",
-      "location": "Manhattan, NY",
-      "url": "https://www.linkedin.com/jobs/view/4447662656/",
+      "company": "Employia",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447678745/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Compass Real Estate - Peninsula",
-      "title": "Senior Android Engineer",
-      "location": "Manhattan, NY",
-      "url": "https://www.linkedin.com/jobs/view/4447665558/",
+      "company": "CoffeeSpace",
+      "title": "Full Stack Engineer ($140K\u2013$200K + Equity) Building Data Systems for Scientific Research",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4447689371/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CareersElite.com",
+      "title": "Software Engineer, Early Career",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448121814/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Visual Search) - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447696141/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Search Quality) - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447685340/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Recommendation) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447690247/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Search Quality) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447698045/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Visual Search) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447676704/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "AI Infrastructure Engineer Graduate (Algorithm Infrastructure) - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447677626/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lam Research",
+      "title": "Software Engineer Sys 4",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447694215/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "(General Hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447682418/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Backend Software Engineer Graduate (Business Governace) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447678500/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "VeriiPro",
+      "title": "ENIOR SITE RELIABILITY ENGINEER (SRE) - MICROSOFT HYPER-V | PRIVATE CLOUD | AZURE",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4445860993/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CoffeeSpace",
+      "title": "Senior Platform Engineer ($180K\u2013$220K + Equity) Innovative Self-Service Leasing AI",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4447693299/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Van Kaizen",
+      "title": "Robotics Engineer - Perception",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4447687480/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Athena Executive Search & Consulting (AESC)",
+      "title": "Full Stack Engineer",
+      "location": "Newark, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4445868280/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "METR",
-      "title": "Security Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4447683114/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Rock Health",
-      "title": "Medical Device Systems Engineer - Requirements & Testing",
+      "company": "CoffeeSpace",
+      "title": "Applied ML Engineer ($200K\u2013$350K + Equity) Building Infra to End AI Slop",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4447672558/",
+      "url": "https://www.linkedin.com/jobs/view/4447690332/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "TWG AI",
-      "title": "Senior Associate, AI Data Scientist",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4448124115/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn",
-      "salary": "$190,000.00/yr - $200,000.00/yr"
-    },
-    {
-      "company": "Amazon",
-      "title": "Data Scientist, Sales AI",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4448115737/",
+      "company": "CoffeeSpace",
+      "title": "Full-Stack Software Engineer ($215K\u2013$290K + Equity) Innovating Voice AI in Call Centers",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4447679604/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Alignerr",
-      "title": "Senior Machine Learning Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4448132090/",
-      "date_posted": "2026-08-02",
-      "ats": "LinkedIn",
-      "salary": "$60.00/hr - $80.00/hr"
-    },
-    {
-      "company": "Compass Real Estate - Peninsula",
-      "title": "Senior Android Engineer",
-      "location": "Manhattan, NY",
-      "url": "https://www.linkedin.com/jobs/view/4447665559/",
+      "company": "Employia",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447694412/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Compass Real Estate - Peninsula",
-      "title": "Senior Android Engineer",
-      "location": "Manhattan, NY",
-      "url": "https://www.linkedin.com/jobs/view/4447662656/",
+      "company": "Employia",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447678745/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Compass Real Estate - Peninsula",
-      "title": "Senior Android Engineer",
-      "location": "Manhattan, NY",
-      "url": "https://www.linkedin.com/jobs/view/4447665558/",
+      "company": "CoffeeSpace",
+      "title": "Full Stack Engineer ($140K\u2013$200K + Equity) Building Data Systems for Scientific Research",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4447689371/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CareersElite.com",
+      "title": "Software Engineer, Early Career",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448121814/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Visual Search) - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447696141/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Search Quality) - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447685340/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Recommendation) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447690247/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Search Quality) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447698045/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Visual Search) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447676704/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "AI Infrastructure Engineer Graduate (Algorithm Infrastructure) - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447677626/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lam Research",
+      "title": "Software Engineer Sys 4",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447694215/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "(General Hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447682418/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Backend Software Engineer Graduate (Business Governace) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447678500/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "VeriiPro",
+      "title": "ENIOR SITE RELIABILITY ENGINEER (SRE) - MICROSOFT HYPER-V | PRIVATE CLOUD | AZURE",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4445860993/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CoffeeSpace",
+      "title": "Senior Platform Engineer ($180K\u2013$220K + Equity) Innovative Self-Service Leasing AI",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4447693299/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Van Kaizen",
+      "title": "Robotics Engineer - Perception",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4447687480/",
+      "date_posted": "2026-08-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Athena Executive Search & Consulting (AESC)",
+      "title": "Full Stack Engineer",
+      "location": "Newark, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4445868280/",
       "date_posted": "2026-08-02",
       "ats": "LinkedIn"
     }
