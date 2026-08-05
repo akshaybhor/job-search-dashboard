@@ -1,196 +1,235 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-05 19:05 UTC*
+*Last updated: 2026-08-05 20:46 UTC*
 
-**46 new role(s)** since last run · 46 total in last 1h
+**55 new role(s)** since last run · 56 total in last 1h
 
-### [Lead AI Engineer (GenAI Platform, AI Foundations, LLM Core and Agentic AI)](https://www.linkedin.com/jobs/view/4421895687/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4449690324/) — Cornerstone OnDemand
-- 📍 **Location:** Dublin, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4449671345/) — Lyft
-- 📍 **Location:** San Francisco County, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Platform Engineer - Workstations & Servers](https://www.linkedin.com/jobs/view/4449674190/) — Corsair
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Data Scientist, Sensors](https://www.linkedin.com/jobs/view/4448055705/) — Lyten
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4448046680/) — NVIDIA AI
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Software Engineer, Entry-Level](https://www.linkedin.com/jobs/view/4449675568/) — Muon Space
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4449687473/) — Harnham
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-08-05
-
-### [Software Engineer, Simulation Infrastructure](https://www.linkedin.com/jobs/view/4449669616/) — Muon Space
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Software Engineer, TikTok LIVE - Foundation - Governance](https://www.linkedin.com/jobs/view/4449146788/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Co-Founder Software Engineer](https://www.linkedin.com/jobs/view/4449131948/) — SUN (a16z SR006)
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4449676262/) — Trivio Global Private Limited
+### [Associate Software Engineer, RLE](https://www.linkedin.com/jobs/view/4449905432/) — Handshake
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Software Engineer – Satellite Modeling and Tasking](https://www.linkedin.com/jobs/view/4329385765/) — Array Labs
+### [AI Data Engineer](https://www.linkedin.com/jobs/view/4449698592/) — Agilent Technologies
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4449198602/) — Jobright.ai
 - 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $150,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Software Engineer, E-Commerce AI Platform - USDS](https://www.linkedin.com/jobs/view/4449677917/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
+### [Data Scientist, Finance Forecasting](https://www.linkedin.com/jobs/view/4449696259/) — TheDataJob
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Software Engineer I - Java - Local to Bay Area candidates (No C2C)](https://www.linkedin.com/jobs/view/4433338895/) — Flexton Inc.
+### [Human Data Engineer](https://www.linkedin.com/jobs/view/4449692710/) — SpaceXAI
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Exceptional Software Engineer](https://www.linkedin.com/jobs/view/4449906480/) — SpaceXAI
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Software Engineer - Platform Services](https://www.linkedin.com/jobs/view/4448059505/) — Nokia
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Full-Stack Software Engineer (AI Platform)](https://www.linkedin.com/jobs/view/4449681760/) — Cygnus Professionals Inc.
-- 📍 **Location:** Mountain View, CA
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4449912314/) — Nash
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Backend Engineer (Full-Stack Capable)](https://www.linkedin.com/jobs/view/4449676518/) — Nexus Venture Partners
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Développeur.se de logiciels / Software Developer](https://www.linkedin.com/jobs/view/4418782890/) — Electronic Arts (EA)
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [System Software Engineer - CUDA Chips](https://www.linkedin.com/jobs/view/4430850297/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Software Engineer - AI Agentic Product Dev Team (US)](https://www.linkedin.com/jobs/view/4449676429/) — Top Gen AI Jobs
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Software Engineer III – Data Platform](https://www.linkedin.com/jobs/view/4449676684/) — ID.me
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior Software Engineer, Software Platform](https://www.linkedin.com/jobs/view/4449671560/) — Muon Space
+### [Senior Data Science Analyst - Shipping](https://www.linkedin.com/jobs/view/4448072160/) — eBay
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Software Engineer, AIOps and Observability](https://www.linkedin.com/jobs/view/4448037780/) — NVIDIA AI
+### [Data Analytics Engineer](https://www.linkedin.com/jobs/view/4449181928/) — EXL
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $140,000.00/yr - $160,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [Software Developer](https://www.linkedin.com/jobs/view/4449300648/) — Lucid Motors
+- 📍 **Location:** Newark, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [AI Scientist](https://www.linkedin.com/jobs/view/4449696278/) — Bright Vision Technologies
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Systems Software Engineer - CI/CD Infrastructure for Open-Source Accelerated Computing Software](https://www.linkedin.com/jobs/view/4439949378/) — NVIDIA
+### [AI Scientist](https://www.linkedin.com/jobs/view/4449696276/) — Bright Vision Technologies
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Software Engineer, AI Storage](https://www.linkedin.com/jobs/view/4395471489/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Research Engineer / Research Scientist / AI Systems Engineer, RSI](https://www.linkedin.com/jobs/view/4449913113/) — TheDataJob
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Systems Engineer II (E2)](https://www.linkedin.com/jobs/view/4438414576/) — Applied Materials
-- 📍 **Location:** Benicia, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4449913285/) — MintMCP
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [ML and Agentic Systems Engineer](https://www.linkedin.com/jobs/view/4395475477/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4449911290/) — MintMCP
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Software Engineer, DGX Cloud Production Engineering](https://www.linkedin.com/jobs/view/4418856879/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4449308033/) — Digital Waffle
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Software Engineer, Resilience Engineering - DGX Cloud](https://www.linkedin.com/jobs/view/4430840308/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Security Engineering Manager](https://www.linkedin.com/jobs/view/4442744476/) — Taskrabbit
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4449186974/) — Jobright.ai
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-05
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4449154174/) — MindSource
-- 📍 **Location:** Cupertino, CA
-- 💰 **Salary:** $75.00/hr - $85.00/hr
+### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4448047960/) — Haystack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $178,400.00/yr - $278,900.00/yr
 - 🕒 **Posted:** 2026-08-05
 
-### [Lead Machine Learning Engineer (Finance Tech - AI Enablement)](https://www.linkedin.com/jobs/view/4440986418/) — Capital One
+### [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/4448048935/) — Haystack
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $167,100.00/yr - $250,700.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4448078130/) — Nokia
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Chip Software Engineer](https://www.linkedin.com/jobs/view/4449902257/) — Bright Vision Technologies
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Software Engineer III, Infrastructure, Google Distributed Cloud](https://www.linkedin.com/jobs/view/4449134223/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4449699434/) — StackAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $130,000.00/yr - $210,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [AWS Cloud Engineer](https://www.linkedin.com/jobs/view/4449687928/) — Stefanini Group
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4449196681/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Product Security Engineer - QRA](https://www.linkedin.com/jobs/view/4449912267/) — Zoox
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Information Security Engineer (Detection, Automation & AI)](https://www.linkedin.com/jobs/view/4449696426/) — Zoox
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4439954165/) — ShimentoX Technologies
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-05
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4448064024/) — SoTalent
+- 📍 **Location:** Healdsburg, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Machine Learning Engineer (Training and Inference Systems)](https://www.linkedin.com/jobs/view/4449119412/) — Fintal Partners
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $500,000.00/yr - $1,500,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4449692416/) — Mediacom Communications
+- 📍 **Location:** Blooming Grove, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [AlpInvest Embedded Data Scientist](https://www.linkedin.com/jobs/view/4449693591/) — The Carlyle Group
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-05
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4449688139/) — TalentAlly
+### [Applied Scientist, Prime Video - Generative AI](https://www.linkedin.com/jobs/view/4449692314/) — TheDataJob
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Investment Data Scientist](https://www.linkedin.com/jobs/view/4449696355/) — The Carlyle Group
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4449910286/) — StackAI
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $130,000.00/yr - $210,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Site Reliability Engineer](https://www.linkedin.com/jobs/view/4448067141/) — Maven Companies Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer, Airflow Infrastructure - NYC](https://www.linkedin.com/jobs/view/4447059145/) — Astronomer
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Machine Learning Scientist (Robotics & Physical AI)](https://www.linkedin.com/jobs/view/4448070110/) — Empathy Talent
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $180,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior AI/ML Engineer](https://www.linkedin.com/jobs/view/4449914631/) — Thornton Tomasetti
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4449668764/) — Qunnect
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer I, Content Cards](https://www.linkedin.com/jobs/view/4449909250/) — Braze
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer, Infrastructure, Google Cloud AI](https://www.linkedin.com/jobs/view/4449144054/) — Google
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Lead Backend Engineer](https://www.linkedin.com/jobs/view/4423592455/) — Noom
+- 📍 **Location:** Princeton, NJ
+- 🕒 **Posted:** 2026-08-05
+
+### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4449697094/) — FDM Group
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $50,000.00/yr - $60,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4449906484/) — Apolis
+- 📍 **Location:** Bedminster, NJ
+- 💰 **Salary:** $45.00/hr - $55.00/hr
+- 🕒 **Posted:** 2026-08-05
+
+### [Lead Full Stack Engineer](https://www.linkedin.com/jobs/view/4418175764/) — New York Technology Partners
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $170,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [Backend Java Data Engineer](https://www.linkedin.com/jobs/view/4428961993/) — EXL
 - 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-08-05
 
-### [Lead Data Scientist](https://www.linkedin.com/jobs/view/4438012909/) — Snorkel AI
+### [AWS Cloud Solutions Architect / Cloud Engineer](https://www.linkedin.com/jobs/view/4449692148/) — Visionaryz Inc.
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Application Security Engineer](https://www.linkedin.com/jobs/view/4449910070/) — Russell Tobin
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-05
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4423990651/) — Citi
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-08-05
-
-### [AWS Cloud Engineer (Remote)](https://www.linkedin.com/jobs/view/4449145845/) — Astrix
-- 📍 **Location:** Red Bank, NJ
-- 🕒 **Posted:** 2026-08-05
-
-### [Java Software Engineer](https://www.linkedin.com/jobs/view/4444151366/) — Galent
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4443675875/) — AppCard, Inc.
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $180,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-08-05
-
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4449142477/) — Luma Financial Technologies
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $150,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-08-05
-
-### [Lead Systems Engineer, Secrets and Vault Engineering](https://www.linkedin.com/jobs/view/4338290986/) — ICE
+### [Senior AI Security Engineer II](https://www.linkedin.com/jobs/view/4449697634/) — BlinkRx
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Systems Engineer, Broadcast Engineering](https://www.linkedin.com/jobs/view/4419239058/) — SiriusXM
-- 📍 **Location:** Lawrenceville, NJ
+### [Data Engineer](https://www.linkedin.com/jobs/view/4449698431/) — Mizuho
+- 📍 **Location:** Iselin, NJ
 - 🕒 **Posted:** 2026-08-05
 
-### [Broadcast IP Infrastructure Engineer](https://www.linkedin.com/jobs/view/4404000815/) — Diversified
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-08-05
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4449679160/) — Phaxis
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $105,000.00/yr - $105,000.00/yr
-- 🕒 **Posted:** 2026-08-05
-
-### [Offensive Security Engineer](https://www.linkedin.com/jobs/view/4448046565/) — RightClick
-- 📍 **Location:** Poughkeepsie, NY
-- 🕒 **Posted:** 2026-08-05
-
-### [Transmit Security Engineer](https://www.linkedin.com/jobs/view/4449680495/) — METRIX IT SOLUTIONS INC
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4449179837/) — Lawrence Harvey
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Associate - Investment Data Engineer](https://www.linkedin.com/jobs/view/4449137515/) — MFM Search LLC
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $230,000.00/yr - $260,000.00/yr
+### [Data Engineer I, Sales Data Services (SDS)](https://www.linkedin.com/jobs/view/4449693303/) — TheDataJob
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4449695785/) — Phaxis
+- 📍 **Location:** Edison, NJ
 - 🕒 **Posted:** 2026-08-05
