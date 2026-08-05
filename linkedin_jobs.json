@@ -1,919 +1,909 @@
 {
-  "scraped_at": "2026-08-05 20:46 UTC",
-  "total": 56,
+  "scraped_at": "2026-08-05 22:37 UTC",
+  "total": 55,
   "new_count": 55,
   "jobs": [
     {
-      "company": "Handshake",
-      "title": "Associate Software Engineer, RLE",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449905432/",
+      "company": "DeWinter Group",
+      "title": "Machine Learning Engineer / AI Engineer",
+      "location": "Campbell, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449917381/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Agilent Technologies",
-      "title": "AI Data Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449698592/",
+      "company": "Waymo",
+      "title": "Software Engineer, Machine Learning, Planner Selection",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449327009/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Software Engineer, Machine Learning, Planner Selection",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449312206/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Finoit Inc",
+      "title": "Software Engineer \u2013 Data Infrastructure (AI & Robotics)",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449930117/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn",
+      "salary": "$150,000.00/yr - $250,000.00/yr"
+    },
+    {
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "Software Developer-Mid Career",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449935147/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Software Engineer, ML/Eval Data Platforms & Infrastructure",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426001592/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "(USA) Senior, Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448081283/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn",
+      "salary": "$117,000.00/yr - $234,000.00/yr"
+    },
+    {
+      "company": "Cadence",
+      "title": "Lead Software Engineer, ML",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449306569/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
       "company": "Jobright.ai",
-      "title": "Data Scientist Intern",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4449198602/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TheDataJob",
-      "title": "Data Scientist, Finance Forecasting",
+      "title": "Machine Learning Engineer, Speech LLM Training",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449696259/",
+      "url": "https://www.linkedin.com/jobs/view/4449304997/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "SpaceXAI",
-      "title": "Human Data Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449692710/",
+      "company": "LinkedIn",
+      "title": "Senior Applied Scientist, Causal Inference",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449918454/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "SpaceXAI",
-      "title": "Exceptional Software Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449906480/",
+      "company": "Uber",
+      "title": "Software Engineer II",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449931397/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Senior Software Engineer, E-Commerce AI Platform - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449677917/",
+      "company": "Simbe",
+      "title": "Data Engine & Annotation Systems Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4449694968/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $155,000.00/yr"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Software Engineer",
+      "location": "Los Altos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449305606/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Nokia",
-      "title": "Software Engineer - Platform Services",
+      "company": "Jobright.ai",
+      "title": "Senior Software Engineer, Product",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449304945/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer, Serverless Networking",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449305783/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pyramid Consulting, Inc",
+      "title": "LLM Research Engineer IV",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449934258/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn",
+      "salary": "$130.00/hr - $131.00/hr"
+    },
+    {
+      "company": "Prudent Technologies and Consulting, Inc.",
+      "title": "Senior ML & Data Science Engineer \u2014 Remote (Full-Time) | west coast Candidates Preferred",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4447997860/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "LinkedIn",
+      "title": "Software Engineer - Android",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449932366/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Uber",
+      "title": "Software Engineer II",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4448059505/",
+      "url": "https://www.linkedin.com/jobs/view/4449936305/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Nash",
-      "title": "Senior Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449912314/",
+      "company": "SpaceXAI",
+      "title": "Software Engineer - X Developer Platform",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449697951/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "eBay",
-      "title": "Senior Data Science Analyst - Shipping",
+      "company": "Experis",
+      "title": "Software Engineer (SDE) L5",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4448072160/",
+      "url": "https://www.linkedin.com/jobs/view/4449310090/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "EXL",
-      "title": "Data Analytics Engineer",
+      "company": "Credo",
+      "title": "Senior Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449315122/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn",
+      "salary": "$150,000.00/yr - $175,000.00/yr"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Senior Full Stack Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449310312/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "T:0",
+      "title": "Senior Backend Engineer, AI",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4449181928/",
+      "url": "https://www.linkedin.com/jobs/view/4443148725/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart Global Tech",
+      "title": "(USA) Senior, Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448070381/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BigHat Biosciences",
+      "title": "Senior Software Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4432130625/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Front",
+      "title": "Senior Software Engineer, Core Product",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449939147/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tesla",
+      "title": "Sr. Software Engineer, Optimus Charging",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449931126/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tesla",
+      "title": "Sr. Software Engineer, Commercial AC Charging",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449923182/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Senior Software Engineer, Generative AI, gUP",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449326146/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Software Developer, iOS, Glasses System UI",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449313347/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tesla",
+      "title": "Sr. Software Engineer, AC Charging",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449930160/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Codinix Technologies Inc.",
+      "title": "Sr. Software Engineer with Unity 3D",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448060314/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mobile Apps US",
+      "title": "Lead React Native (Mobile Engineer)",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449313368/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Experis",
+      "title": "AWS Cloud Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449314031/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "HH Global",
+      "title": "DevOps Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449322244/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GlobalLogic",
+      "title": "Specialist Devops Engineer IRC301757",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449312056/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Goodwin Recruiting",
+      "title": "Sr. NetSuite & Business Systems Software Engineer JN -072026-178704",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441712677/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roku",
+      "title": "Senior Machine Learning Engineer, Ad Serving",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4449917219/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Child Mind Institute",
+      "title": "Data Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4421151547/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn",
+      "salary": "$119,000.00/yr - $150,000.00/yr"
+    },
+    {
+      "company": "Societe Generale",
+      "title": "V.I.E. Front Office Trading Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4449922270/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Experis",
+      "title": "Data Scientist",
+      "location": "Chester, NY",
+      "url": "https://www.linkedin.com/jobs/view/4449309180/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Benjamin Moore",
+      "title": "Software Engineer",
+      "location": "Montvale, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4449935072/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Harvey Nash",
+      "title": "Lead Data Engineer (DataOps) | Azure, Databricks, CI/CD",
+      "location": "Short Hills, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4442695553/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn",
       "salary": "$140,000.00/yr - $160,000.00/yr"
     },
     {
-      "company": "Lucid Motors",
-      "title": "Software Developer",
-      "location": "Newark, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449300648/",
+      "company": "Elligint Health",
+      "title": "Senior DevOps/Site Reliability Engineer (SRE)",
+      "location": "Edison, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4449935187/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bright Vision Technologies",
-      "title": "AI Scientist",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449696278/",
+      "company": "Holistic Partners, Inc",
+      "title": "Java Software Engineer",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4449315272/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bright Vision Technologies",
-      "title": "AI Scientist",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449696276/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TheDataJob",
-      "title": "Research Engineer / Research Scientist / AI Systems Engineer, RSI",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449913113/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MintMCP",
-      "title": "Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449913285/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MintMCP",
-      "title": "Software Engineer",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449911290/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Digital Waffle",
-      "title": "Software Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4449308033/",
+      "company": "Confidential",
+      "title": "Full Stack Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4449917498/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn",
-      "salary": "$180,000.00/yr - $250,000.00/yr"
+      "salary": "$300,000.00/yr - $450,000.00/yr"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Software Engineer Intern",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4449186974/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Haystack",
-      "title": "Senior Frontend Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4448047960/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn",
-      "salary": "$178,400.00/yr - $278,900.00/yr"
-    },
-    {
-      "company": "Haystack",
-      "title": "Senior Full Stack Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4448048935/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn",
-      "salary": "$167,100.00/yr - $250,700.00/yr"
-    },
-    {
-      "company": "Nokia",
+      "company": "Averity",
       "title": "Senior Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4448078130/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "Chip Software Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449902257/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google",
-      "title": "Software Engineer III, Infrastructure, Google Distributed Cloud",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449134223/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "StackAI",
-      "title": "Senior DevOps Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449699434/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn",
-      "salary": "$130,000.00/yr - $210,000.00/yr"
-    },
-    {
-      "company": "Stefanini Group",
-      "title": "AWS Cloud Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449687928/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Software Engineer - AI Agent",
-      "location": "San Mateo County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449196681/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Zoox",
-      "title": "Product Security Engineer - QRA",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449912267/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Zoox",
-      "title": "Senior Information Security Engineer (Detection, Automation & AI)",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449696426/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ShimentoX Technologies",
-      "title": "Data Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4439954165/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SoTalent",
-      "title": "Software Engineer",
-      "location": "Healdsburg, CA",
-      "url": "https://www.linkedin.com/jobs/view/4448064024/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Fintal Partners",
-      "title": "Senior Machine Learning Engineer (Training and Inference Systems)",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4449119412/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn",
-      "salary": "$500,000.00/yr - $1,500,000.00/yr"
-    },
-    {
-      "company": "Mediacom Communications",
-      "title": "Data Scientist",
-      "location": "Blooming Grove, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449692416/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "The Carlyle Group",
-      "title": "AlpInvest Embedded Data Scientist",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449693591/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TheDataJob",
-      "title": "Applied Scientist, Prime Video - Generative AI",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449692314/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "The Carlyle Group",
-      "title": "Investment Data Scientist",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449696355/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "StackAI",
-      "title": "Senior DevOps Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449910286/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn",
-      "salary": "$130,000.00/yr - $210,000.00/yr"
-    },
-    {
-      "company": "Maven Companies Inc.",
-      "title": "Senior Site Reliability Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4448067141/",
+      "url": "https://www.linkedin.com/jobs/view/4448069336/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
       "company": "Astronomer",
-      "title": "Senior Software Engineer, Airflow Infrastructure - NYC",
+      "title": "Senior Software Engineer - Build - NYC",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4447059145/",
+      "url": "https://www.linkedin.com/jobs/view/4449315119/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Empathy Talent",
-      "title": "Machine Learning Scientist (Robotics & Physical AI)",
+      "company": "Gandiv Insights LLC",
+      "title": "Linux Security Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4448070110/",
+      "url": "https://www.linkedin.com/jobs/view/4448075276/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Atlas Consulting Group, LLC.",
+      "title": "Senior Frontend Engineer (React / Next.js)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4449316061/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn",
-      "salary": "$180,000.00/yr - $275,000.00/yr"
+      "salary": "$180,000.00/yr - $210,000.00/yr"
     },
     {
-      "company": "Thornton Tomasetti",
-      "title": "Senior AI/ML Engineer",
+      "company": "Asimov Collective",
+      "title": "Creative Frontend Developer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449914631/",
+      "url": "https://www.linkedin.com/jobs/view/4449315043/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Qunnect",
-      "title": "Software Engineer",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449668764/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Braze",
-      "title": "Senior Software Engineer I, Content Cards",
+      "company": "Iterable",
+      "title": "Senior Cloud Security Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449909250/",
+      "url": "https://www.linkedin.com/jobs/view/4449308284/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Google",
-      "title": "Senior Software Engineer, Infrastructure, Google Cloud AI",
+      "company": "FlexTrade",
+      "title": "Senior Citrix Systems Engineer",
+      "location": "Great Neck, NY",
+      "url": "https://www.linkedin.com/jobs/view/4449922215/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Child Mind Institute",
+      "title": "Senior Cybersecurity Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449144054/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Noom",
-      "title": "Lead Backend Engineer",
-      "location": "Princeton, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4423592455/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "FDM Group",
-      "title": "Junior Software Engineer",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4449697094/",
+      "url": "https://www.linkedin.com/jobs/view/4410302746/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn",
-      "salary": "$50,000.00/yr - $60,000.00/yr"
-    },
-    {
-      "company": "Apolis",
-      "title": "Senior Software Engineer",
-      "location": "Bedminster, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4449906484/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn",
-      "salary": "$45.00/hr - $55.00/hr"
-    },
-    {
-      "company": "New York Technology Partners",
-      "title": "Lead Full Stack Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4418175764/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn",
-      "salary": "$170,000.00/yr - $200,000.00/yr"
-    },
-    {
-      "company": "EXL",
-      "title": "Backend Java Data Engineer",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4428961993/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Visionaryz Inc.",
-      "title": "AWS Cloud Solutions Architect / Cloud Engineer",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449692148/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Russell Tobin",
-      "title": "Application Security Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449910070/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "BlinkRx",
-      "title": "Senior AI Security Engineer II",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449697634/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Mizuho",
-      "title": "Data Engineer",
-      "location": "Iselin, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4449698431/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lawrence Harvey",
-      "title": "Senior Data Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449179837/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TheDataJob",
-      "title": "Data Engineer I, Sales Data Services (SDS)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449693303/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Phaxis",
-      "title": "Data Engineer",
-      "location": "Edison, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4449695785/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
+      "salary": "$118,136.00/yr - $135,000.00/yr"
     }
   ],
   "new_jobs": [
     {
-      "company": "Handshake",
-      "title": "Associate Software Engineer, RLE",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449905432/",
+      "company": "DeWinter Group",
+      "title": "Machine Learning Engineer / AI Engineer",
+      "location": "Campbell, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449917381/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Agilent Technologies",
-      "title": "AI Data Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449698592/",
+      "company": "Waymo",
+      "title": "Software Engineer, Machine Learning, Planner Selection",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449327009/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Software Engineer, Machine Learning, Planner Selection",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449312206/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Finoit Inc",
+      "title": "Software Engineer \u2013 Data Infrastructure (AI & Robotics)",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449930117/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn",
+      "salary": "$150,000.00/yr - $250,000.00/yr"
+    },
+    {
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "Software Developer-Mid Career",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449935147/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Software Engineer, ML/Eval Data Platforms & Infrastructure",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426001592/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "(USA) Senior, Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448081283/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn",
+      "salary": "$117,000.00/yr - $234,000.00/yr"
+    },
+    {
+      "company": "Cadence",
+      "title": "Lead Software Engineer, ML",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449306569/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
       "company": "Jobright.ai",
-      "title": "Data Scientist Intern",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4449198602/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TheDataJob",
-      "title": "Data Scientist, Finance Forecasting",
+      "title": "Machine Learning Engineer, Speech LLM Training",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449696259/",
+      "url": "https://www.linkedin.com/jobs/view/4449304997/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "SpaceXAI",
-      "title": "Human Data Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449692710/",
+      "company": "LinkedIn",
+      "title": "Senior Applied Scientist, Causal Inference",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449918454/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "SpaceXAI",
-      "title": "Exceptional Software Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449906480/",
+      "company": "Uber",
+      "title": "Software Engineer II",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449931397/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Nokia",
-      "title": "Software Engineer - Platform Services",
+      "company": "Simbe",
+      "title": "Data Engine & Annotation Systems Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4449694968/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $155,000.00/yr"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Software Engineer",
+      "location": "Los Altos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449305606/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Senior Software Engineer, Product",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449304945/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer, Serverless Networking",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449305783/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pyramid Consulting, Inc",
+      "title": "LLM Research Engineer IV",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449934258/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn",
+      "salary": "$130.00/hr - $131.00/hr"
+    },
+    {
+      "company": "Prudent Technologies and Consulting, Inc.",
+      "title": "Senior ML & Data Science Engineer \u2014 Remote (Full-Time) | west coast Candidates Preferred",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4447997860/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "LinkedIn",
+      "title": "Software Engineer - Android",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449932366/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Uber",
+      "title": "Software Engineer II",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4448059505/",
+      "url": "https://www.linkedin.com/jobs/view/4449936305/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Nash",
-      "title": "Senior Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449912314/",
+      "company": "SpaceXAI",
+      "title": "Software Engineer - X Developer Platform",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449697951/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "eBay",
-      "title": "Senior Data Science Analyst - Shipping",
+      "company": "Experis",
+      "title": "Software Engineer (SDE) L5",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4448072160/",
+      "url": "https://www.linkedin.com/jobs/view/4449310090/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "EXL",
-      "title": "Data Analytics Engineer",
+      "company": "Credo",
+      "title": "Senior Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449315122/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn",
+      "salary": "$150,000.00/yr - $175,000.00/yr"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Senior Full Stack Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449310312/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "T:0",
+      "title": "Senior Backend Engineer, AI",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4449181928/",
+      "url": "https://www.linkedin.com/jobs/view/4443148725/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart Global Tech",
+      "title": "(USA) Senior, Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448070381/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BigHat Biosciences",
+      "title": "Senior Software Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4432130625/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Front",
+      "title": "Senior Software Engineer, Core Product",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449939147/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tesla",
+      "title": "Sr. Software Engineer, Optimus Charging",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449931126/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tesla",
+      "title": "Sr. Software Engineer, Commercial AC Charging",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449923182/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Senior Software Engineer, Generative AI, gUP",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449326146/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Software Developer, iOS, Glasses System UI",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449313347/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tesla",
+      "title": "Sr. Software Engineer, AC Charging",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449930160/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Codinix Technologies Inc.",
+      "title": "Sr. Software Engineer with Unity 3D",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448060314/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mobile Apps US",
+      "title": "Lead React Native (Mobile Engineer)",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449313368/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Experis",
+      "title": "AWS Cloud Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449314031/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "HH Global",
+      "title": "DevOps Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449322244/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GlobalLogic",
+      "title": "Specialist Devops Engineer IRC301757",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449312056/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Goodwin Recruiting",
+      "title": "Sr. NetSuite & Business Systems Software Engineer JN -072026-178704",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441712677/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roku",
+      "title": "Senior Machine Learning Engineer, Ad Serving",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4449917219/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Child Mind Institute",
+      "title": "Data Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4421151547/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn",
+      "salary": "$119,000.00/yr - $150,000.00/yr"
+    },
+    {
+      "company": "Societe Generale",
+      "title": "V.I.E. Front Office Trading Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4449922270/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Experis",
+      "title": "Data Scientist",
+      "location": "Chester, NY",
+      "url": "https://www.linkedin.com/jobs/view/4449309180/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Benjamin Moore",
+      "title": "Software Engineer",
+      "location": "Montvale, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4449935072/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Harvey Nash",
+      "title": "Lead Data Engineer (DataOps) | Azure, Databricks, CI/CD",
+      "location": "Short Hills, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4442695553/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn",
       "salary": "$140,000.00/yr - $160,000.00/yr"
     },
     {
-      "company": "Lucid Motors",
-      "title": "Software Developer",
-      "location": "Newark, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449300648/",
+      "company": "Elligint Health",
+      "title": "Senior DevOps/Site Reliability Engineer (SRE)",
+      "location": "Edison, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4449935187/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bright Vision Technologies",
-      "title": "AI Scientist",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449696278/",
+      "company": "Holistic Partners, Inc",
+      "title": "Java Software Engineer",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4449315272/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bright Vision Technologies",
-      "title": "AI Scientist",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449696276/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TheDataJob",
-      "title": "Research Engineer / Research Scientist / AI Systems Engineer, RSI",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449913113/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MintMCP",
-      "title": "Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449913285/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MintMCP",
-      "title": "Software Engineer",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449911290/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Digital Waffle",
-      "title": "Software Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4449308033/",
+      "company": "Confidential",
+      "title": "Full Stack Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4449917498/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn",
-      "salary": "$180,000.00/yr - $250,000.00/yr"
+      "salary": "$300,000.00/yr - $450,000.00/yr"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Software Engineer Intern",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4449186974/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Haystack",
-      "title": "Senior Frontend Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4448047960/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn",
-      "salary": "$178,400.00/yr - $278,900.00/yr"
-    },
-    {
-      "company": "Haystack",
-      "title": "Senior Full Stack Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4448048935/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn",
-      "salary": "$167,100.00/yr - $250,700.00/yr"
-    },
-    {
-      "company": "Nokia",
+      "company": "Averity",
       "title": "Senior Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4448078130/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bright Vision Technologies",
-      "title": "Chip Software Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449902257/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google",
-      "title": "Software Engineer III, Infrastructure, Google Distributed Cloud",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449134223/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "StackAI",
-      "title": "Senior DevOps Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449699434/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn",
-      "salary": "$130,000.00/yr - $210,000.00/yr"
-    },
-    {
-      "company": "Stefanini Group",
-      "title": "AWS Cloud Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449687928/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Software Engineer - AI Agent",
-      "location": "San Mateo County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449196681/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Zoox",
-      "title": "Product Security Engineer - QRA",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449912267/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Zoox",
-      "title": "Senior Information Security Engineer (Detection, Automation & AI)",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4449696426/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ShimentoX Technologies",
-      "title": "Data Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4439954165/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SoTalent",
-      "title": "Software Engineer",
-      "location": "Healdsburg, CA",
-      "url": "https://www.linkedin.com/jobs/view/4448064024/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Fintal Partners",
-      "title": "Senior Machine Learning Engineer (Training and Inference Systems)",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4449119412/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn",
-      "salary": "$500,000.00/yr - $1,500,000.00/yr"
-    },
-    {
-      "company": "Mediacom Communications",
-      "title": "Data Scientist",
-      "location": "Blooming Grove, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449692416/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "The Carlyle Group",
-      "title": "AlpInvest Embedded Data Scientist",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449693591/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TheDataJob",
-      "title": "Applied Scientist, Prime Video - Generative AI",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449692314/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "The Carlyle Group",
-      "title": "Investment Data Scientist",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449696355/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "StackAI",
-      "title": "Senior DevOps Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449910286/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn",
-      "salary": "$130,000.00/yr - $210,000.00/yr"
-    },
-    {
-      "company": "Maven Companies Inc.",
-      "title": "Senior Site Reliability Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4448067141/",
+      "url": "https://www.linkedin.com/jobs/view/4448069336/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
       "company": "Astronomer",
-      "title": "Senior Software Engineer, Airflow Infrastructure - NYC",
+      "title": "Senior Software Engineer - Build - NYC",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4447059145/",
+      "url": "https://www.linkedin.com/jobs/view/4449315119/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Empathy Talent",
-      "title": "Machine Learning Scientist (Robotics & Physical AI)",
+      "company": "Gandiv Insights LLC",
+      "title": "Linux Security Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4448070110/",
+      "url": "https://www.linkedin.com/jobs/view/4448075276/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Atlas Consulting Group, LLC.",
+      "title": "Senior Frontend Engineer (React / Next.js)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4449316061/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn",
-      "salary": "$180,000.00/yr - $275,000.00/yr"
+      "salary": "$180,000.00/yr - $210,000.00/yr"
     },
     {
-      "company": "Thornton Tomasetti",
-      "title": "Senior AI/ML Engineer",
+      "company": "Asimov Collective",
+      "title": "Creative Frontend Developer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449914631/",
+      "url": "https://www.linkedin.com/jobs/view/4449315043/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Qunnect",
-      "title": "Software Engineer",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449668764/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Braze",
-      "title": "Senior Software Engineer I, Content Cards",
+      "company": "Iterable",
+      "title": "Senior Cloud Security Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449909250/",
+      "url": "https://www.linkedin.com/jobs/view/4449308284/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Google",
-      "title": "Senior Software Engineer, Infrastructure, Google Cloud AI",
+      "company": "FlexTrade",
+      "title": "Senior Citrix Systems Engineer",
+      "location": "Great Neck, NY",
+      "url": "https://www.linkedin.com/jobs/view/4449922215/",
+      "date_posted": "2026-08-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Child Mind Institute",
+      "title": "Senior Cybersecurity Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449144054/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Noom",
-      "title": "Lead Backend Engineer",
-      "location": "Princeton, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4423592455/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "FDM Group",
-      "title": "Junior Software Engineer",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4449697094/",
+      "url": "https://www.linkedin.com/jobs/view/4410302746/",
       "date_posted": "2026-08-05",
       "ats": "LinkedIn",
-      "salary": "$50,000.00/yr - $60,000.00/yr"
-    },
-    {
-      "company": "Apolis",
-      "title": "Senior Software Engineer",
-      "location": "Bedminster, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4449906484/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn",
-      "salary": "$45.00/hr - $55.00/hr"
-    },
-    {
-      "company": "New York Technology Partners",
-      "title": "Lead Full Stack Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4418175764/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn",
-      "salary": "$170,000.00/yr - $200,000.00/yr"
-    },
-    {
-      "company": "EXL",
-      "title": "Backend Java Data Engineer",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4428961993/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Visionaryz Inc.",
-      "title": "AWS Cloud Solutions Architect / Cloud Engineer",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449692148/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Russell Tobin",
-      "title": "Application Security Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449910070/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "BlinkRx",
-      "title": "Senior AI Security Engineer II",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449697634/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Mizuho",
-      "title": "Data Engineer",
-      "location": "Iselin, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4449698431/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lawrence Harvey",
-      "title": "Senior Data Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449179837/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TheDataJob",
-      "title": "Data Engineer I, Sales Data Services (SDS)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449693303/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Phaxis",
-      "title": "Data Engineer",
-      "location": "Edison, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4449695785/",
-      "date_posted": "2026-08-05",
-      "ats": "LinkedIn"
+      "salary": "$118,136.00/yr - $135,000.00/yr"
     }
   ]
 }
