@@ -1,14 +1,18 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-07 22:09 UTC*
+*Last updated: 2026-08-07 23:10 UTC*
 
-**2 new role(s)** since last run · 151 total in last 24h
+**3 new role(s)** since last run · 149 total in last 24h
 
-### [Finance Systems Engineer, Tax](https://www.indeed.com/viewjob?jk=3c166095a4bf2a34) — Anthropic
+### [Software Engineer, Systems ML](https://www.indeed.com/viewjob?jk=f3acdc543338dc19) — Meta
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $205k–$270k/yr
+- 💰 **Salary:** $184k–$257k/yr
+- 🕒 **Posted:** 2023-06-08
+
+### [Software Engineer II-Hybrid Role](https://www.indeed.com/viewjob?jk=6b2d1082065c54ae) — Unknown
+- 📍 **Location:** Greenwich, CT, US
 - 🕒 **Posted:** 2026-08-07
 
-### [Lead Site Reliability Engineer](https://www.indeed.com/viewjob?jk=115933d527dd3cec) — Wells Fargo
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $119k–$224k/yr
+### [Sr. Software Engineer](https://www.indeed.com/viewjob?jk=8d4f8314fc2d2de7) — NBCUniversal
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $120k–$170k/yr
 - 🕒 **Posted:** 2026-08-07
