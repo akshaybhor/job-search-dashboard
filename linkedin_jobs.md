@@ -1,40 +1,97 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-07 22:08 UTC*
+*Last updated: 2026-08-07 23:08 UTC*
 
-**9 new role(s)** since last run · 47 total in last 1h
+**23 new role(s)** since last run · 36 total in last 1h
 
-### [Lead Applied Data Scientist - Search Ranking (applied ML, LLMs, NLP)](https://www.linkedin.com/jobs/view/4450785096/) — Target
+### [Consultant- Marketing Data Science & AI](https://www.linkedin.com/jobs/view/4450794189/) — Sia
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Biostatistician 2](https://www.linkedin.com/jobs/view/4448715245/) — Stanford University
+- 📍 **Location:** Stanford, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Sr. Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4449237383/) — Amazon Science
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-07
 
-### [Python Cloud Engineer](https://www.linkedin.com/jobs/view/4450383299/) — BayOne Solutions
-- 📍 **Location:** South San Francisco, CA
+### [Senior Machine Learning Engineer - Foundation Model](https://www.linkedin.com/jobs/view/4451002169/) — XPENG
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-07
 
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4450369917/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
+### [Sr. Applied Scientist, Fauna](https://www.linkedin.com/jobs/view/4449249040/) — Amazon Science
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-07
 
-### [Software Engineer Sys 3](https://www.linkedin.com/jobs/view/4450372870/) — Lam Research
-- 📍 **Location:** Fremont, CA
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4450393267/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-07
 
-### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4450394086/) — Jobright.ai
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4450389024/) — Jobright.ai
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Frontend Senior Software Engineer- Angular v20+](https://www.linkedin.com/jobs/view/4450794073/) — Cisco
+### [ZoomAI DevOps Engineer](https://www.linkedin.com/jobs/view/4451001031/) — Zoom
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-07
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4450384171/) — Stealth Vertical AI Startup
+### [Senior Software Engineer, Agentic Platforms](https://www.linkedin.com/jobs/view/4450783637/) — XPENG
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4450398254/) — Quest Global
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Senior Software Engineer I - AI Inference Data Plane](https://www.linkedin.com/jobs/view/4444739715/) — DigitalOcean
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Software Engineer – Backend & Data Engineering](https://www.linkedin.com/jobs/view/4450791251/) — K&K Global Talent Solutions INC.
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Senior Full-Stack Engineer](https://www.linkedin.com/jobs/view/4449091076/) — LeanData
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Sr. Software Engineer (Data Migration & Management)](https://www.linkedin.com/jobs/view/4450793194/) — NetApp
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4450382538/) — Akkodis
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $55.00/hr - $65.00/hr
+- 🕒 **Posted:** 2026-08-07
+
+### [Sr Specialist, Data Science](https://www.linkedin.com/jobs/view/4450500046/) — Merck
+- 📍 **Location:** Rahway, NJ
+- 🕒 **Posted:** 2026-08-07
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4450376859/) — Ionixa Global Inc
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-08-07
+
+### [Senior Software Engineer (Full Stack)](https://www.linkedin.com/jobs/view/4450793335/) — Mastercard
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-07
 
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4450395009/) — Ionixa Global Inc
+### [Front Office Software Engineer, Commodities](https://www.linkedin.com/jobs/view/4449248101/) — Macquarie Group
 - 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-08-07
+
+### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4450786522/) — Mastercard
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-07
+
+### [Drexel University Co-op: Software Engineering/Full stack development](https://www.linkedin.com/jobs/view/4442881613/) — SRI
+- 📍 **Location:** Princeton, NJ
+- 🕒 **Posted:** 2026-08-07
+
+### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4449235461/) — McGraw Hill
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-07
+
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4449239338/) — Wise Skulls
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-07
+
+### [Embedded Software Engineer - Photonics](https://www.linkedin.com/jobs/view/4449237206/) — CACI International Inc
+- 📍 **Location:** Florham Park, NJ
 - 🕒 **Posted:** 2026-08-07
