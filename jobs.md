@@ -1,40 +1,46 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-06 06:11 UTC*
+*Last updated: 2026-08-07 05:08 UTC*
 
-**9 new role(s)** since last run · 139 total in last 24h
+**11 new role(s)** since last run · 138 total in last 24h
 
-### [Computational Biologist](https://job-boards.greenhouse.io/freenome/jobs/8658848002) — Freenome
+### [Senior Software Engineer II](https://job-boards.greenhouse.io/freenome/jobs/8414748002) — Freenome
 - 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-08-05
+- 🕒 **Posted:** 2026-07-15
 
-### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110598004) — Natera
-- 📍 **Location:** San Carlos, CA
+### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110225004) — Natera
+- 📍 **Location:** US Remote
 - 🕒 **Posted:** 2026-07-29
 
-### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6130549004) — Natera
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-07-31
+### [Research Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7747517) — Chan Zuckerberg Biohub
+- 📍 **Location:** New York, NY (Hybrid)
+- 🕒 **Posted:** 2026-07-30
 
-### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7793644) — Chan Zuckerberg Biohub
-- 📍 **Location:** Redwood City, CA (Hybrid)
+### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7747518) — Chan Zuckerberg Biohub
+- 📍 **Location:** New York, NY (Hybrid)
 - 🕒 **Posted:** 2026-06-02
 
-### [Research Associate II/III– Bioanalytical/In Vitro ADME/DMPK](https://job-boards.greenhouse.io/nurix/jobs/8686689002) — Nurix Therapeutics
-- 📍 **Location:** Brisbane, California
-- 🕒 **Posted:** 2026-08-05
+### [Enterprise Generative AI Platform Engineer](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Enterprise-Generative-AI-Platform-Engineer_R-250809) — Amgen
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** Posted Today
 
-### [AI & Data Engineer, Data Discovery Services](https://www.linkedin.com/jobs/view/4449967085/) — Bristol Myers Squibb
-- 📍 **Location:** Princeton, NJ
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior Software Engineer, Backend - Care Platform Operations](https://www.linkedin.com/jobs/view/4266581967/) — Ro
+### [Software Engineering (3)](https://www.immunai.com/careers/#software-engineering-3) — Immunai
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-05
 
-### [Senior Manager, Data Engineer, Clinical Operations](https://www.linkedin.com/jobs/view/4449449387/) — Bristol Myers Squibb
-- 📍 **Location:** Princeton, NJ
-- 🕒 **Posted:** 2026-08-05
-
-### [Sr. Data Scientist, Translational Research](https://www.linkedin.com/jobs/view/4413090861/) — Tempus AI
+### [Senior DevOps Engineer](https://www.immunai.com/careers/#senior-devops-engineer) — Immunai
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-05
+
+### [Research Associate II/III– Bioanalytical/In Vitro ADME/DMPK](https://job-boards.greenhouse.io/nurix/jobs/8582171002) — Nurix Therapeutics
+- 📍 **Location:** Brisbane, CA 
+- 🕒 **Posted:** 2026-07-19
+
+### [Biostatistician (Translational and Exploratory Biostatistics)](https://www.linkedin.com/jobs/view/4450028451/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Bioinformatics & Data Scientist or Postdoctoral Researcher- Furman lab](https://www.linkedin.com/jobs/view/4427934142/) — Buck Institute for Research on Aging
+- 📍 **Location:** Novato, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Software Engineer, Backend](https://www.linkedin.com/jobs/view/4301398088/) — Ro
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
