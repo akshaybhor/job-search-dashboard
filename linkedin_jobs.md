@@ -1,64 +1,220 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-06 04:47 UTC*
+*Last updated: 2026-08-07 00:49 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**53 new role(s)** since last run · 53 total in last 1h
 
-### [Technical Lead, Machine Learning Engineering (AI Canvas)](https://www.linkedin.com/jobs/view/4449979715/) — Cisco
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [(USA) Senior, Data Scientist](https://www.linkedin.com/jobs/view/4448070941/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior AI Scientist- Credit Karma](https://www.linkedin.com/jobs/view/4449367267/) — Intuit
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4448079821/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-08-05
-
-### [(USA) Senior Manager, Data Science](https://www.linkedin.com/jobs/view/4448066878/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $143,000.00/yr - $286,000.00/yr
-- 🕒 **Posted:** 2026-08-05
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4449965772/) — Johnson & Johnson MedTech
+### [Senior MLOps Engineer](https://www.linkedin.com/jobs/view/4450012215/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
+- 🕒 **Posted:** 2026-08-06
 
-### [Data Platform Architect](https://www.linkedin.com/jobs/view/4449354562/) — Lam Research
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-08-05
+### [Senior Software Engineer, Mapping - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4450019094/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-06
 
-### [Senior Software Engineer — WPT Home (Full-Stack)](https://www.linkedin.com/jobs/view/4443520411/) — Bellota Labs
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-08-05
+### [Senior AI Infrastructure Software Engineer - DGX Cloud](https://www.linkedin.com/jobs/view/4450015176/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-06
 
-### [Sr. II Backend Engineer, Mobile API](https://www.linkedin.com/jobs/view/4449966799/) — Slickdeals
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-05
+### [Senior Applied Scientist](https://www.linkedin.com/jobs/view/4450661628/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-06
 
-### [Senior Security Engineer (FedRAMP)](https://www.linkedin.com/jobs/view/4448075834/) — Protection Game
+### [Software Engineer, IR Data Products](https://www.linkedin.com/jobs/view/4450675451/) — Climactic
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-05
+- 🕒 **Posted:** 2026-08-06
 
-### [Lead AI / ML Engineer](https://www.linkedin.com/jobs/view/4449983983/) — Accenture
+### [Applied Scientist, Neuron ARG, Annapurna ML](https://www.linkedin.com/jobs/view/4450676286/) — Amazon
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Applied Scientist II, Perception](https://www.linkedin.com/jobs/view/4450662627/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Sr. Applied Scientist, Prime Video - Personalization and Discovery Science](https://www.linkedin.com/jobs/view/4450666515/) — Prime Video & Amazon MGM Studios
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Applied Scientist, Annapurna ML](https://www.linkedin.com/jobs/view/4450670430/) — Amazon
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Applied Scientist, Fauna Robotics](https://www.linkedin.com/jobs/view/4450662629/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Applied Scientist, Navigation](https://www.linkedin.com/jobs/view/4450668431/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Sr. Applied Scientist, Fauna](https://www.linkedin.com/jobs/view/4450672410/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Infrastructure Software Engineer, TensorRT Edge-LLM](https://www.linkedin.com/jobs/view/4450022045/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4450012212/) — Docusign
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Software Engineer II, AWS Continuum for code vulnerabilities](https://www.linkedin.com/jobs/view/4450676274/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [System Software Engineer, UEFI Firmware](https://www.linkedin.com/jobs/view/4450005705/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Software Engineer - Core team - San Jose, CA](https://www.linkedin.com/jobs/view/4450670859/) — ZEDEDA
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4450008448/) — QuietAgent
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Software Engineer, AWS Commercial Application Services](https://www.linkedin.com/jobs/view/4450671395/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4450024039/) — IXL Learning
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Software Engineer, iOS, Level 3](https://www.linkedin.com/jobs/view/4450659793/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Software Engineer - Near Aircraft Applications](https://www.linkedin.com/jobs/view/4450681222/) — Joby Aviation
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Data Scientist, Amazon Connect](https://www.linkedin.com/jobs/view/4450668415/) — Amazon Web Services (AWS)
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-05
+- 🕒 **Posted:** 2026-08-06
 
-### [Software Engineer, Application](https://www.linkedin.com/jobs/view/4449351938/) — LM Studio
+### [Applied Scientist, Amazon Connect](https://www.linkedin.com/jobs/view/4450668420/) — Amazon Web Services (AWS)
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-08-05
+- 🕒 **Posted:** 2026-08-06
 
-### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4448084257/) — Yonda Solutions
+### [Senior Software Engineer, AWS Container Registry](https://www.linkedin.com/jobs/view/4450680113/) — Amazon Web Services (AWS)
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-05
+- 🕒 **Posted:** 2026-08-06
 
-### [Lead z/OS Platform Engineer](https://www.linkedin.com/jobs/view/4449983943/) — Mastercard
-- 📍 **Location:** Purchase, NY
-- 🕒 **Posted:** 2026-08-05
+### [Software Engineer, Cost Optimization (Infrastructure)](https://www.linkedin.com/jobs/view/4450665959/) — Kustomer
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $130,000.00/yr - $215,000.00/yr
+- 🕒 **Posted:** 2026-08-06
+
+### [SEMICONDUCTOR DATA SCIENCE AND MACHINE LEARNING ENGINEER](https://www.linkedin.com/jobs/view/4450020090/) — Semiconductor Engineering
+- 📍 **Location:** Santa Rosa, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Computer Vision / Applied AI Engineer](https://www.linkedin.com/jobs/view/4450015123/) — SOSV HAX
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-06
+
+### [Software Engineer, Behavior](https://www.linkedin.com/jobs/view/4450676103/) — Pony.ai
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $120,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-08-06
+
+### [LLM Research Engineer](https://www.linkedin.com/jobs/view/4450007516/) — Cypress HCM
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Data Engine & Annotation Systems Engineer](https://www.linkedin.com/jobs/view/4450011209/) — SOSV HAX
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Data Scientist - Authentication](https://www.linkedin.com/jobs/view/4450001785/) — Roblox
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Data Scientist, Product Analytics - Creatives](https://www.linkedin.com/jobs/view/4450669082/) — Moloco
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Applied Scientist, Delivery Foundation Model](https://www.linkedin.com/jobs/view/4448477831/) — Amazon Science
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [EE Systems Engineer](https://www.linkedin.com/jobs/view/4450007509/) — Precision BioMEMS
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4450016112/) — Precision BioMEMS
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Software Engineer (Full-Stack / Product)](https://www.linkedin.com/jobs/view/4448450878/) — Hilbert
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Software Engineer 5 - Product Localization](https://www.linkedin.com/jobs/view/4448487164/) — Netflix
+- 📍 **Location:** Los Gatos, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Software Engineer - Studio Tools](https://www.linkedin.com/jobs/view/4450001782/) — Roblox
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Software Engineer - Warehouse](https://www.linkedin.com/jobs/view/4450657994/) — Snowflake
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Robotics Engineer](https://www.linkedin.com/jobs/view/4450020139/) — HYFIX
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Lead Software Engineer – Cloud Native Platforms (GCP)](https://www.linkedin.com/jobs/view/4450655782/) — Visa
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Manager - Data Science](https://www.linkedin.com/jobs/view/4450012083/) — American Express
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $123,000.00/yr - $215,250.00/yr
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Applied AI Scientist](https://www.linkedin.com/jobs/view/4450678064/) — Dadi Inc (acquired by Ro)
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Talent Pool: Trading Systems Engineer](https://www.linkedin.com/jobs/view/4448484372/) — Flow Traders
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Software Engineer, Frontend - Care Platform Clinical Workflows](https://www.linkedin.com/jobs/view/4450664412/) — Dadi Inc (acquired by Ro)
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior iOS Engineer](https://www.linkedin.com/jobs/view/4450677072/) — Dadi Inc (acquired by Ro)
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Software Engineer, Backend](https://www.linkedin.com/jobs/view/4450658914/) — Dadi Inc (acquired by Ro)
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Backend Engineer, Product](https://www.linkedin.com/jobs/view/4450672249/) — Dadi Inc (acquired by Ro)
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4450675166/) — Dadi Inc (acquired by Ro)
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Software Engineer, Frontend - Care Platform Operations](https://www.linkedin.com/jobs/view/4450673210/) — Dadi Inc (acquired by Ro)
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Application Security Engineer](https://www.linkedin.com/jobs/view/4450663292/) — PTR Global
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Data Engineer I - Amex Ads, Offers, and Dining Technology](https://www.linkedin.com/jobs/view/4450020020/) — American Express
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $123,000.00/yr - $215,250.00/yr
+- 🕒 **Posted:** 2026-08-06
