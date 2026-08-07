@@ -1,47 +1,28 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-07 19:34 UTC*
+*Last updated: 2026-08-07 20:12 UTC*
 
-**9 new role(s)** since last run · 167 total in last 24h
+**5 new role(s)** since last run · 164 total in last 24h
 
-### [Data Scientist, Firefly](https://www.indeed.com/viewjob?jk=71d04d8255a296c7) — Adobe
+### [(Mandarin Required) Java Backend Developer](https://www.indeed.com/viewjob?jk=668bc7e596f457fc) — Chuwa America Corporation
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $32–$37/hr
+- 🕒 **Posted:** 2026-08-07
+
+### [Software Engineering Technical Leader -- Secure Workload Agent](https://www.indeed.com/viewjob?jk=74b4912f26180b55) — Cisco
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $133k–$236k/yr
+- 💰 **Salary:** $192k–$356k/yr
 - 🕒 **Posted:** 2026-08-07
 
-### [Cloud Platform Engineer](https://www.indeed.com/viewjob?jk=798a5f2afe52ecba) — External SambaNova Systems
-- 📍 **Location:** Palo Alto, CA, US
-- 🕒 **Posted:** 2026-08-07
-
-### [Senior Backend Engineer (Community)](https://www.indeed.com/viewjob?jk=a8eaf763f84b9b59) — Papa
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $160k–$210k/yr
-- 🕒 **Posted:** 2026-08-07
-
-### [Union Mobile Engineer](https://www.indeed.com/viewjob?jk=a7a8d8a3aa4a7bb1) — JLL
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $152k/yr
-- 🕒 **Posted:** 2026-08-07
-
-### [Senior Security Engineer - McKinsey ID](https://www.indeed.com/viewjob?jk=cdd0eb4272b60468) — McKinsey & Company
+### [Frontend Senior Software Engineer- Angular v20+](https://www.indeed.com/viewjob?jk=8cb33a6bcfece505) — Cisco
 - 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $149k–$282k/yr
 - 🕒 **Posted:** 2026-08-07
 
-### [Senior Software Engineer, Build Oak](https://www.indeed.com/viewjob?jk=e164cab49c7383c5) — Alloy
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $166k–$209k/yr
+### [Senior Spacecraft Systems Engineer for Data Handling Subsystems](https://www.indeed.com/viewjob?jk=3b9c38c6ccb1a984) — Globalstar
+- 📍 **Location:** Milpitas, CA, US
 - 🕒 **Posted:** 2026-08-07
 
-### [Software Engineer II](https://www.indeed.com/viewjob?jk=85e0a83e531c025e) — Modus Closing
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $127k–$141k/yr
-- 🕒 **Posted:** 2026-08-07
-
-### [Senior Software Engineer with Strong Angular - W2 Role - In Person Interview/ Iselin,NJ](https://www.indeed.com/viewjob?jk=04689d48a0dbe4ef) — Tms Llc
-- 📍 **Location:** Woodbridge, NJ, US
-- 💰 **Salary:** $50–$52/mo
-- 🕒 **Posted:** 2026-08-07
-
-### [Data Engineer III/Senior (Analytics)](https://www.indeed.com/viewjob?jk=d01033a0167d6836) — Expeditors
-- 📍 **Location:** Edison, NJ, US
-- 💰 **Salary:** $130k–$170k/yr
+### [Senior Data Engineer](https://www.indeed.com/viewjob?jk=1c780bb7cb6c4cc0) — Prudential
+- 📍 **Location:** Newark, NJ, US
+- 💰 **Salary:** $104k–$172k/yr
 - 🕒 **Posted:** 2026-08-07
