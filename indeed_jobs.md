@@ -1,34 +1,47 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-07 18:27 UTC*
+*Last updated: 2026-08-07 19:34 UTC*
 
-**6 new role(s)** since last run · 167 total in last 24h
+**9 new role(s)** since last run · 167 total in last 24h
 
-### [AI Infrastructure Engineer](https://www.indeed.com/viewjob?jk=c0f2222f41c73768) — Intel Corporation
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $170k–$315k/yr
-- 🕒 **Posted:** 2026-08-07
-
-### [Fraud Strategy Data Scientist](https://www.indeed.com/viewjob?jk=e812f40d7208caf8) — BILL
+### [Data Scientist, Firefly](https://www.indeed.com/viewjob?jk=71d04d8255a296c7) — Adobe
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $96k–$135k/yr
-- 🕒 **Posted:** 2026-08-06
-
-### [Software Engineer 5 - Product Localization](https://www.indeed.com/viewjob?jk=79e9a2e0361e9744) — Netflix
-- 📍 **Location:** Los Gatos, CA, US
-- 💰 **Salary:** $388k–$558k/yr
-- 🕒 **Posted:** 2026-08-06
-
-### [Full Stack Software Engineer Next.js](https://www.indeed.com/viewjob?jk=7b502f21a9d3b1dd) — FORTUNE
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $68k–$185k/yr
+- 💰 **Salary:** $133k–$236k/yr
 - 🕒 **Posted:** 2026-08-07
 
-### [Data Engineer - Hybrid On-Site](https://www.indeed.com/viewjob?jk=2ce725dc0522c974) — NTT DATA
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $123k–$137k/yr
-- 🕒 **Posted:** 2026-08-06
+### [Cloud Platform Engineer](https://www.indeed.com/viewjob?jk=798a5f2afe52ecba) — External SambaNova Systems
+- 📍 **Location:** Palo Alto, CA, US
+- 🕒 **Posted:** 2026-08-07
 
-### [AI Cybersecurity Engineer](https://www.indeed.com/viewjob?jk=dc03f542e61c4701) — AT&T
-- 📍 **Location:** Middletown, NJ, US
-- 💰 **Salary:** $155k–$261k/yr
+### [Senior Backend Engineer (Community)](https://www.indeed.com/viewjob?jk=a8eaf763f84b9b59) — Papa
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $160k–$210k/yr
+- 🕒 **Posted:** 2026-08-07
+
+### [Union Mobile Engineer](https://www.indeed.com/viewjob?jk=a7a8d8a3aa4a7bb1) — JLL
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $152k/yr
+- 🕒 **Posted:** 2026-08-07
+
+### [Senior Security Engineer - McKinsey ID](https://www.indeed.com/viewjob?jk=cdd0eb4272b60468) — McKinsey & Company
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-08-07
+
+### [Senior Software Engineer, Build Oak](https://www.indeed.com/viewjob?jk=e164cab49c7383c5) — Alloy
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $166k–$209k/yr
+- 🕒 **Posted:** 2026-08-07
+
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=85e0a83e531c025e) — Modus Closing
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $127k–$141k/yr
+- 🕒 **Posted:** 2026-08-07
+
+### [Senior Software Engineer with Strong Angular - W2 Role - In Person Interview/ Iselin,NJ](https://www.indeed.com/viewjob?jk=04689d48a0dbe4ef) — Tms Llc
+- 📍 **Location:** Woodbridge, NJ, US
+- 💰 **Salary:** $50–$52/mo
+- 🕒 **Posted:** 2026-08-07
+
+### [Data Engineer III/Senior (Analytics)](https://www.indeed.com/viewjob?jk=d01033a0167d6836) — Expeditors
+- 📍 **Location:** Edison, NJ, US
+- 💰 **Salary:** $130k–$170k/yr
 - 🕒 **Posted:** 2026-08-07
