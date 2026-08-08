@@ -1,21 +1,88 @@
 {
-  "scraped_at": "2026-08-08 02:30 UTC",
-  "total": 22,
-  "new_count": 22,
+  "scraped_at": "2026-08-08 03:53 UTC",
+  "total": 20,
+  "new_count": 19,
   "jobs": [
     {
-      "company": "PlusAI",
-      "title": "Senior Machine Learning Engineer, Perception",
+      "company": "Meta",
+      "title": "Software Engineer, Systems ML",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451045075/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn",
+      "salary": "$183,997.00/yr - $257,000.00/yr"
+    },
+    {
+      "company": "Cisco",
+      "title": "Software Engineering Technical Leader",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450557342/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Stealth Startup",
+      "title": "Robotics Systems Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450394521/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "WEM AQM Prompt Engineer",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4443485390/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior ML Engineer, Perception Research",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450551540/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "AMD",
+      "title": "Sr. Software Engineer - AI Triton Kernels",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451025616/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn",
+      "salary": "$145,600.00/yr - $218,400.00/yr"
+    },
+    {
+      "company": "AMD",
+      "title": "Sr. Software Engineer - AI Triton Communication",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451020810/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn",
+      "salary": "$164,000.00/yr - $246,000.00/yr"
+    },
+    {
+      "company": "XPENG Jordan",
+      "title": "Senior Machine Learning Engineer - AI Foundation",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451012817/",
+      "url": "https://www.linkedin.com/jobs/view/4450522880/",
       "date_posted": "2026-08-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "PlusAI",
-      "title": "Senior Research Engineer, Controls",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417440316/",
+      "company": "Waymo",
+      "title": "Senior Software Engineer, Planner Evaluation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427228460/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Software Engineer, Planner Evaluation",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427222537/",
       "date_posted": "2026-08-07",
       "ats": "LinkedIn"
     },
@@ -23,159 +90,77 @@
       "company": "Lambda",
       "title": "IT Systems Engineer - Internal Platforms & SRE",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451009867/",
+      "url": "https://www.linkedin.com/jobs/view/4451035449/",
       "date_posted": "2026-08-07",
       "ats": "LinkedIn",
       "salary": "$206,000.00/yr - $275,000.00/yr"
     },
     {
-      "company": "Salesforce",
-      "title": "Data Engineer - Senior/Lead",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450523337/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lambda",
-      "title": "IT Systems Engineer - Internal Platforms & SRE",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451010862/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn",
-      "salary": "$206,000.00/yr - $275,000.00/yr"
-    },
-    {
-      "company": "Lambda",
-      "title": "IT Systems Engineer - Internal Platforms & SRE",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451027344/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn",
-      "salary": "$206,000.00/yr - $275,000.00/yr"
-    },
-    {
-      "company": "Knowtex",
-      "title": "Software Engineer (Applications Engineering)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451007919/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Align Technology",
-      "title": "Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450526425/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn",
-      "salary": "$141,300.00/yr - $194,400.00/yr"
-    },
-    {
-      "company": "Advergrid",
-      "title": "Software Developer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450514840/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Client",
-      "title": "Senior Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450509954/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lambda",
-      "title": "Senior Software Engineer - Fleet Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451012820/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn",
-      "salary": "$225,000.00/yr - $395,000.00/yr"
-    },
-    {
-      "company": "Lambda",
-      "title": "Senior Software Engineer - Fleet Engineering",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451016634/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn",
-      "salary": "$225,000.00/yr - $395,000.00/yr"
-    },
-    {
-      "company": "Scribd, Inc.",
-      "title": "Senior Software Engineer (Frontend) - Scribd Core",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451014592/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "iOS Engineer II - Earner Trip Experience",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451016451/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Android Engineer II - Earner Trip Experience",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451006858/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Android Engineer II - Earner Trip Experience",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451028060/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "iOS Engineer II - Earner Trip Experience",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451012618/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Color",
-      "title": "Senior IT Systems Engineer",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451011599/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NexHealth",
-      "title": "Senior IT Systems Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450532292/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Payarc",
-      "title": "Software Engineer II-Hybrid Role",
-      "location": "Greenwich, CT",
-      "url": "https://www.linkedin.com/jobs/view/4450511951/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scribd, Inc.",
-      "title": "Senior Software Engineer (Frontend) - Scribd Core",
+      "company": "Meta",
+      "title": "Software Engineer, Systems ML",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4451029080/",
+      "url": "https://www.linkedin.com/jobs/view/4451032437/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn",
+      "salary": "$183,997.00/yr - $257,000.00/yr"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior ML Engineer, Perception Research",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4450558191/",
       "date_posted": "2026-08-07",
       "ats": "LinkedIn"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, Product",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451024907/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn",
+      "salary": "$183,997.00/yr - $257,000.00/yr"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Software Engineer - AI Development",
+      "location": "Rahway, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4450535902/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Quiet Capital",
+      "title": "Software Engineer, Growth",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4450536873/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "WEM AQM Prompt Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4443476420/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Senior Lead Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4450539869/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Java Kafka Software Engineer III",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4451037103/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn",
+      "salary": "$133,000.00/yr - $185,000.00/yr"
     },
     {
       "company": "Hyra",
@@ -188,18 +173,85 @@
   ],
   "new_jobs": [
     {
-      "company": "PlusAI",
-      "title": "Senior Machine Learning Engineer, Perception",
+      "company": "Meta",
+      "title": "Software Engineer, Systems ML",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451045075/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn",
+      "salary": "$183,997.00/yr - $257,000.00/yr"
+    },
+    {
+      "company": "Cisco",
+      "title": "Software Engineering Technical Leader",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450557342/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Stealth Startup",
+      "title": "Robotics Systems Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450394521/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "WEM AQM Prompt Engineer",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4443485390/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior ML Engineer, Perception Research",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450551540/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "AMD",
+      "title": "Sr. Software Engineer - AI Triton Kernels",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451025616/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn",
+      "salary": "$145,600.00/yr - $218,400.00/yr"
+    },
+    {
+      "company": "AMD",
+      "title": "Sr. Software Engineer - AI Triton Communication",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451020810/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn",
+      "salary": "$164,000.00/yr - $246,000.00/yr"
+    },
+    {
+      "company": "XPENG Jordan",
+      "title": "Senior Machine Learning Engineer - AI Foundation",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451012817/",
+      "url": "https://www.linkedin.com/jobs/view/4450522880/",
       "date_posted": "2026-08-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "PlusAI",
-      "title": "Senior Research Engineer, Controls",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417440316/",
+      "company": "Waymo",
+      "title": "Senior Software Engineer, Planner Evaluation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427228460/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Software Engineer, Planner Evaluation",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427222537/",
       "date_posted": "2026-08-07",
       "ats": "LinkedIn"
     },
@@ -207,167 +259,77 @@
       "company": "Lambda",
       "title": "IT Systems Engineer - Internal Platforms & SRE",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451009867/",
+      "url": "https://www.linkedin.com/jobs/view/4451035449/",
       "date_posted": "2026-08-07",
       "ats": "LinkedIn",
       "salary": "$206,000.00/yr - $275,000.00/yr"
     },
     {
-      "company": "Salesforce",
-      "title": "Data Engineer - Senior/Lead",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450523337/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lambda",
-      "title": "IT Systems Engineer - Internal Platforms & SRE",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451010862/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn",
-      "salary": "$206,000.00/yr - $275,000.00/yr"
-    },
-    {
-      "company": "Lambda",
-      "title": "IT Systems Engineer - Internal Platforms & SRE",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451027344/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn",
-      "salary": "$206,000.00/yr - $275,000.00/yr"
-    },
-    {
-      "company": "Knowtex",
-      "title": "Software Engineer (Applications Engineering)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451007919/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Align Technology",
-      "title": "Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450526425/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn",
-      "salary": "$141,300.00/yr - $194,400.00/yr"
-    },
-    {
-      "company": "Advergrid",
-      "title": "Software Developer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450514840/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Client",
-      "title": "Senior Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450509954/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lambda",
-      "title": "Senior Software Engineer - Fleet Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451012820/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn",
-      "salary": "$225,000.00/yr - $395,000.00/yr"
-    },
-    {
-      "company": "Lambda",
-      "title": "Senior Software Engineer - Fleet Engineering",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451016634/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn",
-      "salary": "$225,000.00/yr - $395,000.00/yr"
-    },
-    {
-      "company": "Scribd, Inc.",
-      "title": "Senior Software Engineer (Frontend) - Scribd Core",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451014592/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "iOS Engineer II - Earner Trip Experience",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451016451/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Android Engineer II - Earner Trip Experience",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451006858/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Android Engineer II - Earner Trip Experience",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451028060/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "iOS Engineer II - Earner Trip Experience",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451012618/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Color",
-      "title": "Senior IT Systems Engineer",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451011599/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NexHealth",
-      "title": "Senior IT Systems Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450532292/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Payarc",
-      "title": "Software Engineer II-Hybrid Role",
-      "location": "Greenwich, CT",
-      "url": "https://www.linkedin.com/jobs/view/4450511951/",
-      "date_posted": "2026-08-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scribd, Inc.",
-      "title": "Senior Software Engineer (Frontend) - Scribd Core",
+      "company": "Meta",
+      "title": "Software Engineer, Systems ML",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4451029080/",
+      "url": "https://www.linkedin.com/jobs/view/4451032437/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn",
+      "salary": "$183,997.00/yr - $257,000.00/yr"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior ML Engineer, Perception Research",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4450558191/",
       "date_posted": "2026-08-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "Hyra",
-      "title": "Platform Engineer",
+      "company": "Meta",
+      "title": "Software Engineer, Product",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4449791675/",
+      "url": "https://www.linkedin.com/jobs/view/4451024907/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn",
+      "salary": "$183,997.00/yr - $257,000.00/yr"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Software Engineer - AI Development",
+      "location": "Rahway, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4450535902/",
       "date_posted": "2026-08-07",
       "ats": "LinkedIn"
+    },
+    {
+      "company": "Quiet Capital",
+      "title": "Software Engineer, Growth",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4450536873/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "WEM AQM Prompt Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4443476420/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Senior Lead Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4450539869/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Java Kafka Software Engineer III",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4451037103/",
+      "date_posted": "2026-08-07",
+      "ats": "LinkedIn",
+      "salary": "$133,000.00/yr - $185,000.00/yr"
     }
   ]
 }
