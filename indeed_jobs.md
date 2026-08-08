@@ -1,18 +1,18 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-07 23:10 UTC*
+*Last updated: 2026-08-08 00:03 UTC*
 
-**3 new role(s)** since last run · 149 total in last 24h
+**3 new role(s)** since last run · 144 total in last 24h
 
-### [Software Engineer, Systems ML](https://www.indeed.com/viewjob?jk=f3acdc543338dc19) — Meta
+### [Biostatistician (Translational and Exploratory Biostatistics)](https://www.indeed.com/viewjob?jk=2e57f0eccc75c5c3) — Genentech
 - 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-08-06
+
+### [Software Engineer, Systems ML](https://www.indeed.com/viewjob?jk=de5374b9ff4e3b94) — Meta
+- 📍 **Location:** New York, NY, US
 - 💰 **Salary:** $184k–$257k/yr
 - 🕒 **Posted:** 2023-06-08
 
-### [Software Engineer II-Hybrid Role](https://www.indeed.com/viewjob?jk=6b2d1082065c54ae) — Unknown
-- 📍 **Location:** Greenwich, CT, US
-- 🕒 **Posted:** 2026-08-07
-
-### [Sr. Software Engineer](https://www.indeed.com/viewjob?jk=8d4f8314fc2d2de7) — NBCUniversal
+### [Data Engineer](https://www.indeed.com/viewjob?jk=ed22eda65784e991) — Daymark Health
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $120k–$170k/yr
+- 💰 **Salary:** $140k–$160k/yr
 - 🕒 **Posted:** 2026-08-07
