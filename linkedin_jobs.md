@@ -1,125 +1,98 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-08 00:02 UTC*
+*Last updated: 2026-08-08 02:30 UTC*
 
-**29 new role(s)** since last run · 45 total in last 1h
+**22 new role(s)** since last run · 22 total in last 1h
 
-### [Applied Scientist, Alexa-PAPI](https://www.linkedin.com/jobs/view/4450794710/) — Amazon
+### [Senior Machine Learning Engineer, Perception](https://www.linkedin.com/jobs/view/4451012817/) — PlusAI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Senior Research Engineer, Controls](https://www.linkedin.com/jobs/view/4417440316/) — PlusAI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [IT Systems Engineer - Internal Platforms & SRE](https://www.linkedin.com/jobs/view/4451009867/) — Lambda
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $206,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-07
+
+### [Data Engineer - Senior/Lead](https://www.linkedin.com/jobs/view/4450523337/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [IT Systems Engineer - Internal Platforms & SRE](https://www.linkedin.com/jobs/view/4451010862/) — Lambda
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $206,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-07
+
+### [IT Systems Engineer - Internal Platforms & SRE](https://www.linkedin.com/jobs/view/4451027344/) — Lambda
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $206,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-07
+
+### [Software Engineer (Applications Engineering)](https://www.linkedin.com/jobs/view/4451007919/) — Knowtex
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4450526425/) — Align Technology
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $141,300.00/yr - $194,400.00/yr
+- 🕒 **Posted:** 2026-08-07
+
+### [Software Developer](https://www.linkedin.com/jobs/view/4450514840/) — Advergrid
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4450509954/) — Client
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Senior Software Engineer - Fleet Engineering](https://www.linkedin.com/jobs/view/4451012820/) — Lambda
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $225,000.00/yr - $395,000.00/yr
+- 🕒 **Posted:** 2026-08-07
+
+### [Senior Software Engineer - Fleet Engineering](https://www.linkedin.com/jobs/view/4451016634/) — Lambda
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $225,000.00/yr - $395,000.00/yr
+- 🕒 **Posted:** 2026-08-07
+
+### [Senior Software Engineer (Frontend) - Scribd Core](https://www.linkedin.com/jobs/view/4451014592/) — Scribd, Inc.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [iOS Engineer II - Earner Trip Experience](https://www.linkedin.com/jobs/view/4451016451/) — Uber
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Android Engineer II - Earner Trip Experience](https://www.linkedin.com/jobs/view/4451006858/) — Uber
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Android Engineer II - Earner Trip Experience](https://www.linkedin.com/jobs/view/4451028060/) — Uber
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-07
 
-### [Applied Scientist, Alexa for Shopping (Rufus) Experience Science](https://www.linkedin.com/jobs/view/4450794714/) — Amazon
-- 📍 **Location:** Palo Alto, CA
+### [iOS Engineer II - Earner Trip Experience](https://www.linkedin.com/jobs/view/4451012618/) — Uber
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-07
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4451000503/) — Weill Cornell Medicine
+### [Senior IT Systems Engineer](https://www.linkedin.com/jobs/view/4451011599/) — Color
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Senior IT Systems Engineer](https://www.linkedin.com/jobs/view/4450532292/) — NexHealth
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Software Engineer II-Hybrid Role](https://www.linkedin.com/jobs/view/4450511951/) — Payarc
+- 📍 **Location:** Greenwich, CT
+- 🕒 **Posted:** 2026-08-07
+
+### [Senior Software Engineer (Frontend) - Scribd Core](https://www.linkedin.com/jobs/view/4451029080/) — Scribd, Inc.
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-07
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4450501346/) — Athena
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-07
-
-### [Software Engineer, Workflows](https://www.linkedin.com/jobs/view/4372135667/) — Vercel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Java / UI Full Stack Engineer](https://www.linkedin.com/jobs/view/4450395339/) — Quest Global
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Software Engineer, Deployment Infrastructure](https://www.linkedin.com/jobs/view/4343003573/) — Vercel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Software Engineer, iOS](https://www.linkedin.com/jobs/view/4450796558/) — Tinder
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $165,000.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-08-07
-
-### [Software Engineer, iOS](https://www.linkedin.com/jobs/view/4450796559/) — Tinder
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $165,000.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-08-07
-
-### [Azure Cloud Engineer](https://www.linkedin.com/jobs/view/4450392548/) — Nelson Connects
-- 📍 **Location:** Santa Rosa, CA
-- 💰 **Salary:** $115,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-08-07
-
-### [Senior System Software Engineer, Automotive Performance](https://www.linkedin.com/jobs/view/4450397560/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Senior GPU System Software Engineer](https://www.linkedin.com/jobs/view/4450507093/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Senior Software Engineer, Unified Access Management Platform](https://www.linkedin.com/jobs/view/4450504290/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Senior Software Engineer (AI-Native)](https://www.linkedin.com/jobs/view/4450500313/) — B-Stock
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $145,000.00/yr - $175,000.00/yr
-- 🕒 **Posted:** 2026-08-07
-
-### [Software Engineer - Data Platform](https://www.linkedin.com/jobs/view/4450384807/) — Verkada
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Senior Software Engineer, Grid Communications & Platform](https://www.linkedin.com/jobs/view/4450397052/) — Convective
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [DevOps Security Engineer](https://www.linkedin.com/jobs/view/4450381878/) — Quest Global
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Sr Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4450788819/) — Happen Bank
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Presales Systems Engineer - HPE Networking (Northern California)](https://www.linkedin.com/jobs/view/4450780969/) — HPE Aruba Networking
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Presales Systems Engineer - HPE Networking (Northern California)](https://www.linkedin.com/jobs/view/4450796291/) — HPE Aruba Networking
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Presales Systems Engineer - HPE Networking (Northern California)](https://www.linkedin.com/jobs/view/4450797291/) — HPE Aruba Networking
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Presales Systems Engineer - HPE Networking (Northern California)](https://www.linkedin.com/jobs/view/4451000132/) — HPE Aruba Networking
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Data Engineer (AI Pipelines)](https://www.linkedin.com/jobs/view/4450794492/) — DeWinter Group
-- 📍 **Location:** Campbell, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Senior Applied Scientist, LLM Code Agents, Kiro Science](https://www.linkedin.com/jobs/view/4449230747/) — Amazon Science
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4450798519/) — Benchstrength
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-07
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4450389679/) — Momi US
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-08-07
-
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4450388536/) — The Phoenix Group®
-- 📍 **Location:** Westchester County, NY
-- 🕒 **Posted:** 2026-08-07
-
-### [Software Engineer II - Integrated Services](https://www.linkedin.com/jobs/view/4450789754/) — Compass Real Estate - Peninsula
-- 📍 **Location:** Manhattan, NY
-- 🕒 **Posted:** 2026-08-07
-
-### [IT/OT Security Engineer & Incident Response Manager](https://www.linkedin.com/jobs/view/4450397077/) — 1440 Foods
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4449791675/) — Hyra
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-07
