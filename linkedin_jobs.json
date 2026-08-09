@@ -1,101 +1,13 @@
 {
-  "scraped_at": "2026-08-09 18:01 UTC",
-  "total": 20,
-  "new_count": 8,
+  "scraped_at": "2026-08-09 19:13 UTC",
+  "total": 21,
+  "new_count": 16,
   "jobs": [
     {
-      "company": "Microsoft",
-      "title": "Senior Software Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424704751/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Senior Software Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423597581/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Senior Software Engineer, Product",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450972115/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Glean",
-      "title": "Software Engineer, Fullstack",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4195259082/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Senior Software Engineer - DPU Integrations",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4434010394/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Palo Alto Networks",
-      "title": "Sr. Software Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4371999488/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Early Warning",
-      "title": "Sr Software Engineer - Platform Security",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414635348/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "NVIDIA",
-      "title": "Software Engineer, CAD Automation",
+      "title": "Senior Deep Learning Engineering - Autonomous Vehicles",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424494288/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "Software Engineer, Starlink Network",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4384549082/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AIJobs.ai",
-      "title": "Full Stack Engineer (Frontend & Android Focus)",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450987035/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Mobile Engineer (iOS / Android)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450993082/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Senior Full Stack Software Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450974005/",
+      "url": "https://www.linkedin.com/jobs/view/4414782192/",
       "date_posted": "2026-08-09",
       "ats": "LinkedIn"
     },
@@ -108,6 +20,38 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415383072/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead Software Engineer (Golang + EKS,  Kubernetes, LLM's + Agentic flows + control/data planes)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415805235/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, RL Post-Training Frameworks",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405047530/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Developer Advocate \u2013 Reinforcement Learning",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415138367/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "NVIDIA",
       "title": "Senior Software Engineer, Mapping - Autonomous Vehicles",
       "location": "Santa Clara, CA",
@@ -116,35 +60,42 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Insight Global",
-      "title": "Senior Security Engineer",
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, DL Libraries Infrastructure",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404490678/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Software Engineer, Agentic Systems - Moveworks",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423551554/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Mobile Engineer (iOS / Android)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450993082/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead Software Engineer, Back-End Distributed Systems (AWS, Go, Kubernetes, MCP, Lua, Python)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450963082/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $200,000.00/yr"
-    },
-    {
-      "company": "WireScreen",
-      "title": "Machine Learning Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4434025418/",
+      "url": "https://www.linkedin.com/jobs/view/4425127176/",
       "date_posted": "2026-08-09",
       "ats": "LinkedIn"
     },
     {
-      "company": "Warner Bros. Discovery",
-      "title": "Manager, Machine Learning Engineering",
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4434049260/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SAIC",
-      "title": "Software Engineer",
-      "location": "Lakehurst, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4415335581/",
+      "url": "https://www.linkedin.com/jobs/view/4415368887/",
       "date_posted": "2026-08-09",
       "ats": "LinkedIn"
     },
@@ -158,9 +109,66 @@
     },
     {
       "company": "Capital One",
-      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
+      "title": "Manager, Data Scientist - US Card (Resiliency Intelligence)",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4415368887/",
+      "url": "https://www.linkedin.com/jobs/view/4415883181/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Bloomberg",
+      "title": "Senior Software Engineer - Base Layers",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4366068552/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn",
+      "salary": "$160,000.00/yr - $240,000.00/yr"
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Mobile Engineer (iOS / Android)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4450983098/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Direct-Calls.com",
+      "title": "Remote Software Engineer (New Grad) \u2014 AI & Production at Realm",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451362295/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Data Engineer (Bank Tech)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4434220646/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cboe Global Markets",
+      "title": "Senior Cloud Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4374745862/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Progyny, Inc.",
+      "title": "Software Engineer II",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4414936186/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BNY",
+      "title": "Corporate Security Engineering \u2013 Lead Engineer Role",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4414994065/",
       "date_posted": "2026-08-09",
       "ats": "LinkedIn"
     }
@@ -168,65 +176,130 @@
   "new_jobs": [
     {
       "company": "NVIDIA",
-      "title": "Software Engineer, CAD Automation",
+      "title": "Senior Deep Learning Engineering - Autonomous Vehicles",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424494288/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AIJobs.ai",
-      "title": "Full Stack Engineer (Frontend & Android Focus)",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450987035/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Mobile Engineer (iOS / Android)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450993082/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer - Autonomous Driving",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4433406997/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, Mapping - Autonomous Vehicles",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4433426394/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SAIC",
-      "title": "Software Engineer",
-      "location": "Lakehurst, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4415335581/",
-      "date_posted": "2026-08-09",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Goldman Sachs",
-      "title": "Corporate Treasury, Payments Platform, Software Engineering, Associate, NY",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4415088729/",
+      "url": "https://www.linkedin.com/jobs/view/4414782192/",
       "date_posted": "2026-08-09",
       "ats": "LinkedIn"
     },
     {
       "company": "Capital One",
       "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415383072/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead Software Engineer (Golang + EKS,  Kubernetes, LLM's + Agentic flows + control/data planes)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415805235/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, RL Post-Training Frameworks",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405047530/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Developer Advocate \u2013 Reinforcement Learning",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415138367/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, DL Libraries Infrastructure",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404490678/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Software Engineer, Agentic Systems - Moveworks",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423551554/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead Software Engineer, Back-End Distributed Systems (AWS, Go, Kubernetes, MCP, Lua, Python)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425127176/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Manager, Data Scientist - US Card (Resiliency Intelligence)",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4415368887/",
+      "url": "https://www.linkedin.com/jobs/view/4415883181/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Bloomberg",
+      "title": "Senior Software Engineer - Base Layers",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4366068552/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn",
+      "salary": "$160,000.00/yr - $240,000.00/yr"
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Mobile Engineer (iOS / Android)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4450983098/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Direct-Calls.com",
+      "title": "Remote Software Engineer (New Grad) \u2014 AI & Production at Realm",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451362295/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Data Engineer (Bank Tech)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4434220646/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cboe Global Markets",
+      "title": "Senior Cloud Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4374745862/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Progyny, Inc.",
+      "title": "Software Engineer II",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4414936186/",
+      "date_posted": "2026-08-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BNY",
+      "title": "Corporate Security Engineering \u2013 Lead Engineer Role",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4414994065/",
       "date_posted": "2026-08-09",
       "ats": "LinkedIn"
     }

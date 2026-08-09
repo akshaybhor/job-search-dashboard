@@ -1,36 +1,69 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-09 18:01 UTC*
+*Last updated: 2026-08-09 19:13 UTC*
 
-**8 new role(s)** since last run · 20 total in last 1h
+**16 new role(s)** since last run · 21 total in last 1h
 
-### [Software Engineer, CAD Automation](https://www.linkedin.com/jobs/view/4424494288/) — NVIDIA
+### [Senior Deep Learning Engineering - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4414782192/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-09
 
-### [Full Stack Engineer (Frontend & Android Focus)](https://www.linkedin.com/jobs/view/4450987035/) — AIJobs.ai
-- 📍 **Location:** San Mateo, CA
+### [Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4415383072/) — Capital One
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-09
 
-### [Mobile Engineer (iOS / Android)](https://www.linkedin.com/jobs/view/4450993082/) — Evlo AI
+### [Senior Lead Software Engineer (Golang + EKS,  Kubernetes, LLM's + Agentic flows + control/data planes)](https://www.linkedin.com/jobs/view/4415805235/) — Capital One
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-09
 
-### [Senior Software Engineer - Autonomous Driving](https://www.linkedin.com/jobs/view/4433406997/) — NVIDIA
+### [Senior Software Engineer, RL Post-Training Frameworks](https://www.linkedin.com/jobs/view/4405047530/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-09
 
-### [Senior Software Engineer, Mapping - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4433426394/) — NVIDIA
+### [Developer Advocate – Reinforcement Learning](https://www.linkedin.com/jobs/view/4415138367/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-09
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4415335581/) — SAIC
-- 📍 **Location:** Lakehurst, NJ
+### [Senior Software Engineer, DL Libraries Infrastructure](https://www.linkedin.com/jobs/view/4404490678/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-09
 
-### [Corporate Treasury, Payments Platform, Software Engineering, Associate, NY](https://www.linkedin.com/jobs/view/4415088729/) — Goldman Sachs
+### [Senior Software Engineer, Agentic Systems - Moveworks](https://www.linkedin.com/jobs/view/4423551554/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-09
+
+### [Senior Lead Software Engineer, Back-End Distributed Systems (AWS, Go, Kubernetes, MCP, Lua, Python)](https://www.linkedin.com/jobs/view/4425127176/) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-09
+
+### [Manager, Data Scientist - US Card (Resiliency Intelligence)](https://www.linkedin.com/jobs/view/4415883181/) — Capital One
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-09
 
-### [Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4415368887/) — Capital One
+### [Senior Software Engineer - Base Layers](https://www.linkedin.com/jobs/view/4366068552/) — Bloomberg
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $160,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-08-09
+
+### [Mobile Engineer (iOS / Android)](https://www.linkedin.com/jobs/view/4450983098/) — Evlo AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-09
+
+### [Remote Software Engineer (New Grad) — AI & Production at Realm](https://www.linkedin.com/jobs/view/4451362295/) — Direct-Calls.com
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-09
+
+### [Lead Data Engineer (Bank Tech)](https://www.linkedin.com/jobs/view/4434220646/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-09
+
+### [Senior Cloud Engineer](https://www.linkedin.com/jobs/view/4374745862/) — Cboe Global Markets
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-09
+
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4414936186/) — Progyny, Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-09
+
+### [Corporate Security Engineering – Lead Engineer Role](https://www.linkedin.com/jobs/view/4414994065/) — BNY
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-09
