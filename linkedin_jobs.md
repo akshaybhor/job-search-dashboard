@@ -1,84 +1,110 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-11 02:37 UTC*
+*Last updated: 2026-08-11 04:51 UTC*
 
-**19 new role(s)** since last run · 20 total in last 1h
+**24 new role(s)** since last run · 24 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4452171099/) — HappyRobot
-- 📍 **Location:** San Francisco, CA
+### [Applied Scientist](https://www.linkedin.com/jobs/view/4451606630/) — Siemens
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-10
 
-### [Software Engineer - Data Infrastructure](https://www.linkedin.com/jobs/view/4452126947/) — Luma
+### [Senior Advanced AI Research Engineer](https://www.linkedin.com/jobs/view/4452179811/) — Accenture
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-10
+
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4451605499/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-08-10
+
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4452193293/) — Johnson & Johnson MedTech
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-10
+
+### [Sr. Manager,  Gen AI Software Engineering](https://www.linkedin.com/jobs/view/4439604780/) — Thermo Fisher Scientific
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-08-10
+
+### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4451629118/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-10
+
+### [Senior Software Engineer, Cloud Reliability](https://www.linkedin.com/jobs/view/4451620488/) — Zilliz
 - 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $170,000.00/yr - $360,000.00/yr
+- 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
 - 🕒 **Posted:** 2026-08-10
 
-### [Open Source Research Software Engineer: Product (0652) Job #88105 - BIDS](https://www.linkedin.com/jobs/view/4452154163/) — University of California, Berkeley
-- 📍 **Location:** Berkeley, CA
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4451613442/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-08-10
 
-### [Platform Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4434741975/) — Wispr Flow
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $220,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-08-10
-
-### [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/4452151402/) — MeeBoss
+### [Platform Engineer: Platform Enablement](https://www.linkedin.com/jobs/view/4451628212/) — Sapphire Partners
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-10
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4451485828/) — Renew Financial
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $170,000.00/yr - $200,000.00/yr
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4451609494/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-08-10
 
-### [Software Engineer Graduate (E-Commerce) - 2027 Start](https://www.linkedin.com/jobs/view/4451498924/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
+### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4451621453/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-08-10
 
-### [Senior Software Engineer, Infrastructure, Managed Spark Platform and Foundations](https://www.linkedin.com/jobs/view/4452141155/) — Google
+### [Software Engineer I SDK](https://www.linkedin.com/jobs/view/4451610670/) — Sony Interactive Entertainment
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-08-10
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4450367240/) — Nova Ltd.
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-08-10
+
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4451624419/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-08-10
+
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4451627205/) — Walmart Global Tech
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-10
 
-### [Senior Software Engineer, Linux Kernel Networking](https://www.linkedin.com/jobs/view/4452135249/) — Google
-- 📍 **Location:** Sunnyvale, CA
+### [Senior Full-Stack Engineer](https://www.linkedin.com/jobs/view/4449091076/) — LeanData
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-10
 
-### [Sr Front-End Engineer - Campaign Experiences](https://www.linkedin.com/jobs/view/4452134314/) — The Trade Desk
+### [Senior Software Engineer, Database Systems](https://www.linkedin.com/jobs/view/4451613527/) — Zilliz
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $175,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-08-10
+
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4451625410/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-08-10
+
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4451619430/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-08-10
+
+### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4451616418/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-08-10
+
+### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4452195338/) — Kikoff
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-10
 
-### [Sr Front-End Engineer - Campaign Experiences](https://www.linkedin.com/jobs/view/4452148120/) — The Trade Desk
-- 📍 **Location:** San Jose, CA
+### [Data Scientist](https://www.linkedin.com/jobs/view/4451625573/) — ALGOTEQUE Innovation Hub
+- 📍 **Location:** Rahway, NJ
 - 🕒 **Posted:** 2026-08-10
 
-### [Senior Corporate Security Engineer](https://www.linkedin.com/jobs/view/4452136534/) — Robinhood
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-10
-
-### [Senior Associate, Data Scientist -  Alternative Data Strategy](https://www.linkedin.com/jobs/view/4451481628/) — Capital One
+### [Data Scientist, Finance Data & Insights](https://www.linkedin.com/jobs/view/4452180546/) — Spotify
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-10
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4452159202/) — Ostium
+### [2027 Graduate Software Engineer (DV Commodities)](https://www.linkedin.com/jobs/view/4451616486/) — DV Trading LLC
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-10
-
-### [Backend Engineer (Pricing, Entity)](https://www.linkedin.com/jobs/view/4452160175/) — Ostium
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-10
-
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4452156231/) — Ostium
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-10
-
-### [Analytics Engineer](https://www.linkedin.com/jobs/view/4441827850/) — Profound
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-10
-
-### [Software Developer](https://www.linkedin.com/jobs/view/4452163520/) — Integral Federal, Inc.
-- 📍 **Location:** Morris County, NJ
-- 🕒 **Posted:** 2026-08-10
-
-### [Senior Software Engineer - Fullstack](https://www.linkedin.com/jobs/view/4425304771/) — Brigit
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $170,000.00/yr - $190,000.00/yr
 - 🕒 **Posted:** 2026-08-10
