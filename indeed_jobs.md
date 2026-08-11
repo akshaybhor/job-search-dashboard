@@ -1,32 +1,77 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-11 17:32 UTC*
+*Last updated: 2026-08-11 18:31 UTC*
 
-**6 new role(s)** since last run · 156 total in last 24h
+**15 new role(s)** since last run · 168 total in last 24h
 
-### [Data Scientist](https://www.indeed.com/viewjob?jk=ceba3ee1566335ab) — SageSure
-- 📍 **Location:** Fairfield, CA, US
+### [Lead AI/ML Engineer - Remote](https://www.indeed.com/viewjob?jk=0fc58bca2c47f968) — Optum
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $146k–$250k/yr
 - 🕒 **Posted:** 2026-08-11
 
-### [Software Engineer (Generalist)](https://www.indeed.com/viewjob?jk=4b993c6ebf24c187) — Unknown
+### [FinOps AI / ML Engineer Manager](https://www.indeed.com/viewjob?jk=20a75b6451d15490) — Accenture
 - 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $87k–$294k/yr
 - 🕒 **Posted:** 2026-08-11
 
-### [Software Engineer II, Frontend](https://www.indeed.com/viewjob?jk=641d67a3f1975258) — Crunchyroll
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $135k–$169k/yr
-- 🕒 **Posted:** 2026-08-10
-
-### [Cyber Security Engineering and Administration Manager](https://www.indeed.com/viewjob?jk=72541468f9a8aba6) — Millennium Physician Group
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $113k–$170k/yr
+### [FinOps AI / ML Engineer Manager](https://www.indeed.com/viewjob?jk=88548d83bbbbf269) — Accenture
+- 📍 **Location:** Walnut Creek, CA, US
+- 💰 **Salary:** $87k–$294k/yr
 - 🕒 **Posted:** 2026-08-11
 
-### [Senior Software Engineer (Insurance Tech)](https://www.indeed.com/viewjob?jk=b45541bdef009685) — EvolutionIQ
+### [FinOps AI / ML Engineer Manager](https://www.indeed.com/viewjob?jk=d48fa93d2afafbc3) — Accenture
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $87k–$294k/yr
+- 🕒 **Posted:** 2026-08-11
+
+### [Multi-Cloud CDN Data Platform Engineer Intern (Global Engineering CDN) - 2026 Fall (BS/MS)](https://www.indeed.com/viewjob?jk=3c2cf1a02be27a92) — ByteDance
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-08-11
+
+### [Data Scientist, Finance](https://www.indeed.com/viewjob?jk=0c1a820ab3563948) — Ramp
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $215k–$230k/yr
+- 💰 **Salary:** $137k–$297k/yr
 - 🕒 **Posted:** 2026-08-11
 
-### [Data Engineer](https://www.indeed.com/viewjob?jk=f8f94275d11eeece) — Capgemini
+### [FinOps AI / ML Engineer Manager](https://www.indeed.com/viewjob?jk=765877ec6cd477f6) — Accenture
+- 📍 **Location:** Morristown, NJ, US
+- 💰 **Salary:** $87k–$294k/yr
+- 🕒 **Posted:** 2026-08-11
+
+### [FinOps AI / ML Engineer Manager](https://www.indeed.com/viewjob?jk=c7a9495141a4e13d) — Accenture
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $87k–$294k/yr
+- 🕒 **Posted:** 2026-08-11
+
+### [Senior Software Engineer – NestJS & Backend Architecture](https://www.indeed.com/viewjob?jk=2960b1e2ceb9f1d9) — Quantic
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $121k–$138k/yr
+- 🕒 **Posted:** 2026-08-11
+
+### [DevOps Engineer](https://www.indeed.com/viewjob?jk=73dd74333353eb3e) — Fusion Health
+- 📍 **Location:** Woodbridge, NJ, US
+- 💰 **Salary:** $120k–$140k/yr
+- 🕒 **Posted:** 2026-08-11
+
+### [Custom Software Engineer - 6427205](https://www.indeed.com/viewjob?jk=cbf14499c9bcae06) — Accenture
+- 📍 **Location:** Morristown, NJ, US
+- 💰 **Salary:** $53–$63/hr
+- 🕒 **Posted:** 2026-08-11
+
+### [Data Engineer](https://www.indeed.com/viewjob?jk=78dbd9e6d69d3f00) — Capgemini
 - 📍 **Location:** New York, NY, US
 - 💰 **Salary:** $85k–$95k/yr
+- 🕒 **Posted:** 2026-08-11
+
+### [Cybersecurity Engineer - Vulnerability](https://www.indeed.com/viewjob?jk=0b93aa2f4dbd2b69) — Phoenix Business Consulting
+- 📍 **Location:** Woodbridge, NJ, US
+- 💰 **Salary:** $40–$45/hr
+- 🕒 **Posted:** 2026-08-11
+
+### [Security Engineer with Akamai WAF](https://www.indeed.com/viewjob?jk=fddd3f0658512d14) — Syncreon Consulting
+- 📍 **Location:** New York, NY, US
+- 🕒 **Posted:** 2026-08-11
+
+### [Senior Data Engineer](https://www.indeed.com/viewjob?jk=b24e1c655a73535b) — Capgemini
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $62k–$72k/yr
 - 🕒 **Posted:** 2026-08-11
