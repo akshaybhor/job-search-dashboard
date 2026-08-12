@@ -1,48 +1,55 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-11 04:47 UTC*
+*Last updated: 2026-08-12 05:08 UTC*
 
-**11 new role(s)** since last run · 138 total in last 24h
+**13 new role(s)** since last run · 139 total in last 24h
 
-### [Senior Software Engineer II](https://job-boards.greenhouse.io/freenome/jobs/8519753002) — Freenome
+### [Senior Software Engineer II](https://job-boards.greenhouse.io/freenome/jobs/8414748002) — Freenome
 - 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-07-14
+- 🕒 **Posted:** 2026-07-15
 
-### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6139254004) — Natera
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-08-10
-
-### [Lead Bioinformatician/Engineer (Pipelines and Infrastructure)](https://job-boards.greenhouse.io/natera/jobs/6139110004) — Natera
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-08-10
-
-### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110225004) — Natera
-- 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-07-29
-
-### [Senior Software Engineer (Data & AI Solutions)](https://job-boards.greenhouse.io/natera/jobs/5830803004) — Natera
+### [Lead Bioinformatician/Engineer (Pipelines and Infrastructure)](https://job-boards.greenhouse.io/natera/jobs/6138805004) — Natera
 - 📍 **Location:** US Remote
 - 🕒 **Posted:** 2026-08-10
 
-### [Senior Manager, Machine Learning Platform Engineer](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Senior-Manager--Machine-Learning-Platform-Engineer_R0054104-2) — Gilead Sciences
-- 📍 **Location:** United States - California - Foster City
+### [Computational Biologist, Synthetic Spatial Omics](https://job-boards.greenhouse.io/biohub/jobs/8112693) — Chan Zuckerberg Biohub
+- 📍 **Location:** New York, NY (Hybrid)
+- 🕒 **Posted:** 2026-08-11
+
+### [Research Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7793665) — Chan Zuckerberg Biohub
+- 📍 **Location:** Redwood City, CA (Hybrid)
+- 🕒 **Posted:** 2026-07-30
+
+### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7747518) — Chan Zuckerberg Biohub
+- 📍 **Location:** New York, NY (Hybrid)
+- 🕒 **Posted:** 2026-06-02
+
+### [Data Scientist](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Data-Scientist_R-246583) — Amgen
+- 📍 **Location:** United States - Remote
 - 🕒 **Posted:** Posted Today
 
-### [Machine Learning Engineer/Senior Machine Learning Engineer - Devops, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4402047132/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-08-10
+### [Bioinformatics Scientist](https://eclipsebio.com/careers#bioinformatics-scientist) — Eclipsebio
+- 📍 **Location:** San Diego, CA
 
-### [Senior Machine Learning Engineer, Agentic Science/Generative Models, AI for Biology & Translation (AIBT)](https://www.linkedin.com/jobs/view/4451550391/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-08-10
-
-### [Senior AI Scientist, AI Products / Life Sciences](https://www.linkedin.com/jobs/view/4451471645/) — Tempus AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-08-10
-
-### [Sr. Specialist, Content & Digital Experience Capabilities - Web Product and Analytics Engineer](https://www.linkedin.com/jobs/view/4452022601/) — Bristol Myers Squibb
+### [Sr. Specialist, Content & Digital Experience Capabilities - Web Product and Analytics Engineer](https://www.linkedin.com/jobs/view/4453040368/) — Bristol Myers Squibb
 - 📍 **Location:** Princeton, NJ
-- 🕒 **Posted:** 2026-08-10
+- 🕒 **Posted:** 2026-08-11
 
-### [Senior iOS Engineer](https://www.linkedin.com/jobs/view/4330441218/) — Ro
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4453040055/) — Thera
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-10
+- 🕒 **Posted:** 2026-08-11
+
+### [Data Engineer, Clinical Operations](https://www.linkedin.com/jobs/view/4453045407/) — Bristol Myers Squibb
+- 📍 **Location:** Princeton, NJ
+- 🕒 **Posted:** 2026-08-11
+
+### [Lead, Data Science Internal Audit](https://www.linkedin.com/jobs/view/4451932669/) — AbbVie
+- 📍 **Location:** Plainfield, NJ
+- 🕒 **Posted:** 2026-08-11
+
+### [Senior Software Engineer, Workbench](https://www.linkedin.com/jobs/view/4451451686/) — Tempus AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-11
+
+### [Computational Biologist, Synthetic Spatial Omics](https://www.linkedin.com/jobs/view/4450109110/) — Biohub
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-11
