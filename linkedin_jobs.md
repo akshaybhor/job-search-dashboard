@@ -1,98 +1,67 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-13 21:24 UTC*
+*Last updated: 2026-08-13 22:21 UTC*
 
-**23 new role(s)** since last run · 23 total in last 1h
+**14 new role(s)** since last run · 33 total in last 1h
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4454304657/) — Vumedi
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-08-13
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4450838416/) — Corridor
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-13
-
-### [Cluster Operations Software Engineer](https://www.linkedin.com/jobs/view/4454098845/) — Cerebras
+### [Machine Learning Engineer, AI Inference Solutions (University Grad)](https://www.linkedin.com/jobs/view/4454312270/) — General Motors
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-13
 
-### [Data Scientist New College Grad - Masters Degree (Santa Clara, CA)](https://www.linkedin.com/jobs/view/4450806608/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-13
-
-### [Data Platform Architect](https://www.linkedin.com/jobs/view/4453242717/) — Lorven Technologies Inc.
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-08-13
-
-### [Alibaba Cloud (AliCloud) Data Platform Architect](https://www.linkedin.com/jobs/view/4454301810/) — VMC Soft Technologies, Inc
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-13
-
-### [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/4454304828/) — linkrr
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-13
-
-### [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/4453250731/) — XP Health
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-08-13
-
-### [Sr. Software Engineer (Systems Engineering, C/C++)](https://www.linkedin.com/jobs/view/4450836362/) — NetApp
+### [AI Software Engineer](https://www.linkedin.com/jobs/view/4452641887/) — Saicon
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-13
 
-### [Senior Software Engineer - Metadata](https://www.linkedin.com/jobs/view/4454310717/) — Fivetran
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-08-13
-
-### [Senior Software Engineer - Sensor Systems, Robot Software](https://www.linkedin.com/jobs/view/4450828545/) — Wayve
+### [Senior, Software Engineer - Python](https://www.linkedin.com/jobs/view/4450829634/) — Walmart
 - 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-08-13
 
-### [Software Engineering Generalist](https://www.linkedin.com/jobs/view/4450830477/) — Horizontal Talent
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4450845386/) — Walmart Global Tech
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-08-13
+
+### [GCP Data Engineer](https://www.linkedin.com/jobs/view/4454326110/) — Relanto
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-13
+
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4453247968/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-08-13
+
+### [Senior, Software Engineer - IOS](https://www.linkedin.com/jobs/view/4450830642/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-08-13
+
+### [Software Engineer, Developer Productivity](https://www.linkedin.com/jobs/view/4450839455/) — Chalk
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
 - 🕒 **Posted:** 2026-08-13
 
-### [Software Engineering Generalist](https://www.linkedin.com/jobs/view/4450822662/) — Horizontal Talent
-- 📍 **Location:** San Francisco, CA
+### [Senior, Software Engineer - Backend](https://www.linkedin.com/jobs/view/4450823836/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-08-13
 
-### [Software Engineering Generalist](https://www.linkedin.com/jobs/view/4450824635/) — Horizontal Talent
-- 📍 **Location:** San Francisco, CA
+### [Senior, Software Engineer - Backend (Node.js / TypeScript / Rust)](https://www.linkedin.com/jobs/view/4450833583/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-08-13
 
-### [AI Platform Engineer](https://www.linkedin.com/jobs/view/4453235629/) — Cinteot Inc.
+### [Senior Software Engineer - Enterprise AI](https://www.linkedin.com/jobs/view/4454319276/) — Spotify
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-13
+
+### [Software Engineer, Developer Productivity](https://www.linkedin.com/jobs/view/4450841412/) — Chalk
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-08-13
+
+### [Senior Systems Engineer (Media & Entertainment) - NY](https://www.linkedin.com/jobs/view/4427674703/) — Qumulo
 - 📍 **Location:** Newark, NJ
 - 🕒 **Posted:** 2026-08-13
 
-### [AI Data Engineer](https://www.linkedin.com/jobs/view/4453239610/) — Cinteot Inc.
-- 📍 **Location:** Newark, NJ
-- 🕒 **Posted:** 2026-08-13
-
-### [DevOps Engineer WIth Agentic AI](https://www.linkedin.com/jobs/view/4454306777/) — TALENDICA
+### [Senior Lead Software Engineer, Android](https://www.linkedin.com/jobs/view/4454321348/) — Posted.Careers
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-13
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4450823588/) — Major League Baseball (MLB)
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-13
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4450833261/) — Ekimetrics
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $125,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-08-13
-
-### [Senior AEM Frontend Engineer](https://www.linkedin.com/jobs/view/4454310598/) — AMSYS Innovative Solutions
-- 📍 **Location:** Plainsboro, NJ
-- 🕒 **Posted:** 2026-08-13
-
-### [Senior Linux Systems Engineer (Production Support)](https://www.linkedin.com/jobs/view/4450717834/) — Kane Partners LLC
-- 📍 **Location:** Newark, NJ
-- 💰 **Salary:** $120,000.00/yr - $135,000.00/yr
-- 🕒 **Posted:** 2026-08-13
-
-### [Senior Analytics Engineer](https://www.linkedin.com/jobs/view/4454092695/) — ConsultNet Technology Services and Solutions
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-13
-
-### [Software Developer Summer Internship - 2027](https://www.linkedin.com/jobs/view/4454090830/) — Interactive Brokers
-- 📍 **Location:** Greenwich, CT
 - 🕒 **Posted:** 2026-08-13
