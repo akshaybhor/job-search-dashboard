@@ -1,55 +1,52 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-12 05:08 UTC*
+*Last updated: 2026-08-13 05:11 UTC*
 
-**13 new role(s)** since last run · 139 total in last 24h
+**12 new role(s)** since last run · 140 total in last 24h
 
-### [Senior Software Engineer II](https://job-boards.greenhouse.io/freenome/jobs/8414748002) — Freenome
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-07-15
-
-### [Lead Bioinformatician/Engineer (Pipelines and Infrastructure)](https://job-boards.greenhouse.io/natera/jobs/6138805004) — Natera
+### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6138807004) — Natera
 - 📍 **Location:** US Remote
 - 🕒 **Posted:** 2026-08-10
 
-### [Computational Biologist, Synthetic Spatial Omics](https://job-boards.greenhouse.io/biohub/jobs/8112693) — Chan Zuckerberg Biohub
+### [Lead Bioinformatician/Engineer (Pipelines and Infrastructure)](https://job-boards.greenhouse.io/natera/jobs/6139110004) — Natera
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-08-10
+
+### [Software Engineer, Full Stack](https://job-boards.greenhouse.io/natera/jobs/5993307004) — Natera
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-08-12
+
+### [Research Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7747517) — Chan Zuckerberg Biohub
 - 📍 **Location:** New York, NY (Hybrid)
 - 🕒 **Posted:** 2026-08-11
 
-### [Research Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7793665) — Chan Zuckerberg Biohub
+### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7793644) — Chan Zuckerberg Biohub
 - 📍 **Location:** Redwood City, CA (Hybrid)
-- 🕒 **Posted:** 2026-07-30
-
-### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7747518) — Chan Zuckerberg Biohub
-- 📍 **Location:** New York, NY (Hybrid)
 - 🕒 **Posted:** 2026-06-02
 
-### [Data Scientist](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Data-Scientist_R-246583) — Amgen
-- 📍 **Location:** United States - Remote
-- 🕒 **Posted:** Posted Today
+### [Biostatistician Lead Consultant](https://job-boards.greenhouse.io/entradatherapeutics/jobs/5210344007) — Entrada Therapeutics
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-08-12
 
-### [Bioinformatics Scientist](https://eclipsebio.com/careers#bioinformatics-scientist) — Eclipsebio
-- 📍 **Location:** San Diego, CA
-
-### [Sr. Specialist, Content & Digital Experience Capabilities - Web Product and Analytics Engineer](https://www.linkedin.com/jobs/view/4453040368/) — Bristol Myers Squibb
+### [AI & Data Engineer, Data Discovery Services](https://www.linkedin.com/jobs/view/4453615759/) — Bristol Myers Squibb
 - 📍 **Location:** Princeton, NJ
-- 🕒 **Posted:** 2026-08-11
+- 🕒 **Posted:** 2026-08-12
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4453040055/) — Thera
+### [ML Scientist I / II, Foundation Models for Life Sciences](https://www.linkedin.com/jobs/view/4407826488/) — Lila Sciences
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-12
+
+### [Senior Machine Learning Scientist, Foundational ML, AI for Biology & Translation (AIBT)](https://www.linkedin.com/jobs/view/4435811307/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-08-12
+
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4435115944/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-08-12
+
+### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4425851475/) — Ro
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-11
+- 🕒 **Posted:** 2026-08-12
 
-### [Data Engineer, Clinical Operations](https://www.linkedin.com/jobs/view/4453045407/) — Bristol Myers Squibb
-- 📍 **Location:** Princeton, NJ
-- 🕒 **Posted:** 2026-08-11
-
-### [Lead, Data Science Internal Audit](https://www.linkedin.com/jobs/view/4451932669/) — AbbVie
-- 📍 **Location:** Plainfield, NJ
-- 🕒 **Posted:** 2026-08-11
-
-### [Senior Software Engineer, Workbench](https://www.linkedin.com/jobs/view/4451451686/) — Tempus AI
+### [Senior Manager, AI, and Data Engineering](https://www.linkedin.com/jobs/view/4453358966/) — Pfizer
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-11
-
-### [Computational Biologist, Synthetic Spatial Omics](https://www.linkedin.com/jobs/view/4450109110/) — Biohub
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-11
+- 🕒 **Posted:** 2026-08-12
