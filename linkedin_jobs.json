@@ -1,171 +1,723 @@
 {
-  "scraped_at": "2026-08-14 05:17 UTC",
-  "total": 10,
-  "new_count": 10,
+  "scraped_at": "2026-08-14 16:27 UTC",
+  "total": 43,
+  "new_count": 43,
   "jobs": [
     {
-      "company": "Siemens EDA (Siemens Digital Industries Software)",
-      "title": "Software Engineer \u2013 Fab Solutions R&D",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453516114/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer - Orchestration",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450880341/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Runpod",
-      "title": "Senior Data Engineer",
+      "company": "Whatnot",
+      "title": "Machine Learning Engineer, Growth",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453521358/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Vagaro",
-      "title": "Software Engineer",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453512145/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sky Transport Solution",
-      "title": "Full Stack Engineer",
-      "location": "Stockton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453510242/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Discord",
-      "title": "QA/DevOps Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4453503943/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Charta Health",
-      "title": "Software Engineer, Senior",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4439659467/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capgemini",
-      "title": "AWS Data Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4454329382/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MetTel",
-      "title": "Senior Software Engineer - Bruin Platform Full Stack",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4440084306/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jacobs",
-      "title": "Power Systems Engineer \u2013 Strategic Projects",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4450872433/",
-      "date_posted": "2026-08-13",
+      "url": "https://www.linkedin.com/jobs/view/4406930228/",
+      "date_posted": "2026-08-14",
       "ats": "LinkedIn",
-      "salary": "$132,900.00/yr - $174,450.00/yr"
+      "salary": "$190,000.00/yr - $280,000.00/yr"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, Machine Learning",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451230967/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$347,000.00/yr - $403,000.00/yr"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453707377/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, AI Kernels & Performance Optimization \u2014 MTIA Software",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451230969/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Sr. Software Engineer (Platform Team)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416354496/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Deep Learning Framework Communications Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395468920/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scalable Systems",
+      "title": "Full-Stack Generative AI Developer",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451260000/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sapphire Partners",
+      "title": "Senior Data Scientist, Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454558070/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sapphire Partners",
+      "title": "Senior Data Scientist, Growth",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454544974/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Inference & Serving (Speech LLM)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453589456/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Senior DevOps Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453584838/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Glean",
+      "title": "Software Engineer, AI & Security",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4293948449/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lively, Inc.",
+      "title": "Sr. Software Engineer - Backend",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453593394/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Ripple",
+      "title": "Senior Software Engineer, RippleX (Platform)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453588406/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Surge Technology Solutions Inc",
+      "title": "Senior Java Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454555927/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, AI Kernels & Performance Optimization \u2014 MTIA Software",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451244009/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$154,003.00/yr - $217,000.00/yr"
+    },
+    {
+      "company": "Cypress HCM",
+      "title": "Senior Software Engineer / Technical Consultant",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453589351/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Obsidian Security",
+      "title": "Site Reliability Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4436489100/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Infrastructure Engineer (Starlink)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426705094/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Array Labs",
+      "title": "Embedded Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4326766563/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$150,000.00/yr - $250,000.00/yr"
+    },
+    {
+      "company": "Eclipse Performance",
+      "title": "AI/ML Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4451266031/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Child Mind Institute",
+      "title": "Senior Machine Learning Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4430238228/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$118,000.00/yr - $148,000.00/yr"
+    },
+    {
+      "company": "T. Rowe Price",
+      "title": "Full Stack Software Engineer (T. Rowe Price AI Lab)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451250149/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, AI Specialist - Monetization (Technical Leadership)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451236926/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$219,000.00/yr - $301,000.00/yr"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, AI Kernels & Performance Optimization \u2014 MTIA Software",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451222947/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$183,997.00/yr - $257,000.00/yr"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, AI Kernels & Performance Optimization \u2014 MTIA Software",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451226992/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$154,003.00/yr - $217,000.00/yr"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer Manager - ML Infra",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451222946/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$184,000.00/yr - $257,000.00/yr"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Software Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4454546886/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Child Mind Institute",
+      "title": "Applied Data Science Specialist",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4421164446/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$96,000.00/yr - $120,000.00/yr"
+    },
+    {
+      "company": "Northwell Health",
+      "title": "Data Analytics / Data Science Specialist",
+      "location": "Lake Success, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454546853/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$79,880.00/yr - $136,340.00/yr"
+    },
+    {
+      "company": "Bank of America",
+      "title": "Senior Data Engineer - AI Infrastructure Integration, High Performance Compute",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4454535968/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Bank of America",
+      "title": "Senior Data Engineer - AI Infrastructure Integration, High Performance Compute",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454545899/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Barclays",
+      "title": "Senior Data Engineer - AVP",
+      "location": "Whippany, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4450852969/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Resource Management",
+      "title": "Platform Engineering - wealth management",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4452985767/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Software Engineer",
+      "location": "Wallingford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4454550940/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Infosoft, Inc.",
+      "title": "Java Full Stack Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454538787/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ConsultNet Technology Services and Solutions",
+      "title": "Senior Data Scientist",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4450256321/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Micrologic",
+      "title": "AWS Architect & Platform Engineering Lead",
+      "location": "Parsippany, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4451246034/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Wolters Kluwer",
+      "title": "Senior Cloud Security Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4394733685/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Riana Technologies",
+      "title": "Sr. DevOps Data Engineer",
+      "location": "Coopersburg, PA",
+      "url": "https://www.linkedin.com/jobs/view/4453589342/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GTECH LLC",
+      "title": "Senior Site Reliability Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4453702240/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Phyton Talent Advisors",
+      "title": "Endpoint Infrastructure Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454559092/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$65.00/hr - $80.00/hr"
+    },
+    {
+      "company": "Meta",
+      "title": "Security Engineer Investigator, Integrity Investigations, Intelligence, and Events",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451221994/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$184,000.00/yr - $257,000.00/yr"
     }
   ],
   "new_jobs": [
     {
-      "company": "Siemens EDA (Siemens Digital Industries Software)",
-      "title": "Software Engineer \u2013 Fab Solutions R&D",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453516114/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer - Orchestration",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450880341/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Runpod",
-      "title": "Senior Data Engineer",
+      "company": "Whatnot",
+      "title": "Machine Learning Engineer, Growth",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453521358/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Vagaro",
-      "title": "Software Engineer",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453512145/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sky Transport Solution",
-      "title": "Full Stack Engineer",
-      "location": "Stockton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453510242/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Discord",
-      "title": "QA/DevOps Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4453503943/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Charta Health",
-      "title": "Software Engineer, Senior",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4439659467/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capgemini",
-      "title": "AWS Data Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4454329382/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MetTel",
-      "title": "Senior Software Engineer - Bruin Platform Full Stack",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4440084306/",
-      "date_posted": "2026-08-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jacobs",
-      "title": "Power Systems Engineer \u2013 Strategic Projects",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4450872433/",
-      "date_posted": "2026-08-13",
+      "url": "https://www.linkedin.com/jobs/view/4406930228/",
+      "date_posted": "2026-08-14",
       "ats": "LinkedIn",
-      "salary": "$132,900.00/yr - $174,450.00/yr"
+      "salary": "$190,000.00/yr - $280,000.00/yr"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, Machine Learning",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451230967/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$347,000.00/yr - $403,000.00/yr"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453707377/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, AI Kernels & Performance Optimization \u2014 MTIA Software",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451230969/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Sr. Software Engineer (Platform Team)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416354496/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Deep Learning Framework Communications Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395468920/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scalable Systems",
+      "title": "Full-Stack Generative AI Developer",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451260000/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sapphire Partners",
+      "title": "Senior Data Scientist, Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454558070/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sapphire Partners",
+      "title": "Senior Data Scientist, Growth",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454544974/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Inference & Serving (Speech LLM)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453589456/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Senior DevOps Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453584838/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Glean",
+      "title": "Software Engineer, AI & Security",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4293948449/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lively, Inc.",
+      "title": "Sr. Software Engineer - Backend",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453593394/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Ripple",
+      "title": "Senior Software Engineer, RippleX (Platform)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453588406/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Surge Technology Solutions Inc",
+      "title": "Senior Java Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454555927/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, AI Kernels & Performance Optimization \u2014 MTIA Software",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451244009/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$154,003.00/yr - $217,000.00/yr"
+    },
+    {
+      "company": "Cypress HCM",
+      "title": "Senior Software Engineer / Technical Consultant",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453589351/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Obsidian Security",
+      "title": "Site Reliability Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4436489100/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Infrastructure Engineer (Starlink)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426705094/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Array Labs",
+      "title": "Embedded Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4326766563/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$150,000.00/yr - $250,000.00/yr"
+    },
+    {
+      "company": "Eclipse Performance",
+      "title": "AI/ML Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4451266031/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Child Mind Institute",
+      "title": "Senior Machine Learning Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4430238228/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$118,000.00/yr - $148,000.00/yr"
+    },
+    {
+      "company": "T. Rowe Price",
+      "title": "Full Stack Software Engineer (T. Rowe Price AI Lab)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451250149/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, AI Specialist - Monetization (Technical Leadership)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451236926/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$219,000.00/yr - $301,000.00/yr"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, AI Kernels & Performance Optimization \u2014 MTIA Software",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451222947/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$183,997.00/yr - $257,000.00/yr"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, AI Kernels & Performance Optimization \u2014 MTIA Software",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451226992/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$154,003.00/yr - $217,000.00/yr"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer Manager - ML Infra",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451222946/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$184,000.00/yr - $257,000.00/yr"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Software Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4454546886/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Child Mind Institute",
+      "title": "Applied Data Science Specialist",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4421164446/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$96,000.00/yr - $120,000.00/yr"
+    },
+    {
+      "company": "Northwell Health",
+      "title": "Data Analytics / Data Science Specialist",
+      "location": "Lake Success, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454546853/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$79,880.00/yr - $136,340.00/yr"
+    },
+    {
+      "company": "Bank of America",
+      "title": "Senior Data Engineer - AI Infrastructure Integration, High Performance Compute",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4454535968/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Bank of America",
+      "title": "Senior Data Engineer - AI Infrastructure Integration, High Performance Compute",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454545899/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Barclays",
+      "title": "Senior Data Engineer - AVP",
+      "location": "Whippany, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4450852969/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Resource Management",
+      "title": "Platform Engineering - wealth management",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4452985767/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Software Engineer",
+      "location": "Wallingford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4454550940/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Infosoft, Inc.",
+      "title": "Java Full Stack Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454538787/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ConsultNet Technology Services and Solutions",
+      "title": "Senior Data Scientist",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4450256321/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Micrologic",
+      "title": "AWS Architect & Platform Engineering Lead",
+      "location": "Parsippany, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4451246034/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Wolters Kluwer",
+      "title": "Senior Cloud Security Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4394733685/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Riana Technologies",
+      "title": "Sr. DevOps Data Engineer",
+      "location": "Coopersburg, PA",
+      "url": "https://www.linkedin.com/jobs/view/4453589342/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GTECH LLC",
+      "title": "Senior Site Reliability Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4453702240/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Phyton Talent Advisors",
+      "title": "Endpoint Infrastructure Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454559092/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$65.00/hr - $80.00/hr"
+    },
+    {
+      "company": "Meta",
+      "title": "Security Engineer Investigator, Integrity Investigations, Intelligence, and Events",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451221994/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$184,000.00/yr - $257,000.00/yr"
     }
   ]
 }
