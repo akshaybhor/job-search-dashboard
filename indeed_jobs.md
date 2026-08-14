@@ -1,23 +1,33 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-14 19:32 UTC*
+*Last updated: 2026-08-14 20:07 UTC*
 
-**4 new role(s)** since last run · 155 total in last 24h
+**6 new role(s)** since last run · 159 total in last 24h
 
-### [Applied Scientist](https://www.indeed.com/viewjob?jk=89cae7386c9ffef2) — Adobe
+### [Senior Machine Learning Research Engineer](https://www.indeed.com/viewjob?jk=d086818eb5e92403) — carnaby fox
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-08-14
+
+### [Senior Full Stack Engineer - BitGo Labs](https://www.indeed.com/viewjob?jk=f0891bf56d62dc58) — BitGo
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $121k–$239k/yr
+- 💰 **Salary:** $200k–$240k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Senior Software Engineer (West Coast - Oakland, CA or Portland, OR Preferred)](https://www.indeed.com/viewjob?jk=0a3ce720973ef1c8) — Fictiv
-- 📍 **Location:** Oakland, CA, US
+### [Senior Full Stack Engineer - BitGo Labs](https://www.indeed.com/viewjob?jk=3ba3d7f1fb0b03c5) — BitGo
+- 📍 **Location:** Menlo Park, CA, US
+- 💰 **Salary:** $200k–$240k/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Senior Full Stack Engineer - BitGo Labs](https://www.indeed.com/viewjob?jk=6cbd9e6cf8c08790) — BitGo
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $200k–$240k/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=ecdaa5ab9bf5828a) — Taskrabbit
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $160k–$180k/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Lead Systems Engineer, Defense Programs](https://www.indeed.com/viewjob?jk=3acd441da024899e) — Rippling
+- 📍 **Location:** Alameda, CA, US
 - 💰 **Salary:** $160k–$200k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Senior Manager, Software Engineering - NIM Factory](https://www.indeed.com/viewjob?jk=a5a8cb0f2b6133bd) — NVIDIA
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $272k–$431k/yr
-- 🕒 **Posted:** 2026-08-13
-
-### [Senior Lead Software Engineer, Full Stack](https://www.indeed.com/viewjob?jk=c061010abc3b54d5) — Capital One
-- 📍 **Location:** New York, NY, US
 - 🕒 **Posted:** 2026-08-14
