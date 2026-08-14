@@ -1,100 +1,74 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-14 22:54 UTC*
+*Last updated: 2026-08-14 23:52 UTC*
 
-**20 new role(s)** since last run · 163 total in last 24h
+**14 new role(s)** since last run · 171 total in last 24h
 
-### [Applied Scientist, Automated Reasoning](https://www.indeed.com/viewjob?jk=dd7f7ac07aabadef) — Amazon Web Services
+### [Enterprise Predictive AI Platform - Senior Lead Product Manager](https://www.indeed.com/viewjob?jk=a018f38b4f2accbd) — Wells Fargo
+- 📍 **Location:** Concord, CA, US
+- 💰 **Salary:** $185k–$300k/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Senior Lead Data Scientist](https://www.indeed.com/viewjob?jk=0d6a99d616e2b60f) — Compass
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $204k–$227k/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Lead Data Scientist](https://www.indeed.com/viewjob?jk=5f467fe702021309) — Compass
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $176k–$195k/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [AI Infrastructure Engineer](https://www.indeed.com/viewjob?jk=891698c73f0a37c8) — Axon
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $154k–$247k/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [IT Infrastructure Engineer](https://www.indeed.com/viewjob?jk=3e7677d0b858a014) — Cloud Destinations
 - 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $192k–$260k/yr
+- 💰 **Salary:** $40–$47/hr
 - 🕒 **Posted:** 2026-08-14
 
-### [Applied Scientist, Automated Reasoning](https://www.indeed.com/viewjob?jk=5b3da283ef6d73f0) — Amazon Web Services
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $192k–$260k/yr
+### [Lead Infrastructure Engineer](https://www.indeed.com/viewjob?jk=6f8b60d40cc6a8e5) — Wells Fargo
+- 📍 **Location:** Concord, CA, US
+- 💰 **Salary:** $119k–$224k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Senior Site Reliability Engineer - Managed Kubernetes](https://www.indeed.com/viewjob?jk=ee5de81f819d708e) — Lambda
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $240k–$356k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Senior Site Reliability Engineer - Managed Kubernetes](https://www.indeed.com/viewjob?jk=268a5cf21a7a9f2f) — Lambda
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $240k–$356k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Senior Software Engineer - Managed Kubernetes](https://www.indeed.com/viewjob?jk=569f224060cf25d8) — Lambda
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $266k–$395k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Senior Software Engineer - Managed Kubernetes](https://www.indeed.com/viewjob?jk=a43cfdf16f597bf3) — Lambda
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $266k–$395k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=dcf018bfce779737) — Unknown
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=69a9dc4fbb729860) — Unknown
-- 📍 **Location:** San Mateo, CA, US
-- 🕒 **Posted:** 2026-08-14
-
-### [Applied Scientist II, AWS Just-Walk-Out Science Team](https://www.indeed.com/viewjob?jk=332fb53efc68c91e) — Amazon.com
-- 📍 **Location:** East Palo Alto, CA, US
-- 💰 **Salary:** $143k–$222k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineering MTS](https://www.indeed.com/viewjob?jk=e18c41e903733ed3) — Salesforce
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $117k–$194k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Sr. Software Engineer - Java/Spring/AWS](https://www.indeed.com/viewjob?jk=1408aa72db908985) — Early Warning Services
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $142k–$183k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=0561aa28f155719b) — MAGICAL
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-08-14
-
-### [Senior Software Engineering Manager | Applied AI Engineering](https://www.indeed.com/viewjob?jk=3e0721c51a1759fd) — ServiceNow
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $191k–$334k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Senior Manager, Data Engineering](https://www.indeed.com/viewjob?jk=dcf759fe41ed10c0) — RingCentral
-- 📍 **Location:** Belmont, CA, US
-- 💰 **Salary:** $190k–$232k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Applied Scientist, Automated Reasoning](https://www.indeed.com/viewjob?jk=7d6423147faebe57) — Amazon Web Services
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $192k–$260k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Sr. Data Scientist](https://www.indeed.com/viewjob?jk=3e9ccb6896e69716) — Lemonade Insurance Company
+### [Sr. Data Scientist](https://www.indeed.com/viewjob?jk=e06804437152052a) — Lemonade Insurance Company
 - 📍 **Location:** New York, NY, US
 - 💰 **Salary:** $162k–$176k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Senior Applied AI/ML Engineer](https://www.indeed.com/viewjob?jk=cdacf7489a386663) — CONFIDO
+### [Lead Data Scientist](https://www.indeed.com/viewjob?jk=dec5b0e2b9f79133) — Compass Group
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $200k–$250k/yr
+- 💰 **Salary:** $176k–$195k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Full Stack Engineer](https://www.indeed.com/viewjob?jk=139507e4b9da4d27) — EXL Service
-- 📍 **Location:** Jersey City, NJ, US
+### [Lead Data Scientist](https://www.indeed.com/viewjob?jk=ee612b0d52fbee09) — Compass
+- 📍 **Location:** Madison, NJ, US
+- 💰 **Salary:** $176k–$195k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Senior Software Engineer, Core Platform](https://www.indeed.com/viewjob?jk=34d019f31ed9cd69) — Astronomer
+### [Senior Lead Data Scientist](https://www.indeed.com/viewjob?jk=742a28535f7331db) — Compass Group
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $210k–$250k/yr
+- 💰 **Salary:** $204k–$227k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Senior Backend Software Engineer, Subscriptions Enablement](https://www.indeed.com/viewjob?jk=d86c0fb9976be692) — GameChanger
+### [Full Stack Software Engineer (T. Rowe Price AI Lab)](https://www.indeed.com/viewjob?jk=e596c29aefd4f915) — T. Rowe Price
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $140k–$155k/yr
+- 💰 **Salary:** $97k–$206k/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer 3](https://www.indeed.com/viewjob?jk=5b2c5c98ac010f43) — The Farmer's Dog
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $165k–$180k/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Lead Microsoft Power Platform Engineer](https://www.indeed.com/viewjob?jk=f40adecb0b1cad41) — MetLife
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $125k–$155k/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Transit Management Analyst Series (Infrastructure Engineering)](https://www.indeed.com/viewjob?jk=ab979a233b23ed68) — Metropolitan Transportation Authority
+- 📍 **Location:** Brooklyn, NY, US
+- 💰 **Salary:** $68k–$115k/yr
 - 🕒 **Posted:** 2026-08-14
