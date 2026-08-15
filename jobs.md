@@ -1,32 +1,28 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-14 05:09 UTC*
+*Last updated: 2026-08-15 04:00 UTC*
 
-**7 new role(s)** since last run · 133 total in last 24h
+**6 new role(s)** since last run · 133 total in last 24h
 
-### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6139254004) — Natera
-- 📍 **Location:** San Carlos, CA
+### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6138807004) — Natera
+- 📍 **Location:** US Remote
 - 🕒 **Posted:** 2026-08-10
 
-### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110598004) — Natera
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-07-29
+### [Research Scientist II/Senior, Computational Chemistry](https://jobs.ashbyhq.com/iambic-therapeutics/6236b729-9139-4971-8a31-3f5a9add1ed4) — Iambic Therapeutics
+- 📍 **Location:** San Diego HQ
+- 🕒 **Posted:** 2026-08-14
 
-### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7747518) — Chan Zuckerberg Biohub
-- 📍 **Location:** New York, NY (Hybrid)
-- 🕒 **Posted:** 2026-06-02
+### [Cloud Engineer](https://job-boards.greenhouse.io/schrdinger/jobs/7826914003) — Schrödinger
+- 📍 **Location:** New York; Portland
+- 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, Full Stack (Document Canvas)](https://jobs.ashbyhq.com/benchling/d627fcc2-2e34-4bde-9be2-242c89c19436) — Benchling
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-13
+### [Senior AI Scientist, AI Products / Life Sciences](https://www.linkedin.com/jobs/view/4453595708/) — Tempus AI
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-08-14
 
-### [AI / Machine Learning Engineer II](https://www.linkedin.com/jobs/view/4450811962/) — Gen
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-13
+### [Senior AI/ML Engineer - Research Data AI and Predictive Modeling (Vaccine R&D)](https://www.linkedin.com/jobs/view/4454595614/) — Pfizer
+- 📍 **Location:** Pearl River, NY
+- 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4452988312/) — Lead
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-08-13
-
-### [Software Engineer V](https://www.linkedin.com/jobs/view/4453206071/) — Lead
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-08-13
+### [Senior Software Engineer, Frontend - Care Platform Operations](https://www.linkedin.com/jobs/view/4425869206/) — Ro
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-14
