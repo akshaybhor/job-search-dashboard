@@ -1,12 +1,16 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-15 21:47 UTC*
+*Last updated: 2026-08-15 22:50 UTC*
 
-**2 new role(s)** since last run · 4 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Full Stack Engineer (AI, Product)](https://www.linkedin.com/jobs/view/4442000527/) — Murphy Talent Group
-- 📍 **Location:** San Francisco Bay Area
+### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4453957372/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-15
 
-### [Full-Stack Engineer Intern](https://www.linkedin.com/jobs/view/4453943533/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4453952406/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Software Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4455145255/) — Cisco
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-15
