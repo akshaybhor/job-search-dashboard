@@ -1,74 +1,44 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-14 23:52 UTC*
+*Last updated: 2026-08-15 02:00 UTC*
 
-**14 new role(s)** since last run · 171 total in last 24h
+**8 new role(s)** since last run · 156 total in last 24h
 
-### [Enterprise Predictive AI Platform - Senior Lead Product Manager](https://www.indeed.com/viewjob?jk=a018f38b4f2accbd) — Wells Fargo
-- 📍 **Location:** Concord, CA, US
-- 💰 **Salary:** $185k–$300k/yr
+### [New College Grad - AI Innovation Research Engineer](https://www.indeed.com/viewjob?jk=37f7ce00bd373207) — Micron Technology
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $113k–$242k/yr
+- 🕒 **Posted:** 2026-08-10
+
+### [Lead Data Scientist-Deep Learning Specialist](https://www.indeed.com/viewjob?jk=9b48ed8234e96295) — Safeway
+- 📍 **Location:** Pleasanton, CA, US
+- 💰 **Salary:** $158k–$205k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Senior Lead Data Scientist](https://www.indeed.com/viewjob?jk=0d6a99d616e2b60f) — Compass
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $204k–$227k/yr
+### [Senior Manager, Analytics and Data Science - Firefly](https://www.indeed.com/viewjob?jk=1894655213d8fe58) — Adobe
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $145k–$284k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Lead Data Scientist](https://www.indeed.com/viewjob?jk=5f467fe702021309) — Compass
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $176k–$195k/yr
+### [Senior Full Stack Engineer, Cloud Native - AI Detection and Response (AIDR) (Hybrid)](https://www.indeed.com/viewjob?jk=22688e0593050681) — CrowdStrike
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $140k–$215k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [AI Infrastructure Engineer](https://www.indeed.com/viewjob?jk=891698c73f0a37c8) — Axon
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $154k–$247k/yr
+### [Sr. II Full Stack Engineer, Cloud Native - AI Detection and Response (AIDR) (Hybrid, Sunnyvale)](https://www.indeed.com/viewjob?jk=8ebeb1da8689d0dd) — CrowdStrike
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $160k–$250k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [IT Infrastructure Engineer](https://www.indeed.com/viewjob?jk=3e7677d0b858a014) — Cloud Destinations
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $40–$47/hr
+### [Cloud Engineer III, Falcon Exposure Management (Hybrid)](https://www.indeed.com/viewjob?jk=8ea8f3c9c2afbee0) — CrowdStrike
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $120k–$180k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Lead Infrastructure Engineer](https://www.indeed.com/viewjob?jk=6f8b60d40cc6a8e5) — Wells Fargo
-- 📍 **Location:** Concord, CA, US
-- 💰 **Salary:** $119k–$224k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Sr. Data Scientist](https://www.indeed.com/viewjob?jk=e06804437152052a) — Lemonade Insurance Company
+### [Typescript Fullstack Engineer](https://www.indeed.com/viewjob?jk=9f1dadcf4b25045f) — Verneek
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $162k–$176k/yr
+- 💰 **Salary:** $80k–$140k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Lead Data Scientist](https://www.indeed.com/viewjob?jk=dec5b0e2b9f79133) — Compass Group
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $176k–$195k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Lead Data Scientist](https://www.indeed.com/viewjob?jk=ee612b0d52fbee09) — Compass
-- 📍 **Location:** Madison, NJ, US
-- 💰 **Salary:** $176k–$195k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Senior Lead Data Scientist](https://www.indeed.com/viewjob?jk=742a28535f7331db) — Compass Group
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $204k–$227k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Full Stack Software Engineer (T. Rowe Price AI Lab)](https://www.indeed.com/viewjob?jk=e596c29aefd4f915) — T. Rowe Price
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $97k–$206k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer 3](https://www.indeed.com/viewjob?jk=5b2c5c98ac010f43) — The Farmer's Dog
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $165k–$180k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Lead Microsoft Power Platform Engineer](https://www.indeed.com/viewjob?jk=f40adecb0b1cad41) — MetLife
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $125k–$155k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Transit Management Analyst Series (Infrastructure Engineering)](https://www.indeed.com/viewjob?jk=ab979a233b23ed68) — Metropolitan Transportation Authority
-- 📍 **Location:** Brooklyn, NY, US
-- 💰 **Salary:** $68k–$115k/yr
-- 🕒 **Posted:** 2026-08-14
+### [Data Scientist - Intern](https://www.indeed.com/viewjob?jk=694e5cad43d8d902) — Concord Advice
+- 📍 **Location:** Florham Park, NJ, US
+- 💰 **Salary:** $40k–$70k/yr
+- 🕒 **Posted:** 2026-08-11
