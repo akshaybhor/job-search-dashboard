@@ -1,198 +1,164 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-15 15:49 UTC*
+*Last updated: 2026-08-15 16:53 UTC*
 
-**48 new role(s)** since last run · 48 total in last 1h
+**39 new role(s)** since last run · 48 total in last 1h
 
-### [ML Engineer - Instawork Robotics](https://www.linkedin.com/jobs/view/4428188052/) — Instawork
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4455128578/) — Sapphire Partners
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-15
 
-### [Software Engineer, Inference](https://www.linkedin.com/jobs/view/4445287126/) — Luma
+### [Research Engineer, LangSmith Engine](https://www.linkedin.com/jobs/view/4455127658/) — Sapphire Partners
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Robotics Engineer](https://www.linkedin.com/jobs/view/4445272760/) — Luma
 - 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-08-15
 
-### [Lead Machine Learning Engineer (Manager IC)](https://www.linkedin.com/jobs/view/4427976376/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Software Engineer Systems Machine Learning - Frameworks](https://www.linkedin.com/jobs/view/4451735429/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $121,992.00/yr - $181,000.00/yr
-- 🕒 **Posted:** 2026-08-15
-
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4453930282/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Research Engineer, Life Sciences](https://www.linkedin.com/jobs/view/4435493023/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Senior ML Platform Engineer (Autonomous Driving)](https://www.linkedin.com/jobs/view/4408564045/) — 42dot
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Senior Research Scientist, Fundamental Generative AI](https://www.linkedin.com/jobs/view/4395486159/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4451728368/) — Lantern
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Senior Research Scientist for Generative AI](https://www.linkedin.com/jobs/view/4395473386/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Sr. Data Scientist, Monetization](https://www.linkedin.com/jobs/view/4387637882/) — Pinterest
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Senior Software Engineer, Parking - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4395479292/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Data Engineer, Safeguards](https://www.linkedin.com/jobs/view/4435008828/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Senior DGX Cloud AI Infrastructure Software Engineer](https://www.linkedin.com/jobs/view/4395485471/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4453929312/) — Jobright.ai
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Senior Platform Software Engineer – Factory](https://www.linkedin.com/jobs/view/4395490163/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4435231668/) — Medallion
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Software Engineer - Cloud Engineering (C++)](https://www.linkedin.com/jobs/view/4451748325/) — NetApp
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Lustre Software Engineer](https://www.linkedin.com/jobs/view/4451749305/) — NetApp
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Software Engineer V](https://www.linkedin.com/jobs/view/4444705369/) — Lead
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-15
-
-### [Senior Software Engineer, Cloud-Native Stack – CSP Engagements](https://www.linkedin.com/jobs/view/4395480449/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Sr. Open Source Software Engineer (Kafka)](https://www.linkedin.com/jobs/view/4451724427/) — NetApp
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Sr. Open Source Software Engineer - Apache Cassandra](https://www.linkedin.com/jobs/view/4451749304/) — NetApp
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Senior Software Engineer - AI Engineering](https://www.linkedin.com/jobs/view/4397983246/) — Mercury
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Sr. Systems Engineer, Sales & Marketing](https://www.linkedin.com/jobs/view/4436438726/) — Pinterest
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Senior Software Engineer, Full-stack](https://www.linkedin.com/jobs/view/4396349688/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Lead Software Engineer, Ads (Remote)](https://www.linkedin.com/jobs/view/4426646609/) — Jane Technologies, Inc.
-- 📍 **Location:** Santa Cruz, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4427678410/) — Cyngn
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-15
-
-### [Senior Linux Systems Engineer](https://www.linkedin.com/jobs/view/4427911262/) — Hitachi Energy
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4453928376/) — Jobright.ai
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4453926441/) — Jobright.ai
 - 📍 **Location:** San Mateo County, CA
 - 🕒 **Posted:** 2026-08-15
 
-### [Senior Security Engineer, Enterprise Security](https://www.linkedin.com/jobs/view/4406092788/) — CoreWeave
+### [Data Scientist](https://www.linkedin.com/jobs/view/4455116634/) — Sapphire Partners
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-15
 
-### [Security Software Engineer II, Detection and Response](https://www.linkedin.com/jobs/view/4436444422/) — Pinterest
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Sr. Software Engineer - Source Control And Governance](https://www.linkedin.com/jobs/view/4406090889/) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Senior Flight Test Data Engineer, Loads](https://www.linkedin.com/jobs/view/4427229913/) — Archer
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Research Scientist, Fundamental Generative AI - New College Grad 2026](https://www.linkedin.com/jobs/view/4395480204/) — NVIDIA
+### [Senior Applied Scientist, Last Mile Delivery](https://www.linkedin.com/jobs/view/4445274205/) — Amazon
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-15
 
-### [Sr. Software Engineer (Systems Engineering, C/C++)](https://www.linkedin.com/jobs/view/4451726318/) — NetApp
-- 📍 **Location:** San Jose, CA
+### [Software Engineer (Platform Team)](https://www.linkedin.com/jobs/view/4416356318/) — SpaceX
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-15
 
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4426153567/) — AvePoint
+### [Senior Systems Engineer](https://www.linkedin.com/jobs/view/4398083898/) — Crusoe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Research Scientist / Engineer – Reinforcement Learning Infrastructure](https://www.linkedin.com/jobs/view/4445276729/) — Luma
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Software Engineer - Product](https://www.linkedin.com/jobs/view/4445273773/) — Luma
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $168,000.00/yr - $252,000.00/yr
+- 🕒 **Posted:** 2026-08-15
+
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4453914462/) — Jobright.ai
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4398968519/) — Collective
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Software Engineer, Data Products & Platform](https://www.linkedin.com/jobs/view/4455112670/) — Sapphire Partners
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4368480063/) — Semgrep
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Senior Software Engineer, Billing Platform](https://www.linkedin.com/jobs/view/4427646929/) — Crusoe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Senior Software Engineer - Product Platform Team](https://www.linkedin.com/jobs/view/4302591601/) — Orum 🥇
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-15
+
+### [Senior Software Engineer - Data Infrastructure Services](https://www.linkedin.com/jobs/view/4398635855/) — CoreWeave
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4453920484/) — Jobright.ai
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Software Engineer, Onboard](https://www.linkedin.com/jobs/view/4453923548/) — Jobera.com
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Senior Site Reliability Engineer](https://www.linkedin.com/jobs/view/4445269867/) — Luma
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $168,000.00/yr - $252,000.00/yr
+- 🕒 **Posted:** 2026-08-15
+
+### [Engineering Manager, Infrastructure Engineering](https://www.linkedin.com/jobs/view/4441835267/) — CoreWeave
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Detection & Response Security Engineer](https://www.linkedin.com/jobs/view/4396382743/) — Harvey
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Senior Hardware Systems Engineer, Performance](https://www.linkedin.com/jobs/view/4445250646/) — Crusoe
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Senior Product Security Engineer](https://www.linkedin.com/jobs/view/4340199550/) — Crusoe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4455131683/) — Shipt
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Software Engineer (Platform Team)](https://www.linkedin.com/jobs/view/4416350819/) — SpaceX
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4455120625/) — James Search Group
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $135,000.00/yr - $175,000.00/yr
+- 🕒 **Posted:** 2026-08-15
+
+### [Software Engineer, Applied AI](https://www.linkedin.com/jobs/view/4455130620/) — Sapphire Partners
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-15
 
-### [Sr Backend Engineer](https://www.linkedin.com/jobs/view/4455126506/) — Owl Ventures
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4257834587/) — Peregrine
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-15
 
-### [Data Engineer - Commodities](https://www.linkedin.com/jobs/view/4426905025/) — Millennium
-- 📍 **Location:** Old Greenwich, CT
-- 🕒 **Posted:** 2026-08-15
-
-### [Manager, Data Scientist - Model Risk Audit](https://www.linkedin.com/jobs/view/4445326946/) — Capital One
+### [Software Engineer, (Full Stack) Product](https://www.linkedin.com/jobs/view/4455117613/) — Sapphire Partners
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-15
 
-### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4426667416/) — DV Trading LLC
+### [Software Engineer, Backend (Product)](https://www.linkedin.com/jobs/view/4455124619/) — Sapphire Partners
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-15
 
-### [Engineering Manager, Infrastructure Engineering](https://www.linkedin.com/jobs/view/4441824873/) — CoreWeave
+### [Frontend Platform Engineer](https://www.linkedin.com/jobs/view/4406928175/) — Harvey
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-15
 
-### [Senior Software Engineer, Full Stack (Provider)](https://www.linkedin.com/jobs/view/4387191097/) — Charlie Health
+### [Lead Software Engineer - NY Office](https://www.linkedin.com/jobs/view/4435286219/) — LSEG
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-15
 
-### [Senior Software Engineer - Full Stack](https://www.linkedin.com/jobs/view/4451732456/) — Medilinkers LLC
+### [Software Engineer, Backend (Infrastructure & Platform)](https://www.linkedin.com/jobs/view/4455118623/) — Sapphire Partners
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-15
 
-### [Senior Software Engineer - NY Office](https://www.linkedin.com/jobs/view/4435288120/) — LSEG
+### [Senior Supply Chain Analytics Engineer](https://www.linkedin.com/jobs/view/4441835269/) — CoreWeave
+- 📍 **Location:** Livingston, NJ
+- 🕒 **Posted:** 2026-08-15
+
+### [Senior Software Developer for Quantum-Centric Supercomputing](https://www.linkedin.com/jobs/view/4433724057/) — IBM
+- 📍 **Location:** Yorktown Heights, NY
+- 💰 **Salary:** $161,000.00/yr - $276,000.00/yr
+- 🕒 **Posted:** 2026-08-15
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4426153331/) — Fitch Ratings
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-15
 
-### [Software Engineer (C#/.NET)](https://www.linkedin.com/jobs/view/4444396742/) — Rockstar Games
-- 📍 **Location:** Manhattan, NY
-- 🕒 **Posted:** 2026-08-15
-
-### [Sr. Product Security Engineer](https://www.linkedin.com/jobs/view/4313380680/) — Betterment
+### [Lead Trading Systems Engineer (USA)](https://www.linkedin.com/jobs/view/4406594280/) — Trexquant Investment LP
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-15
 
-### [Data Engineer, Product Analytics](https://www.linkedin.com/jobs/view/4451724497/) — Meta
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $114,000.00/yr - $173,000.00/yr
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4453917505/) — updateme
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-08-15
