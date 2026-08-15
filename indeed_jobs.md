@@ -1,9 +1,9 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-15 16:54 UTC*
+*Last updated: 2026-08-15 17:51 UTC*
 
-**1 new role(s)** since last run · 135 total in last 24h
+**1 new role(s)** since last run · 131 total in last 24h
 
-### [Internship - Embedded Systems Engineer](https://www.indeed.com/viewjob?jk=58f636662c344958) — Infineon Technologies
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $27–$36/hr
-- 🕒 **Posted:** 2026-08-05
+### [Network Infrastructure Engineer](https://www.indeed.com/viewjob?jk=b9993342357ce4ce) — Cloud Destinations
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $40–$47/hr
+- 🕒 **Posted:** 2026-08-15
