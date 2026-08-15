@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-15 03:20 UTC",
-  "total": 22,
-  "new_count": 22,
+  "scraped_at": "2026-08-15 04:06 UTC",
+  "total": 30,
+  "new_count": 9,
   "jobs": [
     {
       "company": "Gusto",
@@ -44,10 +44,42 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Clay",
+      "title": "Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453794269/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Clay",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453784407/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "TikTok",
       "title": "Data Scientist Graduate (Multimedia) - 2027 Start",
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4453798205/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Stanford University",
+      "title": "Research Software Engineer, Brain Data Science Platform (24-Month Fixed-Term)",
+      "location": "Stanford, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454857269/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Spectrum Equity",
+      "title": "Senior Data Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453794208/",
       "date_posted": "2026-08-14",
       "ats": "LinkedIn"
     },
@@ -61,19 +93,10 @@
       "salary": "$88,800.00/yr - $133,200.00/yr"
     },
     {
-      "company": "IBM",
-      "title": "Associate Data Engineer 2027 - AI & Data Analytics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451274739/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn",
-      "salary": "$71,200.00/yr - $107,000.00/yr"
-    },
-    {
-      "company": "Spectrum Equity",
-      "title": "Senior Data Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453794208/",
+      "company": "Synphony (YC P26)",
+      "title": "Full-Stack Robotics Engineer (Forward Deployed)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4453741207/",
       "date_posted": "2026-08-14",
       "ats": "LinkedIn"
     },
@@ -86,20 +109,21 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Full-Stack Engineer Intern",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4453902205/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Horizontal Talent",
       "title": "Sr DevOps Engineer",
       "location": "Oakland, CA",
       "url": "https://www.linkedin.com/jobs/view/4451292014/",
       "date_posted": "2026-08-14",
       "ats": "LinkedIn"
+    },
+    {
+      "company": "IBM",
+      "title": "Associate Data Engineer 2027 - AI & Data Analytics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451274739/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$71,200.00/yr - $107,000.00/yr"
     },
     {
       "company": "Revolution Medicines",
@@ -110,10 +134,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Thomson Reuters",
-      "title": "Lead Research Engineer, Search & Retrieval",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4453799054/",
+      "company": "Manifold Bio",
+      "title": "Product Manager, AI Platform & Partnerships",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454869054/",
       "date_posted": "2026-08-14",
       "ats": "LinkedIn"
     },
@@ -127,6 +151,14 @@
       "salary": "$137,750.00/yr - $185,000.00/yr"
     },
     {
+      "company": "Thomson Reuters",
+      "title": "Lead Research Engineer, Search & Retrieval",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4453799054/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "JPMorganChase",
       "title": "Senior Lead Software Engineer - Full Stack / AI",
       "location": "Jersey City, NJ",
@@ -137,9 +169,25 @@
     },
     {
       "company": "Thomson Reuters",
+      "title": "Senior Software Engineer I",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4453908021/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Thomson Reuters",
       "title": "Lead Software Engineer I",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4453784190/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Software Engineer III (Python/React)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454848761/",
       "date_posted": "2026-08-14",
       "ats": "LinkedIn"
     },
@@ -153,217 +201,125 @@
     },
     {
       "company": "JPMorganChase",
-      "title": "Software Engineer III (Python/React)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4454848761/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn",
-      "salary": "$137,750.00/yr - $185,000.00/yr"
-    },
-    {
-      "company": "Thomson Reuters",
-      "title": "Senior Software Engineer I",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4453908021/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "JPMorganChase",
       "title": "Full-Stack Java React Software Engineer III",
       "location": "Jersey City, NJ",
       "url": "https://www.linkedin.com/jobs/view/4454840867/",
       "date_posted": "2026-08-14",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$137,750.00/yr - $185,000.00/yr"
     },
     {
       "company": "JPMorganChase",
       "title": "Lead Software  Engineer - iOS Engineer",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4454846789/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn",
+      "salary": "$156,750.00/yr - $215,000.00/yr"
+    },
+    {
+      "company": "Clay",
+      "title": "Software Engineer, Backend (Infrastructure & Platform)",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4453901239/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Clay",
+      "title": "Software Engineer, Backend (Product)",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4453904233/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Clay",
+      "title": "Software Engineer, (Full Stack) Product",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4453796302/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Clay",
+      "title": "Software Engineer, Applied AI",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4453795302/",
       "date_posted": "2026-08-14",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Gusto",
-      "title": "Software Engineer, ML Platform",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4454839923/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Software Engineer - AI Agent",
-      "location": "San Mateo County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453789189/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Senior Software Engineer, Product",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453794153/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Senior Full Stack Software Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453901139/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Gusto",
-      "title": "Senior Data Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4454850810/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Data Scientist Graduate (Multimedia) - 2027 Start",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453798205/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "IBM",
-      "title": "Associate Data Scientist 2027 - AI & Data Analytics",
+      "company": "Clay",
+      "title": "Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451278742/",
+      "url": "https://www.linkedin.com/jobs/view/4453794269/",
       "date_posted": "2026-08-14",
-      "ats": "LinkedIn",
-      "salary": "$88,800.00/yr - $133,200.00/yr"
+      "ats": "LinkedIn"
     },
     {
-      "company": "IBM",
-      "title": "Associate Data Engineer 2027 - AI & Data Analytics",
+      "company": "Clay",
+      "title": "Machine Learning Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451274739/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn",
-      "salary": "$71,200.00/yr - $107,000.00/yr"
-    },
-    {
-      "company": "Spectrum Equity",
-      "title": "Senior Data Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453794208/",
+      "url": "https://www.linkedin.com/jobs/view/4453784407/",
       "date_posted": "2026-08-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Stripe",
-      "title": "Backend Engineer, Link (US)",
+      "company": "Stanford University",
+      "title": "Research Software Engineer, Brain Data Science Platform (24-Month Fixed-Term)",
+      "location": "Stanford, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454857269/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Synphony (YC P26)",
+      "title": "Full-Stack Robotics Engineer (Forward Deployed)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4453741207/",
+      "date_posted": "2026-08-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Manifold Bio",
+      "title": "Product Manager, AI Platform & Partnerships",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454837846/",
+      "url": "https://www.linkedin.com/jobs/view/4454869054/",
       "date_posted": "2026-08-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Full-Stack Engineer Intern",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4453902205/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Horizontal Talent",
-      "title": "Sr DevOps Engineer",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451292014/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Revolution Medicines",
-      "title": "Scientist I, DMPK",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4453794209/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Thomson Reuters",
-      "title": "Lead Research Engineer, Search & Retrieval",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4453799054/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Python Software Engineer III",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4454837916/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn",
-      "salary": "$137,750.00/yr - $185,000.00/yr"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Senior Lead Software Engineer - Full Stack / AI",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4454848758/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn",
-      "salary": "$175,750.00/yr - $260,000.00/yr"
-    },
-    {
-      "company": "Thomson Reuters",
-      "title": "Lead Software Engineer I",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4453784190/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Schr\u00f6dinger",
-      "title": "Cloud Engineer",
+      "company": "Clay",
+      "title": "Software Engineer, Backend (Infrastructure & Platform)",
       "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4454847700/",
+      "url": "https://www.linkedin.com/jobs/view/4453901239/",
       "date_posted": "2026-08-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "JPMorganChase",
-      "title": "Software Engineer III (Python/React)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4454848761/",
-      "date_posted": "2026-08-14",
-      "ats": "LinkedIn",
-      "salary": "$137,750.00/yr - $185,000.00/yr"
-    },
-    {
-      "company": "Thomson Reuters",
-      "title": "Senior Software Engineer I",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4453908021/",
+      "company": "Clay",
+      "title": "Software Engineer, Backend (Product)",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4453904233/",
       "date_posted": "2026-08-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "JPMorganChase",
-      "title": "Full-Stack Java React Software Engineer III",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4454840867/",
+      "company": "Clay",
+      "title": "Software Engineer, (Full Stack) Product",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4453796302/",
       "date_posted": "2026-08-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "JPMorganChase",
-      "title": "Lead Software  Engineer - iOS Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4454846789/",
+      "company": "Clay",
+      "title": "Software Engineer, Applied AI",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4453795302/",
       "date_posted": "2026-08-14",
       "ats": "LinkedIn"
     }
