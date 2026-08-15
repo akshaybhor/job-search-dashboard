@@ -1,9 +1,13 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-15 19:00 UTC*
+*Last updated: 2026-08-15 19:49 UTC*
 
-**1 new role(s)** since last run · 125 total in last 24h
+**2 new role(s)** since last run · 122 total in last 24h
 
-### [New College Grad - AI Innovation Research Engineer](https://www.indeed.com/viewjob?jk=37f7ce00bd373207) — Micron Technology
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $113k–$242k/yr
-- 🕒 **Posted:** 2026-08-10
+### [Senior Software Engineer (Full-Stack)](https://www.indeed.com/viewjob?jk=6bca44d051702d39) — AI Talent Hunt
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $170k–$230k/yr
+- 🕒 **Posted:** 2026-08-15
+
+### [Lead Software Engineer, Full Stack](https://www.indeed.com/viewjob?jk=17f86ecea58e621e) — Capital One
+- 📍 **Location:** New York, NY, US
+- 🕒 **Posted:** 2026-08-15
