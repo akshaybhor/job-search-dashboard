@@ -1,8 +1,16 @@
 {
-  "scraped_at": "2026-08-15 20:50 UTC",
-  "total": 3,
-  "new_count": 3,
+  "scraped_at": "2026-08-15 21:47 UTC",
+  "total": 4,
+  "new_count": 2,
   "jobs": [
+    {
+      "company": "Murphy Talent Group",
+      "title": "Full Stack Engineer (AI, Product)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4442000527/",
+      "date_posted": "2026-08-15",
+      "ats": "LinkedIn"
+    },
     {
       "company": "Stripe",
       "title": "Full Stack Engineer, Startup Products",
@@ -20,40 +28,30 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "AppCard, Inc.",
-      "title": "Senior DevOps Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4450116066/",
+      "company": "Jobright.ai",
+      "title": "Full-Stack Engineer Intern",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4453943533/",
       "date_posted": "2026-08-15",
-      "ats": "LinkedIn",
-      "salary": "$180,000.00/yr - $240,000.00/yr"
+      "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Startup Products",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454540393/",
+      "company": "Murphy Talent Group",
+      "title": "Full Stack Engineer (AI, Product)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4442000527/",
       "date_posted": "2026-08-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Support Experience (Greater China Support)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454549329/",
+      "company": "Jobright.ai",
+      "title": "Full-Stack Engineer Intern",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4453943533/",
       "date_posted": "2026-08-15",
       "ats": "LinkedIn"
-    },
-    {
-      "company": "AppCard, Inc.",
-      "title": "Senior DevOps Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4450116066/",
-      "date_posted": "2026-08-15",
-      "ats": "LinkedIn",
-      "salary": "$180,000.00/yr - $240,000.00/yr"
     }
   ]
 }

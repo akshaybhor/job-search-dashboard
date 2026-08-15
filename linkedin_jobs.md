@@ -1,17 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-15 20:50 UTC*
+*Last updated: 2026-08-15 21:47 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Full Stack Engineer, Startup Products](https://www.linkedin.com/jobs/view/4454540393/) — Stripe
-- 📍 **Location:** San Francisco, CA
+### [Full Stack Engineer (AI, Product)](https://www.linkedin.com/jobs/view/4442000527/) — Murphy Talent Group
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-15
 
-### [Full Stack Engineer, Support Experience (Greater China Support)](https://www.linkedin.com/jobs/view/4454549329/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4450116066/) — AppCard, Inc.
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $180,000.00/yr - $240,000.00/yr
+### [Full-Stack Engineer Intern](https://www.linkedin.com/jobs/view/4453943533/) — Jobright.ai
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-15
