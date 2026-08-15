@@ -1,110 +1,97 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-15 01:59 UTC*
+*Last updated: 2026-08-15 03:20 UTC*
 
-**24 new role(s)** since last run · 24 total in last 1h
+**22 new role(s)** since last run · 22 total in last 1h
 
-### [Senior Software Engineer - ML Training Pipelines](https://www.linkedin.com/jobs/view/4423967477/) — Applied Intuition
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $200,000.00/yr - $275,000.00/yr
+### [Software Engineer, ML Platform](https://www.linkedin.com/jobs/view/4454839923/) — Gusto
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-14
 
-### [Research Engineer - New Grad (2027)](https://www.linkedin.com/jobs/view/4453756652/) — Applied Intuition
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $140,000.00/yr - $200,000.00/yr
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4453789189/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Machine Learning Scientist - Drug Discovery](https://www.linkedin.com/jobs/view/4453743709/) — Astrix
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Applied Scientist II, AWS Just-Walk-Out Science Team](https://www.linkedin.com/jobs/view/4454808961/) — Amazon Web Services (AWS)
-- 📍 **Location:** East Palo Alto, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Applied Scientist, Automated Reasoning](https://www.linkedin.com/jobs/view/4454817847/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [DSP Software Engineer](https://www.linkedin.com/jobs/view/4445258531/) — Cowboy Space Corporation
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Senior Software Engineer I, Research Informatics](https://www.linkedin.com/jobs/view/4451267671/) — Mammoth Biosciences
-- 📍 **Location:** Brisbane, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer - Calibration](https://www.linkedin.com/jobs/view/4423969292/) — Applied Intuition
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer, Large-Scale Data Query Systems](https://www.linkedin.com/jobs/view/4454840668/) — Eventual
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer, Data Products & Platform](https://www.linkedin.com/jobs/view/4454843687/) — Clay
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer I, Payments](https://www.linkedin.com/jobs/view/4453791036/) — Twitch
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4454831804/) — Clay
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer, Early Career](https://www.linkedin.com/jobs/view/4451279564/) — Flow Engineering
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer (Game Engine / XR)](https://www.linkedin.com/jobs/view/4454837262/) — Nord Resume
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4453794153/) — Jobright.ai
 - 📍 **Location:** Burlingame, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Senior Site Reliability Engineer - Managed Kubernetes](https://www.linkedin.com/jobs/view/4454830875/) — Lambda
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $240,000.00/yr - $356,000.00/yr
+### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4453901139/) — Jobright.ai
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Senior Site Reliability Engineer - Managed Kubernetes](https://www.linkedin.com/jobs/view/4454842733/) — Lambda
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4454850810/) — Gusto
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-14
+
+### [Data Scientist Graduate (Multimedia) - 2027 Start](https://www.linkedin.com/jobs/view/4453798205/) — TikTok
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $240,000.00/yr - $356,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4454839711/) — Slope
+### [Associate Data Scientist 2027 - AI & Data Analytics](https://www.linkedin.com/jobs/view/4451278742/) — IBM
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $88,800.00/yr - $133,200.00/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Associate Data Engineer 2027 - AI & Data Analytics](https://www.linkedin.com/jobs/view/4451274739/) — IBM
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $71,200.00/yr - $107,000.00/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4453794208/) — Spectrum Equity
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Backend Engineer, Link (US)](https://www.linkedin.com/jobs/view/4454837846/) — Stripe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4454852562/) — Clay
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $300,000.00/yr
+### [Full-Stack Engineer Intern](https://www.linkedin.com/jobs/view/4453902205/) — Jobright.ai
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, Applied AI](https://www.linkedin.com/jobs/view/4454845732/) — Clay
+### [Sr DevOps Engineer](https://www.linkedin.com/jobs/view/4451292014/) — Horizontal Talent
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Scientist I, DMPK](https://www.linkedin.com/jobs/view/4453794209/) — Revolution Medicines
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-14
+
+### [Lead Research Engineer, Search & Retrieval](https://www.linkedin.com/jobs/view/4453799054/) — Thomson Reuters
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, Data Products & Platform](https://www.linkedin.com/jobs/view/4454830874/) — Clay
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $300,000.00/yr
+### [Python Software Engineer III](https://www.linkedin.com/jobs/view/4454837916/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Senior Robotics Engineer](https://www.linkedin.com/jobs/view/4453741928/) — Mbodi AI
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
+### [Senior Lead Software Engineer - Full Stack / AI](https://www.linkedin.com/jobs/view/4454848758/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $175,750.00/yr - $260,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, (Full Stack) Product](https://www.linkedin.com/jobs/view/4454841750/) — Clay
+### [Lead Software Engineer I](https://www.linkedin.com/jobs/view/4453784190/) — Thomson Reuters
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, Backend (Product)](https://www.linkedin.com/jobs/view/4454832802/) — Clay
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $300,000.00/yr
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4454847700/) — Schrödinger
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-08-14
 
-### [Senior Lead Software Engineer, Full Stack](https://www.linkedin.com/jobs/view/4454850438/) — Capital One
+### [Software Engineer III (Python/React)](https://www.linkedin.com/jobs/view/4454848761/) — JPMorganChase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Senior Software Engineer I](https://www.linkedin.com/jobs/view/4453908021/) — Thomson Reuters
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-14
+
+### [Full-Stack Java React Software Engineer III](https://www.linkedin.com/jobs/view/4454840867/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-08-14
+
+### [Lead Software  Engineer - iOS Engineer](https://www.linkedin.com/jobs/view/4454846789/) — JPMorganChase
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-14
