@@ -1,29 +1,46 @@
 {
-  "scraped_at": "2026-08-16 21:48 UTC",
-  "total": 4,
-  "new_count": 2,
+  "scraped_at": "2026-08-16 22:49 UTC",
+  "total": 7,
+  "new_count": 6,
   "jobs": [
     {
+      "company": "kadence",
+      "title": "Applied AI Scientist - Quantum AI",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4454314971/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $270,000.00/yr"
+    },
+    {
+      "company": "kadence",
+      "title": "Research Scientist, AI x Quantum",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4446482793/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Inference & Serving (Speech LLM)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454203484/",
+      "title": "Software Engineer - AI Agent",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454221021/",
       "date_posted": "2026-08-16",
       "ats": "LinkedIn"
     },
     {
-      "company": "Haystack",
-      "title": "Full Stack Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4454205417/",
+      "company": "Jobright.ai",
+      "title": "Senior Software Engineer, Product",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454215108/",
       "date_posted": "2026-08-16",
       "ats": "LinkedIn"
     },
     {
-      "company": "Haystack",
-      "title": "Frontend Developer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4454200460/",
+      "company": "Jobright.ai",
+      "title": "Senior DevOps Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454215069/",
       "date_posted": "2026-08-16",
       "ats": "LinkedIn"
     },
@@ -32,24 +49,65 @@
       "title": "Senior Full Stack Software Engineer",
       "location": "Palo Alto, CA",
       "url": "https://www.linkedin.com/jobs/view/4454211059/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Netskope",
+      "title": "Sr. Software Engineer, Client Backend",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455224311/",
       "date_posted": "2026-08-16",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Inference & Serving (Speech LLM)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454203484/",
+      "company": "kadence",
+      "title": "Applied AI Scientist - Quantum AI",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4454314971/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $270,000.00/yr"
+    },
+    {
+      "company": "kadence",
+      "title": "Research Scientist, AI x Quantum",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4446482793/",
       "date_posted": "2026-08-16",
       "ats": "LinkedIn"
     },
     {
       "company": "Jobright.ai",
-      "title": "Senior Full Stack Software Engineer",
+      "title": "Software Engineer - AI Agent",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454221021/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Senior Software Engineer, Product",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454215108/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Senior DevOps Engineer",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454211059/",
+      "url": "https://www.linkedin.com/jobs/view/4454215069/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Netskope",
+      "title": "Sr. Software Engineer, Client Backend",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455224311/",
       "date_posted": "2026-08-16",
       "ats": "LinkedIn"
     }

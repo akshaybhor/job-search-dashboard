@@ -1,12 +1,29 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-16 21:48 UTC*
+*Last updated: 2026-08-16 22:49 UTC*
 
-**2 new role(s)** since last run · 4 total in last 1h
+**6 new role(s)** since last run · 7 total in last 1h
 
-### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4454203484/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
+### [Applied AI Scientist - Quantum AI](https://www.linkedin.com/jobs/view/4454314971/) — kadence
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $200,000.00/yr - $270,000.00/yr
 - 🕒 **Posted:** 2026-08-16
 
-### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4454211059/) — Jobright.ai
+### [Research Scientist, AI x Quantum](https://www.linkedin.com/jobs/view/4446482793/) — kadence
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-16
+
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4454221021/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-08-16
+
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4454215108/) — Jobright.ai
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-08-16
+
+### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4454215069/) — Jobright.ai
 - 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-16
+
+### [Sr. Software Engineer, Client Backend](https://www.linkedin.com/jobs/view/4455224311/) — Netskope
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-16
