@@ -1,16 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-16 19:47 UTC*
+*Last updated: 2026-08-16 20:50 UTC*
 
-**3 new role(s)** since last run · 12 total in last 1h
+**2 new role(s)** since last run · 3 total in last 1h
 
-### [Full-Stack Engineer Intern](https://www.linkedin.com/jobs/view/4453988468/) — Jobright.ai
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4454205417/) — Haystack
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-16
 
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4455216121/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-16
-
-### [Senior Software Developer](https://www.linkedin.com/jobs/view/4454206357/) — RBC Capital Markets
-- 📍 **Location:** Jersey City, NJ
+### [Frontend Developer](https://www.linkedin.com/jobs/view/4454200460/) — Haystack
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-16
