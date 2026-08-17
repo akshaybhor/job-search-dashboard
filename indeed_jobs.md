@@ -1,48 +1,58 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-17 21:54 UTC*
+*Last updated: 2026-08-17 22:54 UTC*
 
-**9 new role(s)** since last run · 90 total in last 24h
+**11 new role(s)** since last run · 98 total in last 24h
 
-### [ML Engineer: Speech & LLMs](https://www.indeed.com/viewjob?jk=727158d4cecbb9a5) — Unknown
+### [Machine Learning Engineer II](https://www.indeed.com/viewjob?jk=f625bf42dc6dd62f) — Expedia Group
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $119k–$206k/yr
+- 🕒 **Posted:** 2026-08-17
+
+### [Data Scientist II, Tech](https://www.indeed.com/viewjob?jk=31e7651ac1a949ef) — Uber
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $164k–$174k/yr
+- 🕒 **Posted:** 2026-08-17
+
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=5d7007df9a5dc7a5) — Uber
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $171k–$209k/yr
+- 🕒 **Posted:** 2026-08-17
+
+### [Software Engineer I](https://www.indeed.com/viewjob?jk=2c50bbbd6f31df92) — Uber
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $153k–$169k/yr
+- 🕒 **Posted:** 2026-08-17
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=92cf831dd314b836) — Uber
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $226k–$246k/yr
+- 🕒 **Posted:** 2026-08-17
+
+### [Sr Software Engineer](https://www.indeed.com/viewjob?jk=3558f3d709ea13db) — Uber
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $202k–$246k/yr
+- 🕒 **Posted:** 2026-08-17
+
+### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=dcc2288dc31ef59d) — Wells Fargo
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $120k–$196k/yr
+- 🕒 **Posted:** 2026-08-17
+
+### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=da0467e2365145fd) — Wells Fargo
+- 📍 **Location:** Concord, CA, US
+- 💰 **Salary:** $120k–$196k/yr
+- 🕒 **Posted:** 2026-08-17
+
+### [Mobile Engineer](https://www.indeed.com/viewjob?jk=7304106eea012489) — Unknown
 - 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-08-17
 
-### [Machine Learning Engineer, Autonomy](https://www.indeed.com/viewjob?jk=e4211b0cd468a98a) — Blue River Technology
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $113k–$202k/yr
+### [Security Engineer](https://www.indeed.com/viewjob?jk=17357cbb3c89f7a8) — Cala Health
+- 📍 **Location:** San Mateo, CA, US
+- 💰 **Salary:** $155k–$190k/yr
 - 🕒 **Posted:** 2026-08-17
 
-### [Senior Technical Program Manager, Generative AI, Google Cloud](https://www.indeed.com/viewjob?jk=fb183658acf1e27e) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $192k–$278k/yr
-- 🕒 **Posted:** 2026-08-17
-
-### [Software Engineer, Science and Strategic Initiatives, DeepMind](https://www.indeed.com/viewjob?jk=747d1b770664f0d0) — DeepMind
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $174k–$252k/yr
-- 🕒 **Posted:** 2026-08-17
-
-### [Software Engineer, AI/ML, Full Stack, Search Ads](https://www.indeed.com/viewjob?jk=8108600417cacb0a) — Google
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-08-17
-
-### [Senior Electrical/Systems Engineer – High Power RF Systems](https://www.indeed.com/viewjob?jk=a97790a4d4c15b8d) — Siemens Healthineers
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $156k–$214k/yr
-- 🕒 **Posted:** 2026-08-17
-
-### [Software Engineer III, Infrastructure, Core](https://www.indeed.com/viewjob?jk=154e87c6488fceb7) — Google
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-08-17
-
-### [Senior Software Engineering Manager, Google Compute Engine](https://www.indeed.com/viewjob?jk=5531ddb426a3b80b) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $262k–$364k/yr
-- 🕒 **Posted:** 2026-08-17
-
-### [Senior Security Engineer, Firmware Security](https://www.indeed.com/viewjob?jk=cba84cb237a0ea06) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $174k–$252k/yr
+### [AI Research Engineer](https://www.indeed.com/viewjob?jk=0c7e818329cc85f7) — Traversal
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $180k–$300k/yr
 - 🕒 **Posted:** 2026-08-17
