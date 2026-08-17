@@ -1,24 +1,24 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-16 04:05 UTC*
+*Last updated: 2026-08-17 04:08 UTC*
 
 **5 new role(s)** since last run · 133 total in last 24h
 
-### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110225004) — Natera
-- 📍 **Location:** US Remote
+### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110598004) — Natera
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-07-29
 
-### [Research Scientist, AI](https://www.linkedin.com/jobs/view/4398639360/) — Biohub
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Research Engineer, AI](https://www.linkedin.com/jobs/view/4398642162/) — Biohub
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Sr. Machine Learning Engineer](https://www.linkedin.com/jobs/view/4444663063/) — Intel
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4398029018/) — Genentech
+### [Research Engineer, AI](https://www.linkedin.com/jobs/view/4398462870/) — Biohub
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-15
+- 🕒 **Posted:** 2026-08-16
+
+### [Senior Frontend Engineer - Engine](https://www.linkedin.com/jobs/view/4406708784/) — Gen
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-16
+
+### [Lead Frontend Engineer - Engine](https://www.linkedin.com/jobs/view/4406744393/) — Gen
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-16
+
+### [Lead Machine Learning Engineer - Engine](https://www.linkedin.com/jobs/view/4406763299/) — Gen
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-16
