@@ -1,90 +1,173 @@
 {
-  "scraped_at": "2026-08-16 23:48 UTC",
-  "total": 8,
-  "new_count": 2,
+  "scraped_at": "2026-08-17 02:05 UTC",
+  "total": 10,
+  "new_count": 10,
   "jobs": [
     {
-      "company": "kadence",
-      "title": "Applied AI Scientist - Quantum AI",
+      "company": "GMI Cloud",
+      "title": "Infrastructure Engineer, LLM Inference Optimization",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4442799506/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GMI Cloud",
+      "title": "Machine Learning Engineer (LLM inference)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4443329222/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GMI Cloud",
+      "title": "Machine Learning Engineer, LLM Inference Optimization",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4454314971/",
+      "url": "https://www.linkedin.com/jobs/view/4442771622/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sable",
+      "title": "Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4454219148/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Unlok",
+      "title": "Junior  Options Software Developer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454232252/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mirage",
+      "title": "Research Engineer, Agentic Systems",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4455215890/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mirage",
+      "title": "Research Engineer, Generative Video",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4455221915/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alignerr",
+      "title": "Lead Backend Engineer - AI Tooling",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4455210793/",
       "date_posted": "2026-08-16",
       "ats": "LinkedIn",
-      "salary": "$200,000.00/yr - $270,000.00/yr"
+      "salary": "$50.00/hr - $75.00/hr"
     },
     {
-      "company": "kadence",
-      "title": "Research Scientist, AI x Quantum",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4446482793/",
+      "company": "Alignerr",
+      "title": "Backend Developer - Data Annotation Systems",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4455212798/",
       "date_posted": "2026-08-16",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Software Engineer - AI Agent",
-      "location": "San Mateo County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454221021/",
+      "company": "Alignerr",
+      "title": "Senior Python Full-Stack Engineer \u2014 AI Data & Infrastructure",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4455206756/",
       "date_posted": "2026-08-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Senior Software Engineer, Product",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454215108/",
-      "date_posted": "2026-08-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454230027/",
-      "date_posted": "2026-08-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Senior DevOps Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454215069/",
-      "date_posted": "2026-08-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Software Engineer - AI Agent",
-      "location": "San Mateo County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454215167/",
-      "date_posted": "2026-08-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Netskope",
-      "title": "Sr. Software Engineer, Client Backend",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455224311/",
-      "date_posted": "2026-08-16",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$50.00/hr - $75.00/hr"
     }
   ],
   "new_jobs": [
     {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454230027/",
+      "company": "GMI Cloud",
+      "title": "Infrastructure Engineer, LLM Inference Optimization",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4442799506/",
       "date_posted": "2026-08-16",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Software Engineer - AI Agent",
-      "location": "San Mateo County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454215167/",
+      "company": "GMI Cloud",
+      "title": "Machine Learning Engineer (LLM inference)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4443329222/",
       "date_posted": "2026-08-16",
       "ats": "LinkedIn"
+    },
+    {
+      "company": "GMI Cloud",
+      "title": "Machine Learning Engineer, LLM Inference Optimization",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4442771622/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sable",
+      "title": "Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4454219148/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Unlok",
+      "title": "Junior  Options Software Developer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454232252/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mirage",
+      "title": "Research Engineer, Agentic Systems",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4455215890/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mirage",
+      "title": "Research Engineer, Generative Video",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4455221915/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alignerr",
+      "title": "Lead Backend Engineer - AI Tooling",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4455210793/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn",
+      "salary": "$50.00/hr - $75.00/hr"
+    },
+    {
+      "company": "Alignerr",
+      "title": "Backend Developer - Data Annotation Systems",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4455212798/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alignerr",
+      "title": "Senior Python Full-Stack Engineer \u2014 AI Data & Infrastructure",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4455206756/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn",
+      "salary": "$50.00/hr - $75.00/hr"
     }
   ]
 }
