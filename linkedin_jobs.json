@@ -1,33 +1,15 @@
 {
-  "scraped_at": "2026-08-17 03:29 UTC",
+  "scraped_at": "2026-08-17 04:21 UTC",
   "total": 4,
-  "new_count": 4,
+  "new_count": 3,
   "jobs": [
     {
-      "company": "talentpluto",
-      "title": "Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455232062/",
-      "date_posted": "2026-08-16",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $250,000.00/yr"
-    },
-    {
-      "company": "Logical Intelligence",
-      "title": "AI Engineer - Reinforcement Learning",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455234005/",
+      "company": "Kargo",
+      "title": "Software Engineer, Edge AI",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4442253944/",
       "date_posted": "2026-08-16",
       "ats": "LinkedIn"
-    },
-    {
-      "company": "talentpluto",
-      "title": "RL Environment Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455244023/",
-      "date_posted": "2026-08-16",
-      "ats": "LinkedIn",
-      "salary": "$180,000.00/yr - $400,000.00/yr"
     },
     {
       "company": "Wanderboat AI",
@@ -37,43 +19,48 @@
       "date_posted": "2026-08-16",
       "ats": "LinkedIn",
       "salary": "$110,000.00/yr - $180,000.00/yr"
+    },
+    {
+      "company": "Kargo",
+      "title": "Network Security Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4432538371/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Via",
+      "title": "Senior iOS Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4370466174/",
+      "date_posted": "2026-08-16",
+      "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "talentpluto",
-      "title": "Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455232062/",
-      "date_posted": "2026-08-16",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $250,000.00/yr"
-    },
-    {
-      "company": "Logical Intelligence",
-      "title": "AI Engineer - Reinforcement Learning",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455234005/",
+      "company": "Kargo",
+      "title": "Software Engineer, Edge AI",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4442253944/",
       "date_posted": "2026-08-16",
       "ats": "LinkedIn"
     },
     {
-      "company": "talentpluto",
-      "title": "RL Environment Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455244023/",
+      "company": "Kargo",
+      "title": "Network Security Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4432538371/",
       "date_posted": "2026-08-16",
-      "ats": "LinkedIn",
-      "salary": "$180,000.00/yr - $400,000.00/yr"
+      "ats": "LinkedIn"
     },
     {
-      "company": "Wanderboat AI",
-      "title": "Full Stack Engineer, Mobile",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454222515/",
+      "company": "Via",
+      "title": "Senior iOS Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4370466174/",
       "date_posted": "2026-08-16",
-      "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $180,000.00/yr"
+      "ats": "LinkedIn"
     }
   ]
 }
