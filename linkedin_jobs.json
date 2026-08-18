@@ -1,13 +1,87 @@
 {
-  "scraped_at": "2026-08-18 03:24 UTC",
-  "total": 12,
-  "new_count": 12,
+  "scraped_at": "2026-08-18 04:09 UTC",
+  "total": 18,
+  "new_count": 6,
   "jobs": [
     {
       "company": "Unlearn.AI",
       "title": "Applied Machine Learning Scientist",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4454485218/",
+      "date_posted": "2026-08-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Stanford University",
+      "title": "Biomedical Data Science",
+      "location": "Stanford, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455588173/",
+      "date_posted": "2026-08-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "General Motors",
+      "title": "Senior Software Engineer, Rendering Infrastructure (AV Simulation)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455570935/",
+      "date_posted": "2026-08-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Atomic Machines",
+      "title": "Senior Software Engineer, Machine Control Systems",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449869983/",
+      "date_posted": "2026-08-17",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $230,000.00/yr"
+    },
+    {
+      "company": "AMD",
+      "title": "AI Research Scientist, Reinforcement Learning (LLM) and Post-Training",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4452527759/",
+      "date_posted": "2026-08-17",
+      "ats": "LinkedIn",
+      "salary": "$204,000.00/yr - $306,000.00/yr"
+    },
+    {
+      "company": "Spectrum Equity",
+      "title": "Senior Applied Scientist, Speech",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454469293/",
+      "date_posted": "2026-08-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Helm AI",
+      "title": "Software Engineering Intern",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4454475236/",
+      "date_posted": "2026-08-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Arcessio",
+      "title": "Full Stack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4454481280/",
+      "date_posted": "2026-08-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Copper",
+      "title": "Senior Software Engineer",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455554770/",
+      "date_posted": "2026-08-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NetApp",
+      "title": "Lustre Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4452521839/",
       "date_posted": "2026-08-17",
       "ats": "LinkedIn"
     },
@@ -21,26 +95,10 @@
       "salary": "$173,600.00/yr - $260,400.00/yr"
     },
     {
-      "company": "Spectrum Equity",
-      "title": "Senior Applied Scientist, Speech",
+      "company": "Omnissa",
+      "title": "DevOps Lead, Cloud Automation & Reliability",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454469293/",
-      "date_posted": "2026-08-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Copper",
-      "title": "Senior Software Engineer",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455554770/",
-      "date_posted": "2026-08-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AMD",
-      "title": "AI Research Scientist, Reinforcement Learning (LLM) and Post-Training",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4452527759/",
+      "url": "https://www.linkedin.com/jobs/view/4454483205/",
       "date_posted": "2026-08-17",
       "ats": "LinkedIn"
     },
@@ -55,25 +113,17 @@
     },
     {
       "company": "Omnissa",
-      "title": "DevOps Lead, Cloud Automation & Reliability",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454483205/",
-      "date_posted": "2026-08-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NetApp",
-      "title": "Lustre Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4452521839/",
-      "date_posted": "2026-08-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Omnissa",
       "title": "Sr. DevOps Engineer",
       "location": "Mountain View, CA",
       "url": "https://www.linkedin.com/jobs/view/4454485204/",
+      "date_posted": "2026-08-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "MentorMinds.io",
+      "title": "Network/Systems Engineer",
+      "location": "Santa Rosa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455572147/",
       "date_posted": "2026-08-17",
       "ats": "LinkedIn"
     },
@@ -104,100 +154,51 @@
   ],
   "new_jobs": [
     {
-      "company": "Unlearn.AI",
-      "title": "Applied Machine Learning Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454485218/",
+      "company": "Stanford University",
+      "title": "Biomedical Data Science",
+      "location": "Stanford, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455588173/",
       "date_posted": "2026-08-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "AMD",
-      "title": "AI Systems Engineer - HPC",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4452537700/",
+      "company": "General Motors",
+      "title": "Senior Software Engineer, Rendering Infrastructure (AV Simulation)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455570935/",
+      "date_posted": "2026-08-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Atomic Machines",
+      "title": "Senior Software Engineer, Machine Control Systems",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449869983/",
       "date_posted": "2026-08-17",
       "ats": "LinkedIn",
-      "salary": "$173,600.00/yr - $260,400.00/yr"
+      "salary": "$180,000.00/yr - $230,000.00/yr"
     },
     {
-      "company": "Spectrum Equity",
-      "title": "Senior Applied Scientist, Speech",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454469293/",
+      "company": "Helm AI",
+      "title": "Software Engineering Intern",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4454475236/",
       "date_posted": "2026-08-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Copper",
-      "title": "Senior Software Engineer",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455554770/",
-      "date_posted": "2026-08-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AMD",
-      "title": "AI Research Scientist, Reinforcement Learning (LLM) and Post-Training",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4452527759/",
-      "date_posted": "2026-08-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AMD",
-      "title": "AI Platform Architect",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4452521870/",
-      "date_posted": "2026-08-17",
-      "ats": "LinkedIn",
-      "salary": "$229,600.00/yr - $344,400.00/yr"
-    },
-    {
-      "company": "Omnissa",
-      "title": "DevOps Lead, Cloud Automation & Reliability",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454483205/",
-      "date_posted": "2026-08-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NetApp",
-      "title": "Lustre Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4452521839/",
-      "date_posted": "2026-08-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Omnissa",
-      "title": "Sr. DevOps Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454485204/",
-      "date_posted": "2026-08-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sciemo",
-      "title": "Data Scientist",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4452554343/",
-      "date_posted": "2026-08-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sciemo",
+      "company": "Arcessio",
       "title": "Full Stack Engineer",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4452559308/",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4454481280/",
       "date_posted": "2026-08-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "AMSYS Innovative Solutions",
-      "title": "Senior AEM Frontend Engineer",
-      "location": "Plainsboro, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4455565633/",
+      "company": "MentorMinds.io",
+      "title": "Network/Systems Engineer",
+      "location": "Santa Rosa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455572147/",
       "date_posted": "2026-08-17",
       "ats": "LinkedIn"
     }
