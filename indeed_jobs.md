@@ -1,19 +1,39 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-18 17:01 UTC*
+*Last updated: 2026-08-18 19:11 UTC*
 
-**3 new role(s)** since last run · 127 total in last 24h
+**7 new role(s)** since last run · 120 total in last 24h
 
-### [(USA) Senior, Software Engineer](https://www.indeed.com/viewjob?jk=5c869b62e785f70d) — Walmart
+### [(USA) Senior, Software Engineer](https://www.indeed.com/viewjob?jk=61a0a1e50277bf68) — Sam's Club
 - 📍 **Location:** Sunnyvale, CA, US
 - 💰 **Salary:** $117k–$234k/yr
 - 🕒 **Posted:** 2026-08-18
 
-### [AI Integration Software Engineer - Associate](https://www.indeed.com/viewjob?jk=586c17a5cdcd1d3e) — Morgan Stanley
+### [Senior Applied Data Scientist](https://www.indeed.com/viewjob?jk=035cafbd73583dde) — CLAIR
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $95k–$135k/yr
+- 💰 **Salary:** $190k–$200k/yr
 - 🕒 **Posted:** 2026-08-18
 
-### [Junior Infrastructure Engineer](https://www.indeed.com/viewjob?jk=84e761f1e860a7da) — NIKSUN, Inc.
-- 📍 **Location:** Princeton, NJ, US
-- 💰 **Salary:** $55k–$60k/yr
+### [Software Engineer, AI Agents](https://www.indeed.com/viewjob?jk=a24b027f275d3a3b) — bareinsights
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $200k–$320k/yr
+- 🕒 **Posted:** 2026-08-18
+
+### [Senior Software Developer - Web Applications](https://www.indeed.com/viewjob?jk=cfa4054e2ddd4d22) — CIeNET International
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $120k–$160k/yr
+- 🕒 **Posted:** 2026-08-18
+
+### [Sr. Software Engineer, Automation Engineering](https://www.indeed.com/viewjob?jk=57bf32982bd0fc09) — NBCUniversal
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $140k–$180k/yr
+- 🕒 **Posted:** 2026-08-18
+
+### [Analytics Engineer](https://www.indeed.com/viewjob?jk=62b06149f1d5d261) — CLAIR
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $140k–$150k/yr
+- 🕒 **Posted:** 2026-08-18
+
+### [Senior Data Engineer](https://www.indeed.com/viewjob?jk=39eb3ef65ccdb0ba) — DataArt
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $150k–$180k/yr
 - 🕒 **Posted:** 2026-08-18
