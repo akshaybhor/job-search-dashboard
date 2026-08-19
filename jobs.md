@@ -1,30 +1,38 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-18 04:04 UTC*
+*Last updated: 2026-08-19 04:04 UTC*
 
-**7 new role(s)** since last run · 134 total in last 24h
+**9 new role(s)** since last run · 136 total in last 24h
 
-### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6139254004) — Natera
-- 📍 **Location:** San Carlos, CA
+### [Senior Software Engineer II](https://job-boards.greenhouse.io/freenome/jobs/8519753002) — Freenome
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-07-14
+
+### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6138807004) — Natera
+- 📍 **Location:** US Remote
 - 🕒 **Posted:** 2026-08-10
 
-### [Senior Software Engineer, X-Scientist](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5161853007) — Xaira Therapeutics
+### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110225004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-07-29
+
+### [Lab Automation - Robotics Engineer](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5212689007) — Xaira Therapeutics
 - 📍 **Location:** South San Francisco, California, United States
-- 🕒 **Posted:** 2026-08-17
+- 🕒 **Posted:** 2026-08-18
 
-### [Sr Manager, IT Data Engineering](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Sr-Manager--IT-Data-Engineering_R0054145-1) — Gilead Sciences
-- 📍 **Location:** United States - North Carolina - Raleigh
-- 🕒 **Posted:** Posted Today
+### [Senior AI DevOps Engineer](https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Senior-AI-DevOps-Engineer_REQ-29720) — Vertex Pharmaceuticals
+- 📍 **Location:** Boston, MA
 
-### [Software Engineer, AI Engineering and Enablement](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA/Software-Engineer--AI-Engineering-and-Enablement_R1604359-1) — Bristol Myers Squibb
-- 📍 **Location:** Seattle 400 Dexter - WA
-- 🕒 **Posted:** Posted Today
+### [Sr. Machine Learning Engineer - Machine Learning](https://job-boards.greenhouse.io/dynotherapeutics/jobs/7893982003) — Dyno Therapeutics
+- 📍 **Location:** Remote; Watertown, Massachusetts, United States
+- 🕒 **Posted:** 2026-08-18
 
-### [Senior Software Engineer I, Research Informatics](https://jobs.lever.co/mammothbiosci/22d2f058-a6ea-4fc5-89d3-eed1effa5f39) — Mammoth Biosciences
-- 📍 **Location:** Brisbane, CA
-- 🕒 **Posted:** 2026-08-10
+### [Yeast Display and Machine Learning Scientist I/II – Antibody Discovery](https://careers.dana-farber.org/#yeast-display-and-machine-learning-scientist-i-ii-antibody-d) — Dana-Farber Cancer Institute
+- 📍 **Location:** Boston, MA
 
-### [Full Stack EngineerFull-time, Remote](https://www.lamarhealth.com/jobs/full-stack-engineer) — Lamar Health
+### [Mobile Software Engineer](https://www.linkedin.com/jobs/view/4452870531/) — On Me
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-18
+
+### [ML Scientist I/II, Nucleic Acid Design](https://www.linkedin.com/jobs/view/4446144681/) — Lila Sciences
 - 📍 **Location:** San Francisco, CA
-
-### [Data ScientistFull-time, Remote](https://www.lamarhealth.com/jobs/data-scientist) — Lamar Health
-- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-18
