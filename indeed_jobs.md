@@ -1,54 +1,44 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-19 17:55 UTC*
+*Last updated: 2026-08-19 19:06 UTC*
 
-**10 new role(s)** since last run · 182 total in last 24h
+**8 new role(s)** since last run · 179 total in last 24h
 
-### [Software Engineer, Inference (AI Data Engineering)](https://www.indeed.com/viewjob?jk=666f2ebd7f91f325) — SpaceX
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $135k–$210k/yr
+### [Senior Data Science Consultant, Insurance - Remote](https://www.indeed.com/viewjob?jk=34b7af212833895a) — CSAA Insurance Group, a AAA Insurer
+- 📍 **Location:** Walnut Creek, CA, US
+- 💰 **Salary:** $160k–$214k/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=611c7f1add24eef6) — Zoom Communications
+### [Pricipal Data Scientist](https://www.indeed.com/viewjob?jk=894c93c216d8a435) — Atlassian
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $171k–$269k/yr
+- 🕒 **Posted:** 2026-08-15
+
+### [iOS Engineer](https://www.indeed.com/viewjob?jk=b023cd5a44bbd9ec) — ERP Sourcing LLC
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $170k–$230k/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Multi-Cloud CDN Data Platform Engineer Graduate (CDN Platform) - 2027 Start](https://www.indeed.com/viewjob?jk=ac243416738d8bb3) — ByteDance
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $124k–$271k/yr
+- 💰 **Salary:** $128k–$317k/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [(USA) Senior, Software Engineer - Full Stack](https://www.indeed.com/viewjob?jk=1c8f2b6126747295) — Walmart
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $117k–$234k/yr
-- 🕒 **Posted:** 2026-08-19
-
-### [Senior Infrastructure Engineer](https://www.indeed.com/viewjob?jk=1fb2afafd3cbfe7a) — Komodo Health
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $181k–$220k/yr
-- 🕒 **Posted:** 2026-08-19
-
-### [Data Engineer](https://www.indeed.com/viewjob?jk=c6fa317bd2adeaec) — Grüns
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $150k–$170k/yr
-- 🕒 **Posted:** 2026-08-19
-
-### [Software Engineer III](https://www.indeed.com/viewjob?jk=b964fca482f16fcf) — HORIBA INSTRUMENTS
-- 📍 **Location:** Piscataway, NJ, US
-- 💰 **Salary:** $105k–$135k/yr
-- 🕒 **Posted:** 2026-08-19
-
-### [Senior Full Stack Software Engineer](https://www.indeed.com/viewjob?jk=695c87da73149e11) — Unknown
+### [Manager - Data Science](https://www.indeed.com/viewjob?jk=364e661a43fdb8c6) — American Express
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $170k–$200k/yr
+- 💰 **Salary:** $104k–$175k/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Full Stack Engineer](https://www.indeed.com/viewjob?jk=76a1c1b49c0329f3) — Apollo
-- 📍 **Location:** White Plains, NY, US
-- 💰 **Salary:** $80k–$90k/yr
-- 🕒 **Posted:** 2026-08-19
-
-### [Senior Infrastructure Engineer](https://www.indeed.com/viewjob?jk=ab6120725df09583) — Komodo Health
+### [Senior Data Science Consultant, Insurance - Remote](https://www.indeed.com/viewjob?jk=323d33e2a4788a61) — CSAA Insurance Group, a AAA Insurer
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $181k–$220k/yr
+- 💰 **Salary:** $160k–$214k/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Data Engineer](https://www.indeed.com/viewjob?jk=f237388bb353b4f1) — Grüns
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $150k–$170k/yr
+### [Software Engineer III — Asset & Wealth Management (AM Services) — New Jersey (Onsite)](https://www.indeed.com/viewjob?jk=4b2d116d22cc10b1) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Infrastructure Engineer III AV/ Multimedia Engineer](https://www.indeed.com/viewjob?jk=74daf950f50c6490) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $119k–$160k/yr
 - 🕒 **Posted:** 2026-08-19
