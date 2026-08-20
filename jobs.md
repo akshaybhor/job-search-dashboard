@@ -1,38 +1,32 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-19 04:04 UTC*
+*Last updated: 2026-08-20 04:05 UTC*
 
-**9 new role(s)** since last run · 136 total in last 24h
+**7 new role(s)** since last run · 136 total in last 24h
 
-### [Senior Software Engineer II](https://job-boards.greenhouse.io/freenome/jobs/8519753002) — Freenome
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-07-14
-
-### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6138807004) — Natera
-- 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-08-10
-
-### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110225004) — Natera
-- 📍 **Location:** US Remote
+### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110598004) — Natera
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-07-29
 
-### [Lab Automation - Robotics Engineer](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5212689007) — Xaira Therapeutics
-- 📍 **Location:** South San Francisco, California, United States
-- 🕒 **Posted:** 2026-08-18
+### [Senior Software Engineer](https://job-boards.greenhouse.io/natera/jobs/6115665004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-08-19
 
-### [Senior AI DevOps Engineer](https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Senior-AI-DevOps-Engineer_REQ-29720) — Vertex Pharmaceuticals
-- 📍 **Location:** Boston, MA
+### [Biostatistician II](https://jobs.lever.co/kariusdx/f1b19dd4-0b59-4dc8-a61e-4a8ea1a5f344) — Karius
+- 📍 **Location:** Redwood City, CA (Hybrid) or Remote (USA)
+- 🕒 **Posted:** 2026-08-19
 
-### [Sr. Machine Learning Engineer - Machine Learning](https://job-boards.greenhouse.io/dynotherapeutics/jobs/7893982003) — Dyno Therapeutics
-- 📍 **Location:** Remote; Watertown, Massachusetts, United States
-- 🕒 **Posted:** 2026-08-18
+### [Data Scientist](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19572) — Moderna
+- 📍 **Location:** Cambridge, Massachusetts
+- 🕒 **Posted:** Posted Today
 
-### [Yeast Display and Machine Learning Scientist I/II – Antibody Discovery](https://careers.dana-farber.org/#yeast-display-and-machine-learning-scientist-i-ii-antibody-d) — Dana-Farber Cancer Institute
-- 📍 **Location:** Boston, MA
-
-### [Mobile Software Engineer](https://www.linkedin.com/jobs/view/4452870531/) — On Me
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-18
-
-### [ML Scientist I/II, Nucleic Acid Design](https://www.linkedin.com/jobs/view/4446144681/) — Lila Sciences
+### [Senior Software Engineer II, Enterprise Platform](https://www.linkedin.com/jobs/view/4437844400/) — Lila Sciences
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-18
+- 🕒 **Posted:** 2026-08-19
+
+### [Senior Software Engineer, Data](https://www.linkedin.com/jobs/view/4419451247/) — Lila Sciences
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Senior Machine Learning Scientist, AI for Biology & Translation (AIBT)](https://www.linkedin.com/jobs/view/4446366830/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-08-19
