@@ -1,8 +1,16 @@
 {
-  "scraped_at": "2026-08-20 03:26 UTC",
-  "total": 24,
-  "new_count": 24,
+  "scraped_at": "2026-08-20 04:10 UTC",
+  "total": 30,
+  "new_count": 8,
   "jobs": [
+    {
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "Data Science Engineer",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404904193/",
+      "date_posted": "2026-08-19",
+      "ats": "LinkedIn"
+    },
     {
       "company": "TikTok",
       "title": "Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics) - 2027 Start",
@@ -16,6 +24,39 @@
       "title": "Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics - LLM/Agent) - 2027 Start (PhD)",
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4455605029/",
+      "date_posted": "2026-08-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, Machine Learning RecSys",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453837077/",
+      "date_posted": "2026-08-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "(USA) Senior Manager, Data Science",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453850039/",
+      "date_posted": "2026-08-19",
+      "ats": "LinkedIn",
+      "salary": "$143,000.00/yr - $286,000.00/yr"
+    },
+    {
+      "company": "Notion",
+      "title": "Data Science Intern (Winter 2027)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456454591/",
+      "date_posted": "2026-08-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Machine Learning Engineer Intern (E-Commerce) - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453810100/",
       "date_posted": "2026-08-19",
       "ats": "LinkedIn"
     },
@@ -36,23 +77,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Machine Learning Engineer Intern (E-Commerce) - 2027 Start (PhD)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453810100/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn",
-      "salary": "$60.00/yr - $60.00/yr"
-    },
-    {
-      "company": "Notion",
-      "title": "Data Science Intern (Winter 2027)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456454591/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Box",
       "title": "Senior Software Engineer, Microservice Foundation",
       "location": "Redwood City, CA",
@@ -61,10 +85,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok",
-      "title": "Software Engineer Intern (TikTok Search Architecture) - 2027 Fall",
+      "company": "Cisco",
+      "title": "Software Engineer - Security Content",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455487979/",
+      "url": "https://www.linkedin.com/jobs/view/4456447970/",
       "date_posted": "2026-08-19",
       "ats": "LinkedIn"
     },
@@ -78,14 +102,6 @@
     },
     {
       "company": "TikTok",
-      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455493912/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
       "title": "Software Engineer Intern (Recommendation Infra, Performance Efficiency) - 2027 Summer",
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4455497121/",
@@ -93,21 +109,12 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Fall",
+      "company": "Cisco",
+      "title": "Cloud Engineer",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455603045/",
+      "url": "https://www.linkedin.com/jobs/view/4456465073/",
       "date_posted": "2026-08-19",
       "ats": "LinkedIn"
-    },
-    {
-      "company": "Meta",
-      "title": "Software Engineer, Machine Learning RecSys",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453837077/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn",
-      "salary": "$154,003.00/yr - $217,000.00/yr"
     },
     {
       "company": "LiveRamp",
@@ -118,10 +125,19 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Cognizant",
-      "title": "Machine Learning Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4455498028/",
+      "company": "Crypto.com",
+      "title": "Senior Backend Engineer (Sports & Prediction Markets) \u2013 Golang",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453838180/",
+      "date_posted": "2026-08-19",
+      "ats": "LinkedIn",
+      "salary": "$160,000.00/yr - $200,000.00/yr"
+    },
+    {
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Fall",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4455603045/",
       "date_posted": "2026-08-19",
       "ats": "LinkedIn"
     },
@@ -144,10 +160,26 @@
       "salary": "$156,750.00/yr - $215,000.00/yr"
     },
     {
-      "company": "KPMG US",
-      "title": "Data Engineer Contractor - Talent Reserve (contract)",
+      "company": "Lynx Analytics",
+      "title": "Senior Data Scientist (US)",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4437915360/",
+      "url": "https://www.linkedin.com/jobs/view/4456460136/",
+      "date_posted": "2026-08-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cisco",
+      "title": "Data Science Analyst",
+      "location": "Hazlet, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4456454815/",
+      "date_posted": "2026-08-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cognizant",
+      "title": "Machine Learning Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4455498028/",
       "date_posted": "2026-08-19",
       "ats": "LinkedIn"
     },
@@ -169,15 +201,6 @@
       "salary": "$118,750.00/yr - $160,000.00/yr"
     },
     {
-      "company": "IBM",
-      "title": "Confluent - Senior Software Engineer - Backend",
-      "location": "Armonk, NY",
-      "url": "https://www.linkedin.com/jobs/view/4453800951/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn",
-      "salary": "$111,000.00/yr - $207,000.00/yr"
-    },
-    {
       "company": "JPMorganChase",
       "title": "Software Engineer III \u2014 Asset & Wealth Management (AM Services) \u2014 New Jersey (Onsite)",
       "location": "Jersey City, NJ",
@@ -187,10 +210,10 @@
       "salary": "$137,750.00/yr - $185,000.00/yr"
     },
     {
-      "company": "Experis",
-      "title": "Site Reliability Engineer III",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4455499045/",
+      "company": "Planet Networks",
+      "title": "Software Developer",
+      "location": "Newton, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4456437989/",
       "date_posted": "2026-08-19",
       "ats": "LinkedIn"
     },
@@ -199,207 +222,99 @@
       "title": "Co-Op, DevOps Engineer",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4456451785/",
+      "date_posted": "2026-08-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "IBM",
+      "title": "Confluent - Senior Software Engineer - Backend",
+      "location": "Armonk, NY",
+      "url": "https://www.linkedin.com/jobs/view/4453800951/",
+      "date_posted": "2026-08-19",
+      "ats": "LinkedIn",
+      "salary": "$111,000.00/yr - $207,000.00/yr"
+    },
+    {
+      "company": "KPMG US",
+      "title": "Data Engineer Contractor - Talent Reserve (contract)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4437915360/",
+      "date_posted": "2026-08-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Experis",
+      "title": "Site Reliability Engineer III",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4455499045/",
       "date_posted": "2026-08-19",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics) - 2027 Start",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455605018/",
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "Data Science Engineer",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404904193/",
       "date_posted": "2026-08-19",
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics - LLM/Agent) - 2027 Start (PhD)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455605029/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Research Scientist/Software Engineer, Neural Graphics and World Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455486940/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Software Engineer Graduate (TikTok Search Data Infra) - 2027 Start",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455600054/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Machine Learning Engineer Intern (E-Commerce) - 2027 Start (PhD)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453810100/",
+      "company": "Walmart",
+      "title": "(USA) Senior Manager, Data Science",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453850039/",
       "date_posted": "2026-08-19",
       "ats": "LinkedIn",
-      "salary": "$60.00/yr - $60.00/yr"
+      "salary": "$143,000.00/yr - $286,000.00/yr"
     },
     {
-      "company": "Notion",
-      "title": "Data Science Intern (Winter 2027)",
+      "company": "Cisco",
+      "title": "Software Engineer - Security Content",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456447970/",
+      "date_posted": "2026-08-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cisco",
+      "title": "Cloud Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456465073/",
+      "date_posted": "2026-08-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Crypto.com",
+      "title": "Senior Backend Engineer (Sports & Prediction Markets) \u2013 Golang",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456454591/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Box",
-      "title": "Senior Software Engineer, Microservice Foundation",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456454488/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Software Engineer Intern (TikTok Search Architecture) - 2027 Fall",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455487979/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Recommendation Infra, Performance Efficiency) - 2027 Fall",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455497132/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455493912/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Recommendation Infra, Performance Efficiency) - 2027 Summer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455497121/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Fall",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455603045/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Meta",
-      "title": "Software Engineer, Machine Learning RecSys",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453837077/",
+      "url": "https://www.linkedin.com/jobs/view/4453838180/",
       "date_posted": "2026-08-19",
       "ats": "LinkedIn",
-      "salary": "$154,003.00/yr - $217,000.00/yr"
+      "salary": "$160,000.00/yr - $200,000.00/yr"
     },
     {
-      "company": "LiveRamp",
-      "title": "Co-Op, DevOps Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456438912/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cognizant",
-      "title": "Machine Learning Engineer",
+      "company": "Lynx Analytics",
+      "title": "Senior Data Scientist (US)",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4455498028/",
+      "url": "https://www.linkedin.com/jobs/view/4456460136/",
       "date_posted": "2026-08-19",
       "ats": "LinkedIn"
     },
     {
-      "company": "JPMorganChase",
-      "title": "Software Engineer [Multiple Positions Available]",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4456444692/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn",
-      "salary": "$193,461.00/yr - $215,000.00/yr"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Lead Software Engineer - Java or Python",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4456449656/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn",
-      "salary": "$156,750.00/yr - $215,000.00/yr"
-    },
-    {
-      "company": "KPMG US",
-      "title": "Data Engineer Contractor - Talent Reserve (contract)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4437915360/",
+      "company": "Cisco",
+      "title": "Data Science Analyst",
+      "location": "Hazlet, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4456454815/",
       "date_posted": "2026-08-19",
       "ats": "LinkedIn"
     },
     {
-      "company": "Cencora",
-      "title": "Sr. Azure Cloud Engineer",
-      "location": "Trenton, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4453826951/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Infrastructure Engineer III AV/ Multimedia Engineer",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4456444694/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn",
-      "salary": "$118,750.00/yr - $160,000.00/yr"
-    },
-    {
-      "company": "IBM",
-      "title": "Confluent - Senior Software Engineer - Backend",
-      "location": "Armonk, NY",
-      "url": "https://www.linkedin.com/jobs/view/4453800951/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn",
-      "salary": "$111,000.00/yr - $207,000.00/yr"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Software Engineer III \u2014 Asset & Wealth Management (AM Services) \u2014 New Jersey (Onsite)",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4456443729/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn",
-      "salary": "$137,750.00/yr - $185,000.00/yr"
-    },
-    {
-      "company": "Experis",
-      "title": "Site Reliability Engineer III",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4455499045/",
-      "date_posted": "2026-08-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "LiveRamp",
-      "title": "Co-Op, DevOps Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456451785/",
+      "company": "Planet Networks",
+      "title": "Software Developer",
+      "location": "Newton, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4456437989/",
       "date_posted": "2026-08-19",
       "ats": "LinkedIn"
     }
