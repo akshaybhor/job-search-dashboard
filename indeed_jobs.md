@@ -1,34 +1,60 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-20 03:27 UTC*
+*Last updated: 2026-08-20 04:11 UTC*
 
-**6 new role(s)** since last run · 172 total in last 24h
+**12 new role(s)** since last run · 179 total in last 24h
 
-### [Sr. Software Engineer, Fullstack - Moveworks](https://www.indeed.com/viewjob?jk=e01f7aa4735efbab) — ServiceNow
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $126k–$195k/yr
+### [Sr. Software Engineer, Clinical Software](https://www.indeed.com/viewjob?jk=aa82418e04cbecd5) — Personalis
+- 📍 **Location:** Fremont, CA, US
+- 💰 **Salary:** $150k–$175k/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Senior Software Engineer - Embedded UI (Qt / C++)](https://www.indeed.com/viewjob?jk=9a612bedc0278fc7) — Intuitive (Intuitive Surgical)
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=d132f43c93207e69) — Uber
 - 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $160k–$271k/yr
+- 💰 **Salary:** $171k–$209k/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Co-Op, DevOps Engineer](https://www.indeed.com/viewjob?jk=40696df5eb2aec78) — LiveRamp
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $44k–$65k/yr
+### [Software Engineer](https://www.indeed.com/viewjob?jk=897839ffa910947d) — Uber
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $265k–$317k/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer - Security Content](https://www.indeed.com/viewjob?jk=e652e3032e967f21) — Cisco
+### [Sr Software Engineer](https://www.indeed.com/viewjob?jk=a43d9d11617228c5) — Uber
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $265k–$317k/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Sr Software Engineer](https://www.indeed.com/viewjob?jk=4c84548c027367ac) — Uber
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $232k–$284k/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [SRE Platform Software Engineer (Early Career / Temporary)](https://www.indeed.com/viewjob?jk=3373eea088d92adf) — Bitdeer Technologies Group
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $138k–$256k/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Senior Data Engineer - AI Infrastructure Integration, High Performance Compute](https://www.indeed.com/viewjob?jk=60a65bcc460b5aa7) — Bank of America
+### [Senior Software Engineer, Attestation Services - DGX Cloud](https://www.indeed.com/viewjob?jk=abbd50913613a863) — NVIDIA
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $152k–$288k/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Senior AI Storage Infrastructure Engineer](https://www.indeed.com/viewjob?jk=2c0724e4e66ec2e4) — Bitdeer Technologies Group
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-08-19
+
+### [Biostatistician 1](https://www.indeed.com/viewjob?jk=ae0a3b0a78fdf26b) — Stanford University
+- 📍 **Location:** Stanford, CA, US
+- 🕒 **Posted:** 2026-08-19
+
+### [Senior Software Engineer, Data](https://www.indeed.com/viewjob?jk=8092575b540f4d54) — Unknown
+- 📍 **Location:** Manasquan, NJ, US
+- 🕒 **Posted:** 2026-08-19
+
+### [Senior Software Engineer - Observe by Snowflake, Data Management](https://www.indeed.com/viewjob?jk=556deeba61aebc0e) — Snowflake
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $140k–$205k/yr
+- 💰 **Salary:** $207k–$362k/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Lead Analytics Engineer](https://www.indeed.com/viewjob?jk=5d6a163890d4f630) — Innodata
-- 📍 **Location:** Ridgefield Park, NJ, US
-- 💰 **Salary:** $130k–$150k/yr
+### [Research Biostatistician Manager](https://www.indeed.com/viewjob?jk=f5a6908f182d278b) — Weill Cornell Medicine
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $131k–$150k/yr
 - 🕒 **Posted:** 2026-08-19
