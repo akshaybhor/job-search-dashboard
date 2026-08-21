@@ -1,8 +1,33 @@
 {
-  "scraped_at": "2026-08-21 03:31 UTC",
-  "total": 29,
-  "new_count": 29,
+  "scraped_at": "2026-08-21 04:20 UTC",
+  "total": 30,
+  "new_count": 14,
   "jobs": [
+    {
+      "company": "Stanford University",
+      "title": "ML Engineer \u2013 Healthcare Data Curation & Model Workflows",
+      "location": "Stanford, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457078147/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart Connect",
+      "title": "(USA) Senior, Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454161930/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn",
+      "salary": "$117,000.00/yr - $234,000.00/yr"
+    },
+    {
+      "company": "Roche",
+      "title": "Senior Bioinformatics Scientist",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457059878/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn"
+    },
     {
       "company": "AMD",
       "title": "ML and AI Knowledge Systems Engineer",
@@ -21,20 +46,22 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Agility Robotics",
-      "title": "Senior Software Engineer, AI/ML Platform",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457075250/",
+      "company": "Walmart",
+      "title": "Senior, Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454161927/",
       "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$117,000.00/yr - $234,000.00/yr"
     },
     {
-      "company": "Science",
-      "title": "System on Chip Software Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454155774/",
+      "company": "Walmart",
+      "title": "Senior, Software Engineer - Web",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454176778/",
       "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$117,000.00/yr - $234,000.00/yr"
     },
     {
       "company": "General Motors",
@@ -45,12 +72,21 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Science",
-      "title": "DevOps Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454160686/",
+      "company": "Dex",
+      "title": "Software Engineer (up to $250k)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457083027/",
       "date_posted": "2026-08-20",
       "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "(USA) Senior, Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454163867/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn",
+      "salary": "$117,000.00/yr - $234,000.00/yr"
     },
     {
       "company": "General Motors",
@@ -61,10 +97,35 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "E-Space",
-      "title": "Senior Backend Software Engineer \u2014 IoT Platform",
-      "location": "Saratoga, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454172241/",
+      "company": "Inkitt",
+      "title": "Senior Software Engineer, Mobile Full-Stack",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457082046/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn",
+      "salary": "$175,000.00/yr - $215,000.00/yr"
+    },
+    {
+      "company": "Slickdeals",
+      "title": "Sr. Mobile Engineer, Android",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457065773/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slickdeals",
+      "title": "Sr. Mobile Engineer, Android",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457063343/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Science",
+      "title": "System on Chip Software Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454155774/",
       "date_posted": "2026-08-20",
       "ats": "LinkedIn"
     },
@@ -85,56 +146,44 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "David Joseph & Company",
-      "title": "iOS Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456083063/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$170,000.00/yr - $230,000.00/yr"
-    },
-    {
-      "company": "Slickdeals",
-      "title": "Sr. Mobile Engineer, Android",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457063343/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Science",
-      "title": "Security Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454177097/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AMD",
-      "title": "2027 Undergrad Software Engineer Intern/Co-op",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454172244/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$64,064.00/yr - $96,096.00/yr"
-    },
-    {
-      "company": "AMD",
-      "title": "2027 Undergrad Software Engineer Intern/Co-op",
+      "company": "Protection Game",
+      "title": "Security Engineer III",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454167304/",
+      "url": "https://www.linkedin.com/jobs/view/4454174808/",
       "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$64,064.00/yr - $96,096.00/yr"
+      "ats": "LinkedIn"
     },
     {
-      "company": "AMD",
-      "title": "2027 Masters Software Engineer Intern/Co-op",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454169264/",
+      "company": "Agility Robotics",
+      "title": "Senior Software Engineer, AI/ML Platform",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457075250/",
       "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$83,200.00/yr - $124,800.00/yr"
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "E-Space",
+      "title": "Senior Backend Software Engineer \u2014 IoT Platform",
+      "location": "Saratoga, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454172241/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "National Security Engineering Division (NSED) Graduate Intern - Summer 2027",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457059823/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "National Security Engineering Division (NSED) Undergraduate Intern - Summer 2027",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457056861/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn"
     },
     {
       "company": "Meta",
@@ -146,22 +195,13 @@
       "salary": "$271,000.00/yr - $347,000.00/yr"
     },
     {
-      "company": "JPMorganChase",
-      "title": "Sr Lead Software Engineer - Java, Python, AI/ML",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4457067408/",
+      "company": "Raydar",
+      "title": "Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4457087005/",
       "date_posted": "2026-08-20",
       "ats": "LinkedIn",
-      "salary": "$175,750.00/yr - $260,000.00/yr"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Software Engineer III - DevOps, Python and/or JavaScript",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4457069393/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$137,750.00/yr - $185,000.00/yr"
+      "salary": "$180,000.00/yr - $250,000.00/yr"
     },
     {
       "company": "KPMG US",
@@ -172,27 +212,19 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "KPMG US",
-      "title": "Senior Associate, Data Engineer - Databricks",
+      "company": "Raydar",
+      "title": "Software Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456081274/",
+      "url": "https://www.linkedin.com/jobs/view/4457054883/",
       "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $250,000.00/yr"
     },
     {
       "company": "JPMorganChase",
       "title": "Java React Full-Stack Software Engineer III",
       "location": "Jersey City, NJ",
       "url": "https://www.linkedin.com/jobs/view/4457072367/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$137,750.00/yr - $185,000.00/yr"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Java Software Engineer III",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4457065448/",
       "date_posted": "2026-08-20",
       "ats": "LinkedIn",
       "salary": "$137,750.00/yr - $185,000.00/yr"
@@ -208,15 +240,6 @@
     },
     {
       "company": "AMD",
-      "title": "2027 Undergrad Software Engineer Intern/Co-op",
-      "location": "Fishkill, NY",
-      "url": "https://www.linkedin.com/jobs/view/4454157487/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$59,072.00/yr - $88,608.00/yr"
-    },
-    {
-      "company": "AMD",
       "title": "2027 Masters Software Engineer Intern/Co-op",
       "location": "Fishkill, NY",
       "url": "https://www.linkedin.com/jobs/view/4454170231/",
@@ -225,279 +248,134 @@
       "salary": "$79,872.00/yr - $119,808.00/yr"
     },
     {
-      "company": "JPMorganChase",
-      "title": "Lead Infrastructure Engineer - Mainframe",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4457057523/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "AMD",
-      "title": "2027 PhD Research Engineering Intern/Co-op",
+      "title": "2027 Undergrad Software Engineer Intern/Co-op",
       "location": "Fishkill, NY",
-      "url": "https://www.linkedin.com/jobs/view/4454159431/",
+      "url": "https://www.linkedin.com/jobs/view/4454157487/",
       "date_posted": "2026-08-20",
       "ats": "LinkedIn",
-      "salary": "$91,520.00/yr - $137,280.00/yr"
-    },
-    {
-      "company": "AMD",
-      "title": "2027 PhD Research Engineering Intern/Co-op",
-      "location": "Secaucus, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4454164306/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$91,520.00/yr - $137,280.00/yr"
+      "salary": "$59,072.00/yr - $88,608.00/yr"
     }
   ],
   "new_jobs": [
     {
-      "company": "AMD",
-      "title": "ML and AI Knowledge Systems Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454175239/",
+      "company": "Stanford University",
+      "title": "ML Engineer \u2013 Healthcare Data Curation & Model Workflows",
+      "location": "Stanford, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457078147/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart Connect",
+      "title": "(USA) Senior, Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454161930/",
       "date_posted": "2026-08-20",
       "ats": "LinkedIn",
-      "salary": "$240,000.00/yr - $360,000.00/yr"
+      "salary": "$117,000.00/yr - $234,000.00/yr"
     },
     {
-      "company": "SERES AUTO_USA",
-      "title": "Robotics Engineer",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454154889/",
+      "company": "Roche",
+      "title": "Senior Bioinformatics Scientist",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457059878/",
       "date_posted": "2026-08-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Agility Robotics",
-      "title": "Senior Software Engineer, AI/ML Platform",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457075250/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Science",
-      "title": "System on Chip Software Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454155774/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "General Motors",
-      "title": "Senior Software Engineer \u2013 CI/CD & Cloud Infrastructure",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457061690/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Science",
-      "title": "DevOps Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454160686/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "General Motors",
-      "title": "Senior Software Engineer - CI/CD and Software Development Tools",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457069617/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "E-Space",
-      "title": "Senior Backend Software Engineer \u2014 IoT Platform",
-      "location": "Saratoga, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454172241/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Bridge",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457074266/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stripe",
-      "title": "Full Stack Engineer, Support Experience (Greater China Support)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454549329/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "David Joseph & Company",
-      "title": "iOS Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456083063/",
+      "company": "Walmart",
+      "title": "Senior, Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454161927/",
       "date_posted": "2026-08-20",
       "ats": "LinkedIn",
-      "salary": "$170,000.00/yr - $230,000.00/yr"
+      "salary": "$117,000.00/yr - $234,000.00/yr"
+    },
+    {
+      "company": "Walmart",
+      "title": "Senior, Software Engineer - Web",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454176778/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn",
+      "salary": "$117,000.00/yr - $234,000.00/yr"
+    },
+    {
+      "company": "Dex",
+      "title": "Software Engineer (up to $250k)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457083027/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "(USA) Senior, Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454163867/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn",
+      "salary": "$117,000.00/yr - $234,000.00/yr"
+    },
+    {
+      "company": "Inkitt",
+      "title": "Senior Software Engineer, Mobile Full-Stack",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457082046/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn",
+      "salary": "$175,000.00/yr - $215,000.00/yr"
     },
     {
       "company": "Slickdeals",
       "title": "Sr. Mobile Engineer, Android",
       "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457063343/",
+      "url": "https://www.linkedin.com/jobs/view/4457065773/",
       "date_posted": "2026-08-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Science",
-      "title": "Security Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454177097/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AMD",
-      "title": "2027 Undergrad Software Engineer Intern/Co-op",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454172244/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$64,064.00/yr - $96,096.00/yr"
-    },
-    {
-      "company": "AMD",
-      "title": "2027 Undergrad Software Engineer Intern/Co-op",
+      "company": "Protection Game",
+      "title": "Security Engineer III",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454167304/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$64,064.00/yr - $96,096.00/yr"
-    },
-    {
-      "company": "AMD",
-      "title": "2027 Masters Software Engineer Intern/Co-op",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454169264/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$83,200.00/yr - $124,800.00/yr"
-    },
-    {
-      "company": "Meta",
-      "title": "Machine Learning Engineer (Technical Leadership)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4454159943/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$271,000.00/yr - $347,000.00/yr"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Sr Lead Software Engineer - Java, Python, AI/ML",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4457067408/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$175,750.00/yr - $260,000.00/yr"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Software Engineer III - DevOps, Python and/or JavaScript",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4457069393/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$137,750.00/yr - $185,000.00/yr"
-    },
-    {
-      "company": "KPMG US",
-      "title": "Data Scientist- Associate",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4448740981/",
+      "url": "https://www.linkedin.com/jobs/view/4454174808/",
       "date_posted": "2026-08-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "KPMG US",
-      "title": "Senior Associate, Data Engineer - Databricks",
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "National Security Engineering Division (NSED) Graduate Intern - Summer 2027",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457059823/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "National Security Engineering Division (NSED) Undergraduate Intern - Summer 2027",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457056861/",
+      "date_posted": "2026-08-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Raydar",
+      "title": "Software Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456081274/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Java React Full-Stack Software Engineer III",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4457072367/",
+      "url": "https://www.linkedin.com/jobs/view/4457087005/",
       "date_posted": "2026-08-20",
       "ats": "LinkedIn",
-      "salary": "$137,750.00/yr - $185,000.00/yr"
+      "salary": "$180,000.00/yr - $250,000.00/yr"
     },
     {
-      "company": "JPMorganChase",
-      "title": "Java Software Engineer III",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4457065448/",
+      "company": "Raydar",
+      "title": "Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4457054883/",
       "date_posted": "2026-08-20",
       "ats": "LinkedIn",
-      "salary": "$137,750.00/yr - $185,000.00/yr"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "C#.NET, React, Java Full stack Lead Software Engineer",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4457076316/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$156,750.00/yr - $215,000.00/yr"
-    },
-    {
-      "company": "AMD",
-      "title": "2027 Undergrad Software Engineer Intern/Co-op",
-      "location": "Fishkill, NY",
-      "url": "https://www.linkedin.com/jobs/view/4454157487/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$59,072.00/yr - $88,608.00/yr"
-    },
-    {
-      "company": "AMD",
-      "title": "2027 Masters Software Engineer Intern/Co-op",
-      "location": "Fishkill, NY",
-      "url": "https://www.linkedin.com/jobs/view/4454170231/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$79,872.00/yr - $119,808.00/yr"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Lead Infrastructure Engineer - Mainframe",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4457057523/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AMD",
-      "title": "2027 PhD Research Engineering Intern/Co-op",
-      "location": "Fishkill, NY",
-      "url": "https://www.linkedin.com/jobs/view/4454159431/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$91,520.00/yr - $137,280.00/yr"
-    },
-    {
-      "company": "AMD",
-      "title": "2027 PhD Research Engineering Intern/Co-op",
-      "location": "Secaucus, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4454164306/",
-      "date_posted": "2026-08-20",
-      "ats": "LinkedIn",
-      "salary": "$91,520.00/yr - $137,280.00/yr"
+      "salary": "$180,000.00/yr - $250,000.00/yr"
     }
   ]
 }
