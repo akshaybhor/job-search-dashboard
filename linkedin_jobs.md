@@ -1,171 +1,136 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-21 23:52 UTC*
+*Last updated: 2026-08-22 02:00 UTC*
 
-**40 new role(s)** since last run · 72 total in last 1h
+**30 new role(s)** since last run · 30 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4457528167/) — Find Data Science Jobs
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4456620404/) — Mendable
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $210,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Backend Platform Engineer – AI for National Security](https://www.linkedin.com/jobs/view/4456622353/) — RecruiterDrive
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Full-Stack Software Engineer, Reinforcement Learning](https://www.linkedin.com/jobs/view/4456625402/) — HUD
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Systems Software Engineer - AI and Cloud](https://www.linkedin.com/jobs/view/4456292876/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Climate Data Scientist, Sustainability](https://www.linkedin.com/jobs/view/4457554358/) — Watershed
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $193,500.00/yr - $202,100.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Software Engineer - ML/Computer Vision (Battery Sorting)](https://www.linkedin.com/jobs/view/4457526244/) — Find Data Science Jobs
+### [MSAT Data Science Engineer](https://www.linkedin.com/jobs/view/4430968589/) — Allogene Therapeutics
+- 📍 **Location:** Newark, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Research Engineer - Midtraining](https://www.linkedin.com/jobs/view/4457551477/) — Periodic Labs
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Research Engineer](https://www.linkedin.com/jobs/view/4457554379/) — Greptile
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Machine Learning Engineer (Autonomy)](https://www.linkedin.com/jobs/view/4456299782/) — Mariana Minerals
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Software Engineer, ML Serving - Rime Ai](https://www.linkedin.com/jobs/view/4457542034/) — Unusual Ventures
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Research Engineer, Interactive World Models - New College Grad 2026](https://www.linkedin.com/jobs/view/4456278960/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Software Engineer, Machine Learning Platform](https://www.linkedin.com/jobs/view/4457534170/) — Find Data Science Jobs
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4457534185/) — Find Data Science Jobs
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Software Engineer, Inference (AI Data Engineering)](https://www.linkedin.com/jobs/view/4457541092/) — Find Data Science Jobs
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Data Science Intern (Winter 2027)](https://www.linkedin.com/jobs/view/4457526254/) — Find Data Science Jobs
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4457531160/) — Find Data Science Jobs
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Product Data Scientist, Android Onboarding and Settings](https://www.linkedin.com/jobs/view/4457530193/) — Find Data Science Jobs
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4456277915/) — Jobright.ai
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Product Data Scientist, Discover Experience](https://www.linkedin.com/jobs/view/4457527205/) — Find Data Science Jobs
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Data Scientist, Referrals](https://www.linkedin.com/jobs/view/4457539162/) — Find Data Science Jobs
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Software Engineer II, Fulfillment](https://www.linkedin.com/jobs/view/4457544074/) — Find Data Science Jobs
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4457515968/) — Zipline
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Research Engineer / Research Scientist, Health](https://www.linkedin.com/jobs/view/4456288716/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $295,000.00/yr - $555,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Clinical Research Engineer](https://www.linkedin.com/jobs/view/4452731304/) — Noctrix Health, Inc.
+### [Inference and Generative AI Intern](https://www.linkedin.com/jobs/view/4456624543/) — Lupitor
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-21
 
-### [Analytics Engineer](https://www.linkedin.com/jobs/view/4457540120/) — Find Data Science Jobs
+### [Cloud DevOps Engineer](https://www.linkedin.com/jobs/view/4456621451/) — Mendable
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $240,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4457569290/) — Greptile
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Fullstack Software Engineer](https://www.linkedin.com/jobs/view/4457528090/) — Physical Intelligence
+### [Software Engineering SMTS](https://www.linkedin.com/jobs/view/4457559027/) — Salesforce
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Senior Fullstack Software Engineer, Profiles](https://www.linkedin.com/jobs/view/4456296777/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Software Engineer, Enterprise Expansion](https://www.linkedin.com/jobs/view/4454144774/) — Retool
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4456625401/) — Hyperbound
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $163,800.00/yr - $306,000.00/yr
+- 💰 **Salary:** $200,000.00/yr - $225,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Senior Software Engineer, Backend Full Stack - Rippling AI](https://www.linkedin.com/jobs/view/4457546271/) — Rippling
+### [Frontend Engineer](https://www.linkedin.com/jobs/view/4457550546/) — Greptile
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Software Engineer, API Safety](https://www.linkedin.com/jobs/view/4456286718/) — OpenAI
+### [Cloud Security Engineer](https://www.linkedin.com/jobs/view/4456611447/) — Staffing Spot, Inc.
+- 📍 **Location:** San Leandro, CA
+- 💰 **Salary:** $65.00/hr - $68.00/hr
+- 🕒 **Posted:** 2026-08-21
+
+### [Manager, Software Engineering (App Experiences)](https://www.linkedin.com/jobs/view/4456604407/) — Affirm
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $293,000.00/yr - $385,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4457544238/) — MeeBoss
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Software Engineer - Storage](https://www.linkedin.com/jobs/view/4456291817/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4456287717/) — Cadence
+### [Manager, Software Engineering (App Experiences)](https://www.linkedin.com/jobs/view/4456621354/) — Affirm
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4456294691/) — Jobright.ai
+### [Software Engineer (Memory Test, San Jose)](https://www.linkedin.com/jobs/view/4454690334/) — Teradyne
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Manager, Software Engineering (App Experiences)](https://www.linkedin.com/jobs/view/4456623369/) — Affirm
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Senior Data Scientist, Core Ranking and AI Context](https://www.linkedin.com/jobs/view/4457539152/) — Find Data Science Jobs
+### [Senior Backend Software EngineerNew
+Mountain View, CA (HQ)](https://www.linkedin.com/jobs/view/4456621380/) — Tapestry
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Research Data Scientist, Magic Eye](https://www.linkedin.com/jobs/view/4457542084/) — Find Data Science Jobs
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Data Scientist, Contextual Search](https://www.linkedin.com/jobs/view/4457526261/) — Find Data Science Jobs
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Data Scientist, Search AI Mode](https://www.linkedin.com/jobs/view/4457527225/) — Find Data Science Jobs
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4457535179/) — Find Data Science Jobs
+### [Backend Developer](https://www.linkedin.com/jobs/view/4456616385/) — Staffing Spot, Inc.
 - 📍 **Location:** San Leandro, CA
+- 💰 **Salary:** $60.00/hr - $65.00/hr
 - 🕒 **Posted:** 2026-08-21
 
-### [Data Science Engineer II (Full Time) - United States](https://www.linkedin.com/jobs/view/4457543094/) — Find Data Science Jobs
-- 📍 **Location:** San Jose, CA
+### [Software Engineering Architect - Mulesoft](https://www.linkedin.com/jobs/view/4457562025/) — Salesforce
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Data Center Physical Security Systems Engineer](https://www.linkedin.com/jobs/view/4456295735/) — OpenAI
+### [Research Engineer, Lab Automation](https://www.linkedin.com/jobs/view/4457553442/) — Periodic Labs
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Sr Camera Systems Engineer, Platform](https://www.linkedin.com/jobs/view/4438859832/) — Blue River Technology
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Applied AI Data Scientist](https://www.linkedin.com/jobs/view/4456625522/) — LexisNexis
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $205,000.00/yr - $335,000.00/yr
+- 💰 **Salary:** $132,700.00/yr - $221,100.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Data Scientist, Cybersecurity](https://www.linkedin.com/jobs/view/4457534192/) — Find Data Science Jobs
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Full Stack Data Engineer, Front Office Investment Data & AI](https://www.linkedin.com/jobs/view/4454682227/) — BIP US
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $160,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Data Engineer, CRM Support (ONSITE)](https://www.linkedin.com/jobs/view/4457537318/) — Michael Page
+### [Applied AI Data Scientist](https://www.linkedin.com/jobs/view/4456622511/) — RELX
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $68.00/hr
+- 💰 **Salary:** $132,700.00/yr - $221,100.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Applied Scientist III](https://www.linkedin.com/jobs/view/4457546092/) — Find Data Science Jobs
+### [Senior DevOps/SRE Engineer](https://www.linkedin.com/jobs/view/4457557396/) — Credit Genie
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $170,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Senior Cleared Software Engineer (TS/SCI)](https://www.linkedin.com/jobs/view/4457552451/) — Kaizen
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $220,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Manager, Software Engineering (App Experiences)](https://www.linkedin.com/jobs/view/4456613403/) — Affirm
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-21
+
+### [Software Engineering Team Lead](https://www.linkedin.com/jobs/view/4456602384/) — MetalBear
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-21
+
+### [Systems Engineer - Manufacturing : 26-02437](https://www.linkedin.com/jobs/view/4456373040/) — Akraya, Inc.
+- 📍 **Location:** Meriden, CT
 - 🕒 **Posted:** 2026-08-21
