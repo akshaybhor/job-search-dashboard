@@ -1,64 +1,29 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-22 03:23 UTC*
+*Last updated: 2026-08-22 04:09 UTC*
 
-**12 new role(s)** since last run · 167 total in last 24h
+**5 new role(s)** since last run · 165 total in last 24h
 
-### [Research Engineer, Interactive World Models - New College Grad 2026](https://www.indeed.com/viewjob?jk=25888f85a18eb012) — NVIDIA
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $108k–$196k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Sr Data Scientist - Global Supply Chain and Logistics](https://www.indeed.com/viewjob?jk=069a2e888360a394) — Target
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $118k–$211k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=58dc95b443e72542) — General Motors (GM)
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $142k–$215k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Systems Software Engineer - AI and Cloud](https://www.indeed.com/viewjob?jk=cefde2a1c3dcb5a3) — NVIDIA
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $124k–$242k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Manager, Product Management, AI Platform](https://www.indeed.com/viewjob?jk=4bcaabafca0e9d8a) — Intuitive (Intuitive Surgical)
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $158k–$278k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Cyber Palo Alto Networks Security Engineer/ Senior Consultant, Strategy, Growth, and Transformation](https://www.indeed.com/viewjob?jk=afab9b094af7af12) — Deloitte
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $105k–$208k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Cyber Palo Alto Networks Security Engineer/ Senior Consultant, Strategy, Growth, and Transformation](https://www.indeed.com/viewjob?jk=51c6fef01123e4b7) — Deloitte
+### [Technical Lead Package Platform Engineer](https://www.indeed.com/viewjob?jk=45171853e10e5d2b) — Astera Labs
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $105k–$208k/yr
+- 💰 **Salary:** $160k–$200k/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Senior Machine Learning Engineer](https://www.indeed.com/viewjob?jk=d1da10929e7b86d9) — CVS Health
+### [Technical Lead Package Platform Engineer](https://www.indeed.com/viewjob?jk=8b850eb13ba6a5e1) — Astera Labs
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $160k–$200k/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Security Engineer](https://www.indeed.com/viewjob?jk=2b0447ed15f4aaa2) — Five9
+- 📍 **Location:** San Ramon, CA, US
+- 💰 **Salary:** $66k–$175k/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Software Engineer 3, Networking & Observability](https://www.indeed.com/viewjob?jk=c47db3496e042cc7) — MongoDB
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $111k–$222k/yr
+- 💰 **Salary:** $106k–$209k/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Data Scientist](https://www.indeed.com/viewjob?jk=c2e3b7d01376f88b) — Humana
+### [Cloud Data Platform Engineer II (CEMI)](https://www.indeed.com/viewjob?jk=7e3b06a46693f1b4) — Weill Cornell Medicine
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $98k–$134k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Software Engineer, AI (New York)](https://www.indeed.com/viewjob?jk=ef81863247e7e6a6) — Fitch Group
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $140k–$150k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Cyber Palo Alto Networks Security Engineer/ Senior Consultant, Strategy, Growth, and Transformation](https://www.indeed.com/viewjob?jk=0d9f6f2b539e517c) — Deloitte
-- 📍 **Location:** Stamford, CT, US
-- 💰 **Salary:** $105k–$208k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Cyber Palo Alto Networks Security Engineer/ Senior Consultant, Strategy, Growth, and Transformation](https://www.indeed.com/viewjob?jk=100e8e40a74c281f) — Deloitte
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $105k–$208k/yr
+- 💰 **Salary:** $124k–$137k/yr
 - 🕒 **Posted:** 2026-08-21
