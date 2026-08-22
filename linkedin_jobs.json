@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-22 22:51 UTC",
-  "total": 5,
-  "new_count": 4,
+  "scraped_at": "2026-08-22 23:48 UTC",
+  "total": 6,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Jobright.ai",
@@ -13,17 +13,25 @@
     },
     {
       "company": "Jobright.ai",
-      "title": "Senior DevOps Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456696065/",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456684142/",
       "date_posted": "2026-08-22",
       "ats": "LinkedIn"
     },
     {
       "company": "Jobright.ai",
-      "title": "Senior Full Stack Software Engineer",
+      "title": "Machine Learning Engineer, Inference & Serving (Speech LLM)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456691169/",
+      "date_posted": "2026-08-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Senior DevOps Engineer",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456697072/",
+      "url": "https://www.linkedin.com/jobs/view/4456696065/",
       "date_posted": "2026-08-22",
       "ats": "LinkedIn"
     },
@@ -38,9 +46,9 @@
     },
     {
       "company": "Jobright.ai",
-      "title": "Software Engineer - AI Agent",
-      "location": "San Mateo County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456687054/",
+      "title": "Senior Full Stack Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456697072/",
       "date_posted": "2026-08-22",
       "ats": "LinkedIn"
     }
@@ -48,36 +56,19 @@
   "new_jobs": [
     {
       "company": "Jobright.ai",
-      "title": "Senior Software Engineer, Product",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456693083/",
-      "date_posted": "2026-08-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Senior DevOps Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456696065/",
-      "date_posted": "2026-08-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Senior Full Stack Software Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456697072/",
-      "date_posted": "2026-08-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Azora",
-      "title": "Software Engineer \u2013\u00a0Control Systems",
+      "title": "Machine Learning Engineer, Speech LLM Training",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456677091/",
+      "url": "https://www.linkedin.com/jobs/view/4456684142/",
       "date_posted": "2026-08-22",
-      "ats": "LinkedIn",
-      "salary": "$130,000.00/semi-mo - $170,000.00/semi-mo"
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Inference & Serving (Speech LLM)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456691169/",
+      "date_posted": "2026-08-22",
+      "ats": "LinkedIn"
     }
   ]
 }
