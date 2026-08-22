@@ -1,6 +1,6 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-22 21:50 UTC*
+*Last updated: 2026-08-22 22:52 UTC*
 
-**0 new role(s)** since last run · 98 total in last 24h
+**0 new role(s)** since last run · 75 total in last 24h
 
 No new roles since the last run.
