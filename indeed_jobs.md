@@ -1,90 +1,64 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-22 02:01 UTC*
+*Last updated: 2026-08-22 03:23 UTC*
 
-**18 new role(s)** since last run · 160 total in last 24h
+**12 new role(s)** since last run · 167 total in last 24h
 
-### [MTS 1, Software Engineer](https://www.indeed.com/viewjob?jk=9080f1c259a6caec) — eBay
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $188k–$263k/yr
+### [Research Engineer, Interactive World Models - New College Grad 2026](https://www.indeed.com/viewjob?jk=25888f85a18eb012) — NVIDIA
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $108k–$196k/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Climate Data Scientist, Sustainability](https://www.indeed.com/viewjob?jk=5f1c9cfc76d5c774) — Watershed Technology
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $194k–$202k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Fullstack Software Engineer](https://www.indeed.com/viewjob?jk=abadd454806a2398) — Physical Intelligence
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Software Engineer, Platform Foundation](https://www.indeed.com/viewjob?jk=55fd8e18a8a4f860) — EvenUp
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $150k–$215k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Full-Stack Software Engineer, Reinforcement Learning](https://www.indeed.com/viewjob?jk=0044157c323738e8) — HUD
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-08-21
-
-### [GCP Cloud Engineer](https://www.indeed.com/viewjob?jk=6b7cc426dbd03f0e) — Realign
+### [Sr Data Scientist - Global Supply Chain and Logistics](https://www.indeed.com/viewjob?jk=069a2e888360a394) — Target
 - 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $118k–$211k/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [AI Data Scientist Lead](https://www.indeed.com/viewjob?jk=2e6962b5b5b8c882) — JPMorganChase
+### [Software Engineer](https://www.indeed.com/viewjob?jk=58dc95b443e72542) — General Motors (GM)
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $142k–$215k/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Systems Software Engineer - AI and Cloud](https://www.indeed.com/viewjob?jk=cefde2a1c3dcb5a3) — NVIDIA
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $124k–$242k/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Senior Manager, Product Management, AI Platform](https://www.indeed.com/viewjob?jk=4bcaabafca0e9d8a) — Intuitive (Intuitive Surgical)
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $158k–$278k/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Cyber Palo Alto Networks Security Engineer/ Senior Consultant, Strategy, Growth, and Transformation](https://www.indeed.com/viewjob?jk=afab9b094af7af12) — Deloitte
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $105k–$208k/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Cyber Palo Alto Networks Security Engineer/ Senior Consultant, Strategy, Growth, and Transformation](https://www.indeed.com/viewjob?jk=51c6fef01123e4b7) — Deloitte
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $105k–$208k/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Senior Machine Learning Engineer](https://www.indeed.com/viewjob?jk=d1da10929e7b86d9) — CVS Health
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $147k–$215k/yr
+- 💰 **Salary:** $111k–$222k/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [AI Data Scientist - Senior Associate](https://www.indeed.com/viewjob?jk=791cb17a514682ad) — JPMorganChase
+### [Data Scientist](https://www.indeed.com/viewjob?jk=c2e3b7d01376f88b) — Humana
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $124k–$170k/yr
+- 💰 **Salary:** $98k–$134k/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Experienced Software Engineer Java / Python (Full Stack or Back End)](https://www.indeed.com/viewjob?jk=01c6f73bbdc831e6) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $130k–$170k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior DevOps/SRE Engineer](https://www.indeed.com/viewjob?jk=9d95e088d2442d91) — CREDIT GENIE
+### [Senior Software Engineer, AI (New York)](https://www.indeed.com/viewjob?jk=ef81863247e7e6a6) — Fitch Group
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $170k–$225k/yr
+- 💰 **Salary:** $140k–$150k/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Software Engineer - Infrastructure](https://www.indeed.com/viewjob?jk=a76976e109c009c8) — Mercury
+### [Cyber Palo Alto Networks Security Engineer/ Senior Consultant, Strategy, Growth, and Transformation](https://www.indeed.com/viewjob?jk=0d9f6f2b539e517c) — Deloitte
+- 📍 **Location:** Stamford, CT, US
+- 💰 **Salary:** $105k–$208k/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Cyber Palo Alto Networks Security Engineer/ Senior Consultant, Strategy, Growth, and Transformation](https://www.indeed.com/viewjob?jk=100e8e40a74c281f) — Deloitte
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $116k–$158k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Sr Software Engineer II](https://www.indeed.com/viewjob?jk=dbd8e59af6b4a2d4) — American Express
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $123k–$215k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Software Engineer III - Asset Management Research Engineer](https://www.indeed.com/viewjob?jk=a7fcead92da86424) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $138k–$185k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Manager, Laboratory Software Engineering](https://www.indeed.com/viewjob?jk=c32f2e1adc0c8722) — NeoGenomics
-- 📍 **Location:** Ramsey, NJ, US
-- 🕒 **Posted:** 2026-08-21
-
-### [Junior Data Engineer - ETL Development](https://www.indeed.com/viewjob?jk=ec46dc517eaed4e7) — Capgemini
-- 📍 **Location:** Bridgewater, NJ, US
-- 💰 **Salary:** $56k–$88k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Junior Data Engineer - ETL Development](https://www.indeed.com/viewjob?jk=1ca9add1f6d36bca) — Capgemini
-- 📍 **Location:** Bridgewater, NJ, US
-- 💰 **Salary:** $56k–$88k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Junior Data Engineer - ETL Development](https://www.indeed.com/viewjob?jk=4d00d564fd7d0aaf) — Capgemini
-- 📍 **Location:** Bridgewater, NJ, US
-- 💰 **Salary:** $56k–$88k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Data Engineer - ETL Development](https://www.indeed.com/viewjob?jk=a609eb1206f7498e) — Capgemini
-- 📍 **Location:** Bridgewater, NJ, US
-- 💰 **Salary:** $80k–$106k/yr
+- 💰 **Salary:** $105k–$208k/yr
 - 🕒 **Posted:** 2026-08-21
