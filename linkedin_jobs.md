@@ -1,39 +1,25 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-22 03:22 UTC*
+*Last updated: 2026-08-22 04:08 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**5 new role(s)** since last run · 13 total in last 1h
 
-### [Sr Data Scientist - Global Supply Chain and Logistics](https://www.linkedin.com/jobs/view/4457557748/) — Target
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer, Connectivity Cloud](https://www.linkedin.com/jobs/view/4456621892/) — Rivian and Volkswagen Group Technologies
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $116,300.00/yr - $159,950.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4456617681/) — David Joseph & Company
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $225,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Climate Data Scientist, Sustainability](https://www.linkedin.com/jobs/view/4456621790/) — Watershed
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Software Engineer Intern (TikTok AI Search & Visual Search Infra Team) - 2027 Summer](https://www.linkedin.com/jobs/view/4456610808/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4457561639/) — SS&C Technologies
+### [Lead Data Scientist, Newsroom Analytics](https://www.linkedin.com/jobs/view/4457570783/) — Dow Jones
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-21
 
-### [Lead Software Engineer - Java/Full Stack](https://www.linkedin.com/jobs/view/4457570568/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $156,750.00/yr - $215,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4456604753/) — David Joseph & Company
+### [Senior DevOps/SRE Engineer](https://www.linkedin.com/jobs/view/4455017504/) — Credit Genie
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $220,000.00/yr - $270,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Sr. Azure Cloud Engineer](https://www.linkedin.com/jobs/view/4453826951/) — Cencora
-- 📍 **Location:** Trenton, NJ
+### [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4406585839/) — Fiserv
+- 📍 **Location:** Berkeley Heights, NJ
+- 🕒 **Posted:** 2026-08-21
+
+### [Senior Manager, Data Science B2B Marketing Analytics](https://www.linkedin.com/jobs/view/4457559864/) — Dow Jones
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-21
