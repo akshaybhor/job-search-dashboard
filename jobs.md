@@ -1,43 +1,28 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-21 04:07 UTC*
+*Last updated: 2026-08-22 04:02 UTC*
 
-**10 new role(s)** since last run · 140 total in last 24h
+**6 new role(s)** since last run · 138 total in last 24h
 
-### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110225004) — Natera
-- 📍 **Location:** US Remote
+### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110598004) — Natera
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-07-29
 
-### [CD&A Data Scientist, Obesity - Associate](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate_R-252126) — Amgen
-- 📍 **Location:** US - California - Thousand Oaks
-- 🕒 **Posted:** Posted Today
+### [Manager of Data Science Production Engineering, Data Engineering & Delivery](https://job-boards.greenhouse.io/natera/jobs/6137669004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-08-21
 
-### [Software Engineer, Full StackBurlingame, CA·Full time·On-site](https://jobs.ashbyhq.com/emberai/c70fc3e7-e745-4a17-8338-9b4dad829cab) — Ember
-- 📍 **Location:** Burlingame, CA
+### [Senior Manager of Data Science Production Engineering, DevOps](https://job-boards.greenhouse.io/natera/jobs/6148527004) — Natera
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-08-21
 
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4454160686/) — Science
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-08-20
+### [MSAT Data Science Engineer](https://www.linkedin.com/jobs/view/4430968589/) — Allogene Therapeutics
+- 📍 **Location:** Newark, CA
+- 🕒 **Posted:** 2026-08-21
 
-### [Security Engineer](https://www.linkedin.com/jobs/view/4454177097/) — Science
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-08-20
+### [Senior Scientist II, Computational Pathology, Precision Medicine Pathology](https://www.linkedin.com/jobs/view/4456297464/) — AbbVie
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-08-21
 
-### [AI & Machine Learning Engineer I](https://www.linkedin.com/jobs/view/4435609415/) — Gen
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Robotics Engineer](https://www.linkedin.com/jobs/view/4443174491/) — Foundation
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-20
-
-### [Senior Bioinformatics Data Scientist #4887](https://www.linkedin.com/jobs/view/4436860892/) — GRAIL
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Sr. Software Engineer, Clinical Software](https://www.linkedin.com/jobs/view/4456469245/) — Personalis, Inc.
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Senior Computational Biologist I](https://www.linkedin.com/jobs/view/4428075050/) — Tempus AI
+### [Data Scientist II, Outcomes Research](https://www.linkedin.com/jobs/view/4418856695/) — Tempus AI
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-20
+- 🕒 **Posted:** 2026-08-21
