@@ -1,8 +1,16 @@
 {
-  "scraped_at": "2026-08-23 18:59 UTC",
-  "total": 14,
-  "new_count": 10,
+  "scraped_at": "2026-08-23 19:47 UTC",
+  "total": 10,
+  "new_count": 6,
   "jobs": [
+    {
+      "company": "Cara",
+      "title": "Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4456819689/",
+      "date_posted": "2026-08-23",
+      "ats": "LinkedIn"
+    },
     {
       "company": "LatentView Analytics",
       "title": "Machine Learning Engineer",
@@ -13,26 +21,18 @@
       "salary": "$130,000.00/yr - $150,000.00/yr"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456824532/",
+      "company": "Haystack",
+      "title": "Frontend Developer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4456814696/",
       "date_posted": "2026-08-23",
       "ats": "LinkedIn"
     },
     {
       "company": "Jobright.ai",
-      "title": "Senior Full Stack Software Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456816597/",
-      "date_posted": "2026-08-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior System Software Engineer - AI Performance and Efficiency Tools",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410860672/",
+      "title": "Full-Stack Engineer Intern",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4456809751/",
       "date_posted": "2026-08-23",
       "ats": "LinkedIn"
     },
@@ -45,10 +45,26 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Research Engineer, Robotics Systems",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410862592/",
+      "company": "eyesAtop",
+      "title": "Computer Vision Engineer, Aerial Autonomy",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4456821695/",
+      "date_posted": "2026-08-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Medilinkers LLC",
+      "title": "Senior Software Engineer, Full Stack",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4455096614/",
+      "date_posted": "2026-08-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "eyesAtop",
+      "title": "Systems Engineer, Robotics Integration",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4456820622/",
       "date_posted": "2026-08-23",
       "ats": "LinkedIn"
     },
@@ -65,137 +81,56 @@
       "title": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4439566215/",
-      "date_posted": "2026-08-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Etsy",
-      "title": "Senior Software Engineer I, Data Enablement",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4419937943/",
-      "date_posted": "2026-08-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Software Engineer - Full Stack",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456826512/",
-      "date_posted": "2026-08-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Crestron Electronics",
-      "title": "Lead Android Software Engineer",
-      "location": "Rockleigh, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4411680751/",
-      "date_posted": "2026-08-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Mobile Engineer (iOS / Android)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456818611/",
-      "date_posted": "2026-08-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "L3Harris Technologies",
-      "title": "Sr Specialist, Systems Engineer",
-      "location": "Clifton, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4431130152/",
-      "date_posted": "2026-08-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Epic",
-      "title": "Software Engineer",
-      "location": "Paterson, NJ",
-      "url": "https://www.linkedin.com/jobs/view/3986111787/",
       "date_posted": "2026-08-23",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "LatentView Analytics",
-      "title": "Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456825614/",
+      "company": "Cara",
+      "title": "Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4456819689/",
       "date_posted": "2026-08-23",
-      "ats": "LinkedIn",
-      "salary": "$130,000.00/yr - $150,000.00/yr"
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Haystack",
+      "title": "Frontend Developer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4456814696/",
+      "date_posted": "2026-08-23",
+      "ats": "LinkedIn"
     },
     {
       "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456824532/",
+      "title": "Full-Stack Engineer Intern",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4456809751/",
       "date_posted": "2026-08-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "Flexport",
-      "title": "Senior Systems Engineer (Identity and Access)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456811668/",
-      "date_posted": "2026-08-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Research Engineer, Robotics Systems",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410862592/",
-      "date_posted": "2026-08-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Spotify",
-      "title": "Senior Machine Learning Engineer - Enrichment & Content Intelligence",
+      "company": "eyesAtop",
+      "title": "Computer Vision Engineer, Aerial Autonomy",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4420984204/",
+      "url": "https://www.linkedin.com/jobs/view/4456821695/",
       "date_posted": "2026-08-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
+      "company": "Medilinkers LLC",
+      "title": "Senior Software Engineer, Full Stack",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4439566215/",
+      "url": "https://www.linkedin.com/jobs/view/4455096614/",
       "date_posted": "2026-08-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "Crestron Electronics",
-      "title": "Lead Android Software Engineer",
-      "location": "Rockleigh, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4411680751/",
-      "date_posted": "2026-08-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Mobile Engineer (iOS / Android)",
+      "company": "eyesAtop",
+      "title": "Systems Engineer, Robotics Integration",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456818611/",
-      "date_posted": "2026-08-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "L3Harris Technologies",
-      "title": "Sr Specialist, Systems Engineer",
-      "location": "Clifton, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4431130152/",
-      "date_posted": "2026-08-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Epic",
-      "title": "Software Engineer",
-      "location": "Paterson, NJ",
-      "url": "https://www.linkedin.com/jobs/view/3986111787/",
+      "url": "https://www.linkedin.com/jobs/view/4456820622/",
       "date_posted": "2026-08-23",
       "ats": "LinkedIn"
     }
