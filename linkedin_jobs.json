@@ -1,57 +1,35 @@
 {
-  "scraped_at": "2026-08-23 03:30 UTC",
-  "total": 3,
-  "new_count": 3,
+  "scraped_at": "2026-08-23 04:18 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Simbe",
+      "title": "Robotics Software Engineer (C++ & Python)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4457874332/",
+      "date_posted": "2026-08-22",
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $170,000.00/yr"
+    },
     {
       "company": "Stripe",
       "title": "Machine Learning Engineering Manager - Fraud Detection",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4454536386/",
-      "date_posted": "2026-08-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Orchard",
-      "title": "Senior Full Stack Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455049623/",
-      "date_posted": "2026-08-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stripe",
-      "title": "Backend Engineer, Developer & End-user Experience Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454547320/",
       "date_posted": "2026-08-22",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Stripe",
-      "title": "Machine Learning Engineering Manager - Fraud Detection",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454536386/",
+      "company": "Simbe",
+      "title": "Robotics Software Engineer (C++ & Python)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4457874332/",
       "date_posted": "2026-08-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Orchard",
-      "title": "Senior Full Stack Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4455049623/",
-      "date_posted": "2026-08-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stripe",
-      "title": "Backend Engineer, Developer & End-user Experience Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454547320/",
-      "date_posted": "2026-08-22",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $170,000.00/yr"
     }
   ]
 }
