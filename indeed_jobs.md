@@ -1,9 +1,13 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-23 23:50 UTC*
+*Last updated: 2026-08-24 02:10 UTC*
 
-**1 new role(s)** since last run · 20 total in last 24h
+**2 new role(s)** since last run · 20 total in last 24h
 
-### [Software Engineer, Robotics & Integration](https://www.indeed.com/viewjob?jk=c955d900abe50e57) — eyesAtop
-- 📍 **Location:** Mahwah, NJ, US
-- 💰 **Salary:** $180k–$220k/yr
+### [Platform Engineer 4](https://www.indeed.com/viewjob?jk=6fbcd46a8a31a396) — Adobe
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $139k–$258k/yr
+- 🕒 **Posted:** 2026-08-23
+
+### [Software engineering](https://www.indeed.com/viewjob?jk=976a53a613dd2a95) — IPSEN
+- 📍 **Location:** New York, NY, US
 - 🕒 **Posted:** 2026-08-23
