@@ -1,16 +1,16 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-23 04:07 UTC*
+*Last updated: 2026-08-24 04:13 UTC*
 
-**3 new role(s)** since last run · 138 total in last 24h
+**3 new role(s)** since last run · 135 total in last 24h
 
-### [Data Scientist II, Outcomes Research](https://www.linkedin.com/jobs/view/4418871090/) — Tempus AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-08-22
+### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110225004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-07-29
 
-### [Machine Learning Engineer, Infra, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4447583143/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-08-22
+### [Manager of Data Science Production Engineering, Data Engineering & Delivery](https://job-boards.greenhouse.io/natera/jobs/6150570004) — Natera
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-08-21
 
-### [Senior Data Engineer - Data Platform & Martech Engineering](https://www.linkedin.com/jobs/view/4435922350/) — Gen
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-22
+### [Senior Manager of Data Science Production Engineering, DevOps](https://job-boards.greenhouse.io/natera/jobs/6137673004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-08-21
