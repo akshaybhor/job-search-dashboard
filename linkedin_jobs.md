@@ -1,28 +1,27 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-23 23:48 UTC*
+*Last updated: 2026-08-24 02:09 UTC*
 
-**6 new role(s)** since last run · 10 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Reinforcement Learning Environment Engineer (Contract)](https://www.linkedin.com/jobs/view/4458149077/) — Cobalt
-- 📍 **Location:** San Francisco Bay Area
+### [Analytics Engineer](https://www.linkedin.com/jobs/view/4458156673/) — Exa
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $160,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-08-23
 
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4456804976/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
+### [Software Engineer, AI](https://www.linkedin.com/jobs/view/4458149452/) — Haystack
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-23
 
-### [Senior Platform Engineer, Network Infrastructure - DGX Cloud](https://www.linkedin.com/jobs/view/4458151111/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
+### [Senior Security Engineer](https://www.linkedin.com/jobs/view/4456855036/) — Weave Robotics
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-23
 
-### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4456815913/) — Jobright.ai
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-23
-
-### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4456808976/) — Jobright.ai
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-08-23
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4456825809/) — The Parliament Group - Higher Education Consultants
+### [Software Engineer – Machine Learning (AI Training)](https://www.linkedin.com/jobs/view/4458144528/) — Alignerr
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $90.00/hr - $120.00/hr
+- 🕒 **Posted:** 2026-08-23
+
+### [Computer Vision & ML Expert](https://www.linkedin.com/jobs/view/4456442051/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $100.00/hr - $150.00/hr
 - 🕒 **Posted:** 2026-08-23
