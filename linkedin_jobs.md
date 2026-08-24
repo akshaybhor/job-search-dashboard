@@ -1,27 +1,22 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-24 02:09 UTC*
+*Last updated: 2026-08-24 03:32 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Analytics Engineer](https://www.linkedin.com/jobs/view/4458156673/) — Exa
+### [Software Engineer - ML/Computer Vision (Battery Sorting)](https://www.linkedin.com/jobs/view/4455837420/) — Saasuji
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-23
+
+### [AI Software Engineer](https://www.linkedin.com/jobs/view/4458135881/) — OneTrack.AI
+- 📍 **Location:** New York, NY
 - 💰 **Salary:** $160,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-08-23
 
-### [Software Engineer, AI](https://www.linkedin.com/jobs/view/4458149452/) — Haystack
-- 📍 **Location:** San Francisco, CA
+### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4417956816/) — Wonder
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-08-23
 
-### [Senior Security Engineer](https://www.linkedin.com/jobs/view/4456855036/) — Weave Robotics
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-23
-
-### [Software Engineer – Machine Learning (AI Training)](https://www.linkedin.com/jobs/view/4458144528/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $90.00/hr - $120.00/hr
-- 🕒 **Posted:** 2026-08-23
-
-### [Computer Vision & ML Expert](https://www.linkedin.com/jobs/view/4456442051/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100.00/hr - $150.00/hr
+### [Java Full stack Software Engineer III - React/Python](https://www.linkedin.com/jobs/view/4458150802/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-08-23
