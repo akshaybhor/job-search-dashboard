@@ -1,84 +1,99 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-25 22:59 UTC*
+*Last updated: 2026-08-25 23:52 UTC*
 
-**17 new role(s)** since last run · 142 total in last 24h
+**19 new role(s)** since last run · 153 total in last 24h
 
-### [DevOps (GitLab-based platform CICD 30*3 pipelines)](https://www.indeed.com/viewjob?jk=4aee43d1cf72dc64) — Bitdeer Technologies Group
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $180k–$260k/yr
-- 🕒 **Posted:** 2026-08-25
+### [Software Engineer, Abuse Prevention, Devices and Services Security](https://www.indeed.com/viewjob?jk=1ce7e65c50e03a9b) — Amazon.com
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $144k–$224k/yr
+- 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=7b1b61ea1a90e447) — Unknown
-- 📍 **Location:** San Mateo, CA, US
-- 🕒 **Posted:** 2026-08-25
+### [Senior Applied Scientist](https://www.indeed.com/viewjob?jk=33221c1f99b9a1be) — Amazon.com
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $167k–$226k/yr
+- 🕒 **Posted:** 2026-05-01
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=5a80d7ce7c7cc2fc) — Unknown
+### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.indeed.com/viewjob?jk=c4c251e1cf352781) — Amazon.com
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $143k–$222k/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Sr. Applied Scientist, Prime Video - Generative AI (Video)](https://www.indeed.com/viewjob?jk=336848ef0c8f0f86) — Amazon.com
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $167k–$260k/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.indeed.com/viewjob?jk=cc05422c36be9cb9) — Amazon.com
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $143k–$222k/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.indeed.com/viewjob?jk=e45a1b1c2c6a1ba0) — Amazon.com
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $143k–$223k/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer II, Fintech](https://www.indeed.com/viewjob?jk=fc03d0f6e2b74eac) — Amazon.com
 - 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $144k–$224k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Senior Data Scientist](https://www.indeed.com/viewjob?jk=abe6d49f2090e301) — Ericsson
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $156k–$233k/yr
-- 🕒 **Posted:** 2025-10-28
-
-### [Software Engineer, Design Systems](https://www.indeed.com/viewjob?jk=2448cfe0b176f6ab) — Whatnot
+### [Software Engineer, Browser Client](https://www.indeed.com/viewjob?jk=5f5bdd2f37e1487e) — Amazon.com
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $207k–$230k/yr
+- 💰 **Salary:** $110k–$181k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Flight Software Engineer](https://www.indeed.com/viewjob?jk=dd3a7de8bd5c52fa) — Lanteris Space Systems Intuitive Machines Company
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $102k–$195k/yr
-- 🕒 **Posted:** 2026-08-25
+### [Security Engineer II, Ads Security](https://www.indeed.com/viewjob?jk=b0e3654c79fbafa0) — Amazon.com
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $159k–$202k/yr
+- 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer, Design Systems](https://www.indeed.com/viewjob?jk=868f69815329af22) — Whatnot
+### [Senior Delivery Consultant- DevOps, Worldwide Public Sector Professional Services, FedFin](https://www.indeed.com/viewjob?jk=732ae092076f3d54) — Amazon Web Services
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $154k–$239k/yr
+- 🕒 **Posted:** 2026-08-20
+
+### [Senior Delivery Consultant- DevOps, Worldwide Public Sector Professional Services, FedFin](https://www.indeed.com/viewjob?jk=8b3ddcd6600465ac) — Amazon Web Services
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $207k–$230k/yr
+- 💰 **Salary:** $154k–$239k/yr
+- 🕒 **Posted:** 2026-08-20
+
+### [Data Engineer](https://www.indeed.com/viewjob?jk=3be7bf4e29cf860c) — UST
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $72k–$108k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Senior Software Engineer, Datacenter Operations Platform Engineering](https://www.indeed.com/viewjob?jk=228e8eed3c3dc007) — CRUSOE
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $170k–$205k/yr
-- 🕒 **Posted:** 2026-08-25
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=a32fcf80fd71b9b8) — Fullstack
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $185k–$300k/yr
-- 🕒 **Posted:** 2026-08-25
-
-### [Data Infrastructure Engineer](https://www.indeed.com/viewjob?jk=4f2332acc7aaf49d) — Unknown
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-08-25
-
-### [Associate Platform Engineer (College Grad 2027)](https://www.indeed.com/viewjob?jk=627a224e6b82a2a1) — Solace Health
-- 📍 **Location:** Redwood City, CA, US
-- 🕒 **Posted:** 2026-08-25
-
-### [Associate Security Engineer (College Grad 2027)](https://www.indeed.com/viewjob?jk=1f90381768829769) — Solace Health
-- 📍 **Location:** Redwood City, CA, US
-- 🕒 **Posted:** 2026-08-25
-
-### [Senior Software Engineer, Applied AI](https://www.indeed.com/viewjob?jk=188e2c4a2fc4dc77) — Take2
+### [Senior Applied Scientist](https://www.indeed.com/viewjob?jk=5ed6a98e149dfdba) — Amazon.com
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $180k–$225k/yr
-- 🕒 **Posted:** 2026-08-25
+- 💰 **Salary:** $167k–$226k/yr
+- 🕒 **Posted:** 2026-05-01
 
-### [Full-Stack Software Engineer](https://www.indeed.com/viewjob?jk=68671c446d1b255d) — Peraton
-- 📍 **Location:** Red Bank, NJ, US
-- 💰 **Salary:** $104k–$166k/yr
-- 🕒 **Posted:** 2026-08-25
-
-### [Software Engineer, Design Systems](https://www.indeed.com/viewjob?jk=ad0e7e910ed4f2e8) — Whatnot
+### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.indeed.com/viewjob?jk=54f86c5b935dee2a) — Amazon.com
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $207k–$230k/yr
-- 🕒 **Posted:** 2026-08-25
+- 💰 **Salary:** $143k–$223k/yr
+- 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=6b97088351fb4a48) — Doppel Farmaceutici
+### [Senior Software Engineer - Warehouse](https://www.indeed.com/viewjob?jk=fafbd13a0afbfcf5) — Snowflake
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $275k–$375k/yr
+- 💰 **Salary:** $165k–$289k/yr
+- 🕒 **Posted:** 2026-08-07
+
+### [Software Engineer II, Fintech](https://www.indeed.com/viewjob?jk=c6ef16a122a84cfd) — Amazon.com
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $144k–$224k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Platform Engineer](https://www.indeed.com/viewjob?jk=d358ff0176b96002) — Colgate-Palmolive
-- 📍 **Location:** Piscataway, NJ, US
-- 💰 **Salary:** $86k–$121k/yr
+### [Software Engineer, Browser Client](https://www.indeed.com/viewjob?jk=1aab1209c1951b86) — Amazon.com
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $110k–$181k/yr
+- 🕒 **Posted:** 2026-08-25
+
+### [Software Engineer, XR , Fauna](https://www.indeed.com/viewjob?jk=c03908a087d2cdf2) — Amazon.com
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $158k–$214k/yr
+- 🕒 **Posted:** 2026-08-25
+
+### [Systems Engineer - White Plains](https://www.indeed.com/viewjob?jk=518833ce49672327) — Network Doctor
+- 📍 **Location:** White Plains, NY, US
+- 💰 **Salary:** $90k–$110k/yr
 - 🕒 **Posted:** 2026-08-25
