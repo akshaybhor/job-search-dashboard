@@ -1,953 +1,373 @@
 {
-  "scraped_at": "2026-08-25 02:05 UTC",
-  "total": 57,
-  "new_count": 57,
+  "scraped_at": "2026-08-25 03:27 UTC",
+  "total": 22,
+  "new_count": 22,
   "jobs": [
     {
-      "company": "Uber",
-      "title": "Machine Learning Engineer II - AV Labs",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458555223/",
+      "company": "KLA",
+      "title": "AI Engineer (Computer Vision/Signal Processing)",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456575085/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Epsilon Health",
-      "title": "Software Engineer - ML Infrastructure",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456545480/",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457418226/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Uber",
-      "title": "Software Engineer II",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458551653/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google DeepMind",
-      "title": "Research Engineer, Serving Quality, DeepMind",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457407492/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Data Scientist II, Tech",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458553269/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Hinge Health",
-      "title": "Senior Growth Data Scientist - New Products",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456544011/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$164,800.00/yr - $247,200.00/yr"
-    },
-    {
-      "company": "Uber",
-      "title": "Senior ML Engineer, Computer Vision - Applied AI",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458546952/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Sr Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458552369/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer I",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458544999/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458554269/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458554268/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Epsilon Health",
-      "title": "Software Engineer - Core Systems",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456555313/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "LABUR",
-      "title": "Senior AI Platform & Production Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458543977/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer I",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458558206/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "IT Systems Engineer, Mobile Client Platform Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457195822/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer II",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458565112/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer II",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458562172/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458558200/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Software Engineer, Business Technology",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457198691/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Whatnot",
-      "title": "Fullstack Engineer, App Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457410463/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$207,000.00/yr - $230,000.00/yr"
-    },
-    {
-      "company": "Epsilon Health",
-      "title": "Software Engineer - Product",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456556336/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Checkr, Inc.",
-      "title": "Senior Software Engineer (Python), Mortgage",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456567279/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Superhuman",
-      "title": "iOS Engineer (US)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456556120/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$186,000.00/yr - $300,000.00/yr"
-    },
-    {
-      "company": "Topcon Positioning Systems",
-      "title": "Senior Security Engineer",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457417021/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Superhuman",
-      "title": "iOS Engineer (Canada)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456558152/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$168,000.00/yr - CA$291,000.00/yr"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer II",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458566108/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Software Engineer II, AWS Continuum for code vulnerabilities",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458528589/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Box",
-      "title": "Senior Software Engineer, ISF",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458536822/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Software Engineer II, AWS Continuum for code vulnerabilities",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458544271/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "RADAR",
-      "title": "Senior Systems Engineer",
+      "company": "Chime",
+      "title": "Senior Software Engineer, AI & App Experience",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4458514528/",
+      "url": "https://www.linkedin.com/jobs/view/4456562363/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Applied Intuition",
-      "title": "Embedded Software Engineer (Drone Stack)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457403346/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$150,000.00/yr - $225,000.00/yr"
-    },
-    {
-      "company": "YO IT Consulting",
-      "title": "DevOps Engineer - Remote",
+      "company": "Heliux",
+      "title": "Software Engineer, Core Platform (All Levels)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456559227/",
+      "url": "https://www.linkedin.com/jobs/view/4454134567/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Uber",
-      "title": "Software Engineer II",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458557231/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist, Navigation",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458544268/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist, Navigation",
+      "company": "JPMorganChase",
+      "title": "Infrastructure Engineer [Multiple Positions Available]",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458532466/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Prime Video & Amazon MGM Studios",
-      "title": "Applied Scientist, Prime Video - Generative AI (Video)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458538442/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Senior Machine Learning Engineer - AV Labs",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458553267/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "East West Bank",
-      "title": "Data Science & Advanced Analytics",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4419376244/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458567047/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Software Engineer, Business Technology",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4457199721/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Superhuman",
-      "title": "iOS Engineer (US)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456547114/",
+      "url": "https://www.linkedin.com/jobs/view/4458582222/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn",
-      "salary": "$186,000.00/yr - $300,000.00/yr"
+      "salary": "$175,100.00/yr - $185,000.00/yr"
     },
     {
-      "company": "Alignerr",
-      "title": "Machine Learning Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458561020/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $70.00/hr"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Data Scientist, Product",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4457404632/",
+      "company": "Penumbra, Inc.",
+      "title": "IT DevOps Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457196827/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Alignerr",
-      "title": "Backend Developer - AI Data Services",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458550444/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $75.00/hr"
-    },
-    {
-      "company": "Alignerr",
-      "title": "Data Infrastructure Developer (C++)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458548800/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $75.00/hr"
-    },
-    {
-      "company": "Alignerr",
-      "title": "C# Infrastructure Engineer - Data Pipelines",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458540933/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $75.00/hr"
-    },
-    {
-      "company": "Alignerr",
-      "title": "Backend Developer - Data Annotation Systems",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458551483/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $75.00/hr"
-    },
-    {
-      "company": "Alignerr",
-      "title": "C++ Backend Engineer - AI Data Platforms",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458552183/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $75.00/hr"
-    },
-    {
-      "company": "BTQ",
-      "title": "Infrastructure Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4457412333/",
+      "company": "Higharc",
+      "title": "Sr. Software Engineer, Structural",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456549970/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Alignerr",
-      "title": "Lead Backend Engineer - AI Tooling",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458561027/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $75.00/hr"
-    },
-    {
-      "company": "Alignerr",
-      "title": "Senior Backend Engineer (C#) - AI Data Platform",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458561024/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $75.00/hr"
-    },
-    {
-      "company": "Scribd, Inc.",
-      "title": "Senior Software Engineer (Fullstack) - Scribd Core",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456545333/",
+      "company": "Higharc",
+      "title": "Sr. Software Engineer, Integrations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456564928/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Uber",
-      "title": "Software Engineer I",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458549847/",
+      "company": "Anodize",
+      "title": "Lead SoC Security Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4457410644/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Alignerr",
-      "title": "Senior Python Full-Stack Engineer \u2014 AI Data & Infrastructure",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458538985/",
+      "company": "Penumbra, Inc.",
+      "title": "IT Systems Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457409690/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Software Engineer III - AI/ML Engineer",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4458586228/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn",
-      "salary": "$50.00/hr - $75.00/hr"
+      "salary": "$137,750.00/yr - $185,000.00/yr"
     },
     {
-      "company": "Anthropic",
-      "title": "IT Systems Engineer, Mobile Client Platform Engineer",
+      "company": "impact.com",
+      "title": "Sr. Data Scientist, Programmatic Algorithms",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4457414507/",
+      "url": "https://www.linkedin.com/jobs/view/4405188867/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Superhuman",
-      "title": "iOS Engineer (Canada)",
+      "company": "impact.com",
+      "title": "Data Scientist, Next Gen Recommendation Systems",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456550150/",
+      "url": "https://www.linkedin.com/jobs/view/4405164991/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Decagon",
+      "title": "Senior Software Engineer, Data Infrastructure",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458578081/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "impact.com",
+      "title": "Internal Systems Engineer (Applied AI)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4418548391/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Barclays",
+      "title": "Senior Blockchain DevOps Engineer - AVP \u2013 Digital Assets",
+      "location": "Whippany, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4456555994/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Higharc",
+      "title": "Sr. Software Engineer, Structural",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4456546919/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Software Engineer II - Android Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458592202/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn",
-      "salary": "$168,000.00/yr - CA$291,000.00/yr"
+      "salary": "$123,500.00/yr - $150,000.00/yr"
     },
     {
-      "company": "Quest Diagnostics",
-      "title": "Data Scientist",
-      "location": "Secaucus, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4456560080/",
+      "company": "JPMorganChase",
+      "title": "Lead Software Engineer - Full Stack Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458579240/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn",
+      "salary": "$156,750.00/yr - $215,000.00/yr"
+    },
+    {
+      "company": "AutoNation",
+      "title": "Senior Software Engineer-4",
+      "location": "White Plains, NY",
+      "url": "https://www.linkedin.com/jobs/view/4456577084/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Senior Lead Security Engineer",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458594237/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn",
+      "salary": "$175,750.00/yr - $260,000.00/yr"
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Software Engineer III - Mobile Tester",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458585197/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn",
+      "salary": "$137,750.00/yr - $185,000.00/yr"
     }
   ],
   "new_jobs": [
     {
-      "company": "Uber",
-      "title": "Machine Learning Engineer II - AV Labs",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458555223/",
+      "company": "KLA",
+      "title": "AI Engineer (Computer Vision/Signal Processing)",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456575085/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Epsilon Health",
-      "title": "Software Engineer - ML Infrastructure",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456545480/",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457418226/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Uber",
-      "title": "Software Engineer II",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458551653/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google DeepMind",
-      "title": "Research Engineer, Serving Quality, DeepMind",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457407492/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Data Scientist II, Tech",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458553269/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Hinge Health",
-      "title": "Senior Growth Data Scientist - New Products",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456544011/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$164,800.00/yr - $247,200.00/yr"
-    },
-    {
-      "company": "Uber",
-      "title": "Senior ML Engineer, Computer Vision - Applied AI",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458546952/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Sr Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458552369/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer I",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458544999/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458554269/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458554268/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Epsilon Health",
-      "title": "Software Engineer - Core Systems",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456555313/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "LABUR",
-      "title": "Senior AI Platform & Production Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458543977/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer I",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458558206/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "IT Systems Engineer, Mobile Client Platform Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457195822/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer II",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458565112/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer II",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458562172/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458558200/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Software Engineer, Business Technology",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457198691/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Whatnot",
-      "title": "Fullstack Engineer, App Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457410463/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$207,000.00/yr - $230,000.00/yr"
-    },
-    {
-      "company": "Epsilon Health",
-      "title": "Software Engineer - Product",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456556336/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Checkr, Inc.",
-      "title": "Senior Software Engineer (Python), Mortgage",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456567279/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Superhuman",
-      "title": "iOS Engineer (US)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456556120/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$186,000.00/yr - $300,000.00/yr"
-    },
-    {
-      "company": "Topcon Positioning Systems",
-      "title": "Senior Security Engineer",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457417021/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Superhuman",
-      "title": "iOS Engineer (Canada)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456558152/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$168,000.00/yr - CA$291,000.00/yr"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer II",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458566108/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Software Engineer II, AWS Continuum for code vulnerabilities",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458528589/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Box",
-      "title": "Senior Software Engineer, ISF",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458536822/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Software Engineer II, AWS Continuum for code vulnerabilities",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458544271/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "RADAR",
-      "title": "Senior Systems Engineer",
+      "company": "Chime",
+      "title": "Senior Software Engineer, AI & App Experience",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4458514528/",
+      "url": "https://www.linkedin.com/jobs/view/4456562363/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Applied Intuition",
-      "title": "Embedded Software Engineer (Drone Stack)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457403346/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$150,000.00/yr - $225,000.00/yr"
-    },
-    {
-      "company": "YO IT Consulting",
-      "title": "DevOps Engineer - Remote",
+      "company": "Heliux",
+      "title": "Software Engineer, Core Platform (All Levels)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456559227/",
+      "url": "https://www.linkedin.com/jobs/view/4454134567/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Uber",
-      "title": "Software Engineer II",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458557231/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist, Navigation",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458544268/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist, Navigation",
+      "company": "JPMorganChase",
+      "title": "Infrastructure Engineer [Multiple Positions Available]",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458532466/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Prime Video & Amazon MGM Studios",
-      "title": "Applied Scientist, Prime Video - Generative AI (Video)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458538442/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Senior Machine Learning Engineer - AV Labs",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458553267/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "East West Bank",
-      "title": "Data Science & Advanced Analytics",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4419376244/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Software Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458567047/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Software Engineer, Business Technology",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4457199721/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Superhuman",
-      "title": "iOS Engineer (US)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456547114/",
+      "url": "https://www.linkedin.com/jobs/view/4458582222/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn",
-      "salary": "$186,000.00/yr - $300,000.00/yr"
+      "salary": "$175,100.00/yr - $185,000.00/yr"
     },
     {
-      "company": "Alignerr",
-      "title": "Machine Learning Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458561020/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $70.00/hr"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Data Scientist, Product",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4457404632/",
+      "company": "Penumbra, Inc.",
+      "title": "IT DevOps Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457196827/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Alignerr",
-      "title": "Backend Developer - AI Data Services",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458550444/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $75.00/hr"
-    },
-    {
-      "company": "Alignerr",
-      "title": "Data Infrastructure Developer (C++)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458548800/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $75.00/hr"
-    },
-    {
-      "company": "Alignerr",
-      "title": "C# Infrastructure Engineer - Data Pipelines",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458540933/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $75.00/hr"
-    },
-    {
-      "company": "Alignerr",
-      "title": "Backend Developer - Data Annotation Systems",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458551483/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $75.00/hr"
-    },
-    {
-      "company": "Alignerr",
-      "title": "C++ Backend Engineer - AI Data Platforms",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458552183/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $75.00/hr"
-    },
-    {
-      "company": "BTQ",
-      "title": "Infrastructure Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4457412333/",
+      "company": "Higharc",
+      "title": "Sr. Software Engineer, Structural",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456549970/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Alignerr",
-      "title": "Lead Backend Engineer - AI Tooling",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458561027/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $75.00/hr"
-    },
-    {
-      "company": "Alignerr",
-      "title": "Senior Backend Engineer (C#) - AI Data Platform",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458561024/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$50.00/hr - $75.00/hr"
-    },
-    {
-      "company": "Scribd, Inc.",
-      "title": "Senior Software Engineer (Fullstack) - Scribd Core",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456545333/",
+      "company": "Higharc",
+      "title": "Sr. Software Engineer, Integrations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456564928/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Uber",
-      "title": "Software Engineer I",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458549847/",
+      "company": "Anodize",
+      "title": "Lead SoC Security Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4457410644/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Alignerr",
-      "title": "Senior Python Full-Stack Engineer \u2014 AI Data & Infrastructure",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458538985/",
+      "company": "Penumbra, Inc.",
+      "title": "IT Systems Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457409690/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Software Engineer III - AI/ML Engineer",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4458586228/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn",
-      "salary": "$50.00/hr - $75.00/hr"
+      "salary": "$137,750.00/yr - $185,000.00/yr"
     },
     {
-      "company": "Anthropic",
-      "title": "IT Systems Engineer, Mobile Client Platform Engineer",
+      "company": "impact.com",
+      "title": "Sr. Data Scientist, Programmatic Algorithms",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4457414507/",
+      "url": "https://www.linkedin.com/jobs/view/4405188867/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Superhuman",
-      "title": "iOS Engineer (Canada)",
+      "company": "impact.com",
+      "title": "Data Scientist, Next Gen Recommendation Systems",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456550150/",
+      "url": "https://www.linkedin.com/jobs/view/4405164991/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Decagon",
+      "title": "Senior Software Engineer, Data Infrastructure",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458578081/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "impact.com",
+      "title": "Internal Systems Engineer (Applied AI)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4418548391/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Barclays",
+      "title": "Senior Blockchain DevOps Engineer - AVP \u2013 Digital Assets",
+      "location": "Whippany, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4456555994/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Higharc",
+      "title": "Sr. Software Engineer, Structural",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4456546919/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Software Engineer II - Android Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458592202/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn",
-      "salary": "$168,000.00/yr - CA$291,000.00/yr"
+      "salary": "$123,500.00/yr - $150,000.00/yr"
     },
     {
-      "company": "Quest Diagnostics",
-      "title": "Data Scientist",
-      "location": "Secaucus, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4456560080/",
+      "company": "JPMorganChase",
+      "title": "Lead Software Engineer - Full Stack Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458579240/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn",
+      "salary": "$156,750.00/yr - $215,000.00/yr"
+    },
+    {
+      "company": "AutoNation",
+      "title": "Senior Software Engineer-4",
+      "location": "White Plains, NY",
+      "url": "https://www.linkedin.com/jobs/view/4456577084/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Senior Lead Security Engineer",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458594237/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn",
+      "salary": "$175,750.00/yr - $260,000.00/yr"
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Software Engineer III - Mobile Tester",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458585197/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn",
+      "salary": "$137,750.00/yr - $185,000.00/yr"
     }
   ]
 }
