@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25 03:27 UTC",
-  "total": 22,
-  "new_count": 22,
+  "scraped_at": "2026-08-25 04:11 UTC",
+  "total": 31,
+  "new_count": 10,
   "jobs": [
     {
       "company": "KLA",
@@ -20,6 +20,39 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Supermicro",
+      "title": "Software Engineer - AI/ML",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458583467/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cisco",
+      "title": "Senior Software Engineer, Hybrid, Milpitas, CA",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458585526/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cisco",
+      "title": "Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458582553/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart Connect",
+      "title": "(USA) Senior, Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456580157/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn",
+      "salary": "$117,000.00/yr - $234,000.00/yr"
+    },
+    {
       "company": "Chime",
       "title": "Senior Software Engineer, AI & App Experience",
       "location": "San Francisco Bay Area",
@@ -28,10 +61,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Heliux",
-      "title": "Software Engineer, Core Platform (All Levels)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454134567/",
+      "company": "Penumbra, Inc.",
+      "title": "IT DevOps Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457196827/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
@@ -45,18 +78,18 @@
       "salary": "$175,100.00/yr - $185,000.00/yr"
     },
     {
-      "company": "Penumbra, Inc.",
-      "title": "IT DevOps Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457196827/",
+      "company": "Heliux",
+      "title": "Software Engineer, Core Platform (All Levels)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454134567/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Higharc",
-      "title": "Sr. Software Engineer, Structural",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456549970/",
+      "company": "Cisco",
+      "title": "Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458599132/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
@@ -69,10 +102,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Anodize",
-      "title": "Lead SoC Security Software Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4457410644/",
+      "company": "Higharc",
+      "title": "Sr. Software Engineer, Structural",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456549970/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
@@ -81,6 +114,22 @@
       "title": "IT Systems Engineer",
       "location": "Alameda, CA",
       "url": "https://www.linkedin.com/jobs/view/4457409690/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "impact.com",
+      "title": "Data Scientist, Next Gen Recommendation Systems",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4405164991/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "impact.com",
+      "title": "Sr. Data Scientist, Programmatic Algorithms",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4405188867/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
@@ -95,33 +144,17 @@
     },
     {
       "company": "impact.com",
-      "title": "Sr. Data Scientist, Programmatic Algorithms",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4405188867/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "impact.com",
-      "title": "Data Scientist, Next Gen Recommendation Systems",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4405164991/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Decagon",
-      "title": "Senior Software Engineer, Data Infrastructure",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458578081/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "impact.com",
       "title": "Internal Systems Engineer (Applied AI)",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4418548391/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Yale New Haven Health",
+      "title": "Data Science Dev/Ops Engineer",
+      "location": "Stratford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4458586494/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
@@ -134,36 +167,26 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Higharc",
-      "title": "Sr. Software Engineer, Structural",
+      "company": "Raydar",
+      "title": "Full Stack Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456546919/",
+      "url": "https://www.linkedin.com/jobs/view/4458598154/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "JPMorganChase",
-      "title": "Software Engineer II - Android Engineer",
+      "company": "ECI",
+      "title": "Security Platform Engineer (DevSecOps)",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458592202/",
+      "url": "https://www.linkedin.com/jobs/view/4458580521/",
       "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$123,500.00/yr - $150,000.00/yr"
+      "ats": "LinkedIn"
     },
     {
-      "company": "JPMorganChase",
-      "title": "Lead Software Engineer - Full Stack Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458579240/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$156,750.00/yr - $215,000.00/yr"
-    },
-    {
-      "company": "AutoNation",
-      "title": "Senior Software Engineer-4",
-      "location": "White Plains, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456577084/",
+      "company": "KPMG Financial Reporting View (FRV)",
+      "title": "Intern, Software Engineer | Montvale Summer 2027",
+      "location": "Montvale, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4456570186/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
@@ -177,6 +200,48 @@
       "salary": "$175,750.00/yr - $260,000.00/yr"
     },
     {
+      "company": "AutoNation",
+      "title": "Senior Software Engineer-4",
+      "location": "White Plains, NY",
+      "url": "https://www.linkedin.com/jobs/view/4456577084/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Higharc",
+      "title": "Sr. Software Engineer, Structural",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4456546919/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Decagon",
+      "title": "Senior Software Engineer, Data Infrastructure",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458578081/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Lead Software Engineer - Full Stack Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458579240/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn",
+      "salary": "$156,750.00/yr - $215,000.00/yr"
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Software Engineer II - Android Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458592202/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn",
+      "salary": "$123,500.00/yr - $150,000.00/yr"
+    },
+    {
       "company": "JPMorganChase",
       "title": "Software Engineer III - Mobile Tester",
       "location": "New York, NY",
@@ -184,190 +249,97 @@
       "date_posted": "2026-08-24",
       "ats": "LinkedIn",
       "salary": "$137,750.00/yr - $185,000.00/yr"
+    },
+    {
+      "company": "Consumer Reports Data Intelligence",
+      "title": "Senior Full Stack Software Engineer - AI Applications\nYonkers, NY",
+      "location": "Yonkers, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458585435/",
+      "date_posted": "2026-08-24",
+      "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "KLA",
-      "title": "AI Engineer (Computer Vision/Signal Processing)",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456575085/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start (PhD)",
+      "company": "Supermicro",
+      "title": "Software Engineer - AI/ML",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457418226/",
+      "url": "https://www.linkedin.com/jobs/view/4458583467/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Chime",
-      "title": "Senior Software Engineer, AI & App Experience",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4456562363/",
+      "company": "Cisco",
+      "title": "Senior Software Engineer, Hybrid, Milpitas, CA",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458585526/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Heliux",
-      "title": "Software Engineer, Core Platform (All Levels)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454134567/",
+      "company": "Cisco",
+      "title": "Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458582553/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "JPMorganChase",
-      "title": "Infrastructure Engineer [Multiple Positions Available]",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458582222/",
+      "company": "Walmart Connect",
+      "title": "(USA) Senior, Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4456580157/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn",
-      "salary": "$175,100.00/yr - $185,000.00/yr"
+      "salary": "$117,000.00/yr - $234,000.00/yr"
     },
     {
-      "company": "Penumbra, Inc.",
-      "title": "IT DevOps Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457196827/",
+      "company": "Cisco",
+      "title": "Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458599132/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Higharc",
-      "title": "Sr. Software Engineer, Structural",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456549970/",
+      "company": "Yale New Haven Health",
+      "title": "Data Science Dev/Ops Engineer",
+      "location": "Stratford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4458586494/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Higharc",
-      "title": "Sr. Software Engineer, Integrations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456564928/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anodize",
-      "title": "Lead SoC Security Software Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4457410644/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Penumbra, Inc.",
-      "title": "IT Systems Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457409690/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Software Engineer III - AI/ML Engineer",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4458586228/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$137,750.00/yr - $185,000.00/yr"
-    },
-    {
-      "company": "impact.com",
-      "title": "Sr. Data Scientist, Programmatic Algorithms",
+      "company": "Raydar",
+      "title": "Full Stack Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4405188867/",
+      "url": "https://www.linkedin.com/jobs/view/4458598154/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "impact.com",
-      "title": "Data Scientist, Next Gen Recommendation Systems",
+      "company": "ECI",
+      "title": "Security Platform Engineer (DevSecOps)",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4405164991/",
+      "url": "https://www.linkedin.com/jobs/view/4458580521/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Decagon",
-      "title": "Senior Software Engineer, Data Infrastructure",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458578081/",
+      "company": "KPMG Financial Reporting View (FRV)",
+      "title": "Intern, Software Engineer | Montvale Summer 2027",
+      "location": "Montvale, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4456570186/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "impact.com",
-      "title": "Internal Systems Engineer (Applied AI)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4418548391/",
+      "company": "Consumer Reports Data Intelligence",
+      "title": "Senior Full Stack Software Engineer - AI Applications\nYonkers, NY",
+      "location": "Yonkers, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458585435/",
       "date_posted": "2026-08-24",
       "ats": "LinkedIn"
-    },
-    {
-      "company": "Barclays",
-      "title": "Senior Blockchain DevOps Engineer - AVP \u2013 Digital Assets",
-      "location": "Whippany, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4456555994/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Higharc",
-      "title": "Sr. Software Engineer, Structural",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456546919/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Software Engineer II - Android Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458592202/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$123,500.00/yr - $150,000.00/yr"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Lead Software Engineer - Full Stack Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458579240/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$156,750.00/yr - $215,000.00/yr"
-    },
-    {
-      "company": "AutoNation",
-      "title": "Senior Software Engineer-4",
-      "location": "White Plains, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456577084/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Senior Lead Security Engineer",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458594237/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$175,750.00/yr - $260,000.00/yr"
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Software Engineer III - Mobile Tester",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458585197/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "salary": "$137,750.00/yr - $185,000.00/yr"
     }
   ]
 }
