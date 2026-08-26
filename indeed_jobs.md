@@ -1,99 +1,55 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-25 23:52 UTC*
+*Last updated: 2026-08-26 02:12 UTC*
 
-**19 new role(s)** since last run · 153 total in last 24h
+**11 new role(s)** since last run · 147 total in last 24h
 
-### [Software Engineer, Abuse Prevention, Devices and Services Security](https://www.indeed.com/viewjob?jk=1ce7e65c50e03a9b) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $144k–$224k/yr
-- 🕒 **Posted:** 2026-08-19
-
-### [Senior Applied Scientist](https://www.indeed.com/viewjob?jk=33221c1f99b9a1be) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $167k–$226k/yr
-- 🕒 **Posted:** 2026-05-01
-
-### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.indeed.com/viewjob?jk=c4c251e1cf352781) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $143k–$222k/yr
-- 🕒 **Posted:** 2026-08-19
-
-### [Sr. Applied Scientist, Prime Video - Generative AI (Video)](https://www.indeed.com/viewjob?jk=336848ef0c8f0f86) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $167k–$260k/yr
-- 🕒 **Posted:** 2026-08-19
-
-### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.indeed.com/viewjob?jk=cc05422c36be9cb9) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $143k–$222k/yr
-- 🕒 **Posted:** 2026-08-19
-
-### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.indeed.com/viewjob?jk=e45a1b1c2c6a1ba0) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $143k–$223k/yr
-- 🕒 **Posted:** 2026-08-19
-
-### [Software Engineer II, Fintech](https://www.indeed.com/viewjob?jk=fc03d0f6e2b74eac) — Amazon.com
+### [Marketing Data Scientist](https://www.indeed.com/viewjob?jk=c3265d2890295bb2) — Embedding VC
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $144k–$224k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Software Engineer, Browser Client](https://www.indeed.com/viewjob?jk=5f5bdd2f37e1487e) — Amazon.com
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $110k–$181k/yr
+### [Senior Backend Engineer - Java](https://www.indeed.com/viewjob?jk=b9ed16b6d896ab50) — Unknown
+- 📍 **Location:** Newark, CA, US
+- 💰 **Salary:** $152k–$194k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Security Engineer II, Ads Security](https://www.indeed.com/viewjob?jk=b0e3654c79fbafa0) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $159k–$202k/yr
-- 🕒 **Posted:** 2026-08-19
-
-### [Senior Delivery Consultant- DevOps, Worldwide Public Sector Professional Services, FedFin](https://www.indeed.com/viewjob?jk=732ae092076f3d54) — Amazon Web Services
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $154k–$239k/yr
-- 🕒 **Posted:** 2026-08-20
-
-### [Senior Delivery Consultant- DevOps, Worldwide Public Sector Professional Services, FedFin](https://www.indeed.com/viewjob?jk=8b3ddcd6600465ac) — Amazon Web Services
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $154k–$239k/yr
-- 🕒 **Posted:** 2026-08-20
-
-### [Data Engineer](https://www.indeed.com/viewjob?jk=3be7bf4e29cf860c) — UST
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $72k–$108k/yr
+### [Fleet Software Engineer (Multiple Levels)](https://www.indeed.com/viewjob?jk=7b434cc2987d0d81) — Pyka Inc.
+- 📍 **Location:** Alameda, CA, US
+- 💰 **Salary:** $144k–$220k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Senior Applied Scientist](https://www.indeed.com/viewjob?jk=5ed6a98e149dfdba) — Amazon.com
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $167k–$226k/yr
-- 🕒 **Posted:** 2026-05-01
-
-### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.indeed.com/viewjob?jk=54f86c5b935dee2a) — Amazon.com
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $143k–$223k/yr
-- 🕒 **Posted:** 2026-08-19
-
-### [Senior Software Engineer - Warehouse](https://www.indeed.com/viewjob?jk=fafbd13a0afbfcf5) — Snowflake
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $165k–$289k/yr
-- 🕒 **Posted:** 2026-08-07
-
-### [Software Engineer II, Fintech](https://www.indeed.com/viewjob?jk=c6ef16a122a84cfd) — Amazon.com
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $144k–$224k/yr
+### [Infrastructure/Systems Engineer](https://www.indeed.com/viewjob?jk=fdf2652fa106a5c0) — Unknown
+- 📍 **Location:** San Francisco Bay Area, CA, US
 - 🕒 **Posted:** 2026-08-25
 
-### [Software Engineer, Browser Client](https://www.indeed.com/viewjob?jk=1aab1209c1951b86) — Amazon.com
+### [Full Stack Lead Software Engineer- Java](https://www.indeed.com/viewjob?jk=24e4dc0b202ba419) — JPMorganChase
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $110k–$181k/yr
+- 💰 **Salary:** $157k–$215k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Software Engineer, XR , Fauna](https://www.indeed.com/viewjob?jk=c03908a087d2cdf2) — Amazon.com
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $158k–$214k/yr
+### [Associate Data Scientist](https://www.indeed.com/viewjob?jk=38b9af822620c3b4) — SageSure
+- 📍 **Location:** Jersey City, NJ, US
 - 🕒 **Posted:** 2026-08-25
 
-### [Systems Engineer - White Plains](https://www.indeed.com/viewjob?jk=518833ce49672327) — Network Doctor
-- 📍 **Location:** White Plains, NY, US
-- 💰 **Salary:** $90k–$110k/yr
+### [Clinical Data Scientist -RWE Data Analysis Oversight Lead: Inflammation](https://www.indeed.com/viewjob?jk=5950791e93a6bd25) — Gilead Sciences
+- 📍 **Location:** Parsippany-Troy Hills, NJ, US
+- 💰 **Salary:** $206k–$293k/yr
+- 🕒 **Posted:** 2026-08-25
+
+### [Full Stack .NET Software Engineer (Eatontown, NJ / Hybrid)](https://www.indeed.com/viewjob?jk=010e1bd09e08b1c8) — Crum & Forster
+- 📍 **Location:** Eatontown, NJ, US
+- 💰 **Salary:** $83k–$130k/yr
+- 🕒 **Posted:** 2026-08-25
+
+### [Software Engineer II - Android Engineer](https://www.indeed.com/viewjob?jk=27481258aa1b02d0) — JPMorganChase
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $124k–$150k/yr
+- 🕒 **Posted:** 2026-08-25
+
+### [Senior Analytics Engineer](https://www.indeed.com/viewjob?jk=4d5f309ea3930e00) — Velir
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $135k–$150k/yr
+- 🕒 **Posted:** 2026-08-25
+
+### [Systems Engineer - Intern](https://www.indeed.com/viewjob?jk=ca8a6f821222923d) — SHI International
+- 📍 **Location:** Piscataway, NJ, US
 - 🕒 **Posted:** 2026-08-25
