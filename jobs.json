@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-27 14:20 UTC",
-  "total": 139,
-  "new_count": 14,
+  "scraped_at": "2026-08-28 15:29 UTC",
+  "total": 148,
+  "new_count": 17,
   "jobs": [
     {
       "company": "Freenome",
@@ -25,6 +25,54 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/freenome/jobs/8414748002",
       "date_posted": "2026-07-15",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Natera",
+      "title": "Lead Bioinformatician (cfDNA Algorithms and Pipelines)",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6138807004",
+      "date_posted": "2026-08-10",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Natera",
+      "title": "Lead Biostatistician (IVD Clinical)",
+      "location": "San Carlos, CA",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6110598004",
+      "date_posted": "2026-07-29",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Natera",
+      "title": "Manager of Data Science Production Engineering, Data Engineering & Delivery",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6137669004",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Natera",
+      "title": "Senior Manager of Data Science Production Engineering, DevOps",
+      "location": "San Carlos, CA",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6148527004",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Natera",
+      "title": "Senior Workday Platform Engineer",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/5993464004",
+      "date_posted": "2026-07-29",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Natera",
+      "title": "Sr Software Engineer in Test",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6163319004",
+      "date_posted": "2026-08-26",
       "ats": "Greenhouse"
     },
     {
@@ -93,6 +141,14 @@
     },
     {
       "company": "Chan Zuckerberg Biohub",
+      "title": "Computational Biologist II, CellxState",
+      "location": "San Francisco, CA (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/7712408",
+      "date_posted": "2026-08-27",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Chan Zuckerberg Biohub",
       "title": "Computational Biologist, Immune Cell Repolarization",
       "location": "New York, NY (Hybrid)",
       "url": "https://job-boards.greenhouse.io/biohub/jobs/8140482",
@@ -118,8 +174,8 @@
     {
       "company": "Chan Zuckerberg Biohub",
       "title": "Research Scientist, AI",
-      "location": "Redwood City, CA (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/biohub/jobs/7793644",
+      "location": "New York, NY (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/7747518",
       "date_posted": "2026-06-02",
       "ats": "Greenhouse"
     },
@@ -272,7 +328,23 @@
       "title": "Senior Manager, Machine Learning Platform Engineer",
       "location": "United States - California - Foster City",
       "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Senior-Manager--Machine-Learning-Platform-Engineer_R0054104-2",
-      "date_posted": "Posted 17 Days Ago",
+      "date_posted": "Posted 18 Days Ago",
+      "ats": "Workday"
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Sr Analyst, Data Scientist",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Analyst--Data-Scientist_R0054725-1",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday"
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Sr Manager, Data Scientist, Technical Developoment",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Manager--Data-Scientist--Technical-Developoment_R0054787-2",
+      "date_posted": "Posted Yesterday",
       "ats": "Workday"
     },
     {
@@ -280,7 +352,7 @@
       "title": "Clinical Data Scientist -RWE Data Analysis Oversight Lead: Inflammation",
       "location": "United States - California - Foster City",
       "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---New-Jersey---Parsippany/Clinical-Data-Scientist--RWE-Data-Analysis-Oversight-Lead--Inflammation_R0054188-2",
-      "date_posted": "Posted 2 Days Ago",
+      "date_posted": "Posted 3 Days Ago",
       "ats": "Workday"
     },
     {
@@ -288,7 +360,7 @@
       "title": "Sr Scientist, Drug Metabolism",
       "location": "United States - California - Foster City",
       "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Scientist--Drug-Metabolism_R0052430-1",
-      "date_posted": "Posted 20 Days Ago",
+      "date_posted": "Posted 21 Days Ago",
       "ats": "Workday"
     },
     {
@@ -296,7 +368,7 @@
       "title": "Sr Manager, IT Data Engineering",
       "location": "United States - North Carolina - Raleigh",
       "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Sr-Manager--IT-Data-Engineering_R0054145-1",
-      "date_posted": "Posted 10 Days Ago",
+      "date_posted": "Posted 11 Days Ago",
       "ats": "Workday"
     },
     {
@@ -461,10 +533,18 @@
     },
     {
       "company": "Amgen",
+      "title": "Senior Machine Learning Engineer",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Senior-Machine-Learning-Engineer_R-253246",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday"
+    },
+    {
+      "company": "Amgen",
       "title": "Machine Learning Engineer, AI Studio",
       "location": "United States - Remote",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Machine-Learning-Engineer--AI-Studio_R-250796",
-      "date_posted": "Posted 3 Days Ago",
+      "date_posted": "Posted 4 Days Ago",
       "ats": "Workday"
     },
     {
@@ -472,7 +552,7 @@
       "title": "Enterprise Generative AI Platform Engineer",
       "location": "United States - Remote",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Enterprise-Generative-AI-Platform-Engineer_R-250809",
-      "date_posted": "Posted 21 Days Ago",
+      "date_posted": "Posted 22 Days Ago",
       "ats": "Workday"
     },
     {
@@ -480,7 +560,7 @@
       "title": "Data Scientist",
       "location": "United States - Remote",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Data-Scientist_R-246583",
-      "date_posted": "Posted 14 Days Ago",
+      "date_posted": "Posted 15 Days Ago",
       "ats": "Workday"
     },
     {
@@ -488,7 +568,7 @@
       "title": "Data Scientist - PKDM-BA",
       "location": "US - California - South San Francisco",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---South-San-Francisco/Data-Scientist---PKDM-BA_R-253426",
-      "date_posted": "Posted Yesterday",
+      "date_posted": "Posted 2 Days Ago",
       "ats": "Workday"
     },
     {
@@ -496,7 +576,7 @@
       "title": "Senior Manager, Artificial Intelligence Data Engineer",
       "location": "TARRYTOWN",
       "url": "https://regeneron.wd1.myworkdayjobs.com/careers/job/TARRYTOWN/Senior-Manager--Artificial-Intelligence-Data-Engineer_R44147-1",
-      "date_posted": "Posted 30 Days Ago",
+      "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday"
     },
     {
@@ -504,7 +584,7 @@
       "title": "Associate Manager, Production AI/ML Engineering, Advanced Informatics",
       "location": "TARRYTOWN",
       "url": "https://regeneron.wd1.myworkdayjobs.com/careers/job/TARRYTOWN/Assoc-Manager--Production-AI-ML-Engineering--Advanced-Informatics_R48875",
-      "date_posted": "Posted 29 Days Ago",
+      "date_posted": "Posted 30 Days Ago",
       "ats": "Workday"
     },
     {
@@ -512,7 +592,7 @@
       "title": "Data Scientist",
       "location": "Cambridge, Massachusetts",
       "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19572",
-      "date_posted": "Posted 8 Days Ago",
+      "date_posted": "Posted 9 Days Ago",
       "ats": "Workday"
     },
     {
@@ -520,7 +600,7 @@
       "title": "Sr. Software Engineer, Enterprise AI Enablement Engineer",
       "location": "Cambridge, Massachusetts",
       "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Sr-Software-Engineer--Enterprise-AI-Enablement-Engineer_R19669",
-      "date_posted": "Posted 3 Days Ago",
+      "date_posted": "Posted 4 Days Ago",
       "ats": "Workday"
     },
     {
@@ -560,7 +640,7 @@
       "title": "Senior Data Engineer \u2014 Translational Data Products",
       "location": "Cambridge - MA - US",
       "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Tampa---FL---US/Senior-Data-Engineer---Translational-Data-Products_R1605529",
-      "date_posted": "Posted 2 Days Ago",
+      "date_posted": "Posted 3 Days Ago",
       "ats": "Workday"
     },
     {
@@ -568,7 +648,7 @@
       "title": "Senior Manager, Data Scientist",
       "location": "Seattle 400 Dexter - WA - US",
       "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Cambridge-Crossing/Senior-Manager--Data-Scientist_R1605021",
-      "date_posted": "Posted 24 Days Ago",
+      "date_posted": "Posted 25 Days Ago",
       "ats": "Workday"
     },
     {
@@ -673,6 +753,14 @@
       "location": "San Diego HQ",
       "url": "https://jobs.ashbyhq.com/iambic-therapeutics/6236b729-9139-4971-8a31-3f5a9add1ed4",
       "date_posted": "2026-08-14",
+      "ats": "Ashby"
+    },
+    {
+      "company": "Iambic Therapeutics",
+      "title": "Machine Learning Scientist \u2014 Large Multimodal Models (Post-Training)",
+      "location": "Boston Office",
+      "url": "https://jobs.ashbyhq.com/iambic-therapeutics/50be2fab-54c1-4310-8cec-3fe6123b8a8f",
+      "date_posted": "2026-08-27",
       "ats": "Ashby"
     },
     {
@@ -932,6 +1020,14 @@
       "ats": "Lever"
     },
     {
+      "company": "Cellarity",
+      "title": "Machine Learning Scientist",
+      "location": "Somerville, MA",
+      "url": "https://job-boards.greenhouse.io/cellarity/jobs/8750594002",
+      "date_posted": "2026-08-28",
+      "ats": "Greenhouse"
+    },
+    {
       "company": "Entrada Therapeutics",
       "title": "Biostatistician Lead Consultant",
       "location": "Boston, MA",
@@ -941,9 +1037,9 @@
     },
     {
       "company": "Immunai",
-      "title": "Software Engineering (3)",
+      "title": "Software Engineering (4)",
       "location": "New York, NY",
-      "url": "https://www.immunai.com/careers/#software-engineering-3",
+      "url": "https://www.immunai.com/careers/#software-engineering-4",
       "date_posted": "",
       "ats": "Custom"
     },
@@ -968,6 +1064,14 @@
       "title": "Software Engineering",
       "location": "New York, NY",
       "url": "https://www.immunai.com/careers/#software-engineering",
+      "date_posted": "",
+      "ats": "Custom"
+    },
+    {
+      "company": "Immunai",
+      "title": "Senior Data Engineer",
+      "location": "New York, NY",
+      "url": "https://www.immunai.com/careers/#senior-data-engineer",
       "date_posted": "",
       "ats": "Custom"
     },
@@ -1068,165 +1172,157 @@
       "ats": "Custom"
     },
     {
-      "company": "Netic",
-      "title": "Full-Stack Software Engineer (Product) - New Grad - 2026-2027",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4438463495/",
-      "date_posted": "2026-08-27",
+      "company": "Aptiv",
+      "title": "Data Platform Architect",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4434260697/",
+      "date_posted": "2026-08-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Buck Institute for Research on Aging",
-      "title": "Bioinformatics & Data Scientist or Postdoctoral Researcher- Furman lab",
-      "location": "Novato, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427934142/",
-      "date_posted": "2026-08-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genentech",
-      "title": "Senior Biostatistician (Translational and Exploratory Biostatistics)",
+      "company": "AbbVie",
+      "title": "Senior Safety Data Scientist",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459664494/",
+      "url": "https://www.linkedin.com/jobs/view/4458681565/",
       "date_posted": "2026-08-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tempus AI",
-      "title": "Sr. Data Scientist, Translational Research",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4413090861/",
-      "date_posted": "2026-08-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Intel",
-      "title": "Senior GPU Performance Software Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457976761/",
-      "date_posted": "2026-08-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Biohub",
-      "title": "Computational Biologist, Immune Cell Repolarization",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4457708295/",
-      "date_posted": "2026-08-26",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Freenome",
-      "title": "Senior Software Engineer II",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/freenome/jobs/8414748002",
-      "date_posted": "2026-07-15",
+      "company": "Natera",
+      "title": "Lead Bioinformatician (cfDNA Algorithms and Pipelines)",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6138807004",
+      "date_posted": "2026-08-10",
       "ats": "Greenhouse"
     },
     {
-      "company": "Chan Zuckerberg Biohub",
-      "title": "Computational Biologist, Immune Cell Repolarization",
-      "location": "New York, NY (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/biohub/jobs/8140482",
+      "company": "Natera",
+      "title": "Lead Biostatistician (IVD Clinical)",
+      "location": "San Carlos, CA",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6110598004",
+      "date_posted": "2026-07-29",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Natera",
+      "title": "Manager of Data Science Production Engineering, Data Engineering & Delivery",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6137669004",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Natera",
+      "title": "Senior Manager of Data Science Production Engineering, DevOps",
+      "location": "San Carlos, CA",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6148527004",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Natera",
+      "title": "Senior Workday Platform Engineer",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/5993464004",
+      "date_posted": "2026-07-29",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Natera",
+      "title": "Sr Software Engineer in Test",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6163319004",
       "date_posted": "2026-08-26",
       "ats": "Greenhouse"
     },
     {
       "company": "Chan Zuckerberg Biohub",
-      "title": "Research Engineer, AI",
-      "location": "Redwood City, CA (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/biohub/jobs/7793665",
-      "date_posted": "2026-07-30",
+      "title": "Computational Biologist II, CellxState",
+      "location": "San Francisco, CA (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/7712408",
+      "date_posted": "2026-08-27",
       "ats": "Greenhouse"
     },
     {
       "company": "Chan Zuckerberg Biohub",
       "title": "Research Scientist, AI",
-      "location": "Redwood City, CA (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/biohub/jobs/7793644",
+      "location": "New York, NY (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/7747518",
       "date_posted": "2026-06-02",
       "ats": "Greenhouse"
     },
     {
-      "company": "Amgen",
-      "title": "Data Scientist - PKDM-BA",
-      "location": "US - California - South San Francisco",
-      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---South-San-Francisco/Data-Scientist---PKDM-BA_R-253426",
+      "company": "Gilead Sciences",
+      "title": "Sr Analyst, Data Scientist",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Analyst--Data-Scientist_R0054725-1",
       "date_posted": "Posted Yesterday",
       "ats": "Workday"
     },
     {
-      "company": "Manifold Bio",
-      "title": "AI/ML Research Engineer",
-      "location": "Boston, MA or San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/manifoldbio/jobs/5106191007",
-      "date_posted": "2026-04-30",
-      "ats": "Greenhouse"
+      "company": "Gilead Sciences",
+      "title": "Sr Manager, Data Scientist, Technical Developoment",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Manager--Data-Scientist--Technical-Developoment_R0054787-2",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday"
     },
     {
-      "company": "Manifold Bio",
-      "title": "Computational Scientist, Assay Development",
-      "location": "Boston",
-      "url": "https://job-boards.greenhouse.io/manifoldbio/jobs/5127570007",
-      "date_posted": "2026-08-10",
-      "ats": "Greenhouse"
+      "company": "Amgen",
+      "title": "Senior Machine Learning Engineer",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Senior-Machine-Learning-Engineer_R-253246",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday"
     },
     {
-      "company": "Manifold Bio",
-      "title": "Product Manager, AI Platform & Partnerships",
-      "location": "Boston or San Francisco",
-      "url": "https://job-boards.greenhouse.io/manifoldbio/jobs/5127283007",
-      "date_posted": "2026-05-12",
-      "ats": "Greenhouse"
-    },
-    {
-      "company": "Netic",
-      "title": "Full-Stack Software Engineer (Product) - New Grad - 2026-2027",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4438463495/",
+      "company": "Iambic Therapeutics",
+      "title": "Machine Learning Scientist \u2014 Large Multimodal Models (Post-Training)",
+      "location": "Boston Office",
+      "url": "https://jobs.ashbyhq.com/iambic-therapeutics/50be2fab-54c1-4310-8cec-3fe6123b8a8f",
       "date_posted": "2026-08-27",
+      "ats": "Ashby"
+    },
+    {
+      "company": "Cellarity",
+      "title": "Machine Learning Scientist",
+      "location": "Somerville, MA",
+      "url": "https://job-boards.greenhouse.io/cellarity/jobs/8750594002",
+      "date_posted": "2026-08-28",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Immunai",
+      "title": "Software Engineering (4)",
+      "location": "New York, NY",
+      "url": "https://www.immunai.com/careers/#software-engineering-4",
+      "date_posted": "",
+      "ats": "Custom"
+    },
+    {
+      "company": "Immunai",
+      "title": "Senior Data Engineer",
+      "location": "New York, NY",
+      "url": "https://www.immunai.com/careers/#senior-data-engineer",
+      "date_posted": "",
+      "ats": "Custom"
+    },
+    {
+      "company": "Aptiv",
+      "title": "Data Platform Architect",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4434260697/",
+      "date_posted": "2026-08-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Buck Institute for Research on Aging",
-      "title": "Bioinformatics & Data Scientist or Postdoctoral Researcher- Furman lab",
-      "location": "Novato, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427934142/",
-      "date_posted": "2026-08-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genentech",
-      "title": "Senior Biostatistician (Translational and Exploratory Biostatistics)",
+      "company": "AbbVie",
+      "title": "Senior Safety Data Scientist",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459664494/",
+      "url": "https://www.linkedin.com/jobs/view/4458681565/",
       "date_posted": "2026-08-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tempus AI",
-      "title": "Sr. Data Scientist, Translational Research",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4413090861/",
-      "date_posted": "2026-08-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Intel",
-      "title": "Senior GPU Performance Software Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457976761/",
-      "date_posted": "2026-08-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Biohub",
-      "title": "Computational Biologist, Immune Cell Repolarization",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4457708295/",
-      "date_posted": "2026-08-26",
       "ats": "LinkedIn"
     }
   ]
