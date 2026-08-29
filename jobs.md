@@ -1,70 +1,44 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-28 15:29 UTC*
+*Last updated: 2026-08-29 10:11 UTC*
 
-**17 new role(s)** since last run · 148 total in last 24h
+**10 new role(s)** since last run · 152 total in last 24h
 
-### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6138807004) — Natera
-- 📍 **Location:** US Remote
+### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6139254004) — Natera
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-08-10
 
-### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110598004) — Natera
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-07-29
-
-### [Manager of Data Science Production Engineering, Data Engineering & Delivery](https://job-boards.greenhouse.io/natera/jobs/6137669004) — Natera
-- 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Manager of Data Science Production Engineering, DevOps](https://job-boards.greenhouse.io/natera/jobs/6148527004) — Natera
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Workday Platform Engineer](https://job-boards.greenhouse.io/natera/jobs/5993464004) — Natera
-- 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-07-29
-
-### [Sr Software Engineer in Test](https://job-boards.greenhouse.io/natera/jobs/6163319004) — Natera
-- 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-08-26
-
-### [Computational Biologist II, CellxState](https://job-boards.greenhouse.io/biohub/jobs/7712408) — Chan Zuckerberg Biohub
-- 📍 **Location:** San Francisco, CA (Hybrid)
-- 🕒 **Posted:** 2026-08-27
-
-### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7747518) — Chan Zuckerberg Biohub
-- 📍 **Location:** New York, NY (Hybrid)
-- 🕒 **Posted:** 2026-06-02
-
-### [Sr Analyst, Data Scientist](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Analyst--Data-Scientist_R0054725-1) — Gilead Sciences
-- 📍 **Location:** United States - California - Foster City
-- 🕒 **Posted:** Posted Yesterday
-
-### [Sr Manager, Data Scientist, Technical Developoment](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Manager--Data-Scientist--Technical-Developoment_R0054787-2) — Gilead Sciences
-- 📍 **Location:** United States - California - Foster City
-- 🕒 **Posted:** Posted Yesterday
-
-### [Senior Machine Learning Engineer](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Senior-Machine-Learning-Engineer_R-253246) — Amgen
-- 📍 **Location:** United States - Remote
-- 🕒 **Posted:** Posted Yesterday
-
-### [Machine Learning Scientist — Large Multimodal Models (Post-Training)](https://jobs.ashbyhq.com/iambic-therapeutics/50be2fab-54c1-4310-8cec-3fe6123b8a8f) — Iambic Therapeutics
-- 📍 **Location:** Boston Office
-- 🕒 **Posted:** 2026-08-27
-
-### [Machine Learning Scientist](https://job-boards.greenhouse.io/cellarity/jobs/8750594002) — Cellarity
-- 📍 **Location:** Somerville, MA
+### [AI Scientist Intern, Computational Protein Design](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007) — Xaira Therapeutics
+- 📍 **Location:** Seattle, Washington, United States; South San Francisco, California, United States
 - 🕒 **Posted:** 2026-08-28
 
-### [Software Engineering (4)](https://www.immunai.com/careers/#software-engineering-4) — Immunai
-- 📍 **Location:** New York, NY
-
-### [Senior Data Engineer](https://www.immunai.com/careers/#senior-data-engineer) — Immunai
-- 📍 **Location:** New York, NY
-
-### [Data Platform Architect](https://www.linkedin.com/jobs/view/4434260697/) — Aptiv
-- 📍 **Location:** Walnut Creek, CA
+### [Senior Software Engineer](https://jobs.lever.co/kariusdx/6bce5ea1-ca03-4e7a-a5fd-0ec365971017) — Karius
+- 📍 **Location:** Redwood City, CA (Hybrid) or Remote (USA)
 - 🕒 **Posted:** 2026-08-28
 
-### [Senior Safety Data Scientist](https://www.linkedin.com/jobs/view/4458681565/) — AbbVie
+### [Data Engineer](https://jobs.ashbyhq.com/benchling/c1ad7288-ad78-4a0f-8f19-1fcc3f6cf85b) — Benchling
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Senior Data Scientist, CompBio](https://jobs.ashbyhq.com/insitro/ec4a278a-dd78-4e9c-a203-87e3e2f59e60) — Insitro
 - 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-08-27
+- 🕒 **Posted:** 2026-08-28
+
+### [Sr. Data Scientist, Translational Research](https://www.linkedin.com/jobs/view/4413092836/) — Tempus AI
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [AI Data Scientist-Furman lab](https://www.linkedin.com/jobs/view/4427938237/) — Buck Institute for Research on Aging
+- 📍 **Location:** Novato, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Senior Software Engineer, Backend](https://www.linkedin.com/jobs/view/4301398088/) — Ro
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-28
+
+### [Senior Backend Engineer, Product](https://www.linkedin.com/jobs/view/4318302156/) — Ro
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-28
+
+### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4425851475/) — Ro
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-28
