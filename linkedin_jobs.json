@@ -1,23 +1,407 @@
 {
-  "scraped_at": "2026-08-29 07:18 UTC",
-  "total": 1,
-  "new_count": 1,
+  "scraped_at": "2026-08-29 18:47 UTC",
+  "total": 25,
+  "new_count": 25,
   "jobs": [
     {
-      "company": "Gabriella Systems",
-      "title": "Computer Vision Research Intern \u2014 Sports AI",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4459466902/",
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459484758/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4397425462/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Top Gen AI Jobs",
+      "title": "Sr. AI/ML Machine Learning Engineer - CX",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460835498/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Manager, Data Science - AI Foundations, Specialist Models",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4433849639/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Manager, Data Science - AI Foundations",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4361105664/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Site Reliability Engineer, Recommendation Infrastructure - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460836478/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Systems Software Engineer, Accelerated Kubernetes Performance and Scale - DGX Cloud",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4433431041/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior System Software Engineer - AV Platform",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441362837/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead Software Engineer, Distributed Systems (Golang + Python on Kubernetes)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4442474233/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Site Reliability Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459490710/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Nexwave",
+      "title": "DevOps Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460832579/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Senior Full Stack Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459485769/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TEKsystems",
+      "title": "Security Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460820831/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Sr. Lead AI Engineer (Inference Optimization, FM hosting, AI Platform)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423089864/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Marketing Data Scientist",
+      "location": "San Carlos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459491676/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Sr. Lead AI Engineer (Inference Optimization, FM hosting, AI Platform)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4423090837/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Citi",
+      "title": "Senior Generative AI Developer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4450910284/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "DoubleVerify",
+      "title": "Senior Analytics Data Platform Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4414264500/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Millennium",
+      "title": "Senior Software Engineer - EQ Derivatives Pricing & Risk",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4382430736/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead Software Engineer, Full Stack (Bank Tech)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4403066593/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Software Engineer - Full Stack",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4459701625/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Software Engineer, Full Stack",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4433846951/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Mobile Engineer (iOS / Android)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4459491697/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Software Engineer, Full Stack",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451064962/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Mobile Engineer (iOS / Android)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4459492681/",
       "date_posted": "2026-08-29",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Gabriella Systems",
-      "title": "Computer Vision Research Intern \u2014 Sports AI",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4459466902/",
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459484758/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4397425462/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Top Gen AI Jobs",
+      "title": "Sr. AI/ML Machine Learning Engineer - CX",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460835498/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Manager, Data Science - AI Foundations, Specialist Models",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4433849639/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Manager, Data Science - AI Foundations",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4361105664/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Site Reliability Engineer, Recommendation Infrastructure - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460836478/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Systems Software Engineer, Accelerated Kubernetes Performance and Scale - DGX Cloud",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4433431041/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior System Software Engineer - AV Platform",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441362837/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead Software Engineer, Distributed Systems (Golang + Python on Kubernetes)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4442474233/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Site Reliability Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459490710/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Nexwave",
+      "title": "DevOps Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460832579/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Senior Full Stack Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459485769/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TEKsystems",
+      "title": "Security Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460820831/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Sr. Lead AI Engineer (Inference Optimization, FM hosting, AI Platform)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423089864/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Marketing Data Scientist",
+      "location": "San Carlos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459491676/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Sr. Lead AI Engineer (Inference Optimization, FM hosting, AI Platform)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4423090837/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Citi",
+      "title": "Senior Generative AI Developer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4450910284/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "DoubleVerify",
+      "title": "Senior Analytics Data Platform Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4414264500/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Millennium",
+      "title": "Senior Software Engineer - EQ Derivatives Pricing & Risk",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4382430736/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead Software Engineer, Full Stack (Bank Tech)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4403066593/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Software Engineer - Full Stack",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4459701625/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Software Engineer, Full Stack",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4433846951/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Mobile Engineer (iOS / Android)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4459491697/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Software Engineer, Full Stack",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451064962/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Mobile Engineer (iOS / Android)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4459492681/",
       "date_posted": "2026-08-29",
       "ats": "LinkedIn"
     }
