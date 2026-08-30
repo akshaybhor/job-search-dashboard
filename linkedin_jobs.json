@@ -1,457 +1,95 @@
 {
-  "scraped_at": "2026-08-30 18:45 UTC",
-  "total": 28,
-  "new_count": 28,
+  "scraped_at": "2026-08-30 22:00 UTC",
+  "total": 5,
+  "new_count": 5,
   "jobs": [
     {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Inference & Serving (Speech LLM)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459734664/",
+      "company": "Wayve",
+      "title": "Software Engineer, Data Flywheel Platform",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458855379/",
       "date_posted": "2026-08-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459748560/",
+      "company": "Workhelix",
+      "title": "Forward-Deployed Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4461025320/",
       "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$145,000.00/yr - $200,000.00/yr"
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, DGX Cloud AI Infrastructure",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424480478/",
+      "company": "Artie",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4417976234/",
       "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$150,000.00/yr - $250,000.00/yr"
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, AI Resiliency",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414193675/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415370764/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Machine Learning Engineer, Agentic Systems - Moveworks",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423548607/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead Software Engineer, Distributed Systems (Golang + Python on Kubernetes)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4442468374/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior System Software Engineer - AV Platform",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4441381073/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415383072/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Senior Data Scientist, Model Risk & Data Analytics, Internal Audit - AMS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459745582/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Applied Researcher I (AI Foundations, Recommendation Systems, Personalization, Reinforcement Learning)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4442471340/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Data Engineer - Data Platform",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459733715/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Software DevOps Engineer, Networking",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424623544/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ByteDance",
-      "title": "Tech Lead Cloud Site Reliability Engineer - DCS Cloud",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459733746/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, Mapping - Autonomous Vehicles",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4433426394/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer - DGX Cloud",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450912944/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Software Engineer, Emerging Product - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461032065/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead Software Engineer (Golang + EKS,  Kubernetes, LLM's + Agentic flows + control/data planes)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415805235/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cadence",
-      "title": "Lead C++ Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414706700/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415374625/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cadence",
-      "title": "Software Engineer II , Synthesis",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414488774/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Millennium",
-      "title": "AI Scientist",
+      "company": "Ascot Group",
+      "title": "Data Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4432944164/",
+      "url": "https://www.linkedin.com/jobs/view/4458860375/",
       "date_posted": "2026-08-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Top Gen AI Jobs",
-      "title": "Sr. Software Engineer II - AI Tooling and Interfaces - Rockerbox",
+      "company": "AppCard, Inc.",
+      "title": "Senior DevOps Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4461017150/",
+      "url": "https://www.linkedin.com/jobs/view/4457282113/",
       "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead Software Engineer, Distributed Systems (Golang + Python on Kubernetes)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4442476098/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4415368887/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead Data Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4413978757/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead Software Engineer, Salesforce",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4442469355/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Selective Insurance",
-      "title": "Sr. Software Engineer (Hybrid)",
-      "location": "Short Hills, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4366222705/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$225,000.00/yr - $275,000.00/yr"
     }
   ],
   "new_jobs": [
     {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Inference & Serving (Speech LLM)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459734664/",
+      "company": "Wayve",
+      "title": "Software Engineer, Data Flywheel Platform",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458855379/",
       "date_posted": "2026-08-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459748560/",
+      "company": "Workhelix",
+      "title": "Forward-Deployed Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4461025320/",
       "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$145,000.00/yr - $200,000.00/yr"
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, DGX Cloud AI Infrastructure",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424480478/",
+      "company": "Artie",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4417976234/",
       "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$150,000.00/yr - $250,000.00/yr"
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, AI Resiliency",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414193675/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415370764/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Machine Learning Engineer, Agentic Systems - Moveworks",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423548607/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead Software Engineer, Distributed Systems (Golang + Python on Kubernetes)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4442468374/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior System Software Engineer - AV Platform",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4441381073/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415383072/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Senior Data Scientist, Model Risk & Data Analytics, Internal Audit - AMS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459745582/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Applied Researcher I (AI Foundations, Recommendation Systems, Personalization, Reinforcement Learning)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4442471340/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Data Engineer - Data Platform",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459733715/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Software DevOps Engineer, Networking",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424623544/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ByteDance",
-      "title": "Tech Lead Cloud Site Reliability Engineer - DCS Cloud",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459733746/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, Mapping - Autonomous Vehicles",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4433426394/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer - DGX Cloud",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4450912944/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Software Engineer, Emerging Product - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461032065/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead Software Engineer (Golang + EKS,  Kubernetes, LLM's + Agentic flows + control/data planes)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415805235/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cadence",
-      "title": "Lead C++ Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414706700/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415374625/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cadence",
-      "title": "Software Engineer II , Synthesis",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414488774/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Millennium",
-      "title": "AI Scientist",
+      "company": "Ascot Group",
+      "title": "Data Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4432944164/",
+      "url": "https://www.linkedin.com/jobs/view/4458860375/",
       "date_posted": "2026-08-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Top Gen AI Jobs",
-      "title": "Sr. Software Engineer II - AI Tooling and Interfaces - Rockerbox",
+      "company": "AppCard, Inc.",
+      "title": "Senior DevOps Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4461017150/",
+      "url": "https://www.linkedin.com/jobs/view/4457282113/",
       "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead Software Engineer, Distributed Systems (Golang + Python on Kubernetes)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4442476098/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4415368887/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Lead Data Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4413978757/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead Software Engineer, Salesforce",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4442469355/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Selective Insurance",
-      "title": "Sr. Software Engineer (Hybrid)",
-      "location": "Short Hills, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4366222705/",
-      "date_posted": "2026-08-30",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$225,000.00/yr - $275,000.00/yr"
     }
   ]
 }
