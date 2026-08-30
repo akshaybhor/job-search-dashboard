@@ -1,30 +1,36 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-29 21:55 UTC*
+*Last updated: 2026-08-30 00:36 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Machine Learning Engineering Manager - Fraud Detection](https://www.linkedin.com/jobs/view/4454536386/) — Stripe
+### [Senior Data Scientist, Cloud Gaming - Prescriptive Analytics and Optimization](https://www.linkedin.com/jobs/view/4459720053/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-29
+
+### [Data Engineer, PXT Central Science](https://www.linkedin.com/jobs/view/4460859460/) — Amazon
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-29
 
-### [Sr. Information Security Engineer - Endpoint and Identity](https://www.linkedin.com/jobs/view/4459494913/) — CyberJobs.Com
-- 📍 **Location:** San Ramon, CA
+### [Senior Software Engineer, AI Ecosystem](https://www.linkedin.com/jobs/view/4460860551/) — Aerospike
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-08-29
 
-### [Senior Security Engineer - Infrastructure](https://www.linkedin.com/jobs/view/4459702862/) — CyberJobs.Com
-- 📍 **Location:** San Ramon, CA
+### [Senior Solutions Architect, Generative AI Deployment and AIOps](https://www.linkedin.com/jobs/view/4459721064/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-29
 
-### [GM Technology Data Scientist Associate](https://www.linkedin.com/jobs/view/4459497827/) — Nomura
-- 📍 **Location:** New York, NY
+### [Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start](https://www.linkedin.com/jobs/view/4460846634/) — Ecommerce Guide
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-29
 
-### [Junior Java Software Developer with AI Integration](https://www.linkedin.com/jobs/view/4458415953/) — BeaconFire Inc.
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $65,000.00/yr - $80,000.00/yr
+### [Senior Manager, Software Engineering - Agentic IT Operations](https://www.linkedin.com/jobs/view/4459725019/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-29
 
-### [Azure and Google Cloud Engineer - Hybrid NYC](https://www.linkedin.com/jobs/view/4459701836/) — Randstad Digital Americas
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $70.00/hr - $75.00/hr
+### [Senior Compute System Software Engineer](https://www.linkedin.com/jobs/view/4459725018/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-29
+
+### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4459713081/) — Jobright.ai
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-29
