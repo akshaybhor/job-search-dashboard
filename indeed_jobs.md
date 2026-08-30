@@ -1,14 +1,19 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-29 21:56 UTC*
+*Last updated: 2026-08-30 00:38 UTC*
 
-**2 new role(s)** since last run · 85 total in last 24h
+**3 new role(s)** since last run · 65 total in last 24h
 
-### [Manager 3, Software Engineering - Enterprise Accountant Suite](https://www.indeed.com/viewjob?jk=d1438d36667961d0) — Intuit
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $244k–$330k/yr
+### [Machine Learning Engineer III](https://www.indeed.com/viewjob?jk=9f243633b12e35cb) — Expedia Group
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $146k–$252k/yr
 - 🕒 **Posted:** 2026-08-29
 
-### [AI Context & Data Infrastructure Engineer](https://www.indeed.com/viewjob?jk=ee10151a84c2b6ad) — Unknown
+### [Data Engineer, PXT Central Science](https://www.indeed.com/viewjob?jk=41f81569379d46e5) — Amazon.com
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $250k–$300k/yr
-- 🕒 **Posted:** 2026-08-29
+- 💰 **Salary:** $132k–$206k/yr
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer, Android](https://www.indeed.com/viewjob?jk=46218509dbd1a962) — Meta
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $184k–$257k/yr
+- 🕒 **Posted:** 2025-06-25
