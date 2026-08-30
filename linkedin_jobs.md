@@ -1,36 +1,64 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-30 00:36 UTC*
+*Last updated: 2026-08-30 07:15 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**15 new role(s)** since last run · 15 total in last 1h
 
-### [Senior Data Scientist, Cloud Gaming - Prescriptive Analytics and Optimization](https://www.linkedin.com/jobs/view/4459720053/) — NVIDIA
+### [Senior Perception Engineer, Obstacle Foundation Models - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4458840373/) — NVIDIA AI
 - 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-29
+- 🕒 **Posted:** 2026-08-30
 
-### [Data Engineer, PXT Central Science](https://www.linkedin.com/jobs/view/4460859460/) — Amazon
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-29
-
-### [Senior Software Engineer, AI Ecosystem](https://www.linkedin.com/jobs/view/4460860551/) — Aerospike
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-29
-
-### [Senior Solutions Architect, Generative AI Deployment and AIOps](https://www.linkedin.com/jobs/view/4459721064/) — NVIDIA
+### [Senior Radar Perception Engineer, Obstacle Foundation Models - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4458838339/) — NVIDIA AI
 - 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-29
+- 🕒 **Posted:** 2026-08-30
 
-### [Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start](https://www.linkedin.com/jobs/view/4460846634/) — Ecommerce Guide
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-29
-
-### [Senior Manager, Software Engineering - Agentic IT Operations](https://www.linkedin.com/jobs/view/4459725019/) — NVIDIA
+### [Senior Software Engineer, L4 - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4458848307/) — NVIDIA AI
 - 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-29
+- 🕒 **Posted:** 2026-08-30
 
-### [Senior Compute System Software Engineer](https://www.linkedin.com/jobs/view/4459725018/) — NVIDIA
+### [Senior Software Engineer - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4458838336/) — NVIDIA AI
 - 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-29
+- 🕒 **Posted:** 2026-08-30
 
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4459713081/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-29
+### [Senior Software Engineer - Autonomous Driving](https://www.linkedin.com/jobs/view/4458849336/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Senior Software Engineer, World Model Systems Engineering - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4458845351/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Senior System Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4458841317/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Senior System Software Engineer - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4458834455/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Senior Embedded Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4458838337/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Senior Systems Software Engineer - Autonomous Vehicles Platform](https://www.linkedin.com/jobs/view/4458842341/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Senior Security Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4458832482/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Senior Systems Software Engineer - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4458849337/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Senior System Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4458844354/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Senior System Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4458843336/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Senior System Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4458832483/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-30
