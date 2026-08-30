@@ -1,44 +1,28 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-29 10:11 UTC*
+*Last updated: 2026-08-30 09:20 UTC*
 
-**10 new role(s)** since last run · 152 total in last 24h
+**6 new role(s)** since last run · 153 total in last 24h
 
-### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6139254004) — Natera
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-08-10
+### [Software Engineer](https://jobs.ashbyhq.com/arini/b6c08d01-aace-485d-a334-adac80673175) — Arini
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-29
 
-### [AI Scientist Intern, Computational Protein Design](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007) — Xaira Therapeutics
-- 📍 **Location:** Seattle, Washington, United States; South San Francisco, California, United States
-- 🕒 **Posted:** 2026-08-28
+### [Software Engineer II](https://jobs.ashbyhq.com/arini/2e75cbe8-bebb-4762-a65e-47518624201a) — Arini
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-29
 
-### [Senior Software Engineer](https://jobs.lever.co/kariusdx/6bce5ea1-ca03-4e7a-a5fd-0ec365971017) — Karius
-- 📍 **Location:** Redwood City, CA (Hybrid) or Remote (USA)
-- 🕒 **Posted:** 2026-08-28
-
-### [Data Engineer](https://jobs.ashbyhq.com/benchling/c1ad7288-ad78-4a0f-8f19-1fcc3f6cf85b) — Benchling
+### [Applied AI Research Engineer](https://www.linkedin.com/jobs/view/4354022361/) — Netic
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-28
+- 🕒 **Posted:** 2026-08-29
 
-### [Senior Data Scientist, CompBio](https://jobs.ashbyhq.com/insitro/ec4a278a-dd78-4e9c-a203-87e3e2f59e60) — Insitro
+### [AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4450332355/) — Intel
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-29
+
+### [Senior Scientific Software Engineer, Analytics and Workflows](https://www.linkedin.com/jobs/view/4398023267/) — Genentech
 - 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-08-28
+- 🕒 **Posted:** 2026-08-29
 
-### [Sr. Data Scientist, Translational Research](https://www.linkedin.com/jobs/view/4413092836/) — Tempus AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [AI Data Scientist-Furman lab](https://www.linkedin.com/jobs/view/4427938237/) — Buck Institute for Research on Aging
-- 📍 **Location:** Novato, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Senior Software Engineer, Backend](https://www.linkedin.com/jobs/view/4301398088/) — Ro
+### [Machine Learning Engineer/Senior Machine Learning Engineer - Devops, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4402030797/) — Genentech
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-28
-
-### [Senior Backend Engineer, Product](https://www.linkedin.com/jobs/view/4318302156/) — Ro
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-28
-
-### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4425851475/) — Ro
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-28
+- 🕒 **Posted:** 2026-08-29
