@@ -1,28 +1,36 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-02 08:01 UTC*
+*Last updated: 2026-09-03 08:10 UTC*
 
-**6 new role(s)** since last run · 153 total in last 24h
+**8 new role(s)** since last run · 150 total in last 24h
 
-### [Manager of Data Science Production Engineering, Data Engineering & Delivery](https://job-boards.greenhouse.io/natera/jobs/6137669004) — Natera
-- 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-08-21
+### [Senior Computational Scientist](https://job-boards.greenhouse.io/twistbioscience/jobs/8167799) — Twist Bioscience
+- 📍 **Location:** USA - South San Francisco, CA
+- 🕒 **Posted:** 2026-09-02
 
-### [Senior Platform Engineer](https://job-boards.greenhouse.io/natera/jobs/6177849004) — Natera
+### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6139254004) — Natera
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-08-31
+
+### [Senior Manager of DevOps (Data Science Production Engineering)](https://job-boards.greenhouse.io/natera/jobs/6137673004) — Natera
 - 📍 **Location:** US Remote
 - 🕒 **Posted:** 2026-09-01
 
-### [Scientist, Cheminformatics](https://www.octant.bio/jobs?gh_jid=6131353004) — Octant Bio
-- 📍 **Location:** Emeryville, California, United States
-- 🕒 **Posted:** 2026-09-01
+### [Software Engineer, Full Stack](https://job-boards.greenhouse.io/natera/jobs/5993307004) — Natera
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-09-02
 
-### [Sr. Associate Scientist, Drug Substance-Data Science (Contract)](https://www.linkedin.com/jobs/view/4444787035/) — Allogene Therapeutics
+### [Research Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7747517) — Chan Zuckerberg Biohub
+- 📍 **Location:** New York, NY (Hybrid)
+- 🕒 **Posted:** 2026-08-28
+
+### [Senior Machine Learning Scientist, Foundational ML, AI for Biology & Translation (AIBT)](https://www.linkedin.com/jobs/view/4435811307/) — Genentech
 - 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Senior Data Engineer, Bioinformatics, Cheminformatics, Materials](https://www.linkedin.com/jobs/view/4462070206/) — Lila Sciences
+### [ML Scientist I / II, Foundation Models for Life Sciences](https://www.linkedin.com/jobs/view/4407826488/) — Lila Sciences
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-01
+- 🕒 **Posted:** 2026-09-02
 
-### [Software Engineer, Agent Platform](https://www.linkedin.com/jobs/view/4459287980/) — Netic
+### [Computational Biologist, Synthetic Spatial Omics](https://www.linkedin.com/jobs/view/4450109110/) — Biohub
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-01
+- 🕒 **Posted:** 2026-09-02
