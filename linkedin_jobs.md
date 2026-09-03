@@ -1,149 +1,89 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-03 00:33 UTC*
+*Last updated: 2026-09-03 04:58 UTC*
 
-**35 new role(s)** since last run · 35 total in last 1h
+**21 new role(s)** since last run · 21 total in last 1h
 
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4461364286/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
+### [Optics Inspection Analysis Software Developer](https://www.linkedin.com/jobs/view/4437887584/) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Systems Development Engineer, AWS Generative AI & ML Servers](https://www.linkedin.com/jobs/view/4462721021/) — Amazon Web Services (AWS)
-- 📍 **Location:** Cupertino, CA
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4456965847/) — Oklo Inc
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4462720080/) — Prime Video & Amazon MGM Studios
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4462745969/) — Hewlett Packard Enterprise
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Senior Computational Scientist](https://www.linkedin.com/jobs/view/4461366221/) — Twist Bioscience
-- 📍 **Location:** South San Francisco, CA
+### [Biostatistician 2](https://www.linkedin.com/jobs/view/4462060874/) — Stanford University
+- 📍 **Location:** Stanford, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Applied Systems Engineering Rotation Engineer - New College Graduate 2026](https://www.linkedin.com/jobs/view/4461364249/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Applied Scientist, LLM Code Agents, Kiro Science](https://www.linkedin.com/jobs/view/4462715103/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Solutions Architect, Generative AI Startups, AWS](https://www.linkedin.com/jobs/view/4462726009/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Systems Software Engineer, Containers and Kubernetes](https://www.linkedin.com/jobs/view/4461343987/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4460433191/) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4461362382/) — The Knowledge Company
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Research Software Engineer, Calibration, MQS Center for Quantum Computing](https://www.linkedin.com/jobs/view/4462715073/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [AI/ML Engineer Intern](https://www.linkedin.com/jobs/view/4461364208/) — Stealth Startup
+### [Manager 3, People Analytics (Research & Data Science)](https://www.linkedin.com/jobs/view/4462745990/) — Intuit
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Manager, Software Engineering - DGX Cloud](https://www.linkedin.com/jobs/view/4461346483/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Machine Learning Engineer II (Intern) - United States](https://www.linkedin.com/jobs/view/4462748742/) — Cisco
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Generative AI & ML Servers](https://www.linkedin.com/jobs/view/4462713090/) — Amazon Web Services (AWS)
-- 📍 **Location:** Cupertino, CA
+### [Machine Learning Engineer II (Intern) - United States](https://www.linkedin.com/jobs/view/4462758633/) — Cisco
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Cybersecurity Software Engineer - New Grad (December 2027)](https://www.linkedin.com/jobs/view/4461364374/) — Applied Intuition
+### [Machine Learning Engineer II (Intern) - United States](https://www.linkedin.com/jobs/view/4462750752/) — Cisco
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [2026 Intern Conversion: 2027 FT Software Engineer II, Information Security](https://www.linkedin.com/jobs/view/4460456088/) — Walmart
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $130,000.00/yr - $158,000.00/yr
+- 💰 **Salary:** $104,000.00/yr - $202,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Senior Security Engineer - Detection and Response](https://www.linkedin.com/jobs/view/4462723212/) — Ecommerce Guide
+### [Software Engineer - Recent Grad](https://www.linkedin.com/jobs/view/4462747981/) — Kikoff
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4461361435/) — Jobright.ai
-- 📍 **Location:** San Carlos, CA
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4462749697/) — Cisco
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Applied Scientist , Sponsored Products](https://www.linkedin.com/jobs/view/4462720076/) — Amazon
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4460421212/) — CoreWeave
-- 📍 **Location:** Livingston, NJ
-- 🕒 **Posted:** 2026-09-02
-
-### [Software Engineer II (Android + WWAN + AI)](https://www.linkedin.com/jobs/view/4460424365/) — Zebra Technologies
-- 📍 **Location:** Holtsville, NY
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Engineer, Build and DevOps - ADI](https://www.linkedin.com/jobs/view/4461366182/) — NVIDIA
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Applied Scientist, Sponsored Products and Brands](https://www.linkedin.com/jobs/view/4462720065/) — Amazon
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-02
-
-### [Software Developer](https://www.linkedin.com/jobs/view/4444497639/) — Azenta Life Sciences
-- 📍 **Location:** South Plainfield, NJ
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Manager, Software Engineering](https://www.linkedin.com/jobs/view/4460422226/) — Zebra Technologies
-- 📍 **Location:** Holtsville, NY
-- 🕒 **Posted:** 2026-09-02
-
-### [VPII, Software Engineering Manager - Digital Experience (web/mobile)](https://www.linkedin.com/jobs/view/4462716354/) — LPL Financial
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-02
-
-### [Data Scientist II - Big Data R&D, Identity Graph & Deceased Monitoring](https://www.linkedin.com/jobs/view/4462489907/) — Socure
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-09-02
-
-### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4461365160/) — Jobright.ai
+### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4462754736/) — Cisco
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Site Reliability Engineer-Sunnyvale](https://www.linkedin.com/jobs/view/4460439106/) — Alibaba Cloud
-- 📍 **Location:** Sunnyvale, CA
+### [Sr Software Engineer--Routing Platform & Infrastructure](https://www.linkedin.com/jobs/view/4462745792/) — Cisco
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Senior Software Engineer - Cloud Security](https://www.linkedin.com/jobs/view/4462703371/) — Snowflake
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $200,000.00/yr - $287,500.00/yr
-- 🕒 **Posted:** 2026-09-02
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4462496490/) — Valar Labs
+### [Security Engineer](https://www.linkedin.com/jobs/view/4462769012/) — PIP Labs
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4461364188/) — Jobright.ai
-- 📍 **Location:** Burlingame, CA
+### [Systems Engineer](https://www.linkedin.com/jobs/view/4449259499/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Data Scientist II - Big Data R&D, Identity Graph & Deceased Monitoring](https://www.linkedin.com/jobs/view/4462490896/) — Socure
+### [Senior Security Engineer - Enterprise Security Engineering](https://www.linkedin.com/jobs/view/4462737848/) — Aurora
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Senior Security Engineer - Enterprise Security Engineering](https://www.linkedin.com/jobs/view/4462742845/) — Aurora
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Senior Manager, Artificial Intelligence Data Engineer](https://www.linkedin.com/jobs/view/4462758798/) — BioSpace
+- 📍 **Location:** Tarrytown, NY
+- 🕒 **Posted:** 2026-09-02
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4460533401/) — Capgemini
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Associate, Data Science](https://www.linkedin.com/jobs/view/4460437095/) — Horizon Media
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4462493664/) — Goliath Partners
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Mobile Engineer](https://www.linkedin.com/jobs/view/4461351321/) — American Express
+### [Senior Site Reliability Engineer](https://www.linkedin.com/jobs/view/4461381956/) — Garner Health
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $123,000.00/yr - $215,250.00/yr
+- 🕒 **Posted:** 2026-09-02
+
+### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4462754735/) — Cisco
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-02
