@@ -1,237 +1,1255 @@
 {
-  "scraped_at": "2026-09-04 05:00 UTC",
-  "total": 14,
-  "new_count": 14,
+  "scraped_at": "2026-09-04 18:34 UTC",
+  "total": 77,
+  "new_count": 77,
   "jobs": [
     {
-      "company": "Adobe",
+      "company": "Lyft",
       "title": "Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461115401/",
-      "date_posted": "2026-09-03",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463615189/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Dex",
-      "title": "Software Engineer (up to $250k)",
+      "company": "Parafin",
+      "title": "Senior Software Engineer, ML Platform",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463198214/",
-      "date_posted": "2026-09-03",
+      "url": "https://www.linkedin.com/jobs/view/4411235224/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Discord",
-      "title": "Software Engineer, Distributed Systems",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4424262692/",
-      "date_posted": "2026-09-03",
-      "ats": "LinkedIn"
+      "company": "talentpluto",
+      "title": "RL Environment Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463614097/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $400,000.00/yr"
     },
     {
-      "company": "Blue Origin",
-      "title": "Simulation Software Engineer, RF & DSP - Terawave",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4461112669/",
-      "date_posted": "2026-09-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Adobe",
-      "title": "Lead Data Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461108581/",
-      "date_posted": "2026-09-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Visalytics",
-      "title": "Senior Software Engineer - SRE & AIOps",
+      "company": "Centraprise",
+      "title": "AI/ML Engineer",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461107604/",
-      "date_posted": "2026-09-03",
+      "url": "https://www.linkedin.com/jobs/view/4460995675/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "NetApp",
-      "title": "Software Engineer - ANF (Azure NetApp Files)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461106547/",
-      "date_posted": "2026-09-03",
+      "company": "Scale AI",
+      "title": "Software Engineer - New Grad",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4463615188/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Float Health",
-      "title": "Senior Software Engineer",
+      "company": "Parafin",
+      "title": "Data Scientist, Underwriting",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463183590/",
-      "date_posted": "2026-09-03",
+      "url": "https://www.linkedin.com/jobs/view/4411231710/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "NetApp",
-      "title": "Backend Software Engineer (Cloud API & Microservices development)",
+      "company": "Parafin",
+      "title": "Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419566276/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, Low Latency Physical AI Sensor Systems",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4435295085/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Parafin",
+      "title": "Senior Software Engineer, Data Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411232675/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Software Engineer, Neural Graphics Developer Tools",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4444039930/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Systems Engineer, L3 and L4 - Autonomous Driving",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395488152/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Systems Software Engineer - GPU Performance at Scale",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395471725/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Marketing Data Scientist",
+      "location": "San Carlos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462306210/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Clipboard",
+      "title": "Applied Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462316156/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Physics AI Scientist III",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451250240/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Credo",
+      "title": "Senior Software Engineer",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460798635/",
-      "date_posted": "2026-09-03",
+      "url": "https://www.linkedin.com/jobs/view/4449315122/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn",
+      "salary": "$150,000.00/yr - $175,000.00/yr"
+    },
+    {
+      "company": "Premier Staffing Solution",
+      "title": "Senior Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463398788/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn",
+      "salary": "$56.23/hr - $74.37/hr"
+    },
+    {
+      "company": "Tesla",
+      "title": "Internship, Audio & Sensor Software Engineer, Vehicle Engineering (Winter/Spring 2027)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463610144/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Cisco",
-      "title": "Software Engineering Technical Leader",
+      "company": "Snap Inc.",
+      "title": "Manager, Machine Learning Engineering, Web Ads Ranking",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4435336859/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Applied Research Engineer, Chip Design",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4444055052/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Software Engineer II \u2013 AI Engineer (w/ skills in AI Data Privacy, Security & Governance Specialty)",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4438637898/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Systems Engineer, Platform & Integration IV (E4)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451246330/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Genentech",
+      "title": "Senior Software Engineer, Research Biology",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398007920/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer - Image and Data Processing Libraries",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453276581/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Data Engineer III",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4438653314/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Cloud Site Reliability Engineer - DCS Cloud",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463181402/",
-      "date_posted": "2026-09-03",
+      "url": "https://www.linkedin.com/jobs/view/4462307416/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "BioSpace",
-      "title": "Data Scientist II - Advanced Analytics",
-      "location": "Plainsboro, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4463301247/",
-      "date_posted": "2026-09-03",
+      "company": "NVIDIA",
+      "title": "Senior Site Reliability Engineer, AIOPs",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406249232/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Siemens",
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, AI Inference Systems",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395478314/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Parafin",
+      "title": "Data Analytics Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441627827/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Software Engineer, TikTok LIVE - Foundation - Governance",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462307397/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, Networking Tools Team",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395482276/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SnapLogic",
+      "title": "Senior Software Engineer, Platform",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422760932/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn",
+      "salary": "$160,000.00/yr - $180,000.00/yr"
+    },
+    {
+      "company": "Snap Inc.",
+      "title": "Software Engineer, iOS, Level 4",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4436476645/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Parafin",
+      "title": "Senior Software Engineer, Merchant Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447076156/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Platform Engineer, Workday (Workday Studio)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4444972243/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Platform Engineer, Workday (Workday Studio)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4444963535/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, Networking",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453259684/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Stripe",
+      "title": "Backend Engineer, Core Technology",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454540425/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, AI Networking",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395487171/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Parafin",
+      "title": "Senior Software Engineer, Lending Products",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461517603/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Systems Software Engineer - Autonomous Vehicles",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395471447/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, CUDA Rust Core Libraries",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4444059035/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior System Software Engineer - Video",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406244302/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4463620080/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Wise Skulls",
       "title": "Software Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463181588/",
-      "date_posted": "2026-09-03",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461401007/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Camber",
-      "title": "Senior Platform Software Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463183445/",
-      "date_posted": "2026-09-03",
-      "ats": "LinkedIn",
-      "salary": "$180,000.00/yr - $230,000.00/yr"
+      "company": "NVIDIA",
+      "title": "Senior Solutions Architect, Generative AI Deployment and AIOps",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395922259/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
     },
     {
-      "company": "Clear Point Group",
-      "title": "Treasury Software Engineer",
-      "location": "Paramus, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4463185499/",
-      "date_posted": "2026-09-03",
+      "company": "Stripe",
+      "title": "Android Engineer, Terminal OS Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454546363/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, Security",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415733641/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ektello",
+      "title": "Senior Security Engineer, Threat Detection and Response",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4436361736/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Red Oak Technologies",
+      "title": "Lead Cybersecurity Engineer (Biotech) (FDA)",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448580961/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Data Engineering (Short Term)",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462319033/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Sales Systems Engineer, Enterprise Operations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415760475/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn",
-      "salary": "$130,000.00/yr - $180,000.00/yr"
+      "salary": "$200,000.00/yr - $230,000.00/yr"
+    },
+    {
+      "company": "Oath Biome",
+      "title": "Bioinformatics Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463611404/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Deep Learning Framework Communications Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395468920/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Deep Learning Kernel Software Performance Architect",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395490125/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lyft",
+      "title": "Machine Learning Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4463603461/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Machine Learning Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454543045/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Bloomberg",
+      "title": "Senior Software Engineer - Artificial Intelligence",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4450471082/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn",
+      "salary": "$160,000.00/yr - $240,000.00/yr"
+    },
+    {
+      "company": "Spotify",
+      "title": "Senior Software Engineer - Enterprise AI",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454319276/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jefferies",
+      "title": "Data Scientist / Biostatistician",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4463608270/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Trinity Technology Solutions LLC",
+      "title": "Data Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4463617109/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Associate, Data Scientist -  Commercial Bank Strategy & Analytics",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4443443142/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Data Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454548024/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Manager, Data Science - Emerging ML",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4435801806/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Luxoft",
+      "title": "Data Platform Engineer (Databricks REQUIRED)",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4463622120/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cadence",
+      "title": "Senior Software Engineer, Security Infrastructure",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4463107277/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Software Engineer, Back End",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4444968366/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Bloomberg",
+      "title": "Senior Software Engineer - Real-time Data",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4416789821/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn",
+      "salary": "$160,000.00/yr - $240,000.00/yr"
+    },
+    {
+      "company": "Oliver James",
+      "title": "Senior Software Engineer - Mainframe & AWS Integration",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4461997380/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Luxoft",
+      "title": "Senior Java Software Engineer",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4463604278/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Garmin",
+      "title": "Software Engineer Intern - Aviation Web Development",
+      "location": "Middlebury, CT",
+      "url": "https://www.linkedin.com/jobs/view/4463603697/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Millennium",
+      "title": "Cloud Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4443178304/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Wolters Kluwer",
+      "title": "Senior Cloud Security Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4394733685/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior VLSI CAD Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4395483226/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "World Wide Technology",
+      "title": "Vertical Systems Engineer (Presales Architecture) - Global Accounts",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4444048361/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anuvu",
+      "title": "Systems Engineer \u2013 Broadcast/IP/Cloud/Zixi/MCR",
+      "location": "Holmdel, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4350248170/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "L3Harris Technologies",
+      "title": "Electronic Warfare Specialist, Systems Engineer",
+      "location": "Clifton, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4444947603/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Adobe",
+      "company": "Lyft",
       "title": "Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461115401/",
-      "date_posted": "2026-09-03",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463615189/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Dex",
-      "title": "Software Engineer (up to $250k)",
+      "company": "Parafin",
+      "title": "Senior Software Engineer, ML Platform",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463198214/",
-      "date_posted": "2026-09-03",
+      "url": "https://www.linkedin.com/jobs/view/4411235224/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Discord",
-      "title": "Software Engineer, Distributed Systems",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4424262692/",
-      "date_posted": "2026-09-03",
-      "ats": "LinkedIn"
+      "company": "talentpluto",
+      "title": "RL Environment Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463614097/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $400,000.00/yr"
     },
     {
-      "company": "Blue Origin",
-      "title": "Simulation Software Engineer, RF & DSP - Terawave",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4461112669/",
-      "date_posted": "2026-09-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Adobe",
-      "title": "Lead Data Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461108581/",
-      "date_posted": "2026-09-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Visalytics",
-      "title": "Senior Software Engineer - SRE & AIOps",
+      "company": "Centraprise",
+      "title": "AI/ML Engineer",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461107604/",
-      "date_posted": "2026-09-03",
+      "url": "https://www.linkedin.com/jobs/view/4460995675/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "NetApp",
-      "title": "Software Engineer - ANF (Azure NetApp Files)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461106547/",
-      "date_posted": "2026-09-03",
+      "company": "Scale AI",
+      "title": "Software Engineer - New Grad",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4463615188/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Float Health",
-      "title": "Senior Software Engineer",
+      "company": "Parafin",
+      "title": "Data Scientist, Underwriting",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463183590/",
-      "date_posted": "2026-09-03",
+      "url": "https://www.linkedin.com/jobs/view/4411231710/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "NetApp",
-      "title": "Backend Software Engineer (Cloud API & Microservices development)",
+      "company": "Parafin",
+      "title": "Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419566276/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, Low Latency Physical AI Sensor Systems",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4435295085/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Parafin",
+      "title": "Senior Software Engineer, Data Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411232675/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Software Engineer, Neural Graphics Developer Tools",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4444039930/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Systems Engineer, L3 and L4 - Autonomous Driving",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395488152/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Systems Software Engineer - GPU Performance at Scale",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395471725/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Marketing Data Scientist",
+      "location": "San Carlos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462306210/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Clipboard",
+      "title": "Applied Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462316156/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Physics AI Scientist III",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451250240/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Credo",
+      "title": "Senior Software Engineer",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460798635/",
-      "date_posted": "2026-09-03",
+      "url": "https://www.linkedin.com/jobs/view/4449315122/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn",
+      "salary": "$150,000.00/yr - $175,000.00/yr"
+    },
+    {
+      "company": "Premier Staffing Solution",
+      "title": "Senior Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463398788/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn",
+      "salary": "$56.23/hr - $74.37/hr"
+    },
+    {
+      "company": "Tesla",
+      "title": "Internship, Audio & Sensor Software Engineer, Vehicle Engineering (Winter/Spring 2027)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463610144/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Cisco",
-      "title": "Software Engineering Technical Leader",
+      "company": "Snap Inc.",
+      "title": "Manager, Machine Learning Engineering, Web Ads Ranking",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4435336859/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Applied Research Engineer, Chip Design",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4444055052/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Software Engineer II \u2013 AI Engineer (w/ skills in AI Data Privacy, Security & Governance Specialty)",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4438637898/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Systems Engineer, Platform & Integration IV (E4)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451246330/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Genentech",
+      "title": "Senior Software Engineer, Research Biology",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398007920/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer - Image and Data Processing Libraries",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453276581/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Data Engineer III",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4438653314/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Cloud Site Reliability Engineer - DCS Cloud",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463181402/",
-      "date_posted": "2026-09-03",
+      "url": "https://www.linkedin.com/jobs/view/4462307416/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "BioSpace",
-      "title": "Data Scientist II - Advanced Analytics",
-      "location": "Plainsboro, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4463301247/",
-      "date_posted": "2026-09-03",
+      "company": "NVIDIA",
+      "title": "Senior Site Reliability Engineer, AIOPs",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406249232/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Siemens",
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, AI Inference Systems",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395478314/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Parafin",
+      "title": "Data Analytics Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441627827/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Software Engineer, TikTok LIVE - Foundation - Governance",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462307397/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, Networking Tools Team",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395482276/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SnapLogic",
+      "title": "Senior Software Engineer, Platform",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422760932/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn",
+      "salary": "$160,000.00/yr - $180,000.00/yr"
+    },
+    {
+      "company": "Snap Inc.",
+      "title": "Software Engineer, iOS, Level 4",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4436476645/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Parafin",
+      "title": "Senior Software Engineer, Merchant Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447076156/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Platform Engineer, Workday (Workday Studio)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4444972243/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Platform Engineer, Workday (Workday Studio)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4444963535/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, Networking",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453259684/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Stripe",
+      "title": "Backend Engineer, Core Technology",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454540425/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, AI Networking",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395487171/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Parafin",
+      "title": "Senior Software Engineer, Lending Products",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461517603/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Systems Software Engineer - Autonomous Vehicles",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395471447/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, CUDA Rust Core Libraries",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4444059035/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior System Software Engineer - Video",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406244302/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4463620080/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Wise Skulls",
       "title": "Software Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463181588/",
-      "date_posted": "2026-09-03",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461401007/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Camber",
-      "title": "Senior Platform Software Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463183445/",
-      "date_posted": "2026-09-03",
-      "ats": "LinkedIn",
-      "salary": "$180,000.00/yr - $230,000.00/yr"
+      "company": "NVIDIA",
+      "title": "Senior Solutions Architect, Generative AI Deployment and AIOps",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395922259/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
     },
     {
-      "company": "Clear Point Group",
-      "title": "Treasury Software Engineer",
-      "location": "Paramus, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4463185499/",
-      "date_posted": "2026-09-03",
+      "company": "Stripe",
+      "title": "Android Engineer, Terminal OS Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454546363/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, Security",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415733641/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ektello",
+      "title": "Senior Security Engineer, Threat Detection and Response",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4436361736/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Red Oak Technologies",
+      "title": "Lead Cybersecurity Engineer (Biotech) (FDA)",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448580961/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Data Engineering (Short Term)",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462319033/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Sales Systems Engineer, Enterprise Operations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415760475/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn",
-      "salary": "$130,000.00/yr - $180,000.00/yr"
+      "salary": "$200,000.00/yr - $230,000.00/yr"
+    },
+    {
+      "company": "Oath Biome",
+      "title": "Bioinformatics Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463611404/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Deep Learning Framework Communications Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395468920/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Deep Learning Kernel Software Performance Architect",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395490125/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lyft",
+      "title": "Machine Learning Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4463603461/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Machine Learning Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454543045/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Bloomberg",
+      "title": "Senior Software Engineer - Artificial Intelligence",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4450471082/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn",
+      "salary": "$160,000.00/yr - $240,000.00/yr"
+    },
+    {
+      "company": "Spotify",
+      "title": "Senior Software Engineer - Enterprise AI",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454319276/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jefferies",
+      "title": "Data Scientist / Biostatistician",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4463608270/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Trinity Technology Solutions LLC",
+      "title": "Data Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4463617109/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Associate, Data Scientist -  Commercial Bank Strategy & Analytics",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4443443142/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Data Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4454548024/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Manager, Data Science - Emerging ML",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4435801806/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Luxoft",
+      "title": "Data Platform Engineer (Databricks REQUIRED)",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4463622120/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cadence",
+      "title": "Senior Software Engineer, Security Infrastructure",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4463107277/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Software Engineer, Back End",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4444968366/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Bloomberg",
+      "title": "Senior Software Engineer - Real-time Data",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4416789821/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn",
+      "salary": "$160,000.00/yr - $240,000.00/yr"
+    },
+    {
+      "company": "Oliver James",
+      "title": "Senior Software Engineer - Mainframe & AWS Integration",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4461997380/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Luxoft",
+      "title": "Senior Java Software Engineer",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4463604278/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Garmin",
+      "title": "Software Engineer Intern - Aviation Web Development",
+      "location": "Middlebury, CT",
+      "url": "https://www.linkedin.com/jobs/view/4463603697/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Millennium",
+      "title": "Cloud Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4443178304/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Wolters Kluwer",
+      "title": "Senior Cloud Security Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4394733685/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior VLSI CAD Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4395483226/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "World Wide Technology",
+      "title": "Vertical Systems Engineer (Presales Architecture) - Global Accounts",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4444048361/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anuvu",
+      "title": "Systems Engineer \u2013 Broadcast/IP/Cloud/Zixi/MCR",
+      "location": "Holmdel, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4350248170/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "L3Harris Technologies",
+      "title": "Electronic Warfare Specialist, Systems Engineer",
+      "location": "Clifton, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4444947603/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
     }
   ]
 }
