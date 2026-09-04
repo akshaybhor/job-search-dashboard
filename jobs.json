@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-03 08:10 UTC",
-  "total": 150,
-  "new_count": 8,
+  "scraped_at": "2026-09-04 08:04 UTC",
+  "total": 154,
+  "new_count": 14,
   "jobs": [
     {
       "company": "Twist Bioscience",
@@ -46,9 +46,17 @@
     {
       "company": "Natera",
       "title": "Lead Bioinformatician (cfDNA Algorithms and Pipelines)",
-      "location": "San Carlos, CA",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6139254004",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6138807004",
       "date_posted": "2026-08-31",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Natera",
+      "title": "Machine Learning Scientist, Multimodal AI ",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6004385004",
+      "date_posted": "2026-09-03",
       "ats": "Greenhouse"
     },
     {
@@ -61,9 +69,17 @@
     },
     {
       "company": "Natera",
+      "title": "Senior Bioinformatics Scientist",
+      "location": "San Carlos, CA",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6093622004",
+      "date_posted": "2026-09-03",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Natera",
       "title": "Senior Manager of DevOps (Data Science Production Engineering)",
-      "location": "US Remote",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6137673004",
+      "location": "San Carlos, CA",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6148527004",
       "date_posted": "2026-09-01",
       "ats": "Greenhouse"
     },
@@ -89,14 +105,6 @@
       "location": "San Carlos, CA",
       "url": "https://job-boards.greenhouse.io/natera/jobs/5993307004",
       "date_posted": "2026-09-02",
-      "ats": "Greenhouse"
-    },
-    {
-      "company": "Profluent",
-      "title": "Lead Bioinformatics Scientist, NGS",
-      "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
-      "url": "https://job-boards.greenhouse.io/profluent/jobs/4983485008",
-      "date_posted": "2026-09-01",
       "ats": "Greenhouse"
     },
     {
@@ -136,14 +144,6 @@
       "title": "Senior Software Engineer, Data Platform",
       "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
       "url": "https://job-boards.greenhouse.io/profluent/jobs/5210793008",
-      "date_posted": "2026-09-01",
-      "ats": "Greenhouse"
-    },
-    {
-      "company": "Profluent",
-      "title": "Software Engineering Manager, Lab Informatics Platform",
-      "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
-      "url": "https://job-boards.greenhouse.io/profluent/jobs/4905081008",
       "date_posted": "2026-09-01",
       "ats": "Greenhouse"
     },
@@ -190,8 +190,8 @@
     {
       "company": "Chan Zuckerberg Biohub",
       "title": "Research Engineer, AI",
-      "location": "New York, NY (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/biohub/jobs/7747517",
+      "location": "Redwood City, CA (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/7793665",
       "date_posted": "2026-08-28",
       "ats": "Greenhouse"
     },
@@ -253,6 +253,14 @@
     },
     {
       "company": "Xaira Therapeutics",
+      "title": "Lab Software Engineer",
+      "location": "South San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5230698007",
+      "date_posted": "2026-09-03",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Xaira Therapeutics",
       "title": "Senior Software Engineer, ML Platform",
       "location": "Seattle, Washington, United States",
       "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5162274007",
@@ -265,6 +273,14 @@
       "location": "South San Francisco, California, United States",
       "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5161853007",
       "date_posted": "2026-08-17",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Isomorphic Labs",
+      "title": "Research Leader (DMPK), Cambridge, MA",
+      "location": "Cambridge, MA",
+      "url": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/6140840004",
+      "date_posted": "2026-09-03",
       "ats": "Greenhouse"
     },
     {
@@ -294,9 +310,9 @@
     {
       "company": "Formation Bio",
       "title": "Senior Software Engineer II, Trial Engine",
-      "location": "New York, NY; Boston, MA",
+      "location": "New York, NY; Boston, MA; San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/formationbio/jobs/8167853",
-      "date_posted": "2026-08-31",
+      "date_posted": "2026-09-03",
       "ats": "Greenhouse"
     },
     {
@@ -360,15 +376,15 @@
       "title": "Senior Manager, Machine Learning Platform Engineer",
       "location": "United States - California - Foster City",
       "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Senior-Manager--Machine-Learning-Platform-Engineer_R0054104-2",
-      "date_posted": "Posted 24 Days Ago",
+      "date_posted": "Posted 25 Days Ago",
       "ats": "Workday"
     },
     {
       "company": "Gilead Sciences",
-      "title": "Sr Analyst, Data Scientist",
+      "title": "Computational Pathology Scientist",
       "location": "United States - California - Foster City",
-      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Analyst--Data-Scientist_R0054725-1",
-      "date_posted": "Posted 7 Days Ago",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Computational-Pathology-Scientist_R0054995-2",
+      "date_posted": "Posted Yesterday",
       "ats": "Workday"
     },
     {
@@ -376,7 +392,7 @@
       "title": "Sr Manager, Data Scientist, Technical Developoment",
       "location": "United States - California - Foster City",
       "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Manager--Data-Scientist--Technical-Developoment_R0054787-2",
-      "date_posted": "Posted 7 Days Ago",
+      "date_posted": "Posted 8 Days Ago",
       "ats": "Workday"
     },
     {
@@ -384,7 +400,7 @@
       "title": "Clinical Data Scientist -RWE Data Analysis Oversight Lead: Inflammation",
       "location": "United States - California - Foster City",
       "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---New-Jersey---Parsippany/Clinical-Data-Scientist--RWE-Data-Analysis-Oversight-Lead--Inflammation_R0054188-2",
-      "date_posted": "Posted 9 Days Ago",
+      "date_posted": "Posted 10 Days Ago",
       "ats": "Workday"
     },
     {
@@ -392,7 +408,7 @@
       "title": "Sr Scientist, Drug Metabolism",
       "location": "United States - California - Foster City",
       "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Scientist--Drug-Metabolism_R0052430-1",
-      "date_posted": "Posted 27 Days Ago",
+      "date_posted": "Posted 28 Days Ago",
       "ats": "Workday"
     },
     {
@@ -400,7 +416,7 @@
       "title": "Sr Manager, IT Data Engineering",
       "location": "United States - North Carolina - Raleigh",
       "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Sr-Manager--IT-Data-Engineering_R0054145-1",
-      "date_posted": "Posted 17 Days Ago",
+      "date_posted": "Posted 18 Days Ago",
       "ats": "Workday"
     },
     {
@@ -448,7 +464,7 @@
       "title": "Data Scientist - Workflow Automation",
       "location": "NY office",
       "url": "https://flatiron.com/careers/open-positions/job?gh_jid=8027593",
-      "date_posted": "2026-08-17",
+      "date_posted": "2026-09-03",
       "ats": "Greenhouse"
     },
     {
@@ -541,18 +557,10 @@
     },
     {
       "company": "Amgen",
-      "title": "Senior Machine Learning Engineer",
-      "location": "United States - Remote",
-      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Senior-Machine-Learning-Engineer_R-253246",
-      "date_posted": "Posted 7 Days Ago",
-      "ats": "Workday"
-    },
-    {
-      "company": "Amgen",
       "title": "Machine Learning Engineer, AI Studio",
       "location": "United States - Remote",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Machine-Learning-Engineer--AI-Studio_R-250796",
-      "date_posted": "Posted 10 Days Ago",
+      "date_posted": "Posted 11 Days Ago",
       "ats": "Workday"
     },
     {
@@ -560,7 +568,7 @@
       "title": "Enterprise Generative AI Platform Engineer",
       "location": "United States - Remote",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Enterprise-Generative-AI-Platform-Engineer_R-250809",
-      "date_posted": "Posted 28 Days Ago",
+      "date_posted": "Posted 29 Days Ago",
       "ats": "Workday"
     },
     {
@@ -568,7 +576,15 @@
       "title": "Data Scientist",
       "location": "United States - Remote",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Data-Scientist_R-246583",
-      "date_posted": "Posted 21 Days Ago",
+      "date_posted": "Posted 22 Days Ago",
+      "ats": "Workday"
+    },
+    {
+      "company": "Amgen",
+      "title": "Sr Data Scientist",
+      "location": "US - California - Los Angeles",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Los-Angeles/Sr-Data-Scientist_R-250525",
+      "date_posted": "Posted Yesterday",
       "ats": "Workday"
     },
     {
@@ -592,7 +608,7 @@
       "title": "Data Scientist",
       "location": "Cambridge, Massachusetts",
       "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19572",
-      "date_posted": "Posted 15 Days Ago",
+      "date_posted": "Posted 16 Days Ago",
       "ats": "Workday"
     },
     {
@@ -632,7 +648,7 @@
       "title": "Senior Data Engineer \u2014 Translational Data Products",
       "location": "Cambridge - MA - US",
       "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Tampa---FL---US/Senior-Data-Engineer---Translational-Data-Products_R1605529",
-      "date_posted": "Posted 9 Days Ago",
+      "date_posted": "Posted 10 Days Ago",
       "ats": "Workday"
     },
     {
@@ -753,6 +769,14 @@
       "location": "Boston Office",
       "url": "https://jobs.ashbyhq.com/iambic-therapeutics/50be2fab-54c1-4310-8cec-3fe6123b8a8f",
       "date_posted": "2026-08-27",
+      "ats": "Ashby"
+    },
+    {
+      "company": "Iambic Therapeutics",
+      "title": "Software Engineer \u2014 Agentic data pipelines",
+      "location": "Remote - US",
+      "url": "https://jobs.ashbyhq.com/iambic-therapeutics/ed5c9548-a170-4a73-ade7-2f710d009fac",
+      "date_posted": "2026-09-03",
       "ats": "Ashby"
     },
     {
@@ -1116,6 +1140,14 @@
       "ats": "Custom"
     },
     {
+      "company": "Kardigan",
+      "title": "Scientist, Drug Metabolism and Pharmacokinetics (DMPK)",
+      "location": "South San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/kardigan/jobs/5409487008",
+      "date_posted": "2026-09-03",
+      "ats": "Greenhouse"
+    },
+    {
       "company": "Mammoth Biosciences",
       "title": "Senior Software Engineer I, Research Informatics",
       "location": "Brisbane, CA",
@@ -1180,93 +1212,141 @@
       "ats": "Custom"
     },
     {
-      "company": "Genentech",
-      "title": "Senior Machine Learning Scientist, Foundational ML, AI for Biology & Translation (AIBT)",
+      "company": "Allogene Therapeutics",
+      "title": "Sr. Associate Scientist, Drug Substance-Data Science (Contract)",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4435811307/",
-      "date_posted": "2026-09-02",
+      "url": "https://www.linkedin.com/jobs/view/4444787035/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Lila Sciences",
-      "title": "ML Scientist I / II, Foundation Models for Life Sciences",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407826488/",
-      "date_posted": "2026-09-02",
+      "company": "Genentech",
+      "title": "Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398016570/",
+      "date_posted": "2026-09-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Biohub",
-      "title": "Computational Biologist, Synthetic Spatial Omics",
+      "title": "Research Scientist, AI",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4450109110/",
-      "date_posted": "2026-09-02",
+      "url": "https://www.linkedin.com/jobs/view/4398460855/",
+      "date_posted": "2026-09-03",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Twist Bioscience",
-      "title": "Senior Computational Scientist",
-      "location": "USA - South San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/twistbioscience/jobs/8167799",
-      "date_posted": "2026-09-02",
-      "ats": "Greenhouse"
-    },
-    {
       "company": "Natera",
       "title": "Lead Bioinformatician (cfDNA Algorithms and Pipelines)",
-      "location": "San Carlos, CA",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6139254004",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6138807004",
       "date_posted": "2026-08-31",
       "ats": "Greenhouse"
     },
     {
       "company": "Natera",
-      "title": "Senior Manager of DevOps (Data Science Production Engineering)",
+      "title": "Machine Learning Scientist, Multimodal AI ",
       "location": "US Remote",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6137673004",
-      "date_posted": "2026-09-01",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6004385004",
+      "date_posted": "2026-09-03",
       "ats": "Greenhouse"
     },
     {
       "company": "Natera",
-      "title": "Software Engineer, Full Stack",
+      "title": "Senior Bioinformatics Scientist",
       "location": "San Carlos, CA",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/5993307004",
-      "date_posted": "2026-09-02",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6093622004",
+      "date_posted": "2026-09-03",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Natera",
+      "title": "Senior Manager of DevOps (Data Science Production Engineering)",
+      "location": "San Carlos, CA",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6148527004",
+      "date_posted": "2026-09-01",
       "ats": "Greenhouse"
     },
     {
       "company": "Chan Zuckerberg Biohub",
       "title": "Research Engineer, AI",
-      "location": "New York, NY (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/biohub/jobs/7747517",
+      "location": "Redwood City, CA (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/7793665",
       "date_posted": "2026-08-28",
       "ats": "Greenhouse"
     },
     {
-      "company": "Genentech",
-      "title": "Senior Machine Learning Scientist, Foundational ML, AI for Biology & Translation (AIBT)",
+      "company": "Xaira Therapeutics",
+      "title": "Lab Software Engineer",
+      "location": "South San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5230698007",
+      "date_posted": "2026-09-03",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Isomorphic Labs",
+      "title": "Research Leader (DMPK), Cambridge, MA",
+      "location": "Cambridge, MA",
+      "url": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/6140840004",
+      "date_posted": "2026-09-03",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Computational Pathology Scientist",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Computational-Pathology-Scientist_R0054995-2",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday"
+    },
+    {
+      "company": "Amgen",
+      "title": "Sr Data Scientist",
+      "location": "US - California - Los Angeles",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Los-Angeles/Sr-Data-Scientist_R-250525",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday"
+    },
+    {
+      "company": "Iambic Therapeutics",
+      "title": "Software Engineer \u2014 Agentic data pipelines",
+      "location": "Remote - US",
+      "url": "https://jobs.ashbyhq.com/iambic-therapeutics/ed5c9548-a170-4a73-ade7-2f710d009fac",
+      "date_posted": "2026-09-03",
+      "ats": "Ashby"
+    },
+    {
+      "company": "Kardigan",
+      "title": "Scientist, Drug Metabolism and Pharmacokinetics (DMPK)",
+      "location": "South San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/kardigan/jobs/5409487008",
+      "date_posted": "2026-09-03",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Allogene Therapeutics",
+      "title": "Sr. Associate Scientist, Drug Substance-Data Science (Contract)",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4435811307/",
-      "date_posted": "2026-09-02",
+      "url": "https://www.linkedin.com/jobs/view/4444787035/",
+      "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Lila Sciences",
-      "title": "ML Scientist I / II, Foundation Models for Life Sciences",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407826488/",
-      "date_posted": "2026-09-02",
+      "company": "Genentech",
+      "title": "Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398016570/",
+      "date_posted": "2026-09-03",
       "ats": "LinkedIn"
     },
     {
       "company": "Biohub",
-      "title": "Computational Biologist, Synthetic Spatial Omics",
+      "title": "Research Scientist, AI",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4450109110/",
-      "date_posted": "2026-09-02",
+      "url": "https://www.linkedin.com/jobs/view/4398460855/",
+      "date_posted": "2026-09-03",
       "ats": "LinkedIn"
     }
   ]
