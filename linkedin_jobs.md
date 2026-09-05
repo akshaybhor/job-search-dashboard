@@ -1,108 +1,49 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-05 01:19 UTC*
+*Last updated: 2026-09-05 06:14 UTC*
 
-**26 new role(s)** since last run · 26 total in last 1h
+**11 new role(s)** since last run · 11 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4462344798/) — CapitalG
+### [Senior Software Engineer, ML Workflows - Weights & Biases](https://www.linkedin.com/jobs/view/4462355688/) — Weights & Biases
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4463361316/) — Gap Inc.
+### [Software Engineer Intern, BCI Applications](https://www.linkedin.com/jobs/view/4462369488/) — Neuralink
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Software Engineer Intern, BCI Applications](https://www.linkedin.com/jobs/view/4462368531/) — Neuralink
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Applied Scientist II, ASCS AI Lab Team](https://www.linkedin.com/jobs/view/4463661811/) — Amazon Web Services (AWS)
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4462355650/) — Complication
+- 📍 **Location:** Berkeley, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4462344797/) — CapitalG
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4462327928/) — Jobright.ai
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Software Engineer, E-Commerce AI Platform](https://www.linkedin.com/jobs/view/4463678122/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Senior Software Engineer, E-Commerce AI Platform - USDS](https://www.linkedin.com/jobs/view/4463672428/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Software Engineer II, Backend (Post-Transaction)](https://www.linkedin.com/jobs/view/4462339815/) — Affirm
+### [Senior Software Engineer, Infrastructure Operations - Weights & Biases](https://www.linkedin.com/jobs/view/4461458286/) — Weights & Biases
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Software Engineer II, Backend (Post-Transaction)](https://www.linkedin.com/jobs/view/4462342785/) — Affirm
-- 📍 **Location:** San Jose, CA
+### [Sr. Site Reliability Engineer, Observability](https://www.linkedin.com/jobs/view/4463719419/) — Tesla
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Software Engineer II, Backend (Post-Transaction)](https://www.linkedin.com/jobs/view/4462337851/) — Affirm
+### [Software Engineer, Body Controls & Authentication Validation, Vehicle Software](https://www.linkedin.com/jobs/view/4463703737/) — Tesla
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Cloud Platform Engineer](https://www.linkedin.com/jobs/view/4462332893/) — Pacific Gas and Electric Company
-- 📍 **Location:** Oakland, CA
+### [Senior Software Engineer, Sharing](https://www.linkedin.com/jobs/view/4462330300/) — Roblox
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Systems Engineer - Database Platform](https://www.linkedin.com/jobs/view/4461411804/) — Cloudflare
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Security Engineer](https://www.linkedin.com/jobs/view/4463665680/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Junior Generative AI Engineer](https://www.linkedin.com/jobs/view/4463682433/) — Cleary Gottlieb Steen & Hamilton LLP
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-04
-
-### [Senior Generative AI Engineer](https://www.linkedin.com/jobs/view/4463695151/) — Cleary Gottlieb Steen & Hamilton LLP
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-04
-
-### [Data Scientist, Market Making](https://www.linkedin.com/jobs/view/4461429028/) — FanDuel
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-09-04
-
-### [Data Engineer II, Shopbop Data](https://www.linkedin.com/jobs/view/4463665757/) — Shopbop
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-04
-
-### [Senior Biostatistician](https://www.linkedin.com/jobs/view/4462340820/) — Kenvue
-- 📍 **Location:** Skillman, NJ
-- 🕒 **Posted:** 2026-09-04
-
-### [Software Engineer II, Backend (Post-Transaction)](https://www.linkedin.com/jobs/view/4462333846/) — Affirm
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-04
-
-### [Data Center Security Engineer - WIDS](https://www.linkedin.com/jobs/view/4461408978/) — CoreWeave
-- 📍 **Location:** Livingston, NJ
-- 🕒 **Posted:** 2026-09-04
-
-### [Data Science Manager, Tapestry](https://www.linkedin.com/jobs/view/4462346209/) — X, The Moonshot Factory
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Software Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4463668590/) — Descript
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-04
-
-### [Senior Platform Engineer (Compute Migration)](https://www.linkedin.com/jobs/view/4462323512/) — The Blue Venture Fund
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Azure Data Engineer](https://www.linkedin.com/jobs/view/4463662621/) — Arkhya Tech. Inc.
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4463657750/) — MeeBoss
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Full-Stack Engineer – Federal Programs](https://www.linkedin.com/jobs/view/4463672199/) — 8090 Solutions
+### [Lead Security Engineer](https://www.linkedin.com/jobs/view/4462352714/) — 8090 Solutions
 - 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $180,000.00/yr - $350,000.00/yr
+- 🕒 **Posted:** 2026-09-04
+
+### [Internship, Software Engineer, Code Hardening & Framework Resilience, Robotaxi (Winter/Spring 2027)](https://www.linkedin.com/jobs/view/4463710588/) — Tesla
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Data Engineer, Healthcare Claims Data Start Up - USA ONLY READ FULL DESCRIPTION](https://www.linkedin.com/jobs/view/4462367550/) — Apex Medical Partners
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-04

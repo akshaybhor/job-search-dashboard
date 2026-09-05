@@ -1,423 +1,185 @@
 {
-  "scraped_at": "2026-09-05 01:19 UTC",
-  "total": 26,
-  "new_count": 26,
+  "scraped_at": "2026-09-05 06:14 UTC",
+  "total": 11,
+  "new_count": 11,
   "jobs": [
     {
-      "company": "CapitalG",
-      "title": "Machine Learning Engineer",
+      "company": "Weights & Biases",
+      "title": "Senior Software Engineer, ML Workflows - Weights & Biases",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462344798/",
+      "url": "https://www.linkedin.com/jobs/view/4462355688/",
       "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Gap Inc.",
-      "title": "Senior Data Scientist",
+      "company": "Neuralink",
+      "title": "Software Engineer Intern, BCI Applications",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462369488/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Neuralink",
+      "title": "Software Engineer Intern, BCI Applications",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463361316/",
+      "url": "https://www.linkedin.com/jobs/view/4462368531/",
       "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Applied Scientist II, ASCS AI Lab Team",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463661811/",
+      "company": "Complication",
+      "title": "Software Engineer Intern",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462355650/",
       "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "CapitalG",
-      "title": "Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462344797/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Marketing Data Scientist",
-      "location": "San Carlos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462327928/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Software Engineer, E-Commerce AI Platform",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463678122/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Senior Software Engineer, E-Commerce AI Platform - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463672428/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Post-Transaction)",
+      "company": "Weights & Biases",
+      "title": "Senior Software Engineer, Infrastructure Operations - Weights & Biases",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462339815/",
+      "url": "https://www.linkedin.com/jobs/view/4461458286/",
       "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Post-Transaction)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462342785/",
+      "company": "Tesla",
+      "title": "Sr. Site Reliability Engineer, Observability",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463719419/",
       "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Post-Transaction)",
+      "company": "Tesla",
+      "title": "Software Engineer, Body Controls & Authentication Validation, Vehicle Software",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462337851/",
+      "url": "https://www.linkedin.com/jobs/view/4463703737/",
       "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Pacific Gas and Electric Company",
-      "title": "Cloud Platform Engineer",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462332893/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Systems Engineer - Database Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461411804/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Security Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463665680/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cleary Gottlieb Steen & Hamilton LLP",
-      "title": "Junior Generative AI Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463682433/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cleary Gottlieb Steen & Hamilton LLP",
-      "title": "Senior Generative AI Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463695151/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "FanDuel",
-      "title": "Data Scientist, Market Making",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4461429028/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Shopbop",
-      "title": "Data Engineer II, Shopbop Data",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463665757/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Kenvue",
-      "title": "Senior Biostatistician",
-      "location": "Skillman, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4462340820/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Post-Transaction)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4462333846/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CoreWeave",
-      "title": "Data Center Security Engineer - WIDS",
-      "location": "Livingston, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4461408978/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "X, The Moonshot Factory",
-      "title": "Data Science Manager, Tapestry",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462346209/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Descript",
-      "title": "Software Engineer, Infrastructure",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4463668590/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "The Blue Venture Fund",
-      "title": "Senior Platform Engineer (Compute Migration)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462323512/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Arkhya Tech. Inc.",
-      "title": "Azure Data Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463662621/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MeeBoss",
-      "title": "Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463657750/",
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Sharing",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462330300/",
       "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
       "company": "8090 Solutions",
-      "title": "Full-Stack Engineer \u2013 Federal Programs",
+      "title": "Lead Security Engineer",
       "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463672199/",
+      "url": "https://www.linkedin.com/jobs/view/4462352714/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $350,000.00/yr"
+    },
+    {
+      "company": "Tesla",
+      "title": "Internship, Software Engineer, Code Hardening & Framework Resilience, Robotaxi (Winter/Spring 2027)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463710588/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Apex Medical Partners",
+      "title": "Data Engineer, Healthcare Claims Data Start Up - USA ONLY READ FULL DESCRIPTION",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4462367550/",
       "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "CapitalG",
-      "title": "Machine Learning Engineer",
+      "company": "Weights & Biases",
+      "title": "Senior Software Engineer, ML Workflows - Weights & Biases",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462344798/",
+      "url": "https://www.linkedin.com/jobs/view/4462355688/",
       "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Gap Inc.",
-      "title": "Senior Data Scientist",
+      "company": "Neuralink",
+      "title": "Software Engineer Intern, BCI Applications",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462369488/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Neuralink",
+      "title": "Software Engineer Intern, BCI Applications",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463361316/",
+      "url": "https://www.linkedin.com/jobs/view/4462368531/",
       "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Applied Scientist II, ASCS AI Lab Team",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463661811/",
+      "company": "Complication",
+      "title": "Software Engineer Intern",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462355650/",
       "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "CapitalG",
-      "title": "Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462344797/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Marketing Data Scientist",
-      "location": "San Carlos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462327928/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Software Engineer, E-Commerce AI Platform",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463678122/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Senior Software Engineer, E-Commerce AI Platform - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463672428/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Post-Transaction)",
+      "company": "Weights & Biases",
+      "title": "Senior Software Engineer, Infrastructure Operations - Weights & Biases",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462339815/",
+      "url": "https://www.linkedin.com/jobs/view/4461458286/",
       "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Post-Transaction)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462342785/",
+      "company": "Tesla",
+      "title": "Sr. Site Reliability Engineer, Observability",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463719419/",
       "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Post-Transaction)",
+      "company": "Tesla",
+      "title": "Software Engineer, Body Controls & Authentication Validation, Vehicle Software",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462337851/",
+      "url": "https://www.linkedin.com/jobs/view/4463703737/",
       "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Pacific Gas and Electric Company",
-      "title": "Cloud Platform Engineer",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462332893/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Systems Engineer - Database Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461411804/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Security Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463665680/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cleary Gottlieb Steen & Hamilton LLP",
-      "title": "Junior Generative AI Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463682433/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cleary Gottlieb Steen & Hamilton LLP",
-      "title": "Senior Generative AI Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463695151/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "FanDuel",
-      "title": "Data Scientist, Market Making",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4461429028/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Shopbop",
-      "title": "Data Engineer II, Shopbop Data",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463665757/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Kenvue",
-      "title": "Senior Biostatistician",
-      "location": "Skillman, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4462340820/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Post-Transaction)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4462333846/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CoreWeave",
-      "title": "Data Center Security Engineer - WIDS",
-      "location": "Livingston, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4461408978/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "X, The Moonshot Factory",
-      "title": "Data Science Manager, Tapestry",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462346209/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Descript",
-      "title": "Software Engineer, Infrastructure",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4463668590/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "The Blue Venture Fund",
-      "title": "Senior Platform Engineer (Compute Migration)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462323512/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Arkhya Tech. Inc.",
-      "title": "Azure Data Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463662621/",
-      "date_posted": "2026-09-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MeeBoss",
-      "title": "Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463657750/",
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Sharing",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462330300/",
       "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     },
     {
       "company": "8090 Solutions",
-      "title": "Full-Stack Engineer \u2013 Federal Programs",
+      "title": "Lead Security Engineer",
       "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463672199/",
+      "url": "https://www.linkedin.com/jobs/view/4462352714/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $350,000.00/yr"
+    },
+    {
+      "company": "Tesla",
+      "title": "Internship, Software Engineer, Code Hardening & Framework Resilience, Robotaxi (Winter/Spring 2027)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463710588/",
+      "date_posted": "2026-09-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Apex Medical Partners",
+      "title": "Data Engineer, Healthcare Claims Data Start Up - USA ONLY READ FULL DESCRIPTION",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4462367550/",
       "date_posted": "2026-09-04",
       "ats": "LinkedIn"
     }
