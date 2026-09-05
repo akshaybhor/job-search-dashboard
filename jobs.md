@@ -1,60 +1,52 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-04 08:04 UTC*
+*Last updated: 2026-09-05 07:47 UTC*
 
-**14 new role(s)** since last run · 154 total in last 24h
+**12 new role(s)** since last run · 158 total in last 24h
 
-### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6138807004) — Natera
-- 📍 **Location:** US Remote
+### [Senior Software Engineer II](https://job-boards.greenhouse.io/freenome/jobs/8519753002) — Freenome
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-07-14
+
+### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6139254004) — Natera
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-08-31
 
-### [Machine Learning Scientist, Multimodal AI ](https://job-boards.greenhouse.io/natera/jobs/6004385004) — Natera
+### [Manager of Data Engineering & Delivery (Data Science Production Engineering)](https://job-boards.greenhouse.io/natera/jobs/6150570004) — Natera
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Senior Manager of DevOps (Data Science Production Engineering)](https://job-boards.greenhouse.io/natera/jobs/6137673004) — Natera
 - 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-09-03
-
-### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6093622004) — Natera
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-09-03
-
-### [Senior Manager of DevOps (Data Science Production Engineering)](https://job-boards.greenhouse.io/natera/jobs/6148527004) — Natera
-- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-09-01
 
-### [Research Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7793665) — Chan Zuckerberg Biohub
-- 📍 **Location:** Redwood City, CA (Hybrid)
-- 🕒 **Posted:** 2026-08-28
-
-### [Lab Software Engineer](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5230698007) — Xaira Therapeutics
-- 📍 **Location:** South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-03
-
-### [Research Leader (DMPK), Cambridge, MA](https://job-boards.greenhouse.io/isomorphiclabs/jobs/6140840004) — Isomorphic Labs
-- 📍 **Location:** Cambridge, MA
-- 🕒 **Posted:** 2026-09-03
-
-### [Computational Pathology Scientist](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Computational-Pathology-Scientist_R0054995-2) — Gilead Sciences
-- 📍 **Location:** United States - California - Foster City
-- 🕒 **Posted:** Posted Yesterday
-
-### [Sr Data Scientist](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Los-Angeles/Sr-Data-Scientist_R-250525) — Amgen
-- 📍 **Location:** US - California - Los Angeles
-- 🕒 **Posted:** Posted Yesterday
-
-### [Software Engineer — Agentic data pipelines](https://jobs.ashbyhq.com/iambic-therapeutics/ed5c9548-a170-4a73-ade7-2f710d009fac) — Iambic Therapeutics
-- 📍 **Location:** Remote - US
-- 🕒 **Posted:** 2026-09-03
-
-### [Scientist, Drug Metabolism and Pharmacokinetics (DMPK)](https://job-boards.greenhouse.io/kardigan/jobs/5409487008) — Kardigan
-- 📍 **Location:** South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-03
-
-### [Sr. Associate Scientist, Drug Substance-Data Science (Contract)](https://www.linkedin.com/jobs/view/4444787035/) — Allogene Therapeutics
-- 📍 **Location:** South San Francisco, CA
+### [Senior Software Engineer](https://job-boards.greenhouse.io/natera/jobs/6115665004) — Natera
+- 📍 **Location:** US Remote
 - 🕒 **Posted:** 2026-09-04
 
-### [Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4398016570/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-09-03
+### [Research Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7747517) — Chan Zuckerberg Biohub
+- 📍 **Location:** New York, NY (Hybrid)
+- 🕒 **Posted:** 2026-08-28
 
-### [Research Scientist, AI](https://www.linkedin.com/jobs/view/4398460855/) — Biohub
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-03
+### [Software Engineer, Agents](https://jobs.ashbyhq.com/benchling/263fd507-eb03-4cfa-8297-ce276b729b52) — Benchling
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Senior AI/ML Engineer](https://jobs.ashbyhq.com/metriport/855fdc5a-e08a-4496-947c-79b9ec804af7) — Metriport
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-09-04
+
+### [Sr. Machine Learning Scientist](https://www.linkedin.com/jobs/view/4463697181/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-09-05
+
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4452986280/) — Lead
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [AI / Machine Learning Engineer II](https://www.linkedin.com/jobs/view/4450811962/) — Gen
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Software Engineer V](https://www.linkedin.com/jobs/view/4453206071/) — Lead
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-09-04
