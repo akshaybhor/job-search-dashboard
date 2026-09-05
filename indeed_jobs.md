@@ -1,14 +1,13 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-05 19:25 UTC*
+*Last updated: 2026-09-05 21:37 UTC*
 
-**2 new role(s)** since last run · 130 total in last 24h
+**2 new role(s)** since last run · 105 total in last 24h
 
-### [Systems Engineer - Model & Simulation](https://www.indeed.com/viewjob?jk=7ecb68d1e77fbefd) — Lockheed Martin
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $88k–$164k/yr
-- 🕒 **Posted:** 2026-08-28
+### [Data Engineer](https://www.indeed.com/viewjob?jk=7fb12d0915f0f9a9) — Unknown
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-09-05
 
-### [Software Engineer: Internal Automation](https://www.indeed.com/viewjob?jk=da066befeb26ba68) — ROGO
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $200k–$275k/yr
+### [Software Engineer II - Platform Engineer Databricks](https://www.indeed.com/viewjob?jk=47b109467cc3b863) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $124k–$150k/yr
 - 🕒 **Posted:** 2026-09-05
