@@ -1,13 +1,29 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-05 21:37 UTC*
+*Last updated: 2026-09-06 00:12 UTC*
 
-**2 new role(s)** since last run · 105 total in last 24h
+**5 new role(s)** since last run · 94 total in last 24h
 
-### [Data Engineer](https://www.indeed.com/viewjob?jk=7fb12d0915f0f9a9) — Unknown
+### [Applied Scientist II, Search Ranking, Search Ranking](https://www.indeed.com/viewjob?jk=2d485b4faa6bffd4) — Amazon.com
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $143k–$222k/yr
+- 🕒 **Posted:** 2026-09-02
+
+### [Robotics Systems Engineer](https://www.indeed.com/viewjob?jk=e0679459d55a899e) — C5R
 - 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $135k–$200k/yr
 - 🕒 **Posted:** 2026-09-05
 
-### [Software Engineer II - Platform Engineer Databricks](https://www.indeed.com/viewjob?jk=47b109467cc3b863) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $124k–$150k/yr
+### [Rust Software Engineering Intern, Chip Design Tools - Summer](https://www.indeed.com/viewjob?jk=596af3983c2d16c3) — Unknown
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $114k–$131k/yr
+- 🕒 **Posted:** 2026-09-05
+
+### [Fab Software Engineering Intern - Summer](https://www.indeed.com/viewjob?jk=10d91a04e6c258c9) — Unknown
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $114k–$131k/yr
+- 🕒 **Posted:** 2026-09-05
+
+### [Embedded Software Engineering Intern - Summer](https://www.indeed.com/viewjob?jk=8bb0376a211b29f0) — Unknown
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $114k–$131k/yr
 - 🕒 **Posted:** 2026-09-05
