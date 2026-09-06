@@ -1,29 +1,43 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-06 05:01 UTC*
+*Last updated: 2026-09-06 17:41 UTC*
 
-**5 new role(s)** since last run · 52 total in last 24h
+**8 new role(s)** since last run · 20 total in last 24h
 
-### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=4955cfb9980dba95) — Unknown
+### [Machine Learning Engineer, Model Integrations](https://www.indeed.com/viewjob?jk=48efcb6828b42b58) — Unknown
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $210k–$246k/yr
+- 💰 **Salary:** $170k–$240k/yr
 - 🕒 **Posted:** 2026-09-05
 
-### [Software Engineering Lead](https://www.indeed.com/viewjob?jk=2e6243f5ef576267) — S&P Global
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $93k–$150k/yr
+### [Machine Learning Systems Engineer - Video Computer Vision](https://www.indeed.com/viewjob?jk=9b9b0d236e97d8fe) — Apple
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $150k–$278k/yr
+- 🕒 **Posted:** 2026-09-02
+
+### [Applied Machine Learning Engineer - Localization](https://www.indeed.com/viewjob?jk=0820c362d80581f9) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $150k–$278k/yr
+- 🕒 **Posted:** 2026-09-02
+
+### [Full Stack Software Engineer - ML Compute Capacity](https://www.indeed.com/viewjob?jk=c18c5c495c16b58d) — Apple
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $185k–$325k/yr
+- 🕒 **Posted:** 2026-09-02
+
+### [Machine Learning Systems Engineer - Video Computer Vision](https://www.indeed.com/viewjob?jk=b5f604ae0fb1ae35) — Apple
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $150k–$278k/yr
+- 🕒 **Posted:** 2026-08-31
+
+### [Camera Embedded Software Engineer](https://www.indeed.com/viewjob?jk=91ae290bbbc47ac7) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $205k–$308k/yr
+- 🕒 **Posted:** 2026-08-27
+
+### [Data Scientist, Expert](https://www.indeed.com/viewjob?jk=24b63831bfdeea3f) — Pacific Gas and Electric
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $140k–$238k/yr
 - 🕒 **Posted:** 2026-09-05
 
-### [Senior Software Engineer, ML Workflows - Weights & Biases](https://www.indeed.com/viewjob?jk=1633bbf9c918e8cf) — Weights & Biases
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $165k–$220k/yr
-- 🕒 **Posted:** 2026-09-05
-
-### [Senior Software Engineer, ML Workflows - Weights & Biases](https://www.indeed.com/viewjob?jk=5c936937c25c5d00) — Weights & Biases
-- 📍 **Location:** Livingston, NJ, US
-- 💰 **Salary:** $165k–$220k/yr
-- 🕒 **Posted:** 2026-09-05
-
-### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=ae3fa09a3ab22389) — Unknown
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $210k–$246k/yr
-- 🕒 **Posted:** 2026-09-05
+### [Systems Engineer](https://www.indeed.com/viewjob?jk=f2bd60ad56ba6be7) — Bay Systems Consulting, Inc.
+- 📍 **Location:** Berkeley, CA, US
+- 🕒 **Posted:** 2026-09-04
