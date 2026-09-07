@@ -1,47 +1,54 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-07 19:22 UTC*
+*Last updated: 2026-09-07 22:14 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4464369587/) — Prime Video & Amazon MGM Studios
-- 📍 **Location:** Sunnyvale, CA
+### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4462976495/) — Inventure
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $210,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-09-07
 
-### [Sr. Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4464379458/) — Prime Video & Amazon MGM Studios
-- 📍 **Location:** Sunnyvale, CA
+### [Sr. Software Engineer, Applied AI Systems](https://www.linkedin.com/jobs/view/4464402077/) — Dialpad
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-07
 
-### [Research Scientist, Efficient Deep Learning - New College Grad 2026](https://www.linkedin.com/jobs/view/4427233480/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Expert Senior Manager, Data Sciences, Software and Data Services, Coro](https://www.linkedin.com/jobs/view/4454565571/) — Bain & Company
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-07
 
-### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4462972998/) — Jobright.ai
-- 📍 **Location:** San Carlos, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4464397287/) — Aegis Search
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-09-07
 
-### [Backend Software Engineer - Platforms](https://www.linkedin.com/jobs/view/4462967943/) — ByteDance
-- 📍 **Location:** San Jose, CA
+### [Senior Backend Engineer - Casual AI -MarTech/AdTech](https://www.linkedin.com/jobs/view/4387119905/) — Three Pillars Recruiting
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-07
 
-### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4457282113/) — AppCard, Inc.
+### [Senior Full Stack Engineer (Backend) - Casual AI -MarTech/AdTech](https://www.linkedin.com/jobs/view/4387122697/) — Three Pillars Recruiting
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-07
+
+### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4462982479/) — Jobright.ai
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-07
+
+### [Backend Developer](https://www.linkedin.com/jobs/view/4462242511/) — Horizontal Talent
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-09-07
+
+### [Frontend Developer UI/UX](https://www.linkedin.com/jobs/view/4462208536/) — SproutsAI
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-07
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4462239516/) — AI Talent Hope
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $225,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-09-07
 
-### [Sr. Data Engineer (HYBRID)](https://www.linkedin.com/jobs/view/4464364864/) — Equinox
+### [Backend Infrastructure Engineer](https://www.linkedin.com/jobs/view/4462231659/) — Descon
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-09-07
+
+### [Senior Cloud Engineer](https://www.linkedin.com/jobs/view/4268643394/) — Arrow Search Partners
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-07
-
-### [Senior Software Engineer - Apache Kafka Infrastructure](https://www.linkedin.com/jobs/view/4414374571/) — Bloomberg
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-09-07
-
-### [Senior Software Engineering Manager](https://www.linkedin.com/jobs/view/4462981165/) — Magnitude Consulting
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-09-07
-
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4454289068/) — Epic
-- 📍 **Location:** Bridgeport, CT
 - 🕒 **Posted:** 2026-09-07
