@@ -1,16 +1,24 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-06 08:01 UTC*
+*Last updated: 2026-09-07 08:25 UTC*
 
-**3 new role(s)** since last run · 156 total in last 24h
+**5 new role(s)** since last run · 158 total in last 24h
 
-### [Senior AI Scientist, AI Products / Life Sciences](https://www.linkedin.com/jobs/view/4453595708/) — Tempus AI
+### [Research Engineer, AI](https://www.linkedin.com/jobs/view/4398642162/) — Biohub
 - 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-09-05
+- 🕒 **Posted:** 2026-09-06
 
-### [Senior AI/ML Engineer - Research Data AI and Predictive Modeling (Vaccine R&D)](https://www.linkedin.com/jobs/view/4454595614/) — Pfizer
-- 📍 **Location:** Pearl River, NY
-- 🕒 **Posted:** 2026-09-05
+### [Research Scientist, AI](https://www.linkedin.com/jobs/view/4398639360/) — Biohub
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-09-06
 
-### [Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4398029018/) — Genentech
+### [Lead Machine Learning Engineer - Engine](https://www.linkedin.com/jobs/view/4406763299/) — Gen
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-05
+- 🕒 **Posted:** 2026-09-06
+
+### [Senior Frontend Engineer - Engine](https://www.linkedin.com/jobs/view/4406708784/) — Gen
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-06
+
+### [Lead Frontend Engineer - Engine](https://www.linkedin.com/jobs/view/4406744393/) — Gen
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-06
