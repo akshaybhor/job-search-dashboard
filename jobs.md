@@ -1,24 +1,44 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-07 08:25 UTC*
+*Last updated: 2026-09-08 08:12 UTC*
 
-**5 new role(s)** since last run · 158 total in last 24h
+**10 new role(s)** since last run · 162 total in last 24h
 
-### [Research Engineer, AI](https://www.linkedin.com/jobs/view/4398642162/) — Biohub
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-09-06
+### [Intern - Research - Data Sciences](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences_R0054572) — Gilead Sciences
+- 📍 **Location:** United States - California - Foster City
+- 🕒 **Posted:** Posted Today
 
-### [Research Scientist, AI](https://www.linkedin.com/jobs/view/4398639360/) — Biohub
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-09-06
+### [Intern - Research - Drug Metabolism](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Drug-Metabolism_R0054510) — Gilead Sciences
+- 📍 **Location:** United States - California - Foster City
+- 🕒 **Posted:** Posted Today
 
-### [Lead Machine Learning Engineer - Engine](https://www.linkedin.com/jobs/view/4406763299/) — Gen
+### [Senior Software Engineer, Backend - Care Platform Operations](https://www.linkedin.com/jobs/view/4266581967/) — Ro
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-06
+- 🕒 **Posted:** 2026-09-07
 
-### [Senior Frontend Engineer - Engine](https://www.linkedin.com/jobs/view/4406708784/) — Gen
+### [Senior Software Engineer, Backend](https://www.linkedin.com/jobs/view/4301398088/) — Ro
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-06
+- 🕒 **Posted:** 2026-09-07
 
-### [Lead Frontend Engineer - Engine](https://www.linkedin.com/jobs/view/4406744393/) — Gen
+### [Senior Backend Engineer - MoneyLion](https://www.linkedin.com/jobs/view/4406425404/) — Gen
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-06
+- 🕒 **Posted:** 2026-09-07
+
+### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4425851475/) — Ro
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-07
+
+### [Senior Software Engineer, Frontend - Care Platform Clinical Workflows](https://www.linkedin.com/jobs/view/4425868201/) — Ro
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-07
+
+### [Senior Software Engineer, Frontend - Care Platform Operations](https://www.linkedin.com/jobs/view/4425869206/) — Ro
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-07
+
+### [Senior Backend Engineer, Product](https://www.linkedin.com/jobs/view/4318302156/) — Ro
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-07
+
+### [Research Engineer, AI](https://www.linkedin.com/jobs/view/4398462870/) — Biohub
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-07
