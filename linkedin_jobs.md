@@ -1,40 +1,24 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-08 00:38 UTC*
+*Last updated: 2026-09-08 06:27 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**5 new role(s)** since last run · 6 total in last 1h
 
-### [Payer Healthcare Data Scientist, Manager](https://www.linkedin.com/jobs/view/4452607500/) — PwC
-- 📍 **Location:** Melville, NY
+### [Senior Software Engineer, Autonomy Capabilities (R5339)](https://www.linkedin.com/jobs/view/4464439782/) — The Best Job Board
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-09-07
 
-### [Senior Manager, Data Science](https://www.linkedin.com/jobs/view/4447544997/) — Visa
-- 📍 **Location:** Foster City, CA
+### [Senior Research Engineer, Research & Early Development](https://www.linkedin.com/jobs/view/4464427736/) — Roche
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-07
 
-### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4462977748/) — Jobright.ai
-- 📍 **Location:** San Carlos, CA
+### [Manager, Software Engineering Productivity and Release Engineering](https://www.linkedin.com/jobs/view/4462264843/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-07
 
-### [Senior Backend Engineer, Product](https://www.linkedin.com/jobs/view/4318302156/) — Ro
-- 📍 **Location:** New York, NY
+### [Senior Software Engineer, Object Storage - DGX Cloud](https://www.linkedin.com/jobs/view/4462277024/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-07
 
-### [Senior Software Engineer, Backend](https://www.linkedin.com/jobs/view/4301398088/) — Ro
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-07
-
-### [Senior Software Engineer, Backend - Care Platform Operations](https://www.linkedin.com/jobs/view/4266581967/) — Ro
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-07
-
-### [Senior Software Engineer, Frontend - Care Platform Operations](https://www.linkedin.com/jobs/view/4425869206/) — Ro
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-07
-
-### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4425851475/) — Ro
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-07
-
-### [Senior Software Engineer, Frontend - Care Platform Clinical Workflows](https://www.linkedin.com/jobs/view/4425868201/) — Ro
+### [Lead DevOps Engineer, New York](https://www.linkedin.com/jobs/view/4464448435/) — The Best Job Board
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-07
