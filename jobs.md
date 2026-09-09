@@ -1,44 +1,28 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-08 08:12 UTC*
+*Last updated: 2026-09-09 08:15 UTC*
 
-**10 new role(s)** since last run · 162 total in last 24h
+**6 new role(s)** since last run · 159 total in last 24h
 
-### [Intern - Research - Data Sciences](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences_R0054572) — Gilead Sciences
-- 📍 **Location:** United States - California - Foster City
-- 🕒 **Posted:** Posted Today
+### [Senior Manager of DevOps (Data Science Production Engineering)](https://job-boards.greenhouse.io/natera/jobs/6148527004) — Natera
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-09-01
 
-### [Intern - Research - Drug Metabolism](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Drug-Metabolism_R0054510) — Gilead Sciences
-- 📍 **Location:** United States - California - Foster City
-- 🕒 **Posted:** Posted Today
+### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7793644) — Chan Zuckerberg Biohub
+- 📍 **Location:** Redwood City, CA (Hybrid)
+- 🕒 **Posted:** 2026-08-28
 
-### [Senior Software Engineer, Backend - Care Platform Operations](https://www.linkedin.com/jobs/view/4266581967/) — Ro
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-07
+### [AI Data Science Lead – PDM & Tech Ops (Gilead & Kite)](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/AI-Data-Science-Lead---PDM---Tech-Ops--Gilead---Kite-_R0052730-2) — Gilead Sciences
+- 📍 **Location:** United States - North Carolina - Raleigh
+- 🕒 **Posted:** Posted Yesterday
 
-### [Senior Software Engineer, Backend](https://www.linkedin.com/jobs/view/4301398088/) — Ro
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-07
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4462551766/) — Allogene Therapeutics
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
 
-### [Senior Backend Engineer - MoneyLion](https://www.linkedin.com/jobs/view/4406425404/) — Gen
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-07
+### [ML Scientist I/II, Nucleic Acid Design](https://www.linkedin.com/jobs/view/4446144681/) — Lila Sciences
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-08
 
-### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4425851475/) — Ro
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-07
-
-### [Senior Software Engineer, Frontend - Care Platform Clinical Workflows](https://www.linkedin.com/jobs/view/4425868201/) — Ro
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-07
-
-### [Senior Software Engineer, Frontend - Care Platform Operations](https://www.linkedin.com/jobs/view/4425869206/) — Ro
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-07
-
-### [Senior Backend Engineer, Product](https://www.linkedin.com/jobs/view/4318302156/) — Ro
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-07
-
-### [Research Engineer, AI](https://www.linkedin.com/jobs/view/4398462870/) — Biohub
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-07
+### [Development Tools Software Engineer](https://www.linkedin.com/jobs/view/4445177279/) — Intel
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-08
