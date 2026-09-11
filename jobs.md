@@ -1,64 +1,40 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-10 08:15 UTC*
+*Last updated: 2026-09-11 08:10 UTC*
 
-**15 new role(s)** since last run · 166 total in last 24h
+**9 new role(s)** since last run · 161 total in last 24h
 
-### [Senior Software Engineer II](https://job-boards.greenhouse.io/freenome/jobs/8414748002) — Freenome
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-07-15
-
-### [Bioinformatician](https://job-boards.greenhouse.io/natera/jobs/6187373004) — Natera
+### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6138807004) — Natera
 - 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-09-09
+- 🕒 **Posted:** 2026-08-31
 
-### [Manager of Data Engineering & Delivery (Data Science Production Engineering)](https://job-boards.greenhouse.io/natera/jobs/6137669004) — Natera
-- 📍 **Location:** US Remote
+### [Manager of Data Engineering & Delivery (Data Science Production Engineering)](https://job-boards.greenhouse.io/natera/jobs/6150570004) — Natera
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6024028004) — Natera
+### [Senior Manager of DevOps (Data Science Production Engineering)](https://job-boards.greenhouse.io/natera/jobs/6137673004) — Natera
 - 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-09-03
+- 🕒 **Posted:** 2026-09-01
 
-### [Software Engineer, Tools and Automation](https://jobs.ashbyhq.com/benchling/ba0bcb25-d2e9-4ef6-ada0-dc5f7ea5424e) — Benchling
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-09
+### [Senior Software Engineer - Commercial Services](https://job-boards.greenhouse.io/natera/jobs/6146411004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-09-10
 
-### [Associate Manager, Statistical Genetics (Applied Bioinformatics Scientist)](https://regeneron.wd1.myworkdayjobs.com/careers/job/TARRYTOWN/Associate-Manager--Statistical-Genetics--Applied-Bioinformatics-Scientist-_R50451) — Regeneron
-- 📍 **Location:** TARRYTOWN
+### [Software Engineer (Contractor)](https://job-boards.greenhouse.io/eikontherapeutics/jobs/5234127007) — Eikon Therapeutics
+- 📍 **Location:** Millbrae, CA
+- 🕒 **Posted:** 2026-09-10
+
+### [Sr. Data Scientist](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Sr-Data-Scientist_R-249670) — Amgen
+- 📍 **Location:** US - California - Thousand Oaks
 - 🕒 **Posted:** Posted Yesterday
 
-### [Sr. Security Data Engineer, Vulnerability Risk Management](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Sr-Security-Data-Engineer--Vulnerability-Risk-Management_R19429) — Moderna
-- 📍 **Location:** Cambridge, Massachusetts
+### [Sr. Data Scientist - Process Modeling](https://amgen.wd1.myworkdayjobs.com/careers/job/US---Massachusetts---Boston/Sr-Data-Scientist---Process-Modeling_R-248759) — Amgen
+- 📍 **Location:** US - Massachusetts - Boston
 - 🕒 **Posted:** Posted Yesterday
 
-### [Data Scientist/Postdoctoral Researcher - Zhou & Gao Labs](https://www.linkedin.com/jobs/view/4465381452/) — Buck Institute for Research on Aging
-- 📍 **Location:** Novato, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Innovation, Data & Analytics Team, Senior Manager, Data Scientist](https://www.linkedin.com/jobs/view/4465391488/) — Pfizer
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-10
-
-### [Data Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4464155845/) — AbbVie
-- 📍 **Location:** Florham Park, NJ
-- 🕒 **Posted:** 2026-09-10
-
-### [Senior Data Scientist, Gen AI Application](https://www.linkedin.com/jobs/view/4465311755/) — Genentech
+### [Data Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4464182981/) — AbbVie
 - 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-09-09
+- 🕒 **Posted:** 2026-09-10
 
-### [Senior Software Engineer, Data](https://www.linkedin.com/jobs/view/4419451247/) — Lila Sciences
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Senior Machine Learning Scientist, Protein ML, AI for Drug Discovery (AIDD)](https://www.linkedin.com/jobs/view/4455956394/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Innovation, Data & Analytics Team, Data Engineer](https://www.linkedin.com/jobs/view/4465322977/) — Pfizer
+### [Senior Computational Biologist I](https://www.linkedin.com/jobs/view/4428075050/) — Tempus AI
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-09
-
-### [Innovation, Data & Analytics Team, Senior Data Scientist (AI Lead)](https://www.linkedin.com/jobs/view/4465324975/) — Pfizer
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-09
+- 🕒 **Posted:** 2026-09-10
