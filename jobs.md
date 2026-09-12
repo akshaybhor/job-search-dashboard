@@ -1,40 +1,40 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-11 08:10 UTC*
+*Last updated: 2026-09-12 08:01 UTC*
 
-**9 new role(s)** since last run · 161 total in last 24h
+**9 new role(s)** since last run · 164 total in last 24h
 
-### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6138807004) — Natera
-- 📍 **Location:** US Remote
+### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6139254004) — Natera
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-08-31
 
-### [Manager of Data Engineering & Delivery (Data Science Production Engineering)](https://job-boards.greenhouse.io/natera/jobs/6150570004) — Natera
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Manager of DevOps (Data Science Production Engineering)](https://job-boards.greenhouse.io/natera/jobs/6137673004) — Natera
+### [Lead Biostatistician (Oncology Clinical Studies)](https://job-boards.greenhouse.io/natera/jobs/6187349004) — Natera
 - 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-09-11
+
+### [Senior Manager of DevOps (Data Science Production Engineering)](https://job-boards.greenhouse.io/natera/jobs/6148527004) — Natera
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-09-01
 
-### [Senior Software Engineer - Commercial Services](https://job-boards.greenhouse.io/natera/jobs/6146411004) — Natera
-- 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer (Contractor)](https://job-boards.greenhouse.io/eikontherapeutics/jobs/5234127007) — Eikon Therapeutics
-- 📍 **Location:** Millbrae, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Sr. Data Scientist](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Sr-Data-Scientist_R-249670) — Amgen
-- 📍 **Location:** US - California - Thousand Oaks
+### [Undergrad Intern – Machine Learning Engineer – Amgen’s Technology & Medical Organizations (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709) — Amgen
+- 📍 **Location:** United States - Remote
 - 🕒 **Posted:** Posted Yesterday
 
-### [Sr. Data Scientist - Process Modeling](https://amgen.wd1.myworkdayjobs.com/careers/job/US---Massachusetts---Boston/Sr-Data-Scientist---Process-Modeling_R-248759) — Amgen
-- 📍 **Location:** US - Massachusetts - Boston
+### [Grad Intern – Machine Learning Engineer – Amgen’s Technology & Medical Organizations (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743) — Amgen
+- 📍 **Location:** United States - Remote
 - 🕒 **Posted:** Posted Yesterday
 
-### [Data Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4464182981/) — AbbVie
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-09-10
+### [Robotics Engineer](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Robotics-Engineer_R19688) — Moderna
+- 📍 **Location:** Cambridge, Massachusetts
+- 🕒 **Posted:** Posted Yesterday
 
-### [Senior Computational Biologist I](https://www.linkedin.com/jobs/view/4428075050/) — Tempus AI
+### [Senior Robotics Engineer](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Senior-Robotics-Engineer_R19687) — Moderna
+- 📍 **Location:** Cambridge, Massachusetts
+- 🕒 **Posted:** Posted Yesterday
+
+### [Senior AI/ML Engineer - Research Data AI and Predictive Modeling (Vaccine R&D)](https://www.linkedin.com/jobs/view/4454595614/) — Pfizer
+- 📍 **Location:** Pearl River, NY
+- 🕒 **Posted:** 2026-09-11
+
+### [Senior Manager, AI, and Data Engineering](https://www.linkedin.com/jobs/view/4453358966/) — Pfizer
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-10
+- 🕒 **Posted:** 2026-09-11
