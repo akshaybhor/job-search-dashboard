@@ -1,206 +1,217 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-11 21:54 UTC*
+*Last updated: 2026-09-12 00:33 UTC*
 
-**41 new role(s)** since last run · 131 total in last 24h
+**43 new role(s)** since last run · 147 total in last 24h
 
-### [Software Engineer, Notifications](https://www.indeed.com/viewjob?jk=266eef7602c1331f) — Discord
-- 📍 **Location:** San Francisco Bay Area, CA, US
-- 💰 **Salary:** $160k–$180k/yr
+### [Sr. Software Engineer, Backend (Digital Products – Service Intelligence)](https://www.indeed.com/viewjob?jk=a358d4e2a31a618d) — Scout Motors
+- 📍 **Location:** Fremont, CA, US
+- 💰 **Salary:** $154k–$187k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Research Engineer, Polaris, DeepMind](https://www.indeed.com/viewjob?jk=0747f0303e1fa9e1) — DeepMind
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer, Generative AI, Shopping Quality](https://www.indeed.com/viewjob?jk=eed636cfd856b24e) — Google
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Research Engineer, Machine Learning, GeminiApp Personalization, DeepMind](https://www.indeed.com/viewjob?jk=e31b0b4fb3614cbd) — DeepMind
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $174k–$252k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [(USA) Senior, Software Engineer](https://www.indeed.com/viewjob?jk=879c7a9cb2487448) — Sam's Club
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $117k–$234k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=54e3035e7439e7d0) — Intuitive (Intuitive Surgical)
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $160k–$271k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Research Engineer, RL Environments and Infrastructure](https://www.indeed.com/viewjob?jk=4de0bd5d217bf4d1) — Hyphen Connect
+### [Senior Data Engineer](https://www.indeed.com/viewjob?jk=67a5f6f5036e1fb8) — Wells Fargo
 - 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $100k–$196k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Engineer Embedded Systems II (Full Time) - United States](https://www.indeed.com/viewjob?jk=29ed6792c0e6c045) — Cisco
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $112k–$203k/yr
+### [Embedded Software Engineer](https://www.indeed.com/viewjob?jk=3580bd3d17d5b9d3) — Brooks Automation
+- 📍 **Location:** Fremont, CA, US
+- 💰 **Salary:** $111k–$150k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Engineer, Core Infrastructure, AI](https://www.indeed.com/viewjob?jk=06bf0c7da91d84a9) — Tesla
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $140k–$390k/yr
+### [Lead Software Engineer (Front-End Engineer)](https://www.indeed.com/viewjob?jk=66c997f5b1eac4bb) — U.S. Bank
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $127k–$149k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Senior System Software Engineer – Linux-Tegra Power Management and Performance Optimization](https://www.indeed.com/viewjob?jk=6787f07c210781c8) — NVIDIA
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $184k–$288k/yr
+### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=09ff6cda02fdee2f) — Brooks Automation
+- 📍 **Location:** Fremont, CA, US
+- 💰 **Salary:** $139k–$188k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Senior Software Systems Engineer, Autonomous Vehicles - Metrics & Evaluation](https://www.indeed.com/viewjob?jk=f4a586236c126ba1) — General Motors (GM)
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $153k–$234k/yr
+### [Senior Software Engineer (Hybrid)](https://www.indeed.com/viewjob?jk=c252ff6e2091e1b8) — Energy Solutions
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $140k–$158k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Developer](https://www.indeed.com/viewjob?jk=78a447851176416e) — Neon
+### [Software Engineer - Developer Experience, Web](https://www.indeed.com/viewjob?jk=b227ab23d7cc0d88) — DoorDash
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $120k–$165k/yr
+- 💰 **Salary:** $131k–$192k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=d7bc0f2a454851b0) — Super Micro Computer, Inc.
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $100k–$115k/yr
-- 🕒 **Posted:** 2026-09-10
-
-### [HPC Software Engineer](https://www.indeed.com/viewjob?jk=519d4ec011b71b97) — KLA
-- 📍 **Location:** Milpitas, CA, US
-- 💰 **Salary:** $136k–$232k/yr
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer - E2](https://www.indeed.com/viewjob?jk=16b8966955baac23) — Lockheed Martin
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $101k–$188k/yr
-- 🕒 **Posted:** 2026-09-03
-
-### [Full-Stack Senior Software Engineer](https://www.indeed.com/viewjob?jk=f828581553ef06e0) — Amplitude
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $165k–$276k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Senior Software Engineer, Backend - Data Cloud](https://www.indeed.com/viewjob?jk=400c60c1fc18fac4) — Rippling
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $168k–$280k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer Intern, Backend (Summer 2027)](https://www.indeed.com/viewjob?jk=9f0d00826d6ad0e8) — Lyft
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $52–$58/hr
-- 🕒 **Posted:** 2026-09-11
-
-### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=d78c9e2fd3890050) — f2
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $175k–$240k/yr
-- 🕒 **Posted:** 2026-09-10
-
-### [Senior Software Engineer, Frontend (Auth Experiences)](https://www.indeed.com/viewjob?jk=d2aaf6bcc72d6401) — Affirm
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $173k–$255k/yr
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer, LLVM Compiler](https://www.indeed.com/viewjob?jk=49816294a342a20d) — Meta
-- 📍 **Location:** Menlo Park, CA, US
-- 💰 **Salary:** $154k–$217k/yr
-- 🕒 **Posted:** 2026-09-08
-
-### [Senior IT Systems Engineer](https://www.indeed.com/viewjob?jk=872d114a3363a59e) — Klaviyo
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $112k–$168k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Senior Product Manager, Google Maps AI Platform](https://www.indeed.com/viewjob?jk=4338c44ad4f1f148) — Google
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $192k–$278k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Site Reliability Engineer- FedRAMP](https://www.indeed.com/viewjob?jk=7f13495f5ea42de1) — Rubrik
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $158k–$237k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Senior Site Reliability Engineer - FedRAMP](https://www.indeed.com/viewjob?jk=b70689612d7d51ee) — Delinea
+### [Senior Software Engineer - Networking](https://www.indeed.com/viewjob?jk=52d7bbed12ed2df9) — Electronic Arts
 - 📍 **Location:** Redwood City, CA, US
-- 💰 **Salary:** $130k–$160k/yr
-- 🕒 **Posted:** 2026-09-10
+- 💰 **Salary:** $141k–$256k/yr
+- 🕒 **Posted:** 2026-09-11
 
-### [Senior Software Engineering Manager, Hardware and Infrastructure Platform Security](https://www.indeed.com/viewjob?jk=b270ed77977d4363) — Google
+### [Senior Software Engineer - Generative Engine Tools](https://www.indeed.com/viewjob?jk=7a90b19ed3e919ff) — Electronic Arts
+- 📍 **Location:** Redwood City, CA, US
+- 💰 **Salary:** $141k–$256k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Senior Software Engineer - Backend](https://www.indeed.com/viewjob?jk=737666a617062759) — Electronic Arts
+- 📍 **Location:** Redwood City, CA, US
+- 💰 **Salary:** $141k–$256k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Senior Software Engineer - Security Foundations](https://www.indeed.com/viewjob?jk=5b12ed57f637f75d) — Snowflake
+- 📍 **Location:** Menlo Park, CA, US
+- 💰 **Salary:** $138k–$181k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=54fddb003a3efd79) — Workday
+- 📍 **Location:** Pleasanton, CA, US
+- 💰 **Salary:** $136k–$240k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineering Intern, Summer 2027](https://www.indeed.com/viewjob?jk=4677df9b744ab1a3) — Commure
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $40–$60/hr
+- 🕒 **Posted:** 2026-09-11
+
+### [Automation Software Engineer (Machine Control)](https://www.indeed.com/viewjob?jk=293194464f506d3a) — FormFactor, Inc.
+- 📍 **Location:** Livermore, CA, US
+- 💰 **Salary:** $136k–$179k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Senior Java Backend Developer (-Open for Remote)](https://www.indeed.com/viewjob?jk=6fd6c2b4811fd7d4) — Cognizant
 - 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $262k–$364k/yr
+- 💰 **Salary:** $68k–$110k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Geospatial Systems Engineer](https://www.indeed.com/viewjob?jk=45bf30d2200bb5a7) — Langan Engineering and Environmental Services
+### [Software Engineer, Early Career 2027](https://www.indeed.com/viewjob?jk=c6d7d3db1220ae16) — Commure
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $130k–$150k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineering Intern, Summer 2027](https://www.indeed.com/viewjob?jk=382c85e5ddbb477d) — Commure
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $40–$60/hr
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer III, Pixel Audio](https://www.indeed.com/viewjob?jk=fb7867ba1b4f7fd3) — Google
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $147k–$210k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Senior Systems Software Engineer, Observability and Telemetry Platform](https://www.indeed.com/viewjob?jk=2c92b002dd6956e1) — NVIDIA
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $152k–$242k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=ca6a3192309a57e1) — Intuitive (Intuitive Surgical)
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $139k–$236k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Analytics Engineer](https://www.indeed.com/viewjob?jk=6e5133e9a7578e09) — Ensemble Health Partners
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $102k–$175k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Senior Systems Engineer](https://www.indeed.com/viewjob?jk=6286a2470f6a3214) — Delta Dental Ins.
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $92k–$200k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Internship, Data Engineer, Fleet Analytics (Winter/Spring 2027)](https://www.indeed.com/viewjob?jk=c1c79dd9c33fbf25) — Tesla
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $40–$50/hr
+- 🕒 **Posted:** 2026-09-11
+
+### [Internship, Software Engineer, Data Platforms (Winter/Spring 2027)](https://www.indeed.com/viewjob?jk=6fae2bd2b8c7d46f) — Tesla
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $40–$56/hr
+- 🕒 **Posted:** 2026-09-11
+
+### [Senior Data Engineer](https://www.indeed.com/viewjob?jk=b5129bc43bd8ab32) — Adyen
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $68k–$93k/yr
+- 💰 **Salary:** $198k–$293k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Senior Software Engineer - Machine Bootstrap](https://www.indeed.com/viewjob?jk=7363c02a98244185) — Roblox
-- 📍 **Location:** San Mateo, CA, US
-- 💰 **Salary:** $197k–$243k/yr
+### [Senior ML Platform Engineer](https://www.indeed.com/viewjob?jk=99d0ade3ba44fbf2) — Spin Master
+- 📍 **Location:** Long Island City, NY, US
+- 💰 **Salary:** $166k–$221k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Developer Engineer II](https://www.indeed.com/viewjob?jk=41243306ce182728) — Optimum
+- 📍 **Location:** Bethpage, NY, US
+- 💰 **Salary:** $100k–$165k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Security Engineer II, Amazon GuardDuty](https://www.indeed.com/viewjob?jk=bf1c3085f2c1038a) — Amazon Web Services
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $144k–$214k/yr
+- 🕒 **Posted:** 2026-09-01
+
+### [Security Engineer II, Amazon GuardDuty](https://www.indeed.com/viewjob?jk=f37321e06877e010) — Amazon Web Services
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $159k–$202k/yr
+- 🕒 **Posted:** 2026-08-27
+
+### [Sr. Full Stack Software Engineer](https://www.indeed.com/viewjob?jk=7baa0fa1c1277d3c) — ODYSSEY
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $190k–$220k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Development Engineer, AI Studios Engineering](https://www.indeed.com/viewjob?jk=fc0fc3b9e4bbe6f6) — Amazon.com
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $144k–$214k/yr
 - 🕒 **Posted:** 2026-09-10
 
-### [Senior Product Security Engineer](https://www.indeed.com/viewjob?jk=9911f86b14395b0e) — Adobe
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $145k–$261k/yr
+### [Systems Engineer, Corporate Security](https://www.indeed.com/viewjob?jk=1127bc03f21d4e89) — Ramp
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $144k–$199k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Data Platform Engineer](https://www.indeed.com/viewjob?jk=366d4383d4dec9c5) — Tessera Labs
-- 📍 **Location:** San Jose, CA, US
+### [Network Security Engineer](https://www.indeed.com/viewjob?jk=1d4b70376a6797f9) — Point72
+- 📍 **Location:** New York, NY, US
 - 💰 **Salary:** $200k–$250k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Senior Data Platform Engineer](https://www.indeed.com/viewjob?jk=3b9aeab7f6d249e0) — Tessera Labs
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $200k–$300k/yr
+### [Site Reliability Engineer](https://www.indeed.com/viewjob?jk=f33f6441d739f039) — Piper Sandler
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $120k–$150k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Analytics Engineer - Finance](https://www.indeed.com/viewjob?jk=901f005575501aaf) — Snowflake
-- 📍 **Location:** Menlo Park, CA, US
-- 💰 **Salary:** $236k–$339k/yr
+### [Lead Data Engineer](https://www.indeed.com/viewjob?jk=05ee00c855564681) — Capgemini
+- 📍 **Location:** Bridgewater, NJ, US
+- 💰 **Salary:** $111k–$145k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Senior Software Engineer, Capacity Management - DGX Cloud](https://www.indeed.com/viewjob?jk=9afb206bcf21ea3c) — NVIDIA
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $140k–$270k/yr
+### [Senior Software Engineer, Backend (Loan Origination and Reporting)](https://www.indeed.com/viewjob?jk=1edcf4890ac4309d) — Affirm
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $173k–$255k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Vaccum Systems Engineer](https://www.indeed.com/viewjob?jk=73de9216aeaaf5c7) — ASML
+### [Embedded Software Engineer](https://www.indeed.com/viewjob?jk=403072bc2de08be6) — ASML
 - 📍 **Location:** Wilton, CT, US
 - 🕒 **Posted:** 2026-09-11
 
-### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=9bbf04e26b3880a1) — Salesforce
+### [Senior Embedded Software Engineer](https://www.indeed.com/viewjob?jk=1aa759086726c8b3) — ASML
+- 📍 **Location:** Wilton, CT, US
+- 🕒 **Posted:** 2026-09-11
+
+### [Data Science Intern, Algorithms (Summer 2027)](https://www.indeed.com/viewjob?jk=4b1ec2772ca2b445) — Lyft
+- 📍 **Location:** New City, NY, US
+- 💰 **Salary:** $58–$62/hr
+- 🕒 **Posted:** 2026-09-11
+
+### [Applied Scientist, Amazon Selection and Catalog Systems (ASCS)](https://www.indeed.com/viewjob?jk=7745cfb676c56cb0) — Amazon.com
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $148k–$224k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Developer [LMIA CANADA]](https://www.indeed.com/viewjob?jk=2fa51155417891f1) — Mehta Associate & Law Firm
-- 📍 **Location:** Hicksville, NY, US
-- 💰 **Salary:** $96k–$116k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer- PHP](https://www.indeed.com/viewjob?jk=19d570170c333301) — Ensora Health
-- 📍 **Location:** Parlin, NJ, US
-- 🕒 **Posted:** 2026-09-11
-
-### [Associate, Software Engineering](https://www.indeed.com/viewjob?jk=9233df8b6f869d21) — L3Harris
-- 📍 **Location:** Clifton, NJ, US
-- 💰 **Salary:** $76k–$140k/yr
+- 💰 **Salary:** $172k–$223k/yr
 - 🕒 **Posted:** 2026-09-10
 
-### [Business Intelligence - Data Engineer](https://www.indeed.com/viewjob?jk=9995145401876610) — Unknown
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $80k–$95k/yr
-- 🕒 **Posted:** 2026-09-11
+### [Intern, Software Engineer](https://www.indeed.com/viewjob?jk=93736ee6f244b8aa) — L3Harris
+- 📍 **Location:** Clifton, NJ, US
+- 💰 **Salary:** $29–$53/hr
+- 🕒 **Posted:** 2026-09-10
 
-### [Senior Information Security Engineer – AI & Application Security](https://www.indeed.com/viewjob?jk=1bc594ad34fbe8a9) — Faegre Drinker Biddle & Reath LLP
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $160k–$183k/yr
-- 🕒 **Posted:** 2026-09-11
+### [Intern, Software Engineer](https://www.indeed.com/viewjob?jk=b1236db5afda93da) — L3Harris
+- 📍 **Location:** Clifton, NJ, US
+- 💰 **Salary:** $29–$53/hr
+- 🕒 **Posted:** 2026-09-10
 
-### [Geospatial Systems Engineer](https://www.indeed.com/viewjob?jk=ee0cd3a9ff474258) — Langan Engineering and Environmental Services
-- 📍 **Location:** Parsippany-Troy Hills, NJ, US
+### [Geospatial Systems Engineer](https://www.indeed.com/viewjob?jk=9b77f30a503be2a6) — Langan Engineering and Environmental Services
+- 📍 **Location:** New York, NY, US
 - 💰 **Salary:** $68k–$93k/yr
 - 🕒 **Posted:** 2026-09-11
