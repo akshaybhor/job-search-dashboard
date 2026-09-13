@@ -1,25 +1,24 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-13 01:21 UTC*
+*Last updated: 2026-09-13 06:42 UTC*
 
 **5 new role(s)** since last run · 5 total in last 1h
 
-### [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4465456042/) — DRISHTICON Inc
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-09-12
-
-### [Security Engineer](https://www.linkedin.com/jobs/view/4465470032/) — PostHog
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-12
-
-### [GCP Python Data Engineer](https://www.linkedin.com/jobs/view/4462572554/) — Capgemini
+### [Senior Backend Software Engineer](https://www.linkedin.com/jobs/view/4466742993/) — JSM Consulting Inc.
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-12
 
-### [Front End Software Engineer](https://www.linkedin.com/jobs/view/4429106316/) — Candid Health
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4466753984/) — JSM Consulting Inc.
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-12
 
-### [Pre-training Research Engineer](https://www.linkedin.com/jobs/view/4459262301/) — Sciforium
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $165,000.00/yr - $225,000.00/yr
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4466747945/) — JSM Consulting Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-12
+
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4466748951/) — JSM Consulting Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-12
+
+### [ETL Developer](https://www.linkedin.com/jobs/view/4466750967/) — JSM Consulting Inc.
+- 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-09-12
