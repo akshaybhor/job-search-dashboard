@@ -1,43 +1,39 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-13 01:23 UTC*
+*Last updated: 2026-09-13 06:43 UTC*
 
-**8 new role(s)** since last run · 50 total in last 24h
+**7 new role(s)** since last run · 34 total in last 24h
 
-### [RFHW Systems Engineer](https://www.indeed.com/viewjob?jk=fa2786289745edcb) — Apple
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $129k–$195k/yr
-- 🕒 **Posted:** 2026-09-08
-
-### [Lead Software Engineer - Applied AI ML Lead](https://www.indeed.com/viewjob?jk=e3b1ab4d52d7d6b9) — JPMorganChase
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $157k–$215k/yr
+### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=d3b98d5a7ed84d4e) — Cisco
+- 📍 **Location:** Milpitas, CA, US
+- 💰 **Salary:** $149k–$282k/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Lead Infrastructure Engineer ( SDWAN)- Risk Management](https://www.indeed.com/viewjob?jk=b4393cbcbcbd8cde) — JPMorganChase
-- 📍 **Location:** San Francisco, CA, US
+### [Applied AI ML Lead - Generative AI and Semantic Modeling](https://www.indeed.com/viewjob?jk=9f3e00aeaf967e30) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $171k–$260k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Software Engineer III (Python/AWS)](https://www.indeed.com/viewjob?jk=e9cadb9d904c7a2e) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Lead Data Engineer](https://www.indeed.com/viewjob?jk=496720f13cc12ced) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
 - 💰 **Salary:** $147k–$190k/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Software Engineer, Data and AI Platform](https://www.indeed.com/viewjob?jk=31a3de80aa8c641a) — Smart Apply Test Company
-- 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2026-09-01
-
-### [Software Engineer, US Life (2027 Permanent)](https://www.indeed.com/viewjob?jk=b9c7b92751622956) — Münchener Rückversicherungs-Gesellschaft
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $125k–$145k/yr
+### [Applied AI and ML Lead - Generative AI](https://www.indeed.com/viewjob?jk=d32049e947740b6d) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $171k–$260k/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Infrastructure Engineer III](https://www.indeed.com/viewjob?jk=cc23f646f8072d62) — JPMorganChase
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $119k–$160k/yr
-- 🕒 **Posted:** 2026-09-12
-
-### [DevOps, Integration Specialist for Electronic Trading - Senior Lead Software Engineer](https://www.indeed.com/viewjob?jk=63ac811005b6f088) — JPMorganChase
+### [Senior Lead Software Engineer - AI/ML Developer](https://www.indeed.com/viewjob?jk=34b91351987e6a57) — JPMorganChase
 - 📍 **Location:** Jersey City, NJ, US
 - 💰 **Salary:** $176k–$260k/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Software Engineer III - DevOps, Python and/or JavaScript](https://www.indeed.com/viewjob?jk=096498561178c0a0) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $138k–$185k/yr
+### [Lead, Java Software Engineer](https://www.indeed.com/viewjob?jk=867675a14bac1ff0) — S&P Global
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $130k–$165k/yr
 - 🕒 **Posted:** 2026-09-12
