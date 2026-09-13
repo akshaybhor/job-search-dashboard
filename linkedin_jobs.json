@@ -1,88 +1,640 @@
 {
-  "scraped_at": "2026-09-13 06:42 UTC",
-  "total": 5,
-  "new_count": 5,
+  "scraped_at": "2026-09-13 18:19 UTC",
+  "total": 39,
+  "new_count": 39,
   "jobs": [
     {
-      "company": "JSM Consulting Inc.",
-      "title": "Senior Backend Software Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466742993/",
-      "date_posted": "2026-09-12",
+      "company": "Wayve",
+      "title": "Machine Learning Engineer, App SW",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417654657/",
+      "date_posted": "2026-09-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "JSM Consulting Inc.",
-      "title": "Cloud Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466753984/",
-      "date_posted": "2026-09-12",
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer - Python Numerical Computing Libraries",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4397633478/",
+      "date_posted": "2026-09-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "JSM Consulting Inc.",
-      "title": "Cloud Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466747945/",
-      "date_posted": "2026-09-12",
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, AIOps and Observability",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447417137/",
+      "date_posted": "2026-09-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "JSM Consulting Inc.",
-      "title": "Cloud Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466748951/",
-      "date_posted": "2026-09-12",
+      "company": "Replit",
+      "title": "Data Scientist, Product",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411253059/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$210,000.00/yr - $350,000.00/yr"
+    },
+    {
+      "company": "EngRadar",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466791227/",
+      "date_posted": "2026-09-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "JSM Consulting Inc.",
-      "title": "ETL Developer",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466750967/",
-      "date_posted": "2026-09-12",
+      "company": "Genentech",
+      "title": "Machine Learning Engineer, Infra, AI for Drug Discovery",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447583143/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Senior Software Engineer, Ads ML Infrastructure - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466782424/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer (GenAI Platform Services)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457847970/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4439573035/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Site Reliability Engineer, Applied Machine Learning - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466790307/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Prowork",
+      "title": "Senior Software Engineer, Site Reliability",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464749538/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, Metropolis Vision AI",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4437937119/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419571464/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Platform Service Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4438387051/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EngRadar",
+      "title": "Senior Software Engineer, Billing Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466780529/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Xona",
+      "title": "Software Engineer- Cybersecurity and Cryptography",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4399209316/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Early Warning",
+      "title": "Software Engineer II - Digital Assets",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420628398/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Replit",
+      "title": "Software Engineer, Enterprise Platform",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411246140/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$130,000.00/yr - $290,000.00/yr"
+    },
+    {
+      "company": "Replit",
+      "title": "Software Engineer, Developer Experience",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411246137/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $230,000.00/yr"
+    },
+    {
+      "company": "Harvey",
+      "title": "Frontend Platform Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447183071/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cohere",
+      "title": "Manager, Security Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418846998/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Site Reliability Engineer, Compute - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466796269/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead Software Engineer, Distributed Systems (Golang + Python on Kubernetes)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419880002/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Machine Learning Engineer, TikTok Risk & Integrity - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466782419/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Data Scientist",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4465485115/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Data Engineer (Python, AWS, Spark, Kafka, SQL, Snowflake, Databricks, GenAI)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4447725929/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hill Research",
+      "title": "Full-Stack Software Engineer, AI Applications",
+      "location": "Princeton, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4465406630/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Arch Capital Group Ltd.",
+      "title": "Manager, Data Engineer (Remote)",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4417660463/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$100,500.00/yr - $174,000.00/yr"
+    },
+    {
+      "company": "CHEManager International",
+      "title": "Junior Bioinformatics Scientist, Bureau of the Public Health Laboratory",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4465488079/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CHEManager International",
+      "title": "Research Associate, Commodities Data Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4465483113/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EngRadar",
+      "title": "Senior Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4466785268/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Software Engineer, Full Stack, Endpoint Security",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458104344/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Experis",
+      "title": "Lead Blockchain Protocol Engineer (Specialty Software Engineer 3 )-NJ",
+      "location": "Woodbridge, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4430036003/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ICE",
+      "title": "Lead Engineer, Platform Engineering - AI",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4389414306/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "L3Harris Technologies",
+      "title": "Lead, Software Engineering",
+      "location": "Clifton, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4447559345/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Site Reliability Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4465486086/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kiewit",
+      "title": "Geotechnical Engineer, Kiewit Infrastructure Engineers",
+      "location": "Woodcliff Lake, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4399674897/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kiewit",
+      "title": "Geotechnical Engineer, Kiewit Infrastructure Engineers",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4399660994/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Millennium",
+      "title": "Senior Software Engineer - Data Platform",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4437918701/",
+      "date_posted": "2026-09-13",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "JSM Consulting Inc.",
-      "title": "Senior Backend Software Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466742993/",
-      "date_posted": "2026-09-12",
+      "company": "Wayve",
+      "title": "Machine Learning Engineer, App SW",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417654657/",
+      "date_posted": "2026-09-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "JSM Consulting Inc.",
-      "title": "Cloud Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466753984/",
-      "date_posted": "2026-09-12",
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer - Python Numerical Computing Libraries",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4397633478/",
+      "date_posted": "2026-09-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "JSM Consulting Inc.",
-      "title": "Cloud Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466747945/",
-      "date_posted": "2026-09-12",
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, AIOps and Observability",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447417137/",
+      "date_posted": "2026-09-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "JSM Consulting Inc.",
-      "title": "Cloud Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466748951/",
-      "date_posted": "2026-09-12",
+      "company": "Replit",
+      "title": "Data Scientist, Product",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411253059/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$210,000.00/yr - $350,000.00/yr"
+    },
+    {
+      "company": "EngRadar",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466791227/",
+      "date_posted": "2026-09-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "JSM Consulting Inc.",
-      "title": "ETL Developer",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466750967/",
-      "date_posted": "2026-09-12",
+      "company": "Genentech",
+      "title": "Machine Learning Engineer, Infra, AI for Drug Discovery",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447583143/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Senior Software Engineer, Ads ML Infrastructure - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466782424/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer (GenAI Platform Services)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457847970/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4439573035/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Site Reliability Engineer, Applied Machine Learning - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466790307/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Prowork",
+      "title": "Senior Software Engineer, Site Reliability",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464749538/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, Metropolis Vision AI",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4437937119/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419571464/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Platform Service Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4438387051/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EngRadar",
+      "title": "Senior Software Engineer, Billing Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466780529/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Xona",
+      "title": "Software Engineer- Cybersecurity and Cryptography",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4399209316/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Early Warning",
+      "title": "Software Engineer II - Digital Assets",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420628398/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Replit",
+      "title": "Software Engineer, Enterprise Platform",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411246140/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$130,000.00/yr - $290,000.00/yr"
+    },
+    {
+      "company": "Replit",
+      "title": "Software Engineer, Developer Experience",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411246137/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $230,000.00/yr"
+    },
+    {
+      "company": "Harvey",
+      "title": "Frontend Platform Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447183071/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cohere",
+      "title": "Manager, Security Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418846998/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Site Reliability Engineer, Compute - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466796269/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead Software Engineer, Distributed Systems (Golang + Python on Kubernetes)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419880002/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Machine Learning Engineer, TikTok Risk & Integrity - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466782419/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Data Scientist",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4465485115/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Data Engineer (Python, AWS, Spark, Kafka, SQL, Snowflake, Databricks, GenAI)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4447725929/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hill Research",
+      "title": "Full-Stack Software Engineer, AI Applications",
+      "location": "Princeton, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4465406630/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Arch Capital Group Ltd.",
+      "title": "Manager, Data Engineer (Remote)",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4417660463/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$100,500.00/yr - $174,000.00/yr"
+    },
+    {
+      "company": "CHEManager International",
+      "title": "Junior Bioinformatics Scientist, Bureau of the Public Health Laboratory",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4465488079/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CHEManager International",
+      "title": "Research Associate, Commodities Data Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4465483113/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EngRadar",
+      "title": "Senior Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4466785268/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Software Engineer, Full Stack, Endpoint Security",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4458104344/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Experis",
+      "title": "Lead Blockchain Protocol Engineer (Specialty Software Engineer 3 )-NJ",
+      "location": "Woodbridge, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4430036003/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ICE",
+      "title": "Lead Engineer, Platform Engineering - AI",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4389414306/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "L3Harris Technologies",
+      "title": "Lead, Software Engineering",
+      "location": "Clifton, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4447559345/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Evlo AI",
+      "title": "Site Reliability Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4465486086/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kiewit",
+      "title": "Geotechnical Engineer, Kiewit Infrastructure Engineers",
+      "location": "Woodcliff Lake, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4399674897/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kiewit",
+      "title": "Geotechnical Engineer, Kiewit Infrastructure Engineers",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4399660994/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Millennium",
+      "title": "Senior Software Engineer - Data Platform",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4437918701/",
+      "date_posted": "2026-09-13",
       "ats": "LinkedIn"
     }
   ]
