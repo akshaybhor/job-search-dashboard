@@ -1,39 +1,104 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-13 06:43 UTC*
+*Last updated: 2026-09-13 18:20 UTC*
 
-**7 new role(s)** since last run · 34 total in last 24h
+**20 new role(s)** since last run · 25 total in last 24h
 
-### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=d3b98d5a7ed84d4e) — Cisco
-- 📍 **Location:** Milpitas, CA, US
-- 💰 **Salary:** $149k–$282k/yr
-- 🕒 **Posted:** 2026-09-12
+### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=f7bc69f7ee34b797) — Edurech Technoogy
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $120k–$144k/yr
+- 🕒 **Posted:** 2026-09-13
 
-### [Applied AI ML Lead - Generative AI and Semantic Modeling](https://www.indeed.com/viewjob?jk=9f3e00aeaf967e30) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $171k–$260k/yr
-- 🕒 **Posted:** 2026-09-12
+### [Bluetooth Software Engineer](https://www.indeed.com/viewjob?jk=8f4fcb5b3d30e299) — Apple
+- 📍 **Location:** San Francisco Bay Area, CA, US
+- 💰 **Salary:** $129k–$195k/yr
+- 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer III (Python/AWS)](https://www.indeed.com/viewjob?jk=e9cadb9d904c7a2e) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $138k–$185k/yr
-- 🕒 **Posted:** 2026-09-12
+### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=fb51714e7f91df6c) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $150k–$225k/yr
+- 🕒 **Posted:** 2026-09-10
 
-### [Lead Data Engineer](https://www.indeed.com/viewjob?jk=496720f13cc12ced) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $147k–$190k/yr
-- 🕒 **Posted:** 2026-09-12
+### [Senior Software Engineering Manager, Creative Apps](https://www.indeed.com/viewjob?jk=19ed39415774dd3c) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $238k–$402k/yr
+- 🕒 **Posted:** 2026-09-09
 
-### [Applied AI and ML Lead - Generative AI](https://www.indeed.com/viewjob?jk=d32049e947740b6d) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $171k–$260k/yr
-- 🕒 **Posted:** 2026-09-12
+### [Sr. Machine Learning Engineer, ML Systems Evaluation Engineering](https://www.indeed.com/viewjob?jk=468ec15f26cb2739) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $185k–$325k/yr
+- 🕒 **Posted:** 2026-09-09
 
-### [Senior Lead Software Engineer - AI/ML Developer](https://www.indeed.com/viewjob?jk=34b91351987e6a57) — JPMorganChase
+### [Wireless Analytics & Intelligence Software Engineer](https://www.indeed.com/viewjob?jk=dd79a57603fe8eb6) — Apple
+- 📍 **Location:** San Francisco Bay Area, CA, US
+- 💰 **Salary:** $129k–$195k/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior Software Engineer - Translation & Multilingual Intelligence](https://www.indeed.com/viewjob?jk=163eca5119efe23c) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $185k–$325k/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Data & Analytics Engineer, Health & Fitness, Sensing & Connectivity](https://www.indeed.com/viewjob?jk=c7f9a756101f893a) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $185k–$325k/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [WiFi Experience Software Engineer](https://www.indeed.com/viewjob?jk=bb503f463fe31764) — Apple
+- 📍 **Location:** San Francisco Bay Area, CA, US
+- 💰 **Salary:** $129k–$195k/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Carrier Technologies Software Engineer](https://www.indeed.com/viewjob?jk=88c6731d1a51fe64) — Apple
+- 📍 **Location:** San Francisco Bay Area, CA, US
+- 💰 **Salary:** $129k–$195k/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Bluetooth Software Engineer](https://www.indeed.com/viewjob?jk=8ab5a974c884b1a8) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $129k–$195k/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [System Software Developer](https://www.indeed.com/viewjob?jk=34dab3022fc55cf2) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $150k–$278k/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior Software Engineer, Apple Ads](https://www.indeed.com/viewjob?jk=0ffa844f4289f27c) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $185k–$325k/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Infrastructure Engineer](https://www.indeed.com/viewjob?jk=c2c921e18704bebb) — Unknown
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $140k–$250k/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [iOS Engineer - AppleTV (tvOS)](https://www.indeed.com/viewjob?jk=e2933ea40e91cb38) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $150k–$278k/yr
+- 🕒 **Posted:** 2026-08-31
+
+### [Senior Lead Site Reliability Engineer](https://www.indeed.com/viewjob?jk=fa934ebdc2d5a3cf) — JPMorganChase
 - 📍 **Location:** Jersey City, NJ, US
 - 💰 **Salary:** $176k–$260k/yr
-- 🕒 **Posted:** 2026-09-12
+- 🕒 **Posted:** 2026-09-13
 
-### [Lead, Java Software Engineer](https://www.indeed.com/viewjob?jk=867675a14bac1ff0) — S&P Global
+### [Software Engineering Manager - Siri Evaluation, Developer Workflows](https://www.indeed.com/viewjob?jk=7bb96f66bb54ca5e) — Apple
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $130k–$165k/yr
-- 🕒 **Posted:** 2026-09-12
+- 💰 **Salary:** $238k–$356k/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=e6ef4ade5fbf4071) — Apple
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $185k–$278k/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Site Reliability Engineer](https://www.indeed.com/viewjob?jk=0b9baba8f24059eb) — tennr
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $175k–$200k/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Senior Infrastructure Engineer](https://www.indeed.com/viewjob?jk=18d2f49836892b5f) — tennr
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $200k–$230k/yr
+- 🕒 **Posted:** 2026-09-13
