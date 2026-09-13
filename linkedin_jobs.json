@@ -1,35 +1,91 @@
 {
-  "scraped_at": "2026-09-12 23:13 UTC",
-  "total": 3,
-  "new_count": 0,
+  "scraped_at": "2026-09-13 01:21 UTC",
+  "total": 5,
+  "new_count": 5,
   "jobs": [
     {
-      "company": "JPMorganChase",
-      "title": "Site Reliability Engineer III",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4466730212/",
+      "company": "DRISHTICON Inc",
+      "title": "Senior Java Software Engineer",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465456042/",
       "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "salary": "$137,750.00/yr - $185,000.00/yr"
+      "ats": "LinkedIn"
     },
     {
-      "company": "JPMorganChase",
-      "title": "Senior Lead Software Engineer - Java, Prime Financial Services Technology",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4466721411/",
+      "company": "PostHog",
+      "title": "Security Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465470032/",
       "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "salary": "$175,750.00/yr - $260,000.00/yr"
+      "ats": "LinkedIn"
     },
     {
-      "company": "JPMorganChase",
-      "title": "Lead Software Engineer - Android Engineer",
+      "company": "Capgemini",
+      "title": "GCP Python Data Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466728263/",
+      "url": "https://www.linkedin.com/jobs/view/4462572554/",
+      "date_posted": "2026-09-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Candid Health",
+      "title": "Front End Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4429106316/",
+      "date_posted": "2026-09-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sciforium",
+      "title": "Pre-training Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459262301/",
       "date_posted": "2026-09-12",
       "ats": "LinkedIn",
-      "salary": "$156,750.00/yr - $215,000.00/yr"
+      "salary": "$165,000.00/yr - $225,000.00/yr"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "DRISHTICON Inc",
+      "title": "Senior Java Software Engineer",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465456042/",
+      "date_posted": "2026-09-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PostHog",
+      "title": "Security Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465470032/",
+      "date_posted": "2026-09-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capgemini",
+      "title": "GCP Python Data Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4462572554/",
+      "date_posted": "2026-09-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Candid Health",
+      "title": "Front End Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4429106316/",
+      "date_posted": "2026-09-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sciforium",
+      "title": "Pre-training Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459262301/",
+      "date_posted": "2026-09-12",
+      "ats": "LinkedIn",
+      "salary": "$165,000.00/yr - $225,000.00/yr"
+    }
+  ]
 }
