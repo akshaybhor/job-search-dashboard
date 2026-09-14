@@ -1,41 +1,151 @@
 {
-  "scraped_at": "2026-09-13 23:24 UTC",
-  "total": 2,
-  "new_count": 2,
+  "scraped_at": "2026-09-14 01:29 UTC",
+  "total": 8,
+  "new_count": 8,
   "jobs": [
     {
-      "company": "Akia",
-      "title": "Software Engineer, Tech Lead",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4465479464/",
+      "company": "NVIDIA",
+      "title": "Senior Systems Software Engineer - Machine Learning",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465499370/",
       "date_posted": "2026-09-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "Revin",
-      "title": "Software Engineer",
+      "company": "Alignerr",
+      "title": "Senior C# Full-Stack Engineer \u2014 AI Data & Infrastructure",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4465704020/",
+      "url": "https://www.linkedin.com/jobs/view/4467005134/",
       "date_posted": "2026-09-13",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$50.00/hr - $75.00/hr"
+    },
+    {
+      "company": "Alignerr",
+      "title": "Data Science Expert - AI Content Specialist",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4467004330/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$40.00/hr - $80.00/hr"
+    },
+    {
+      "company": "Alignerr",
+      "title": "Software Engineer Task Author (AI Training)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4466799943/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$70.00/hr - $120.00/hr"
+    },
+    {
+      "company": "Referment",
+      "title": "Infrastructure Software Engineer: Application Engineering (888C71F)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4466798805/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$225,000.00/yr - $300,000.00/yr"
+    },
+    {
+      "company": "Referment",
+      "title": "Software Developer: Developer Experience (EBB70F9)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4466793805/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $275,000.00/yr"
+    },
+    {
+      "company": "Referment",
+      "title": "Systems: Cloud Engineer (62995FF)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4467002790/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$225,000.00/yr - $300,000.00/yr"
+    },
+    {
+      "company": "Referment",
+      "title": "Systems: Senior Linux Infrastructure Engineer (New York) (FFEF2D2)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4466797784/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$225,000.00/yr - $325,000.00/yr"
     }
   ],
   "new_jobs": [
     {
-      "company": "Akia",
-      "title": "Software Engineer, Tech Lead",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4465479464/",
+      "company": "NVIDIA",
+      "title": "Senior Systems Software Engineer - Machine Learning",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465499370/",
       "date_posted": "2026-09-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "Revin",
-      "title": "Software Engineer",
+      "company": "Alignerr",
+      "title": "Senior C# Full-Stack Engineer \u2014 AI Data & Infrastructure",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4465704020/",
+      "url": "https://www.linkedin.com/jobs/view/4467005134/",
       "date_posted": "2026-09-13",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$50.00/hr - $75.00/hr"
+    },
+    {
+      "company": "Alignerr",
+      "title": "Data Science Expert - AI Content Specialist",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4467004330/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$40.00/hr - $80.00/hr"
+    },
+    {
+      "company": "Alignerr",
+      "title": "Software Engineer Task Author (AI Training)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4466799943/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$70.00/hr - $120.00/hr"
+    },
+    {
+      "company": "Referment",
+      "title": "Infrastructure Software Engineer: Application Engineering (888C71F)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4466798805/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$225,000.00/yr - $300,000.00/yr"
+    },
+    {
+      "company": "Referment",
+      "title": "Software Developer: Developer Experience (EBB70F9)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4466793805/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $275,000.00/yr"
+    },
+    {
+      "company": "Referment",
+      "title": "Systems: Cloud Engineer (62995FF)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4467002790/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$225,000.00/yr - $300,000.00/yr"
+    },
+    {
+      "company": "Referment",
+      "title": "Systems: Senior Linux Infrastructure Engineer (New York) (FFEF2D2)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4466797784/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "salary": "$225,000.00/yr - $325,000.00/yr"
     }
   ]
 }
