@@ -31,7 +31,7 @@ SCORES_PATH = os.path.join(SCRIPT_DIR, "scores.json")
 SOURCE_FILES = ["jobs.json", "linkedin_jobs.json", "indeed_jobs.json"]
 
 DEFAULT_MODEL = "claude-haiku-4-5-20251001"
-GEMINI_MODEL = "gemini-3.5-flash"  # used when GEMINI_API_KEY is set (cheap CI path)
+GEMINI_MODEL = "gemini-1.5-flash"  # used when GEMINI_API_KEY is set (cheap CI path)
 JD_MAX_CHARS = 6000
 # Direct page-fetch sources. LinkedIn is handled via its guest posting
 # endpoint and Indeed via the description the scraper saves — see fetch_jd().
@@ -641,7 +641,10 @@ def main() -> int:
         })
         with open(SCORES_PATH, "w") as f:
             json.dump(data, f, separators=(",", ":"))  # compact: dashboard fetches this
-        time.sleep(0.2)  # be gentle on rate limits / the local CLI
+        
+        # Free-tier Gemini is capped at 15 Requests Per Minute.
+        # Sleeping 4.5 seconds guarantees we stay safely under that limit (~13 RPM).
+        time.sleep(4.5)
 
     remaining = len(unscored) - len(batch)
     print(f"\n✅ scored {len(batch)} of {len(unscored)} unscored "
