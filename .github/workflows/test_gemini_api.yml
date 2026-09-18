@@ -25,7 +25,7 @@ jobs:
               exit(1)
 
           # Use the exact same endpoint and model we use in triage_agent.py
-          endpoint = 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash-latest:generateContent'
+          endpoint = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent'
           
           # A tiny, safe payload
           body = json.dumps({
