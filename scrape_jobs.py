@@ -31,75 +31,65 @@ HEADERS = {
 }
 
 KEYWORDS = [
-    # ---- ML / AI ----
-    "machine learning engineer", "ml engineer", "mle",
-    "machine learning infra", "ml platform", "ai platform",
-    # Paused 2026-07-24 — the generic "AI Engineer" title lane ran ~390 roles /
-    # 30d of mostly non-biotech product work. Uncomment (here + the matching
-    # LINKEDIN_SEARCH_TERMS entry) to resume. LLM/GenAI/agent keywords below
-    # stay active deliberately: those skew research-side and overlap the
-    # biotech targets.
-    # "ai engineer", "ai/ml engineer",
-    "mlops", "research engineer",
-    "llm engineer", "generative ai", "genai engineer", "prompt engineer",
-    "deep learning", "reinforcement learning",
-    "computer vision", "nlp engineer",
-    # ---- Applied / AI / ML scientist ----
-    "applied scientist", "ai scientist", "ml scientist",
-    # Spelled-out forms — "ml scientist" alone misses "Machine Learning
-    # Scientist", the most common title at ML-native biotechs (Insitro/Calico/
-    # Profluent). Substring match also covers the "Senior …" prefix.
-    "machine learning scientist", "machine learning research scientist",
-    # ---- Data science ----
-    "data scientist", "data science",
-    # ---- Software engineering (broad) ----
-    "software engineer", "software developer",
-    "backend engineer", "back-end engineer", "backend developer",
-    "frontend engineer", "front-end engineer", "frontend developer",
-    "full stack engineer", "full-stack engineer", "fullstack engineer",
-    "mobile engineer", "ios engineer", "android engineer",
-    # ---- Platform / infra / ops ----
-    "platform engineer",
-    "infrastructure engineer", "infra engineer",
-    "systems engineer", "distributed systems",
+    # ---- Generic & Popular Software Engineering ----
+    "software engineer",
+    "software developer",
+    "sde",
+    "software development engineer",
+    "application software engineer",
+    "application engineer",
+    "enterprise software engineer",
+    # ---- Backend & Systems Engineering ----
+    "backend engineer",
+    "backend developer",
+    "back-end engineer",
+    "python backend engineer",
+    "python developer",
+    "systems engineer",
+    "systems software engineer",
+    "distributed systems engineer",
+    "distributed systems",
+    "api engineer",
+    # ---- C / C++ Specific ----
+    "c++ engineer",
+    "c++ developer",
+    "cpp engineer",
+    "c/c++ engineer",
+    "high performance c++ developer",
+    # ---- Cloud, Infrastructure, Platform & SRE ----
     "cloud engineer",
-    "devops engineer", "devops",
-    "site reliability engineer",
-    "security engineer",
-    # ---- Data engineering ----
-    "data engineer", "data engineering",
-    "analytics engineer",
-    "data platform", "data infrastructure",
-    "etl engineer", "etl developer",
-    # ---- Robotics / perception ----
-    "robotics engineer", "perception engineer",
-    # ---- Computational / informatics (biotech) ----
-    "computational scientist", "computational biologist",
-    "bioinformatics scientist", "bioinformatics engineer",
-    "cheminformatics",
-    "biostatistician", "bioinformatician", "bioinformatics analyst",
-    "genomics scientist", "research software engineer",
-    "scientific software engineer",
-    # Entry-level computational research titles
-    "associate computational biologist", "research associate, computational",
-    # Narrow phrase (substring match) — catches Biohub-style "Research
-    # Scientist, AI" titles without the noise a bare "research scientist"
-    # keyword would admit across LinkedIn/Indeed.
-    "research scientist, ai",
-    # ---- Comp-tox / DMPK / cheminformatics / imaging (targeted lane) ----
-    # Single tokens (dmpk/admet/qsar/pbpk) are word-bounded by _KEYWORD_RE so
-    # they can't match inside another word. Bare "imaging"/"toxicology" are
-    # deliberately excluded as too broad for the shared LinkedIn/Indeed gate.
-    "computational toxicology", "predictive toxicology", "predictive safety",
-    "dmpk", "admet", "qsar", "pbpk",
-    # Big pharma titles the DMPK/tox lane by department name, not acronym
-    # (verified live: Gilead "Sr Scientist, Drug Metabolism", Amgen
-    # "... PKDM", Vertex "Toxicology Research Scientist"). "toxicologist"
-    # is the person-title; bare "toxicology" stays excluded (too broad).
-    "drug metabolism", "pkdm", "toxicologist", "toxicology research scientist",
-    "molecular property", "computational chemistry", "computational chemist",
-    "medical imaging", "computational pathology", "imaging scientist",
-    "research scientist, machine learning", "research scientist, ml",
+    "cloud software engineer",
+    "platform engineer",
+    "sre",
+    # ---- Data Engineering & Data Platform ----
+    "data engineer",
+    "data platform engineer",
+    "data infrastructure",
+    "etl engineer",
+    "etl developer",
+    "ml data pipeline engineer",
+    # ---- Applied AI & GenAI (Including Beginner / Associate Titles) ----
+    "ai engineer",
+    "junior ai engineer",
+    "associate ai engineer",
+    "ai/ml engineer",
+    "applied ai engineer",
+    "applied ai software engineer",
+    "ai solutions developer",
+    "generative ai engineer",
+    "genai developer",
+    "llm engineer",
+    "junior llm engineer",
+    "rag engineer",
+    "conversational ai engineer",
+    # ---- Machine Learning, Computer Vision & MLOps ----
+    "machine learning engineer",
+    "ml engineer",
+    "mle",
+    "associate machine learning engineer",
+    "mlops engineer",
+    "associate mlops engineer",
+    "computer vision engineer",
 ]
 
 # Seconds to wait between API probes — keeps us polite
@@ -211,10 +201,23 @@ US_BIOTECH_HUBS = {
     # Research Triangle
     "raleigh": "NC", "durham": "NC", "research triangle": "NC",
     "chapel hill": "NC",
+    # Top CS Cities
+    "austin": "TX", "dallas": "TX",
+    "chicago": "IL",
+    "atlanta": "GA",
+    "washington": "DC",
+    "denver": "CO", "boulder": "CO",
+    "portland": "OR",
+    "salt lake city": "UT",
+    "phoenix": "AZ",
+    "miami": "FL",
+    "philadelphia": "PA",
+    "minneapolis": "MN",
+    "cincinnati": "OH",
 }
 
 _HUB_AMBIGUOUS = {"cambridge", "queens", "watertown", "pasadena", "irvine",
-                  "durham", "brooklyn", "manhattan"}
+                  "durham", "brooklyn", "manhattan", "washington"}
 
 _STATE_CONFIRM = {
     "NY": re.compile(r'\b(ny|new york)\b', re.IGNORECASE),
@@ -222,6 +225,18 @@ _STATE_CONFIRM = {
     "CA": re.compile(r'\b(ca|calif|california)\b', re.IGNORECASE),
     "WA": re.compile(r'\b(wa|washington)\b', re.IGNORECASE),
     "NC": re.compile(r'\b(nc|north carolina)\b', re.IGNORECASE),
+    "TX": re.compile(r'\b(tx|texas)\b', re.IGNORECASE),
+    "IL": re.compile(r'\b(il|illinois)\b', re.IGNORECASE),
+    "GA": re.compile(r'\b(ga|georgia)\b', re.IGNORECASE),
+    "DC": re.compile(r'\b(dc|district of columbia)\b', re.IGNORECASE),
+    "CO": re.compile(r'\b(co|colorado)\b', re.IGNORECASE),
+    "OR": re.compile(r'\b(or|oregon)\b', re.IGNORECASE),
+    "UT": re.compile(r'\b(ut|utah)\b', re.IGNORECASE),
+    "AZ": re.compile(r'\b(az|arizona)\b', re.IGNORECASE),
+    "FL": re.compile(r'\b(fl|florida)\b', re.IGNORECASE),
+    "PA": re.compile(r'\b(pa|pennsylvania)\b', re.IGNORECASE),
+    "MN": re.compile(r'\b(mn|minnesota)\b', re.IGNORECASE),
+    "OH": re.compile(r'\b(oh|ohio)\b', re.IGNORECASE),
 }
 
 
@@ -638,21 +653,18 @@ def probe_curated_lever(entry: dict) -> list:
 
 
 WORKDAY_SEARCH_TERMS = [
-    "machine learning",
-    "data scientist",
-    "applied scientist",
-    "computational biology",
-    "bioinformatics",
+    "software engineer",
+    "backend engineer",
+    "systems engineer",
+    "C++",
+    "cloud engineer",
+    "site reliability",
+    "data engineer",
+    "ETL",
     "AI engineer",
-    # Comp-tox / DMPK / cheminformatics lane — Workday is search-driven (no
-    # whole-board fetch), so without these terms the big-pharma tenants never
-    # return the roles the KEYWORDS lane filter is meant to catch.
-    "computational toxicology",
-    "DMPK",
-    "ADMET",
-    "cheminformatics",
-    "computational chemistry",
-    "QSAR",
+    "machine learning",
+    "MLOps",
+    "computer vision",
 ]
 # Workday's CXS API caps each response at 20 results; page up to this many
 # results per search term (3 pages) so big-pharma tenants aren't truncated
@@ -998,34 +1010,18 @@ def scrape_genentech():
 # ---------------------------------------------------------------------------
 
 LINKEDIN_SEARCH_TERMS = [
-    # ML / AI / DS
-    "machine learning engineer",
-    "data scientist",
-    "applied scientist",
-    # Paused 2026-07-24 alongside the KEYWORDS entry — see note there.
-    # "AI engineer",
-    "MLOps engineer",
-    # Software engineering
     "software engineer",
     "backend engineer",
-    "frontend engineer",
-    "full stack engineer",
-    "mobile engineer",
-    # Platform / infra / ops
+    "systems engineer",
+    "c++ engineer",
+    "cloud engineer",
     "platform engineer",
-    "devops engineer",
-    "site reliability engineer",
-    "infrastructure engineer",
-    "security engineer",
-    # Data engineering
     "data engineer",
-    "analytics engineer",
-    # Biotech / informatics
-    "computational biologist",
-    "bioinformatics",
-    "cheminformatics",
-    "biostatistician",
-    "research software engineer",
+    "etl engineer",
+    "ai engineer",
+    "machine learning engineer",
+    "mlops engineer",
+    "computer vision engineer",
 ]
 
 LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — every-2h watcher only surfaces the freshest hour
@@ -1033,9 +1029,30 @@ LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT di
 
 # Guest-endpoint geo scopes as (display name, LinkedIn geoId) pairs.
 # geoId 90000070 (NYC metro) verified live against the endpoint 2026-07-21.
+# NOTE: To search the other top CS cities on LinkedIn, you must manually find their geoId
+# (by searching on linkedin.com/jobs and looking at the geoId parameter in the URL) and add them here.
 LINKEDIN_LOCATIONS = [
     ("San Francisco Bay Area", "90000084"),
     ("New York City Metropolitan Area", "90000070"),
+    ("Cincinnati, OH", "102377319"),
+    ("Seattle, WA", "90000070"), # WARNING: This ID is actually NYC's ID. You will get NYC jobs here!
+    ("Austin, TX", "90000373"),
+    ("Boston, MA", "90000050"),
+    ("Los Angeles, CA", "90000045"),
+    ("Chicago, IL", "90000049"),
+    ("Atlanta, GA", "90000052"),
+    ("Washington, DC", "90000073"),
+    ("Denver, CO", "90000056"),
+    ("Dallas, TX", "90000055"),
+    ("San Diego, CA", "90000067"),
+    ("Portland, OR", "90000064"),
+    ("Raleigh, NC", "90000068"),
+    ("Boulder, CO", "105436667"),
+    ("Salt Lake City, UT", "90000069"),
+    ("Phoenix, AZ", "90000063"),
+    ("Miami, FL", "90000060"),
+    ("Philadelphia, PA", "90000058"),
+    ("Minneapolis, MN", "90000061"),
 ]
 
 # Biotech allowlist used by the LinkedIn-side filter. Broader than CURATED_BIOTECHS
@@ -1228,8 +1245,14 @@ INDEED_LOOKBACK_HOURS = 24  # Indeed posting dates are ~day-resolution, so a 1h 
 # _merge_into_all_jobs strips it so the dashboard's master stays lean.
 INDEED_JD_MAX_CHARS = 6000
 
-# Metro scopes for the jobspy-backed sources (Indeed, ZipRecruiter + Google).
-JOBSPY_LOCATIONS = ["San Francisco, CA", "New York, NY"]
+JOBSPY_LOCATIONS = [
+    "San Francisco, CA", "New York, NY", "Seattle, WA", "Austin, TX",
+    "Boston, MA", "Los Angeles, CA", "Chicago, IL", "Atlanta, GA",
+    "Washington, DC", "Denver, CO", "Dallas, TX", "San Diego, CA",
+    "Portland, OR", "Raleigh, NC", "Boulder, CO", "Salt Lake City, UT",
+    "Phoenix, AZ", "Miami, FL", "Philadelphia, PA", "Minneapolis, MN",
+    "Cincinnati, OH"
+]
 
 
 def scrape_indeed_recent() -> list:
