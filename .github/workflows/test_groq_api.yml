@@ -1,18 +1,4 @@
-name: Test Groq API
-
-on:
-  workflow_dispatch: # Allows you to run this manually from the Actions tab
-
-jobs:
-  test-api:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Ping Groq API
+- name: Ping Groq API
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: |
@@ -36,10 +22,12 @@ jobs:
           }).encode('utf-8')
 
           req = urllib.request.Request(
-              endpoint, data=body,
+              endpoint, 
+              data=body,
               headers={
                   'Content-Type': 'application/json', 
-                  'Authorization': f'Bearer {api_key}'
+                  'Authorization': f'Bearer {api_key}',
+                  'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
               }
           )
 
