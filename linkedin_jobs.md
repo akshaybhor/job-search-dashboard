@@ -1,175 +1,133 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-17 22:24 UTC*
+*Last updated: 2026-09-18 00:43 UTC*
 
-**40 new role(s)** since last run · 40 total in last 1h
+**31 new role(s)** since last run · 31 total in last 1h
 
-### [Senior Software Engineer - Machine Learning](https://www.linkedin.com/jobs/view/4467589739/) — Uber Freight
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior AI/ML Engineer](https://www.linkedin.com/jobs/view/4468820543/) — Cooley AI
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior Machine Learning Engineer, Fleet Monitoring & Response](https://www.linkedin.com/jobs/view/4467802587/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior Backend Engineer | $7.5B AI Healthtech Startup](https://www.linkedin.com/jobs/view/4467592758/) — Day One Partners
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $160,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-09-17
-
-### [Full Stack Engineer | $7.5B AI Healthcare Startup](https://www.linkedin.com/jobs/view/4467803560/) — Day One Partners
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $130,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-09-17
-
-### [Biostatistician 2, S-SPIRE (Hybrid Opportunity)](https://www.linkedin.com/jobs/view/4468831417/) — Stanford University
-- 📍 **Location:** Stanford, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Biostatistician 1](https://www.linkedin.com/jobs/view/4468842141/) — Stanford University
-- 📍 **Location:** Stanford, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Data Science Program Lead II](https://www.linkedin.com/jobs/view/4467591743/) — AbbVie
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $109,500.00/yr - $208,500.00/yr
-- 🕒 **Posted:** 2026-09-17
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4468834423/) — PTR Global
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [AI Platform Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4468824196/) — RTX
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4467818397/) — TetraMem - Accelerate The World
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Cloud Platform / Infrastructure Engineer](https://www.linkedin.com/jobs/view/4468828325/) — MPower Plus
-- 📍 **Location:** Sunnyvale, CA
+### [Senior Software Engineer, Humanoid Robotics](https://www.linkedin.com/jobs/view/4467829206/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Software Engineer, Diags Infra](https://www.linkedin.com/jobs/view/4467595813/) — Google
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior iOS Engineer, Media Experience](https://www.linkedin.com/jobs/view/4468839013/) — Reddit, Inc.
+### [Software Engineer](https://www.linkedin.com/jobs/view/4440877016/) — Ascend
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Software Engineer (Backed by $9M from Kleiner Perkins)](https://www.linkedin.com/jobs/view/4467589892/) — Day One Partners
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $130,000.00/yr - $200,000.00/yr
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4467828212/) — Docusign
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [CMMS Software Developer](https://www.linkedin.com/jobs/view/4468829315/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
+### [Senior Software Engineer - Embedded Linux for Edge](https://www.linkedin.com/jobs/view/4467834098/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Google Data Platform Engineer](https://www.linkedin.com/jobs/view/4467810283/) — Holistic Partners, Inc
-- 📍 **Location:** San Francisco Bay Area
+### [Manager, Software Engineering](https://www.linkedin.com/jobs/view/4468844752/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Google Data Platform Architect](https://www.linkedin.com/jobs/view/4467593518/) — Holistic Partners, Inc
-- 📍 **Location:** San Francisco Bay Area
+### [DVIP QA / Software Engineer in Test](https://www.linkedin.com/jobs/view/4468840939/) — Dolby Laboratories
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Artificial Intelligence/ Machine Learning Security Operations (MLSecOps) Lead Security Engineer](https://www.linkedin.com/jobs/view/4468803761/) — Motion Recruitment
-- 📍 **Location:** Roseland, NJ
+### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4467821289/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Machine Learning Engineer (3x a week onsite in Morristown, NJ)](https://www.linkedin.com/jobs/view/4468646824/) — Saicon
-- 📍 **Location:** Morristown, NJ
-- 🕒 **Posted:** 2026-09-17
-
-### [Junior Data Scientist](https://www.linkedin.com/jobs/view/4465872171/) — COGENT Infotech
-- 📍 **Location:** White Plains, NY
-- 🕒 **Posted:** 2026-09-17
-
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4468837089/) — HireTalent - Staffing & Recruiting Firm
-- 📍 **Location:** Newark, NJ
-- 🕒 **Posted:** 2026-09-17
-
-### [Software Engineer III, Infrastructure, Geo](https://www.linkedin.com/jobs/view/4467801707/) — Google
+### [Senior Applied Scientist, Fauna](https://www.linkedin.com/jobs/view/4468837905/) — Amazon
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-17
 
-### [Software Engineer III - Equities Structured Products Technology](https://www.linkedin.com/jobs/view/4468827487/) — Bank of America
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $102,900.00/yr - $179,900.00/yr
-- 🕒 **Posted:** 2026-09-17
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4466622175/) — ECLARO
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-09-17
-
-### [Full Stack Engineer / Healthcare & Wellness / NYC](https://www.linkedin.com/jobs/view/4468824365/) — Motion Recruitment
+### [Manager, Software Engineering](https://www.linkedin.com/jobs/view/4468835873/) — Snap Inc.
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-17
 
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4467160138/) — Speakeasy
+### [Data Scientist ll - RiskOS](https://www.linkedin.com/jobs/view/4468841773/) — Socure
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4467817439/) — BayOne Solutions
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer 4 - tvOS](https://www.linkedin.com/jobs/view/4466639178/) — Netflix
+- 📍 **Location:** Los Gatos, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer III - TeraWave](https://www.linkedin.com/jobs/view/4466634179/) — Blue Origin
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Software Engineer - TeraWave PoP Control-Plane Network Services](https://www.linkedin.com/jobs/view/4466625297/) — Blue Origin
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4467833097/) — Sanmai
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Security Engineer - Infrastructure Security](https://www.linkedin.com/jobs/view/4468839850/) — Figure
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Software Engineer - TeraWave RF and Optical Systems](https://www.linkedin.com/jobs/view/4466635211/) — Blue Origin
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Software Engineer - TeraWave RF and Optical Systems](https://www.linkedin.com/jobs/view/4466617969/) — Blue Origin
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [SOFTWARE ENGINEER – TeraWave – RF and Optical Systems](https://www.linkedin.com/jobs/view/4466628284/) — Blue Origin
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Wireless Software Engineer - MAC Control Plane - TeraWave](https://www.linkedin.com/jobs/view/4466617967/) — Blue Origin
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Simulation Software Engineer, RF & DSP - Terawave](https://www.linkedin.com/jobs/view/4466623364/) — Blue Origin
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Embedded Software Engineer - TeraWave Customer Terminals](https://www.linkedin.com/jobs/view/4466638135/) — Blue Origin
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer 1, Platform](https://www.linkedin.com/jobs/view/4466619506/) — Sydecar
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $136,000.00/yr - $155,000.00/yr
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4466632193/) — Sydecar
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $190,000.00/yr - $255,000.00/yr
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4468843547/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer III - TeraWave](https://www.linkedin.com/jobs/view/4466639120/) — Blue Origin
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer III - TeraWave](https://www.linkedin.com/jobs/view/4466639119/) — Blue Origin
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Security Engineer, Enterprise Security](https://www.linkedin.com/jobs/view/4468837877/) — Figure
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Embedded Software Engineer - Onsite](https://www.linkedin.com/jobs/view/4436095196/) — BayOne Solutions
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $75.00/hr - $80.00/hr
+- 🕒 **Posted:** 2026-09-17
+
+### [Data Scientist ll - RiskOS](https://www.linkedin.com/jobs/view/4468849101/) — Socure
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior Software Engineer / Financial Services Startup / NYC](https://www.linkedin.com/jobs/view/4468699817/) — Motion Recruitment
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-17
-
-### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4465248087/) — BeaconFire Inc.
-- 📍 **Location:** East Windsor, NJ
-- 🕒 **Posted:** 2026-09-17
-
-### [Java/Software Developer](https://www.linkedin.com/jobs/view/4466267902/) — BeaconFire Inc.
-- 📍 **Location:** East Windsor, NJ
-- 💰 **Salary:** $65,000.00/yr - $80,000.00/yr
-- 🕒 **Posted:** 2026-09-17
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4465982850/) — BeaconFire Inc.
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-17
-
-### [331701 Lead, Java Software Engineer](https://www.linkedin.com/jobs/view/4464119816/) — S&P Global
-- 📍 **Location:** Princeton, NJ
-- 🕒 **Posted:** 2026-09-17
-
-### [Software Engineer(LLM) – Performance & Load Test Exp](https://www.linkedin.com/jobs/view/4468830330/) — Envision Technology Solutions
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior DevOps Engineer / AWS / Onsite in Holmdel, NJ](https://www.linkedin.com/jobs/view/4456790857/) — Motion Recruitment
-- 📍 **Location:** Holmdel, NJ
-- 🕒 **Posted:** 2026-09-17
-
-### [Infrastructure Engineer – Performance & Load Test exp](https://www.linkedin.com/jobs/view/4468828285/) — Envision Technology Solutions
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-17
-
-### [Software Engineer – Compliance Technology](https://www.linkedin.com/jobs/view/4468838051/) — TD
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-17
-
-### [Data Platform lead – SAS](https://www.linkedin.com/jobs/view/4467590861/) — Noblesoft Technologies
-- 📍 **Location:** Rahway, NJ
-- 💰 **Salary:** $50.00/yr - $55.00/yr
-- 🕒 **Posted:** 2026-09-17
-
-### [Lead Data Engineer – Financial Data & Analytics](https://www.linkedin.com/jobs/view/4468661016/) — Saicon
-- 📍 **Location:** Parsippany, NJ
-- 🕒 **Posted:** 2026-09-17
-
-### [Associate, Data Sciences II](https://www.linkedin.com/jobs/view/4467803500/) — AbbVie
-- 📍 **Location:** Florham Park, NJ
-- 💰 **Salary:** $65,500.00/yr - $125,500.00/yr
-- 🕒 **Posted:** 2026-09-17
-
-### [Biostatistician- #26-23381](https://www.linkedin.com/jobs/view/4467808493/) — US Tech Solutions
-- 📍 **Location:** Parsippany, NJ
-- 💰 **Salary:** $100.00/hr - $110.00/hr
-- 🕒 **Posted:** 2026-09-17
-
-### [Data Science Program Lead II](https://www.linkedin.com/jobs/view/4467802551/) — AbbVie
-- 📍 **Location:** Florham Park, NJ
-- 💰 **Salary:** $109,500.00/yr - $208,500.00/yr
+- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
 - 🕒 **Posted:** 2026-09-17
