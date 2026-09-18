@@ -607,7 +607,14 @@ def main() -> int:
             verdict = parse_verdict(raw)
         except Exception as e:
             verdict = None
-            print(f"  ⚠️  {label}: {type(e).__name__}")
+            if type(e).__name__ == "HTTPError":
+                try:
+                    err_body = e.read().decode("utf-8")
+                    print(f"  ⚠️  {label}: HTTPError {e.code}\n{err_body}")
+                except Exception:
+                    print(f"  ⚠️  {label}: {type(e).__name__} {str(e)}")
+            else:
+                print(f"  ⚠️  {label}: {type(e).__name__} {str(e)}")
         if verdict is None:
             verdict = {"score": 0, "verdict": "error", "role_family": "other",
                        "seniority_fit": "", "why": "model call or parse failed",
