@@ -31,7 +31,7 @@ SCORES_PATH = os.path.join(SCRIPT_DIR, "scores.json")
 SOURCE_FILES = ["jobs.json", "linkedin_jobs.json", "indeed_jobs.json"]
 
 DEFAULT_MODEL = "claude-haiku-4-5-20251001"
-GEMINI_MODEL = "gemini-1.5-flash"  # used when GEMINI_API_KEY is set (cheap CI path)
+GEMINI_MODEL = "gemini-3.5-flash"  # used when GEMINI_API_KEY is set (cheap CI path)
 JD_MAX_CHARS = 6000
 # Direct page-fetch sources. LinkedIn is handled via its guest posting
 # endpoint and Indeed via the description the scraper saves — see fetch_jd().
@@ -311,8 +311,8 @@ def make_call_model(model: str):
     if os.environ.get("GEMINI_API_KEY"):
         gem_model = model if model.startswith("gemini") else GEMINI_MODEL
         endpoint = (
-            f"https://generativelanguage.googleapis.com/v1/models/"
-            f"{gem_model}-latest:generateContent"
+            f"https://generativelanguage.googleapis.com/v1beta/models/"
+            f"{gem_model}:generateContent"
         )
 
         def call_gemini(static_prefix: str, job_prompt: str) -> str:
