@@ -311,8 +311,8 @@ def make_call_model(model: str):
     if os.environ.get("GEMINI_API_KEY"):
         gem_model = model if model.startswith("gemini") else GEMINI_MODEL
         endpoint = (
-            f"https://generativelanguage.googleapis.com/v1beta/models/"
-            f"{gem_model}:generateContent"
+            f"https://generativelanguage.googleapis.com/v1/models/"
+            f"{gem_model}-latest:generateContent"
         )
 
         def call_gemini(static_prefix: str, job_prompt: str) -> str:
