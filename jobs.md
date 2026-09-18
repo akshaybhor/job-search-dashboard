@@ -1,28 +1,52 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-17 08:46 UTC*
+*Last updated: 2026-09-18 08:21 UTC*
 
-**6 new role(s)** since last run · 166 total in last 24h
+**12 new role(s)** since last run · 173 total in last 24h
 
-### [Senior Software Engineer II](https://job-boards.greenhouse.io/freenome/jobs/8414748002) — Freenome
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-07-15
-
-### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6139254004) — Natera
-- 📍 **Location:** San Carlos, CA
+### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6138807004) — Natera
+- 📍 **Location:** US Remote
 - 🕒 **Posted:** 2026-08-31
 
-### [Lead Biostatistician (Oncology Clinical Studies)](https://job-boards.greenhouse.io/natera/jobs/6187349004) — Natera
+### [Software Engineer III, Service AI Transformation](https://job-boards.greenhouse.io/natera/jobs/6198781004) — Natera
 - 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-09-11
+- 🕒 **Posted:** 2026-09-17
 
-### [Senior Manager of DevOps (Data Science Production Engineering)](https://job-boards.greenhouse.io/natera/jobs/6148527004) — Natera
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-09-01
+### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7747518) — Chan Zuckerberg Biohub
+- 📍 **Location:** New York, NY (Hybrid)
+- 🕒 **Posted:** 2026-09-17
 
-### [MSAT Data Science Engineer](https://www.linkedin.com/jobs/view/4430968589/) — Allogene Therapeutics
-- 📍 **Location:** Newark, CA
-- 🕒 **Posted:** 2026-09-16
+### [Software Engineer III - Driver Developer (Autonomous Lab)](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5241119007) — Ginkgo Bioworks
+- 📍 **Location:** Boston, Massachusetts
+- 🕒 **Posted:** 2026-09-17
 
-### [2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)](https://www.linkedin.com/jobs/view/4457681530/) — AbbVie
+### [Software Engineer III - Driver Developer (Autonomous Lab)](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5241119007) — Bitome, Inc.
+- 📍 **Location:** Boston, Massachusetts
+- 🕒 **Posted:** 2026-09-17
+
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4466294901/) — Gen
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Bioinformatics Scientist](https://www.linkedin.com/jobs/view/4448900428/) — Tempus AI
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Data Science Program Lead II](https://www.linkedin.com/jobs/view/4467591743/) — AbbVie
 - 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-09-16
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior GPU Performance Software Engineer](https://www.linkedin.com/jobs/view/4457976761/) — Intel
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Computational Biologist I](https://www.linkedin.com/jobs/view/4467570548/) — Tempus AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-17
+
+### [Computational Biologist, Immune Cell Repolarization](https://www.linkedin.com/jobs/view/4457708295/) — Biohub
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-17
+
+### [Associate, Data Sciences II](https://www.linkedin.com/jobs/view/4467803500/) — AbbVie
+- 📍 **Location:** Florham Park, NJ
+- 🕒 **Posted:** 2026-09-17
