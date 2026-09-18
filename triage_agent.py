@@ -328,7 +328,6 @@ def make_call_model(model: str):
                     "maxOutputTokens": 2048,
                     "temperature": 0,
                     "responseMimeType": "application/json",  # force clean JSON
-                    "thinkingConfig": {"thinkingBudget": 128},  # 0 = cheapest
                 },
             }).encode("utf-8")
             req = urllib.request.Request(
