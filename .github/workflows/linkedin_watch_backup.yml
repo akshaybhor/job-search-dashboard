@@ -7,7 +7,7 @@ name: Workflow Watchdog
 # off-peak, so this fallback is less likely to be throttled than :00.
 on:
   schedule:
-    - cron: "33 15-23,0-3 * * *"
+    - cron: "33 10-23,0-3 * * *" # 6am EST to 8pm PST (10:00 to 03:00 UTC)
   workflow_dispatch:
 
 # NOTE: deliberately NOT in the job-scraper-commit-push concurrency group.
