@@ -36,7 +36,7 @@ SCORES_PATH = os.path.join(SCRIPT_DIR, "scores.json")
 SOURCE_FILES = ["jobs.json", "linkedin_jobs.json", "indeed_jobs.json"]
 
 DEFAULT_ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"
-DEFAULT_GEMINI_MODEL = "gemini-2.5-flash"
+DEFAULT_GEMINI_MODEL = "gemini-3.6-flash"
 DEFAULT_GROQ_MODEL = "openai/gpt-oss-120b"
 
 JD_MAX_CHARS = 6000
@@ -751,7 +751,8 @@ def main() -> int:
     ):
       # Extra pacing if judging on rate-limited tiers
       if sleep_interval > 0:
-        time.sleep(sleep_interval)
+        import random
+        time.sleep(sleep_interval + random.uniform(0, 15))
       jv = judge_score(static_prefix, prompt, verdict, call_model)
       verdict["judge_ok"] = jv["justified"]
       verdict["judge_conf"] = jv["confidence"]
@@ -774,8 +775,10 @@ def main() -> int:
     with open(SCORES_PATH, "w") as f:
       json.dump(data, f, separators=(",", ":"))
 
+    import random
     if sleep_interval > 0:
-      time.sleep(sleep_interval)
+      jitter = random.uniform(0, 15)
+      time.sleep(sleep_interval + jitter)
 
   remaining = len(unscored) - len(batch)
   print(
@@ -793,3 +796,4 @@ def main() -> int:
 
 if __name__ == "__main__":
   sys.exit(main())
+s
