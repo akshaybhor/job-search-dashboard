@@ -27,7 +27,7 @@ jobs:
           endpoint = 'https://api.groq.com/openai/v1/chat/completions'
           
           body = json.dumps({
-              'model': 'llama-3.3-70b-versatile',
+              'model': 'llama-3.1-8b-instant',
               'messages': [
                   {'role': 'user', 'content': 'Reply with the exact word: SUCCESS'}
               ],
@@ -44,7 +44,7 @@ jobs:
               }
           )
 
-          print('Sending test ping to Groq (llama-3.3-70b-versatile)...')
+          print('Sending test ping to Groq (llama-3.1-8b-instant)...')
           try:
               with urllib.request.urlopen(req) as r:
                   resp = json.loads(r.read().decode('utf-8'))
