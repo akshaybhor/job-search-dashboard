@@ -1,0 +1,59 @@
+name: Test Groq API
+
+on:
+  workflow_dispatch: # Allows you to run this manually from the Actions tab
+
+jobs:
+  test-api:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Ping Groq API
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          python -c "
+          import os, json, urllib.request
+
+          api_key = os.environ.get('GROQ_API_KEY')
+          if not api_key:
+              print('❌ GROQ_API_KEY secret is missing or empty!')
+              exit(1)
+
+          endpoint = 'https://api.groq.com/openai/v1/chat/completions'
+          
+          body = json.dumps({
+              'model': 'llama-3.3-70b-versatile',
+              'messages': [
+                  {'role': 'user', 'content': 'Reply with the exact word: SUCCESS'}
+              ],
+              'temperature': 0.1,
+              'max_tokens': 10
+          }).encode('utf-8')
+
+          req = urllib.request.Request(
+              endpoint, data=body,
+              headers={
+                  'Content-Type': 'application/json', 
+                  'Authorization': f'Bearer {api_key}'
+              }
+          )
+
+          print('Sending test ping to Groq (llama-3.3-70b-versatile)...')
+          try:
+              with urllib.request.urlopen(req) as r:
+                  resp = json.loads(r.read().decode('utf-8'))
+                  text = resp['choices'][0]['message']['content'].strip()
+                  print(f'✅ API Connection Successful! Groq replied: {text}')
+          except Exception as e:
+              print(f'❌ API Connection Failed! {type(e).__name__}')
+              if hasattr(e, 'read'):
+                  print(f'Groq Error Details:\n{e.read().decode(\"utf-8\")}')
+              else:
+                  print(str(e))
+              exit(1)
+          "
