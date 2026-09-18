@@ -1,0 +1,53 @@
+name: Test Gemini API
+
+on:
+  workflow_dispatch: # Allows you to run this manually from the Actions tab
+
+jobs:
+  test-api:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Ping Gemini API
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python -c "
+          import os, json, urllib.request
+
+          api_key = os.environ.get('GEMINI_API_KEY')
+          if not api_key:
+              print('❌ GEMINI_API_KEY secret is missing or empty!')
+              exit(1)
+
+          # Use the exact same endpoint and model we use in triage_agent.py
+          endpoint = 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash-latest:generateContent'
+          
+          # A tiny, safe payload
+          body = json.dumps({
+              'contents': [{'parts': [{'text': 'Reply with the exact word: SUCCESS'}]}]
+          }).encode('utf-8')
+
+          req = urllib.request.Request(
+              endpoint, data=body,
+              headers={'Content-Type': 'application/json', 'x-goog-api-key': api_key}
+          )
+
+          print('Sending test ping to Gemini 1.5 Flash...')
+          try:
+              with urllib.request.urlopen(req) as r:
+                  resp = json.loads(r.read().decode('utf-8'))
+                  text = resp['candidates'][0]['content']['parts'][0]['text'].strip()
+                  print(f'✅ API Connection Successful! Gemini replied: {text}')
+          except Exception as e:
+              print(f'❌ API Connection Failed! {type(e).__name__}')
+              if hasattr(e, 'read'):
+                  print(f'Google Error Details:\n{e.read().decode(\"utf-8\")}')
+              else:
+                  print(str(e))
+              exit(1)
+          "
