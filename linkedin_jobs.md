@@ -1,133 +1,120 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-18 00:43 UTC*
+*Last updated: 2026-09-18 06:29 UTC*
 
-**31 new role(s)** since last run · 31 total in last 1h
+**29 new role(s)** since last run · 29 total in last 1h
 
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4467818397/) — TetraMem - Accelerate The World
+### [Senior Deep Learning Engineer, Cosmo 3D Spatial](https://www.linkedin.com/jobs/view/4466648913/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Data Scientist Engineer - SFL Scientific](https://www.linkedin.com/jobs/view/4468895863/) — Deloitte
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Data Scientist Engineer - SFL Scientific](https://www.linkedin.com/jobs/view/4468893995/) — Deloitte
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Senior Software Engineer, Humanoid Robotics](https://www.linkedin.com/jobs/view/4467829206/) — NVIDIA
+### [Senior Software Engineer, GNN](https://www.linkedin.com/jobs/view/4466645858/) — NVIDIA AI
+- 📍 **Location:** Austin, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4469103553/) — Worth Search
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-17
+
+### [Systems Development Engineer, AWS Generative AI & ML Servers](https://www.linkedin.com/jobs/view/4469106512/) — Amazon Web Services (AWS)
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer, Coding Agent Harness Engineering - New College Grad 2026](https://www.linkedin.com/jobs/view/4466656692/) — NVIDIA AI
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4440877016/) — Ascend
+### [Senior Deep Learning Compiler Engineer - HW-SW Codesign](https://www.linkedin.com/jobs/view/4466664532/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [System Software Engineer, Performance - CUDA Driver](https://www.linkedin.com/jobs/view/4466648912/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Software DevOps Engineer, Networking](https://www.linkedin.com/jobs/view/4466658616/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Systems Software Engineer – GPU Software](https://www.linkedin.com/jobs/view/4466666058/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Software Engineer, Platform Integration](https://www.linkedin.com/jobs/view/4467832607/) — Forterra
+- 📍 **Location:** East Palo Alto, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Software Engineer - Simulation](https://www.linkedin.com/jobs/view/4466658620/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Deep Learning Compiler Engineer - XLA](https://www.linkedin.com/jobs/view/4466657674/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [System Software Engineer, Engineering Workflow Platform](https://www.linkedin.com/jobs/view/4466647862/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Manager, Software Engineering - Networking](https://www.linkedin.com/jobs/view/4466660630/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Oracle Generative AI Senior Consultant](https://www.linkedin.com/jobs/view/4469103726/) — Deloitte
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4467828212/) — Docusign
-- 📍 **Location:** San Francisco, CA
+### [Oracle Generative AI Senior Consultant](https://www.linkedin.com/jobs/view/4469106591/) — Deloitte
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Senior Software Engineer - Embedded Linux for Edge](https://www.linkedin.com/jobs/view/4467834098/) — NVIDIA
+### [Senior Software Engineer, CAD Tool Development - Circuits](https://www.linkedin.com/jobs/view/4466660638/) — NVIDIA AI
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Manager, Software Engineering](https://www.linkedin.com/jobs/view/4468844752/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [DVIP QA / Software Engineer in Test](https://www.linkedin.com/jobs/view/4468840939/) — Dolby Laboratories
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4467821289/) — NVIDIA
+### [System Software Engineer, NPI Data Center Diagnostics](https://www.linkedin.com/jobs/view/4466658628/) — NVIDIA AI
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Senior Applied Scientist, Fauna](https://www.linkedin.com/jobs/view/4468837905/) — Amazon
+### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4466657666/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [PhD Research Intern, Fundamental Generative AI - 2027](https://www.linkedin.com/jobs/view/4466656684/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior System Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4466645844/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [PhD Research Intern, Generative AI for Physical AI - 2027](https://www.linkedin.com/jobs/view/4466646894/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Data Scientist Engineer - SFL Scientific](https://www.linkedin.com/jobs/view/4469115501/) — Deloitte
+- 📍 **Location:** Morristown, NJ
+- 🕒 **Posted:** 2026-09-17
+
+### [Data Scientist Engineer - SFL Scientific](https://www.linkedin.com/jobs/view/4468894901/) — Deloitte
+- 📍 **Location:** Stamford, CT
+- 🕒 **Posted:** 2026-09-17
+
+### [Data Scientist Engineer - SFL Scientific](https://www.linkedin.com/jobs/view/4469117014/) — Deloitte
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-17
 
-### [Manager, Software Engineering](https://www.linkedin.com/jobs/view/4468835873/) — Snap Inc.
-- 📍 **Location:** New York, NY
+### [Scientist, Systems Engineering](https://www.linkedin.com/jobs/view/4468898757/) — L3Harris Technologies
+- 📍 **Location:** Clifton, NJ
 - 🕒 **Posted:** 2026-09-17
 
-### [Data Scientist ll - RiskOS](https://www.linkedin.com/jobs/view/4468841773/) — Socure
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-09-17
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4467817439/) — BayOne Solutions
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Software Engineer 4 - tvOS](https://www.linkedin.com/jobs/view/4466639178/) — Netflix
-- 📍 **Location:** Los Gatos, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Software Engineer III - TeraWave](https://www.linkedin.com/jobs/view/4466634179/) — Blue Origin
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior Software Engineer - TeraWave PoP Control-Plane Network Services](https://www.linkedin.com/jobs/view/4466625297/) — Blue Origin
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4467833097/) — Sanmai
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Security Engineer - Infrastructure Security](https://www.linkedin.com/jobs/view/4468839850/) — Figure
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior Software Engineer - TeraWave RF and Optical Systems](https://www.linkedin.com/jobs/view/4466635211/) — Blue Origin
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior Software Engineer - TeraWave RF and Optical Systems](https://www.linkedin.com/jobs/view/4466617969/) — Blue Origin
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [SOFTWARE ENGINEER – TeraWave – RF and Optical Systems](https://www.linkedin.com/jobs/view/4466628284/) — Blue Origin
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior Wireless Software Engineer - MAC Control Plane - TeraWave](https://www.linkedin.com/jobs/view/4466617967/) — Blue Origin
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Simulation Software Engineer, RF & DSP - Terawave](https://www.linkedin.com/jobs/view/4466623364/) — Blue Origin
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior Embedded Software Engineer - TeraWave Customer Terminals](https://www.linkedin.com/jobs/view/4466638135/) — Blue Origin
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Software Engineer 1, Platform](https://www.linkedin.com/jobs/view/4466619506/) — Sydecar
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $136,000.00/yr - $155,000.00/yr
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4466632193/) — Sydecar
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $190,000.00/yr - $255,000.00/yr
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4468843547/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Software Engineer III - TeraWave](https://www.linkedin.com/jobs/view/4466639120/) — Blue Origin
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Software Engineer III - TeraWave](https://www.linkedin.com/jobs/view/4466639119/) — Blue Origin
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Security Engineer, Enterprise Security](https://www.linkedin.com/jobs/view/4468837877/) — Figure
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Embedded Software Engineer - Onsite](https://www.linkedin.com/jobs/view/4436095196/) — BayOne Solutions
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $75.00/hr - $80.00/hr
-- 🕒 **Posted:** 2026-09-17
-
-### [Data Scientist ll - RiskOS](https://www.linkedin.com/jobs/view/4468849101/) — Socure
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
+### [Controls & Software Engineer, Specialist](https://www.linkedin.com/jobs/view/4469112482/) — Flowserve Corporation
+- 📍 **Location:** Bethlehem, PA
 - 🕒 **Posted:** 2026-09-17

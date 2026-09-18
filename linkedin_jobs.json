@@ -1,515 +1,473 @@
 {
-  "scraped_at": "2026-09-18 00:43 UTC",
-  "total": 31,
-  "new_count": 31,
+  "scraped_at": "2026-09-18 06:29 UTC",
+  "total": 29,
+  "new_count": 29,
   "jobs": [
     {
-      "company": "TetraMem - Accelerate The World",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467818397/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, Humanoid Robotics",
+      "company": "NVIDIA AI",
+      "title": "Senior Deep Learning Engineer, Cosmo 3D Spatial",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467829206/",
+      "url": "https://www.linkedin.com/jobs/view/4466648913/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Ascend",
-      "title": "Software Engineer",
+      "company": "Deloitte",
+      "title": "Data Scientist Engineer - SFL Scientific",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4440877016/",
+      "url": "https://www.linkedin.com/jobs/view/4468895863/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Docusign",
+      "company": "Deloitte",
+      "title": "Data Scientist Engineer - SFL Scientific",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468893995/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Senior Software Engineer, GNN",
+      "location": "Austin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466645858/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Worth Search",
       "title": "Senior Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467828212/",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4469103553/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer - Embedded Linux for Edge",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Systems Development Engineer, AWS Generative AI & ML Servers",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469106512/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Software Engineer, Coding Agent Harness Engineering - New College Grad 2026",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467834098/",
+      "url": "https://www.linkedin.com/jobs/view/4466656692/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Snap Inc.",
-      "title": "Manager, Software Engineering",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468844752/",
+      "company": "NVIDIA AI",
+      "title": "Senior Deep Learning Compiler Engineer - HW-SW Codesign",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466664532/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Dolby Laboratories",
-      "title": "DVIP QA / Software Engineer in Test",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468840939/",
+      "company": "NVIDIA AI",
+      "title": "System Software Engineer, Performance - CUDA Driver",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466648912/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
+      "company": "NVIDIA AI",
+      "title": "Software DevOps Engineer, Networking",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466658616/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Senior Systems Software Engineer \u2013 GPU Software",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466666058/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Forterra",
+      "title": "Senior Software Engineer, Platform Integration",
+      "location": "East Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467832607/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Senior Software Engineer - Simulation",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466658620/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Senior Deep Learning Compiler Engineer - XLA",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466657674/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "System Software Engineer, Engineering Workflow Platform",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466647862/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Manager, Software Engineering - Networking",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466660630/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Oracle Generative AI Senior Consultant",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469103726/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Oracle Generative AI Senior Consultant",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469106591/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Senior Software Engineer, CAD Tool Development - Circuits",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466660638/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "System Software Engineer, NPI Data Center Diagnostics",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466658628/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
       "title": "Senior DevOps Engineer",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467821289/",
+      "url": "https://www.linkedin.com/jobs/view/4466657666/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Senior Applied Scientist, Fauna",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4468837905/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Manager, Software Engineering",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4468835873/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Socure",
-      "title": "Data Scientist ll - RiskOS",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468841773/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $170,000.00/yr"
-    },
-    {
-      "company": "BayOne Solutions",
-      "title": "Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467817439/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Netflix",
-      "title": "Software Engineer 4 - tvOS",
-      "location": "Los Gatos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466639178/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Software Engineer III - TeraWave",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466634179/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Senior Software Engineer - TeraWave PoP Control-Plane Network Services",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466625297/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sanmai",
-      "title": "Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467833097/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Figure",
-      "title": "Security Engineer - Infrastructure Security",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468839850/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Senior Software Engineer - TeraWave RF and Optical Systems",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466635211/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Senior Software Engineer - TeraWave RF and Optical Systems",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466617969/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "SOFTWARE ENGINEER \u2013 TeraWave \u2013 RF and Optical Systems",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466628284/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Senior Wireless Software Engineer - MAC Control Plane - TeraWave",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466617967/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Simulation Software Engineer, RF & DSP - Terawave",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466623364/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Senior Embedded Software Engineer - TeraWave Customer Terminals",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466638135/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sydecar",
-      "title": "Software Engineer 1, Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466619506/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "salary": "$136,000.00/yr - $155,000.00/yr"
-    },
-    {
-      "company": "Sydecar",
-      "title": "Senior Platform Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466632193/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "salary": "$190,000.00/yr - $255,000.00/yr"
-    },
-    {
-      "company": "Thomas To",
-      "title": "Senior DevOps Engineer",
+      "company": "NVIDIA AI",
+      "title": "PhD Research Intern, Fundamental Generative AI - 2027",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468843547/",
+      "url": "https://www.linkedin.com/jobs/view/4466656684/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Blue Origin",
-      "title": "Software Engineer III - TeraWave",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466639120/",
+      "company": "NVIDIA AI",
+      "title": "Senior System Software Engineer - AV Platform",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466645844/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Blue Origin",
-      "title": "Software Engineer III - TeraWave",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466639119/",
+      "company": "NVIDIA AI",
+      "title": "PhD Research Intern, Generative AI for Physical AI - 2027",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466646894/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Figure",
-      "title": "Security Engineer, Enterprise Security",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468837877/",
+      "company": "Deloitte",
+      "title": "Data Scientist Engineer - SFL Scientific",
+      "location": "Morristown, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4469115501/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "BayOne Solutions",
-      "title": "Embedded Software Engineer - Onsite",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4436095196/",
+      "company": "Deloitte",
+      "title": "Data Scientist Engineer - SFL Scientific",
+      "location": "Stamford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4468894901/",
       "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "salary": "$75.00/hr - $80.00/hr"
+      "ats": "LinkedIn"
     },
     {
-      "company": "Socure",
-      "title": "Data Scientist ll - RiskOS",
+      "company": "Deloitte",
+      "title": "Data Scientist Engineer - SFL Scientific",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4468849101/",
+      "url": "https://www.linkedin.com/jobs/view/4469117014/",
       "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $170,000.00/yr"
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "L3Harris Technologies",
+      "title": "Scientist, Systems Engineering",
+      "location": "Clifton, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4468898757/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Flowserve Corporation",
+      "title": "Controls & Software Engineer, Specialist",
+      "location": "Bethlehem, PA",
+      "url": "https://www.linkedin.com/jobs/view/4469112482/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "TetraMem - Accelerate The World",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467818397/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, Humanoid Robotics",
+      "company": "NVIDIA AI",
+      "title": "Senior Deep Learning Engineer, Cosmo 3D Spatial",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467829206/",
+      "url": "https://www.linkedin.com/jobs/view/4466648913/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Ascend",
-      "title": "Software Engineer",
+      "company": "Deloitte",
+      "title": "Data Scientist Engineer - SFL Scientific",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4440877016/",
+      "url": "https://www.linkedin.com/jobs/view/4468895863/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Docusign",
+      "company": "Deloitte",
+      "title": "Data Scientist Engineer - SFL Scientific",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468893995/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Senior Software Engineer, GNN",
+      "location": "Austin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466645858/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Worth Search",
       "title": "Senior Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467828212/",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4469103553/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer - Embedded Linux for Edge",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Systems Development Engineer, AWS Generative AI & ML Servers",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469106512/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Software Engineer, Coding Agent Harness Engineering - New College Grad 2026",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467834098/",
+      "url": "https://www.linkedin.com/jobs/view/4466656692/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Snap Inc.",
-      "title": "Manager, Software Engineering",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468844752/",
+      "company": "NVIDIA AI",
+      "title": "Senior Deep Learning Compiler Engineer - HW-SW Codesign",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466664532/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Dolby Laboratories",
-      "title": "DVIP QA / Software Engineer in Test",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468840939/",
+      "company": "NVIDIA AI",
+      "title": "System Software Engineer, Performance - CUDA Driver",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466648912/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
+      "company": "NVIDIA AI",
+      "title": "Software DevOps Engineer, Networking",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466658616/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Senior Systems Software Engineer \u2013 GPU Software",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466666058/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Forterra",
+      "title": "Senior Software Engineer, Platform Integration",
+      "location": "East Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467832607/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Senior Software Engineer - Simulation",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466658620/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Senior Deep Learning Compiler Engineer - XLA",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466657674/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "System Software Engineer, Engineering Workflow Platform",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466647862/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Manager, Software Engineering - Networking",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466660630/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Oracle Generative AI Senior Consultant",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469103726/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Oracle Generative AI Senior Consultant",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469106591/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Senior Software Engineer, CAD Tool Development - Circuits",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466660638/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "System Software Engineer, NPI Data Center Diagnostics",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466658628/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
       "title": "Senior DevOps Engineer",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467821289/",
+      "url": "https://www.linkedin.com/jobs/view/4466657666/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Senior Applied Scientist, Fauna",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4468837905/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Manager, Software Engineering",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4468835873/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Socure",
-      "title": "Data Scientist ll - RiskOS",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468841773/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $170,000.00/yr"
-    },
-    {
-      "company": "BayOne Solutions",
-      "title": "Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467817439/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Netflix",
-      "title": "Software Engineer 4 - tvOS",
-      "location": "Los Gatos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466639178/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Software Engineer III - TeraWave",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466634179/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Senior Software Engineer - TeraWave PoP Control-Plane Network Services",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466625297/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sanmai",
-      "title": "Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467833097/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Figure",
-      "title": "Security Engineer - Infrastructure Security",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468839850/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Senior Software Engineer - TeraWave RF and Optical Systems",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466635211/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Senior Software Engineer - TeraWave RF and Optical Systems",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466617969/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "SOFTWARE ENGINEER \u2013 TeraWave \u2013 RF and Optical Systems",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466628284/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Senior Wireless Software Engineer - MAC Control Plane - TeraWave",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466617967/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Simulation Software Engineer, RF & DSP - Terawave",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466623364/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Senior Embedded Software Engineer - TeraWave Customer Terminals",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466638135/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sydecar",
-      "title": "Software Engineer 1, Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466619506/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "salary": "$136,000.00/yr - $155,000.00/yr"
-    },
-    {
-      "company": "Sydecar",
-      "title": "Senior Platform Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466632193/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "salary": "$190,000.00/yr - $255,000.00/yr"
-    },
-    {
-      "company": "Thomas To",
-      "title": "Senior DevOps Engineer",
+      "company": "NVIDIA AI",
+      "title": "PhD Research Intern, Fundamental Generative AI - 2027",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468843547/",
+      "url": "https://www.linkedin.com/jobs/view/4466656684/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Blue Origin",
-      "title": "Software Engineer III - TeraWave",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466639120/",
+      "company": "NVIDIA AI",
+      "title": "Senior System Software Engineer - AV Platform",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466645844/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Blue Origin",
-      "title": "Software Engineer III - TeraWave",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466639119/",
+      "company": "NVIDIA AI",
+      "title": "PhD Research Intern, Generative AI for Physical AI - 2027",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466646894/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Figure",
-      "title": "Security Engineer, Enterprise Security",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468837877/",
+      "company": "Deloitte",
+      "title": "Data Scientist Engineer - SFL Scientific",
+      "location": "Morristown, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4469115501/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "BayOne Solutions",
-      "title": "Embedded Software Engineer - Onsite",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4436095196/",
+      "company": "Deloitte",
+      "title": "Data Scientist Engineer - SFL Scientific",
+      "location": "Stamford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4468894901/",
       "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "salary": "$75.00/hr - $80.00/hr"
+      "ats": "LinkedIn"
     },
     {
-      "company": "Socure",
-      "title": "Data Scientist ll - RiskOS",
+      "company": "Deloitte",
+      "title": "Data Scientist Engineer - SFL Scientific",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4468849101/",
+      "url": "https://www.linkedin.com/jobs/view/4469117014/",
       "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $170,000.00/yr"
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "L3Harris Technologies",
+      "title": "Scientist, Systems Engineering",
+      "location": "Clifton, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4468898757/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Flowserve Corporation",
+      "title": "Controls & Software Engineer, Specialist",
+      "location": "Bethlehem, PA",
+      "url": "https://www.linkedin.com/jobs/view/4469112482/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn"
     }
   ]
 }
