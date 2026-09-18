@@ -34,8 +34,8 @@ jobs:
           NOTIFY_TERMS: ${{ vars.NOTIFY_TERMS }}
       - name: Commit results to repo
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name  "JobBot"
+          git config user.email "jobbot@users.noreply.github.com"
           python ci_commit_push.py \
             --message "chore: update local-gov listings [$(date -u '+%Y-%m-%d %H:%MZ')]" \
             governmentjobs_jobs.json governmentjobs_jobs.md governmentjobs_jobs.html \
