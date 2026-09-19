@@ -41,7 +41,9 @@ jobs:
       - name: Run triage agent
         env:
           # Gemini is the cheap ranking backend (triage_agent picks it first).
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          #GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
           CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
         # --judge audits each fit score >= 50 (the shortlist) and writes judge_*
