@@ -709,6 +709,7 @@ def main() -> int:
   static_prefix = build_static_prefix(profile, resume)
   redact_tokens = private_tokens(profile, resume)
   jd_read = jd_meta = errors = 0
+  consecutive_errors = 0
 
   for i, job in enumerate(batch, 1):
     jd_text = "" if args.no_jd else fetch_jd(job)
@@ -720,8 +721,10 @@ def main() -> int:
     try:
       raw = call_model(static_prefix, prompt)
       verdict = parse_verdict(raw)
+      consecutive_errors = 0  # reset on success
     except Exception as e:
       verdict = None
+      consecutive_errors += 1
       if type(e).__name__ == "HTTPError":
         try:
           err_body = e.read().decode("utf-8")
@@ -779,6 +782,10 @@ def main() -> int:
     if sleep_interval > 0:
       jitter = random.uniform(0, 15)
       time.sleep(sleep_interval + jitter)
+
+    if consecutive_errors >= 3:
+      print(f"\n🛑 3 consecutive errors! Stopping this batch early to let the next model take over.")
+      break
 
   remaining = len(unscored) - len(batch)
   print(
