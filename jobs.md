@@ -1,52 +1,104 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-18 08:21 UTC*
+*Last updated: 2026-09-19 08:59 UTC*
 
-**12 new role(s)** since last run · 173 total in last 24h
+**25 new role(s)** since last run · 102 total in last 24h
 
-### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6138807004) — Natera
+### [Sr Systems Engineer ](https://job-boards.greenhouse.io/twistbioscience/jobs/8125863) — Twist Bioscience
+- 📍 **Location:** USA - Portland, OR
+- 🕒 **Posted:** 2026-08-27
+
+### [Manager of Data Engineering & Delivery (Data Science Production Engineering)](https://job-boards.greenhouse.io/natera/jobs/6137669004) — Natera
 - 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-08-31
+- 🕒 **Posted:** 2026-09-02
 
-### [Software Engineer III, Service AI Transformation](https://job-boards.greenhouse.io/natera/jobs/6198781004) — Natera
+### [Senior AI Engineer,  Real-World Data](https://job-boards.greenhouse.io/natera/jobs/6017428004) — Natera
 - 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-09-17
+- 🕒 **Posted:** 2026-09-18
 
-### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7747518) — Chan Zuckerberg Biohub
-- 📍 **Location:** New York, NY (Hybrid)
-- 🕒 **Posted:** 2026-09-17
+### [ Software Engineer III](https://job-boards.greenhouse.io/natera/jobs/6128466004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-09-18
 
-### [Software Engineer III - Driver Developer (Autonomous Lab)](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5241119007) — Ginkgo Bioworks
-- 📍 **Location:** Boston, Massachusetts
-- 🕒 **Posted:** 2026-09-17
+### [Senior Data Engineer](https://job-boards.greenhouse.io/formationbio/jobs/8213713) — Formation Bio
+- 📍 **Location:** New York, NY; Boston, MA; San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
 
-### [Software Engineer III - Driver Developer (Autonomous Lab)](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5241119007) — Bitome, Inc.
-- 📍 **Location:** Boston, Massachusetts
-- 🕒 **Posted:** 2026-09-17
+### [Senior Software Engineer](https://job-boards.greenhouse.io/formationbio/jobs/8213738) — Formation Bio
+- 📍 **Location:** New York, NY; Boston, MA; San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
 
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4466294901/) — Gen
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-17
+### [Intern - CFO - IT (AI Engineer)](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744) — Gilead Sciences
+- 📍 **Location:** United States - North Carolina - Raleigh
+- 🕒 **Posted:** Posted 11 Days Ago
 
-### [Bioinformatics Scientist](https://www.linkedin.com/jobs/view/4448900428/) — Tempus AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-09-17
+### [Software Engineer](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Software-Engineer_R-251398) — Amgen
+- 📍 **Location:** US - California - Thousand Oaks
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Data Science Program Lead II](https://www.linkedin.com/jobs/view/4467591743/) — AbbVie
+### [Full Stack Software Engineer](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Full-Stack-Software-Engineer_R-216946) — Amgen
+- 📍 **Location:** US - California - Thousand Oaks
+- 🕒 **Posted:** Posted 25 Days Ago
+
+### [Sr Associate Software Engineer](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Sr-Associate-Software-Engineer_R-251394) — Amgen
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Senior Manufacturing Systems Engineer - DeltaV/PLC](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Senior-Manufacturing-Systems-Engineer---DeltaV-PLC_R-251340) — Amgen
+- 📍 **Location:** US - California - Thousand Oaks
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Lead AI Engineer](https://regeneron.wd1.myworkdayjobs.com/careers/job/TARRYTOWN/Lead-AI-Engineer_R50147) — Regeneron
+- 📍 **Location:** TARRYTOWN
+- 🕒 **Posted:** Posted 26 Days Ago
+
+### [AI Engineer](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/AI-Engineer_R19767) — Moderna
+- 📍 **Location:** Cambridge, Massachusetts
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [Senior AI Engineer](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Senior-AI-Engineer_R19417-1) — Moderna
+- 📍 **Location:** Cambridge, Massachusetts
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [GxP Sr. Systems Engineer](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Remote---US/GxP-Sr-Systems-Engineer_R19539) — Moderna
+- 📍 **Location:** Remote - US
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Power Platform & AI Engineer](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Power-Platform---AI-Engineer_R19454) — Moderna
+- 📍 **Location:** Cambridge, Massachusetts
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Sr. Power Platform & AI Engineer](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Sr-Power-Platform---AI-Engineer_R19432) — Moderna
+- 📍 **Location:** Cambridge, Massachusetts
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Senior AI Application Engineer](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA---US/Senior-Application-Engineer_R1602672-1) — Bristol Myers Squibb
+- 📍 **Location:** Seattle 400 Dexter - WA - US
+- 🕒 **Posted:** Posted 11 Days Ago
+
+### [Senior AI Engineer](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA---US/Senior-AI-Engineer_R1602673) — Bristol Myers Squibb
+- 📍 **Location:** Seattle 400 Dexter - WA - US
+- 🕒 **Posted:** Posted 25 Days Ago
+
+### [Senior IT Systems Engineer](https://www.linkedin.com/jobs/view/4469199219/) — Color
 - 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-09-17
+- 🕒 **Posted:** 2026-09-18
 
-### [Senior GPU Performance Software Engineer](https://www.linkedin.com/jobs/view/4457976761/) — Intel
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-17
+### [Senior Software Engineer II - Payin Platform - Backend (Java)](https://www.linkedin.com/jobs/view/4440241248/) — Wise
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-18
 
-### [Senior Computational Biologist I](https://www.linkedin.com/jobs/view/4467570548/) — Tempus AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-17
+### [Senior Software Engineer - Recommend Team](https://www.linkedin.com/jobs/view/4467844247/) — Wise
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-18
 
-### [Computational Biologist, Immune Cell Repolarization](https://www.linkedin.com/jobs/view/4457708295/) — Biohub
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-17
+### [Expert Machine Learning Engineer](https://www.linkedin.com/jobs/view/4469237369/) — Aptiv
+- 📍 **Location:** Cracow Metropolitan Area
+- 🕒 **Posted:** 2026-09-18
 
-### [Associate, Data Sciences II](https://www.linkedin.com/jobs/view/4467803500/) — AbbVie
-- 📍 **Location:** Florham Park, NJ
-- 🕒 **Posted:** 2026-09-17
+### [Software Engineer](https://www.linkedin.com/jobs/view/4449696583/) — Aptiv
+- 📍 **Location:** Agoura Hills, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Senior Software Engineer (Backend)](https://www.linkedin.com/jobs/view/4413944422/) — Illumina
+- 📍 **Location:** Singapore
+- 🕒 **Posted:** 2026-09-18
