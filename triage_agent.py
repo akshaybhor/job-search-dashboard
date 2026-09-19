@@ -381,7 +381,7 @@ def make_call_model(
           "system_instruction": {"parts": [{"text": static_prefix}]},
           "contents": [{"parts": [{"text": job_prompt}]}],
           "generationConfig": {
-              "maxOutputTokens": 2048,
+              "maxOutputTokens": 4096,
               "temperature": 0,
               "responseMimeType": "application/json",
           },
@@ -415,7 +415,7 @@ def make_call_model(
       def call_anthropic(static_prefix: str, job_prompt: str) -> str:
         resp = client.messages.create(
             model=active_model,
-            max_tokens=700,
+            max_tokens=4096,
             system=[{
                 "type": "text",
                 "text": static_prefix,
