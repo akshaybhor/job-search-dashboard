@@ -36,7 +36,7 @@ SCORES_PATH = os.path.join(SCRIPT_DIR, "scores.json")
 SOURCE_FILES = ["jobs.json", "linkedin_jobs.json", "indeed_jobs.json"]
 
 DEFAULT_ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"
-DEFAULT_GEMINI_MODEL = "gemini-3.6-flash"
+DEFAULT_GEMINI_MODEL = "gemini-3.1-flash-lite"
 DEFAULT_GROQ_MODEL = "openai/gpt-oss-120b"
 
 JD_MAX_CHARS = 6000
@@ -335,7 +335,7 @@ def make_call_model(
           ],
           "temperature": 0.1,
           "response_format": {"type": "json_object"},
-          "max_tokens": 1024,
+          "max_tokens": 4096,
       }).encode("utf-8")
 
       req = urllib.request.Request(
