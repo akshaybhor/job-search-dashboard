@@ -35,20 +35,29 @@ jobs:
       - name: Install Anthropic SDK
         run: pip install anthropic
 
-      # Profile/resume arrive as env vars straight from Actions secrets —
-      # never written to disk, never committed (the repo is public).
-      # --limit bounds worst-case daily spend; raise/lower as the cost knob.
-      - name: Run triage agent
+      # Runner 1: Gemini Key 1
+      - name: Run triage agent (Gemini Key 1)
         env:
-          # Gemini is the cheap ranking backend (triage_agent picks it first).
-          #GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_1 }}
           CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
           CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
-        # --judge audits each fit score >= 50 (the shortlist) and writes judge_*
-        # fields the dashboard renders as ✅/⚖️ markers. Advisory, never gates.
-        run: python triage_agent.py --limit 300 --judge
+        run: python triage_agent.py --limit 100 --judge
+
+      # Runner 2: Gemini Key 2
+      - name: Run triage agent (Gemini Key 2)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_2 }}
+          CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
+          CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
+        run: python triage_agent.py --limit 100 --judge
+
+      # Runner 3: Groq
+      - name: Run triage agent (Groq)
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
+          CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
+        run: python triage_agent.py --limit 100 --judge
 
       - name: Commit scores to repo
         run: |
