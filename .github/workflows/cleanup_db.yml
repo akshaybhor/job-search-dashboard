@@ -1,0 +1,94 @@
+name: Manual Database Cleanup
+
+on:
+  workflow_dispatch:
+    inputs:
+      keep_days:
+        description: 'Keep jobs from the past X days (Select 0 to clear EVERYTHING)'
+        required: true
+        type: choice
+        options:
+          - '14'
+          - '10'
+          - '7'
+          - '3'
+          - '1'
+          - '0'
+        default: '7'
+
+jobs:
+  cleanup:
+    name: Prune Old Jobs
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Prune databases
+        run: |
+          python - <<'EOF'
+          import json
+          import os
+          from datetime import datetime, timezone, timedelta
+
+          days_to_keep = int("${{ github.event.inputs.keep_days }}")
+          print(f"🧹 Pruning database to keep only the last {days_to_keep} days...")
+
+          # 1. Prune all_jobs.json
+          if not os.path.exists("all_jobs.json"):
+              print("No all_jobs.json found.")
+              exit(0)
+              
+          with open("all_jobs.json", "r", encoding="utf-8") as f:
+              all_data = json.load(f)
+
+          jobs = all_data.get("jobs", [])
+          original_count = len(jobs)
+
+          if days_to_keep == 0:
+              kept_jobs = []
+          else:
+              cutoff = (datetime.now(timezone.utc) - timedelta(days=days_to_keep)).isoformat()
+              kept_jobs = [j for j in jobs if j.get("first_seen", "9999") >= cutoff]
+
+          all_data["jobs"] = kept_jobs
+          all_data["total"] = len(kept_jobs)
+
+          with open("all_jobs.json", "w", encoding="utf-8") as f:
+              json.dump(all_data, f, separators=(",", ":"))
+
+          print(f"✅ all_jobs.json: {original_count} -> {len(kept_jobs)} jobs")
+
+          # 2. Prune scores.json (remove scores for jobs that no longer exist)
+          if os.path.exists("scores.json"):
+              with open("scores.json", "r", encoding="utf-8") as f:
+                  scores_data = json.load(f)
+              
+              scores = scores_data.get("scores", {})
+              original_score_count = len(scores)
+              live_urls = {j["url"] for j in kept_jobs if j.get("url")}
+              
+              kept_scores = {k: v for k, v in scores.items() if k in live_urls}
+              scores_data["scores"] = kept_scores
+              
+              with open("scores.json", "w", encoding="utf-8") as f:
+                  json.dump(scores_data, f, separators=(",", ":"))
+              print(f"✅ scores.json: {original_score_count} -> {len(kept_scores)} scores")
+
+          EOF
+
+      - name: Commit cleaned database
+        run: |
+          git config user.name  "JobBot"
+          git config user.email "jobbot@users.noreply.github.com"
+          git add all_jobs.json scores.json
+          # Only commit if there are actually changes
+          git diff-index --quiet HEAD || git commit -m "chore: manual prune to last ${{ github.event.inputs.keep_days }} days"
+          git push
