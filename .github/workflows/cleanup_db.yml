@@ -89,5 +89,6 @@ jobs:
           git config user.name  "JobBot"
           git config user.email "jobbot@users.noreply.github.com"
           python ci_commit_push.py \
+            --overwrite \
             --message "chore: manual prune to last ${{ github.event.inputs.keep_days }} days" \
             all_jobs.json scores.json
