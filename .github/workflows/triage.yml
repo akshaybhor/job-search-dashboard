@@ -2,12 +2,11 @@ name: Nightly Job Triage
 
 on:
   schedule:
-    # 09:00 UTC ≈ 1–2am PT — safely after the day's last scrapes (the biotech
-    # digest actually lands ~07:00 UTC under GH cron delay; LinkedIn's last
-    # hourly run is ~04:17 UTC). Exact timing isn't critical: the agent scores
-    # every not-yet-scored role in all_jobs.json, so stragglers from a delayed
-    # scrape simply roll into the next night's run.
-    - cron: "0 9 * * *"
+    # Changed to 07:42 UTC (2:42 AM Central Time).
+    # Why :42? GitHub Actions gets massively overloaded at exactly the top of
+    # the hour (like 09:00) because millions of repos schedule tasks then.
+    # Picking an off-peak minute ensures it runs immediately without hours of delay!
+    - cron: "42 7 * * *"
 
   workflow_dispatch:
 
