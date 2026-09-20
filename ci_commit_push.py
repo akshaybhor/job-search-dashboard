@@ -193,7 +193,7 @@ MERGERS = {
 
 # ---------------------------------------------------------------------- main
 
-def commit_and_push(paths, message, attempts=5, sleep=time.sleep) -> int:
+def commit_and_push(paths, message, attempts=5, sleep=time.sleep, overwrite=False) -> int:
     # Snapshot what this run produced *before* touching git. Every retry
     # re-merges from this, so a lost race never costs us the scrape.
     ours = {p: read_local(p) for p in paths}
@@ -207,7 +207,7 @@ def commit_and_push(paths, message, attempts=5, sleep=time.sleep) -> int:
 
         staged = []
         for path in paths:
-            merge = MERGERS.get(os.path.basename(path))
+            merge = MERGERS.get(os.path.basename(path)) if not overwrite else None
             content = merge(remote_text(path), ours[path]) if merge else ours[path]
             if content is None:
                 continue  # this run never wrote it — leave the remote's copy alone
@@ -246,9 +246,10 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--message", required=True, help="commit message")
     ap.add_argument("--attempts", type=int, default=5)
+    ap.add_argument("--overwrite", action="store_true", help="bypass additive merge and overwrite remote file")
     ap.add_argument("paths", nargs="+", help="files to commit")
     args = ap.parse_args()
-    return commit_and_push(args.paths, args.message, attempts=args.attempts)
+    return commit_and_push(args.paths, args.message, attempts=args.attempts, overwrite=args.overwrite)
 
 
 if __name__ == "__main__":
