@@ -762,7 +762,7 @@
     const jobs = [...byUrl.values()].sort(
       (a, b) => (b.date_posted || '').localeCompare(a.date_posted || '')
     );
-    return { scraped_at, new_count, new_jobs, jobs };
+    return { scraped_at, new_count, new_jobs, jobs, fully_loaded: okCount === SOURCES.length };
   }
 
   // ---------- Merge (additive — preserves triage history) ----------
@@ -1461,6 +1461,15 @@
       SEED = await loadJobs();
       SEED.jobs.forEach(enrich);
       mergeJobs(SEED.jobs);
+      
+      // If we successfully fetched ALL data from the server, any untriaged job 
+      // missing from the SEED was deleted (e.g. by manual cleanup) and should 
+      // be purged from the local cache immediately, ignoring the 30-day rule.
+      if (SEED.fully_loaded) {
+        const seedUrls = new Set(SEED.jobs.map(j => j.url));
+        state.jobs = state.jobs.filter(j => tri(j.url) || seedUrls.has(j.url));
+      }
+      
       pruneState();
       state.jobs.forEach(enrich);  // re-classify all (handles classifier updates)
       state._lastLoaded = Date.now();
