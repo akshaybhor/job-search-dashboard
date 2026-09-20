@@ -51,10 +51,10 @@ jobs:
           CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
         run: python triage_agent.py --limit 100 --judge
 
-      # Runner 3: Groq
-      - name: Run triage agent (Groq)
+      # Runner 3: Gemini Key 3
+      - name: Run triage agent (Gemini Key 3)
         env:
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_3 }}
           CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
           CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
         run: python triage_agent.py --limit 100 --judge
