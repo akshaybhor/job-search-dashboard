@@ -664,7 +664,6 @@ WORKDAY_SEARCH_TERMS = [
     "AI engineer",
     "machine learning",
     "MLOps",
-    "computer vision",
 ]
 # Workday's CXS API caps each response at 20 results; page up to this many
 # results per search term (3 pages) so big-pharma tenants aren't truncated
@@ -1034,25 +1033,25 @@ LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT di
 LINKEDIN_LOCATIONS = [
     ("San Francisco Bay Area", "90000084"),
     ("New York City Metropolitan Area", "90000070"),
-    ("Cincinnati, OH", "102377319"),
-    ("Seattle, WA", "90000070"), # WARNING: This ID is actually NYC's ID. You will get NYC jobs here!
-    ("Austin, TX", "90000373"),
-    ("Boston, MA", "90000050"),
-    ("Los Angeles, CA", "90000045"),
-    ("Chicago, IL", "90000049"),
-    ("Atlanta, GA", "90000052"),
-    ("Washington, DC", "90000073"),
-    ("Denver, CO", "90000056"),
-    ("Dallas, TX", "90000055"),
-    ("San Diego, CA", "90000067"),
-    ("Portland, OR", "90000064"),
-    ("Raleigh, NC", "90000068"),
-    ("Boulder, CO", "105436667"),
-    ("Salt Lake City, UT", "90000069"),
-    ("Phoenix, AZ", "90000063"),
-    ("Miami, FL", "90000060"),
-    ("Philadelphia, PA", "90000058"),
-    ("Minneapolis, MN", "90000061"),
+    ("Cincinnati, OH", "106310628"),
+    ("Seattle, WA", "104116203"),
+    ("Austin, TX", "90000064"),
+    ("Boston, MA", "102380872"),
+    ("Los Angeles, CA", "102448103"),
+    ("Chicago, IL", "10311267"),
+    ("Atlanta, GA", "106224388"),
+    ("Washington, DC", "103977389"),
+    ("Denver, CO", "103736294"),
+    ("Dallas, TX", "104194190"),
+    ("San Diego, CA", "103918656"),
+    ("Portland, OR", "90000079"),
+    ("Raleigh, NC", "100197101"),
+    ("Boulder, CO", "102597912"),
+    ("Salt Lake City, UT", "90000716"),
+    ("Phoenix, AZ", "100219842"),
+    ("Miami, FL", "102394087"),
+    ("Philadelphia, PA", "104937023"),
+    ("Minneapolis, MN", "103039849"),
 ]
 
 # Biotech allowlist used by the LinkedIn-side filter. Broader than CURATED_BIOTECHS
