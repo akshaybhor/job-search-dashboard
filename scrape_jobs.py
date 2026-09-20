@@ -111,6 +111,25 @@ EXCLUDED_SENIORITY_RE = re.compile(
 EXCLUDED_COMPANIES = [
     "jack & jill",
     "jack and jill",
+    "crewlia", 
+    "enhance it",
+    "jobright.ai",
+    # Missed from your screenshot:
+    "micro1",       # Spams "AI/ML Engineer, Internal Platforms" globally
+    "webbocket",    # Spams intern/junior roles globally from India
+    # Notorious Global Spammers & Freelance Platforms:
+    "turing",       # Posts thousands of generic remote jobs to collect resumes
+    "crossover",    # Same as Turing; infamous for extreme tracking software
+    "braintrust",   # A freelance gig platform that clogs up full-time searches
+    # "Task / Gig" AI Companies (Not real Engineering roles):
+    "outlier",           # Spams "AI Training" and prompt-writing jobs
+    "outlier.ai",
+    "dataannotation",    # Spams gig-work prompt-writing jobs
+    "data annotation",
+    # Classic Body Shops / Resume Farmers:
+    "cybercoders",    # Posts duplicate/evergreen jobs that often don't exist
+    "synergisticit",  # Body shop that often asks juniors to pay for training
+    "revature"        # Body shop with strict lock-in contracts
 ]
 _EXCLUDED_COMPANY_RE = re.compile(
     "|".join(re.escape(c) for c in EXCLUDED_COMPANIES), re.IGNORECASE
