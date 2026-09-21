@@ -1300,5 +1300,71 @@
     "ats": "custom",
     "careers_url": "https://careers.getprescience.com",
     "fallback_location": "San Francisco, CA"
+  },
+  {
+    "name": "Spot Health",
+    "ats": "custom",
+    "careers_url": "https://www.ycombinator.com/companies/spot-2/jobs",
+    "fallback_location": "Cincinnati, OH"
+  },
+  {
+    "name": "Anthrogen",
+    "ats": "ashby",
+    "slug": "anthrogen",
+    "fallback_location": "San Francisco, CA"
+  },
+  {
+    "name": "Syntra",
+    "ats": "custom",
+    "careers_url": "https://www.workatastartup.com/companies/syntra",
+    "fallback_location": "New York, NY"
+  },
+  {
+    "name": "Rovi Health",
+    "ats": "custom",
+    "careers_url": "https://jobs.gem.com/rovihealth",
+    "fallback_location": "Austin, TX"
+  },
+  {
+    "name": "Lumius",
+    "ats": "custom",
+    "careers_url": "https://www.lumius-imaging.com/careers",
+    "fallback_location": "Durham, NC"
+  },
+  {
+    "name": "Sharper Sense",
+    "ats": "custom",
+    "careers_url": "https://www.sharpersense.com/careers",
+    "fallback_location": "Chicago, IL"
+  },
+  {
+    "name": "Ria Health",
+    "ats": "custom",
+    "careers_url": "https://riahealth.com/careers/",
+    "fallback_location": "New York, NY"
+  },
+  {
+    "name": "Kokoon Technology",
+    "ats": "custom",
+    "careers_url": "https://www.careers.philips.com/uk/en",
+    "fallback_location": "Phoenix, AZ"
+  },
+  {
+    "name": "Sana",
+    "ats": "custom",
+    "careers_url": "http://sana.io/careers",
+    "fallback_location": "Denver, CO"
+  },
+  {
+    "name": "OneSkin",
+    "ats": "custom",
+    "careers_url": "http://oneskin.co/pages/careers",
+    "fallback_location": "Chicago, IL"
+  },
+  {
+    "name": "Flore (FKA Sun Genomics)",
+    "ats": "custom",
+    "careers_url": "http://flore.com/pages/careers",
+    "fallback_location": "Chicago, IL"
   }
 ]
