@@ -124,6 +124,11 @@ EXCLUDED_COMPANIES = [
     # "Task / Gig" AI Companies (Not real Engineering roles):
     "outlier",           # Spams "AI Training" and prompt-writing jobs
     "outlier.ai",
+    "Steneral Consulting",
+    "Anduril Industries",
+    "BayOne Solutions",
+    "Seneca Resources",
+    "OnPoint Insights",
     "dataannotation",    # Spams gig-work prompt-writing jobs
     "data annotation",
     # Classic Body Shops / Resume Farmers:
