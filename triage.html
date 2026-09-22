@@ -328,6 +328,10 @@
     <div id="filter-sen" class="controls-row" style="gap:6px"></div>
   </div>
   <div class="controls-row">
+    <span class="pillgroup-label">Location</span>
+    <div id="filter-loc" class="controls-row" style="gap:6px"></div>
+  </div>
+  <div class="controls-row">
     <span class="pillgroup-label">Posted</span>
     <div id="filter-date" class="controls-row" style="gap:6px"></div>
   </div>
@@ -703,6 +707,7 @@
     j._role = classifyRole(j.title);
     j._sen  = classifySeniority(j.title);
     j._src  = classifySource(j);
+    j._loc  = /remote/i.test(j.location || '') ? 'Remote' : (/hybrid/i.test(j.location || '') ? 'Hybrid' : 'On-site');
     const sal = parseSalary(j);
     j._salMin = sal ? sal.min : null;
     j._salMax = sal ? sal.max : null;
@@ -800,6 +805,7 @@
     source: new Set(),
     role: new Set(),
     sen: new Set(),
+    loc: new Set(),
     state: new Set(['active', 'saved', 'applied']),
     days: null,   // null = any time; else an integer day-window (7 = last 7 days)
     salMin: 0,        // minimum annual salary (USD); 0 = no floor
@@ -878,6 +884,7 @@
     if (except !== 'source' && filters.source.size && !srcs.some(s => filters.source.has(s))) return false;
     if (except !== 'role'   && filters.role.size   && !filters.role.has(j._role)) return false;
     if (except !== 'sen'    && filters.sen.size    && !filters.sen.has(j._sen))   return false;
+    if (except !== 'loc'    && filters.loc.size    && !filters.loc.has(j._loc))   return false;
     if (except !== 'state') {
       const st = tri(j.url) || 'active';
       if (!filters.state.has(st)) return false;
@@ -1325,7 +1332,8 @@
        'Data Sci/Eng', 'Cloud/DevOps', 'Systems', 'SWE', 'Bioinformatics', 'Other']);
     // Founding/Principal/Staff are excluded at the scraper (mid-level focus);
     // pruneState() clears any lingering untriaged ones from older sessions.
-    renderFilterGroup('filter-sen', 'sen', ['Senior', 'Mid', 'Intern']);
+    renderFilterGroup('filter-sen', 'sen', ['Senior', 'Mid', 'Junior', 'New Grad', 'Intern']);
+    renderFilterGroup('filter-loc', 'loc', ['Remote', 'Hybrid', 'On-site']);
     renderDateFilter();
     renderSortFilter();
     renderStateFilter();
