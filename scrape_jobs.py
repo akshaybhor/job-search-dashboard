@@ -129,6 +129,12 @@ EXCLUDED_COMPANIES = [
     "BayOne Solutions",
     "Seneca Resources",
     "OnPoint Insights",
+    "The Judge Group",
+    "Pyramid Consulting, Inc",
+    "Infotree Global Solution.",
+    "Infotree Solutions",
+    "aditi consulting",
+    "Insight Global",
     "dataannotation",    # Spams gig-work prompt-writing jobs
     "data annotation",
     # Classic Body Shops / Resume Farmers:
