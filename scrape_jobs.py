@@ -148,9 +148,88 @@ _EXCLUDED_COMPANY_RE = re.compile(
     "|".join(re.escape(c) for c in EXCLUDED_COMPANIES), re.IGNORECASE
 )
 
+EXCLUDED_LOCATIONS = [
+    # Original list
+    "Belgium",
+    "United Kingdom",
+    "Spain",
+    "Brazil",
+    "Poland",
+    "India",
+    "Germany",
+    "France",
+    "Canada",
+    "Australia",
+    "Philippines",
+    "Mexico",
+    "Argentina",
+    # Newly identified from dataset
+    "Armenia",
+    "Austria",
+    "Bangladesh",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Chile",
+    "China",
+    "Colombia",
+    "Costa Rica",
+    "Czechia",
+    "Denmark",
+    "Egypt",
+    "Finland",
+    "Greece",
+    "Hong Kong",
+    "Hungary",
+    "Indonesia",
+    "Ireland",
+    "Israel",
+    "Italy",
+    "Japan",
+    "Latvia",
+    "Lithuania",
+    "Malaysia",
+    "Malta",
+    "Morocco",
+    "Nepal",
+    "Netherlands",
+    "New Zealand",
+    "Nigeria",
+    "Pakistan",
+    "Peru",
+    "Portugal",
+    "Qatar",
+    "Romania",
+    "Saudi Arabia",
+    "Serbia",
+    "Singapore",
+    "Somalia",
+    "South Africa",
+    "South Korea",
+    "Sri Lanka",
+    "Sweden",
+    "Switzerland",
+    "Taiwan",
+    "Thailand",
+    "Tunisia",
+    "Türkiye",
+    "Turkey",
+    "United Arab Emirates",
+    "UAE",
+    "Vietnam",
+    # Regional broad match strings present in feed
+    "Latin America",
+    "EMEA",
+    "DACH",
+]
+_EXCLUDED_LOCATION_RE = re.compile(
+    "|".join(re.escape(c) for c in EXCLUDED_LOCATIONS), re.IGNORECASE
+)
 
 def is_excluded_company(company: str) -> bool:
     return bool(company) and bool(_EXCLUDED_COMPANY_RE.search(company))
+
+def is_excluded_location(location: str) -> bool:
+    return bool(location) and bool(_EXCLUDED_LOCATION_RE.search(location))
 
 # Multi-word phrases keep substring semantics; single-word keywords ("mle",
 # "devops") are word-bounded so they can't match inside a word ("Hamlet").
@@ -1168,6 +1247,8 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
         location = html_mod.unescape(
             (location_m.group(1).strip() if location_m else "")
         ).replace("\n", " ")
+        if is_excluded_location(location):
+            continue
         parsed.append({
             "id": urn.group(1),
             "company": company,
