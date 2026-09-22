@@ -2,11 +2,7 @@ name: Nightly Job Triage
 
 on:
   schedule:
-    # Changed to 07:42 UTC (2:42 AM Central Time).
-    # Why :42? GitHub Actions gets massively overloaded at exactly the top of
-    # the hour (like 09:00) because millions of repos schedule tasks then.
-    # Picking an off-peak minute ensures it runs immediately without hours of delay!
-    - cron: "42 7 * * *"
+    - cron: "47 8 * * *"
 
   workflow_dispatch:
 
