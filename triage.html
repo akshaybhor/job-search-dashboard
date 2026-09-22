@@ -335,7 +335,7 @@
     <span class="pillgroup-label">Posted</span>
     <div id="filter-date" class="controls-row" style="gap:6px"></div>
   </div>
-  <div class="controls-row">
+  <div class="controls-row" id="row-sort">
     <span class="pillgroup-label">Sort</span>
     <div id="filter-sort" class="controls-row" style="gap:6px"></div>
   </div>
@@ -944,7 +944,7 @@
     el.innerHTML = '';
     const opts = [
       [1/24, 'Last hour'],
-      [1,  'Today'],
+      [1,  '24 hours'],
       [3,  '3 days'],
       [7,  'Week'],
       [30, 'Month'],
@@ -1549,6 +1549,9 @@
       const b = $('view-' + m);
       if (b) { b.classList.toggle('on', mode === m); b.setAttribute('aria-pressed', String(mode === m)); }
     });
+    if ($('row-sort')) {
+      $('row-sort').style.display = mode === 'rank' ? 'none' : '';
+    }
     renderJobs();
   }
   $('view-browse').onclick = () => setView('browse');
