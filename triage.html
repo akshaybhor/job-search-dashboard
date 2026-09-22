@@ -918,7 +918,7 @@
     VIEW.forEach(j => {
       if (!matchesFilters(j, key)) return;          // honor every filter except this facet's
       if (key === 'source') { (j._srcs || [j._src]).forEach(s => counts[s] = (counts[s] || 0) + 1); return; }
-      const v = key === 'role' ? j._role : j._sen;
+      const v = j['_' + key];
       counts[v] = (counts[v] || 0) + 1;
     });
     values.forEach(v => {
