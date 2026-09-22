@@ -769,11 +769,13 @@
       new_count += (d.new_count || 0);
       if ((d.scraped_at || '') > scraped_at) scraped_at = d.scraped_at;
     });
+    // If all_jobs.json loaded successfully, we have the complete picture of the live DB
+    const masterSuccess = settled.some((r, i) => r.status === 'fulfilled' && SOURCES[i].name === 'all_jobs.json');
     if (okCount === 0) throw new Error('all sources failed');
     const jobs = [...byUrl.values()].sort(
       (a, b) => (b.date_posted || '').localeCompare(a.date_posted || '')
     );
-    return { scraped_at, new_count, new_jobs, jobs, fully_loaded: okCount === SOURCES.length };
+    return { scraped_at, new_count, new_jobs, jobs, fully_loaded: masterSuccess };
   }
 
   // ---------- Merge (additive — preserves triage history) ----------
