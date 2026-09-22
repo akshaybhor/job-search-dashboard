@@ -134,6 +134,7 @@ EXCLUDED_COMPANIES = [
     "Infotree Global Solution.",
     "Infotree Solutions",
     "aditi consulting",
+    "Kforce Inc",
     "Insight Global",
     "dataannotation",    # Spams gig-work prompt-writing jobs
     "data annotation",
