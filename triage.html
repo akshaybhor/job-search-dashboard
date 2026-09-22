@@ -520,12 +520,14 @@
     // KEYWORDS) — checked before Scientist so "Toxicology Research Scientist"
     // lands here, not in the generic bucket.
     if (/computational chem|computational scientist|cheminformatic|computational tox|predictive tox|toxicolog|\bdmpk\b|\badmet\b|\bqsar\b|\bpbpk\b|\bpkdm\b|drug metabolism|molecular property|computational patholog|imaging scientist|medical imaging/.test(t)) return 'Comp Chem/Sci';
-    if (/mlops|ml platform|ml infra|ml infrastructure|fullstack machine learning/.test(t)) return 'MLOps/Platform';
+    if (/mlops|ml platform|fullstack machine learning/.test(t)) return 'MLOps';
+    if (/ml infra|ml infrastructure|sre\b|site reliability|cloud|devops|platform engineer|infrastructure/.test(t)) return 'Cloud/DevOps';
     if (/applied scientist|ml scientist|research scientist|research engineer/.test(t)) return 'Scientist';
-    if (/data scientist|analytics/.test(t)) return 'Data Science';
+    if (/systems engineer/.test(t)) return 'Systems';
+    if (/data scientist|data engineer|data platform|analytics|big data/.test(t)) return 'Data Sci/Eng';
     if (/\bai engineer|ai\/ml engineer|applied ai|genai|llm|agent/.test(t)) return 'AI Engineer';
     if (/machine learning engineer|ml engineer|mle\b/.test(t)) return 'MLE';
-    if (/software engineer|swe\b|backend|frontend|full[- ]?stack/.test(t)) return 'SWE';
+    if (/software engineer|swe\b|sde\b|software development|developer\b|programmer\b|backend|back-end|frontend|full[- ]?stack/.test(t)) return 'SWE';
     return 'Other';
   }
   function classifySeniority(title) {
@@ -1300,8 +1302,8 @@
     renderFilterGroup('filter-source', 'source',
       ['LinkedIn', 'Biotech', 'Indeed', 'USAJOBS', 'NEOGOV', 'CalOpps', 'CalCareers']);
     renderFilterGroup('filter-role', 'role',
-      ['AI Engineer', 'MLE', 'MLOps/Platform', 'Scientist', 'Comp Chem/Sci',
-       'Data Science', 'SWE', 'Bioinformatics', 'Other']);
+      ['AI Engineer', 'MLE', 'MLOps', 'Scientist', 'Comp Chem/Sci',
+       'Data Sci/Eng', 'Cloud/DevOps', 'Systems', 'SWE', 'Bioinformatics', 'Other']);
     // Founding/Principal/Staff are excluded at the scraper (mid-level focus);
     // pruneState() clears any lingering untriaged ones from older sessions.
     renderFilterGroup('filter-sen', 'sen', ['Senior', 'Mid', 'Intern']);
