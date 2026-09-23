@@ -1164,7 +1164,7 @@ LINKEDIN_LOCATIONS = [
     ("Philadelphia, PA", "104937023"),
     ("Indianapolis, IN", "100871315"),
     ("Minneapolis, MN", "103039849"),
-    ("United States (Remote)", "103644278&f_WT=2"),
+    ("United States (Remote)", "103644278"),
 ]
 
 # Biotech allowlist used by the LinkedIn-side filter. Broader than CURATED_BIOTECHS
