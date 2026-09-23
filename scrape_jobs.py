@@ -1162,6 +1162,7 @@ LINKEDIN_LOCATIONS = [
     ("Phoenix, AZ", "100219842"),
     ("Miami, FL", "102394087"),
     ("Philadelphia, PA", "104937023"),
+    ("Indianapolis, IN", "100871315"),
     ("Minneapolis, MN", "103039849"),
     ("United States (Remote)", "103644278&f_WT=2"),
 ]
