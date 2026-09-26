@@ -1,64 +1,77 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-26 22:09 UTC*
+*Last updated: 2026-09-26 23:42 UTC*
 
-**14 new role(s)** since last run · 60 total in last 2h
+**18 new role(s)** since last run · 25 total in last 2h
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4471074301/) — FutureTech Recruitment
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $225,000.00/yr - $425,000.00/yr
-- 🕒 **Posted:** 2026-09-26
-
-### [Software Engineer Security](https://www.linkedin.com/jobs/view/4435846627/) — Thinking Machines Lab
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-26
-
-### [Full Stack AI Engineer](https://www.linkedin.com/jobs/view/4472291997/) — Nxt Level
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $160,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-09-26
-
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4469519793/) — Haystack
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-26
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4472414127/) — Optum
-- 📍 **Location:** Eden Prairie, MN
-- 🕒 **Posted:** 2026-09-26
-
-### [Cloud Engineer - Trading Firm - $150,000-$250,000 + Bonus - Chicago / Remote Option](https://www.linkedin.com/jobs/view/4470580143/) — Hunter Bond
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-09-26
-
-### [Agentic AI Engineer - Cloud Infrastructure Automation](https://www.linkedin.com/jobs/view/4471084032/) — Univedge Consulting LLC
-- 📍 **Location:** Texas, United States
-- 💰 **Salary:** $75.00/hr - $80.00/hr
-- 🕒 **Posted:** 2026-09-26
-
-### [Entry Level Software Developer](https://www.linkedin.com/jobs/view/4470004127/) — General Dynamics Electric Boat
-- 📍 **Location:** New London, CT
-- 🕒 **Posted:** 2026-09-26
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4472412297/) — HARISAN TECHNOLOGIES
+### [Senior Full Stack Software Engineer - Credit Card](https://www.linkedin.com/jobs/view/4470585076/) — TalentHop
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-26
 
-### [Solana / Backend Developer & Motion Graphic Designer / Illustrator / Technical Game Artist](https://www.linkedin.com/jobs/view/4471082078/) — ModernPokerCLub
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-09-26
-
-### [Software Engineer, Manufacturing Infrastructure](https://www.linkedin.com/jobs/view/4472298732/) — SpaceX
-- 📍 **Location:** Texas, United States
-- 🕒 **Posted:** 2026-09-26
-
-### [Big Data Engineer](https://www.linkedin.com/jobs/view/4469536208/) — Haystack
+### [Backend Software Engineer (Java, API)](https://www.linkedin.com/jobs/view/4472284063/) — Wiraa
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-26
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4470246503/) — Haystack
+### [Sr. Software Engineer I](https://www.linkedin.com/jobs/view/4470568880/) — TalentHop
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-26
 
-### [Full Stack Software Engineer, Manufacturing Systems](https://www.linkedin.com/jobs/view/4472406479/) — SpaceX
-- 📍 **Location:** Texas, United States
+### [Data Platform Engineer Manager](https://www.linkedin.com/jobs/view/4471064841/) — Purple Wave Auction
+- 📍 **Location:** Manhattan, KS
+- 🕒 **Posted:** 2026-09-26
+
+### [Infrastructure Platform Engineer](https://www.linkedin.com/jobs/view/4472419014/) — UF Information Technology (UFIT)
+- 📍 **Location:** Gainesville, FL
+- 🕒 **Posted:** 2026-09-26
+
+### [Python Systems Engineer (Remote)](https://www.linkedin.com/jobs/view/4472268505/) — Wiraa
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-26
+
+### [Sr. Sales Systems Engineer](https://www.linkedin.com/jobs/view/4470568879/) — TalentHop
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-26
+
+### [Platform Data Engineering Lead](https://www.linkedin.com/jobs/view/4470571842/) — Boston Insights
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-26
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4472266721/) — Wiraa
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-26
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4472264893/) — Wiraa
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-26
+
+### [AI Engineer - Remote](https://www.linkedin.com/jobs/view/4472277271/) — Wiraa
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-26
+
+### [Senior Software Engineer (AI / Full-Stack)](https://www.linkedin.com/jobs/view/4472418044/) — MarginArc
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-26
+
+### [ML Engineer](https://www.linkedin.com/jobs/view/4472269468/) — Wiraa
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-26
+
+### [Software Engineer (Python, CSS)](https://www.linkedin.com/jobs/view/4472272391/) — Wiraa
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-26
+
+### [Software Engineer - Java](https://www.linkedin.com/jobs/view/4472276307/) — Wiraa
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-26
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4471064766/) — Randstad Digital Americas
+- 📍 **Location:** Columbus, OH
+- 💰 **Salary:** $64.54/hr - $69.54/hr
+- 🕒 **Posted:** 2026-09-26
+
+### [Healthcare IT Software Engineer](https://www.linkedin.com/jobs/view/4471059999/) — Patient Centric Solutions, Inc
+- 📍 **Location:** Rhode Island, United States
+- 🕒 **Posted:** 2026-09-26
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4472282179/) — Wiraa
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-26
