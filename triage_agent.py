@@ -20,6 +20,7 @@ import re
 import subprocess
 import sys
 import time
+import urllib.error
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
@@ -336,17 +337,9 @@ def make_call_model(model: str):
                 headers={"Content-Type": "application/json",
                          "x-goog-api-key": os.environ["GEMINI_API_KEY"]},
             )
-            for attempt in range(3):
-                try:
-                    with urllib.request.urlopen(req, timeout=MODEL_TIMEOUT) as r:
-                        data = json.loads(r.read().decode("utf-8"))
-                    return data["candidates"][0]["content"]["parts"][0]["text"]
-                except urllib.error.HTTPError as e:
-                    if e.code in (429, 503) and attempt < 2:
-                        import time
-                        time.sleep(30 * (attempt + 1))
-                    else:
-                        raise
+            with urllib.request.urlopen(req, timeout=MODEL_TIMEOUT) as r:
+                data = json.loads(r.read().decode("utf-8"))
+            return data["candidates"][0]["content"]["parts"][0]["text"]
 
         print(f"🧠 backend: Gemini API ({gem_model})")
         return call_gemini
@@ -614,6 +607,11 @@ def main() -> int:
         try:
             raw = call_model(static_prefix, prompt)
             verdict = parse_verdict(raw)
+        except urllib.error.HTTPError as e:
+            verdict = None
+            err_body = e.read().decode('utf-8', errors='ignore')
+            print(f"  ⚠️  {label}: HTTPError {e.code}")
+            print(f"      {err_body.strip()}")
         except Exception as e:
             verdict = None
             print(f"  ⚠️  {label}: {type(e).__name__}")
