@@ -1,59 +1,52 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-24 09:29 UTC*
+*Last updated: 2026-09-26 08:48 UTC*
 
-**14 new role(s)** since last run · 104 total in last 24h
+**12 new role(s)** since last run · 104 total in last 24h
 
-### [Senior Software Engineer II](https://job-boards.greenhouse.io/freenome/jobs/8519753002) — Freenome
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-07-14
-
-### [Manager of Data Engineering & Delivery (Data Science Production Engineering)](https://job-boards.greenhouse.io/natera/jobs/6150570004) — Natera
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Software Engineer, AI Governance](https://job-boards.greenhouse.io/natera/jobs/6187834004) — Natera
+### [Senior Software Engineer, LIMS](https://job-boards.greenhouse.io/natera/jobs/6204494004) — Natera
 - 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-25
 
-### [Associate AI Engineer, OI&A](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988) — Amgen
-- 📍 **Location:** US - California - Thousand Oaks
-- 🕒 **Posted:** Posted Yesterday
+### [Software Engineer I/II - Scientific Computing](https://jobs.ashbyhq.com/iambic-therapeutics/26e58057-83e9-46af-85eb-90142cf3b8ba) — Iambic Therapeutics
+- 📍 **Location:** Boston Office
+- 🕒 **Posted:** 2026-09-25
 
-### [Software Engineering (3)](https://www.immunai.com/careers/#software-engineering-3) — Immunai
-- 📍 **Location:** New York, NY
-
-### [Junior Software Developer](https://www.linkedin.com/jobs/view/4471404118/) — ARA
-- 📍 **Location:** Albuquerque, NM
+### [Platform Engineer ](https://jobs.ashbyhq.com/vitalize/6d9347cb-f118-4186-a382-a0d94af582b5) — Vitalize
+- 📍 **Location:** Remote
 - 🕒 **Posted:** 2026-09-24
 
-### [Senior Data Engineer, Bioinformatics, Cheminformatics, Materials](https://www.linkedin.com/jobs/view/4462070206/) — Lila Sciences
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-23
-
-### [Software Development Engineer/Senior Software Development Engineer, Agentic Systems, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4443914781/) — Genentech
+### [Senior Software Engineer, Backend - Care Platform Operations](https://www.linkedin.com/jobs/view/4266581967/) — Ro
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-26
 
-### [AI & Data Engineer, Data Discovery Services](https://www.linkedin.com/jobs/view/4469309215/) — Bristol Myers Squibb EU Policy
-- 📍 **Location:** Princeton, NJ
-- 🕒 **Posted:** 2026-09-23
+### [Senior Software Engineer, Backend](https://www.linkedin.com/jobs/view/4301398088/) — Ro
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-26
 
-### [Senior Software Engineer I/II, Back-end/Data, Robotics](https://www.linkedin.com/jobs/view/4451562778/) — Lila Sciences
-- 📍 **Location:** Cambridge, MA
-- 🕒 **Posted:** 2026-09-23
+### [Senior AI/ML Engineer - Research Data AI and Predictive Modeling (Vaccine R&D)](https://www.linkedin.com/jobs/view/4454595614/) — Pfizer
+- 📍 **Location:** Pearl River, NY
+- 🕒 **Posted:** 2026-09-25
 
-### [Senior Manager, Scientific AI Engineer](https://www.linkedin.com/jobs/view/4470630028/) — Pfizer
-- 📍 **Location:** Cambridge, MA
-- 🕒 **Posted:** 2026-09-23
+### [Software Engineer I/II - Scientific Computing](https://www.linkedin.com/jobs/view/4472098673/) — Iambic
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-09-25
 
-### [Senior Software Engineer, ML Research](https://www.linkedin.com/jobs/view/4462107835/) — Lila Sciences
-- 📍 **Location:** Cambridge, MA
-- 🕒 **Posted:** 2026-09-23
+### [System Software Engineering - PhD Intern](https://www.linkedin.com/jobs/view/4470396067/) — Intel
+- 📍 **Location:** Hillsboro, OR
+- 🕒 **Posted:** 2026-09-25
 
-### [Advisory Software Engineer](https://www.linkedin.com/jobs/view/4470967687/) — NA
-- 📍 **Location:** Boulder, CO
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Engineer II, Software Engineering- .NET MAUI](https://www.linkedin.com/jobs/view/4294675341/) — ASM
+### [Systems Engineer I - Software, Robotics & Semiconductor Automation](https://www.linkedin.com/jobs/view/4453355606/) — ASM
 - 📍 **Location:** Greater Phoenix Area
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-25
+
+### [Snr Engineer, Systems Engineering](https://www.linkedin.com/jobs/view/4359678406/) — ASM
+- 📍 **Location:** Greater Phoenix Area
+- 🕒 **Posted:** 2026-09-25
+
+### [(Senior) Engineer II, Systems Engineering (Optical / Machine vision)](https://www.linkedin.com/jobs/view/4463143830/) — ASM
+- 📍 **Location:** Greater Phoenix Area
+- 🕒 **Posted:** 2026-09-25
+
+### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4412854295/) — Gen
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-25
