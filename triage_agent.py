@@ -598,7 +598,7 @@ def main() -> int:
 
     static_prefix = build_static_prefix(profile, resume)
     redact_tokens = private_tokens(profile, resume)
-    jd_read = jd_meta = errors = consecutive_errors = 0
+    jd_read = jd_meta = errors = 0
 
     for i, job in enumerate(batch, 1):
         jd_text = "" if args.no_jd else fetch_jd(job)
@@ -617,13 +617,8 @@ def main() -> int:
             print(f"  ⚠️  {label}: {type(e).__name__}")
         if verdict is None:
             errors += 1
-            consecutive_errors += 1
-            if consecutive_errors >= 3:
-                print("  🚨 3 consecutive errors hit. Aborting this run to failover to the next API key.")
-                break
             continue
-        
-        consecutive_errors = 0
+
         # Opt-in score audit. Runs BEFORE redact_private so the single redaction
         # pass below also scrubs judge_note. Skips error/empty-why verdicts and
         # anything below --judge-min (cost knob). judge_score never raises.
@@ -657,9 +652,10 @@ def main() -> int:
         time.sleep(4.5)
 
     remaining = len(unscored) - len(batch)
-    print(f"\n✅ scored {len(batch)} of {len(unscored)} unscored "
-          f"({len(scores)} total in scores.json; {jd_read} jd-read, "
-          f"{jd_meta} metadata-only, {errors} errors)"
+    successes = len(batch) - errors
+    print(f"\n✅ processed {len(batch)} of {len(unscored)} unscored "
+          f"({successes} scored, {errors} skipped due to errors. "
+          f"Dashboard total: {len(scores)})"
           + (f" — raise --limit to cover the remaining {remaining}" if remaining else ""))
     return 0
 
