@@ -1135,7 +1135,7 @@ LINKEDIN_SEARCH_TERMS = [
 ]
 
 # We use a 4h lookback because GitHub Actions often throttles hourly crons
-LINKEDIN_LOOKBACK_SECONDS = 14400         # 4h
+LINKEDIN_LOOKBACK_SECONDS = 7200         # 2h
 LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT digest
 
 # Guest-endpoint geo scopes as (display name, LinkedIn geoId) pairs.
