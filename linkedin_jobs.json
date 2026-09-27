@@ -1,187 +1,253 @@
 {
-  "scraped_at": "2026-09-27 00:50 UTC",
-  "total": 17,
-  "new_count": 5,
+  "scraped_at": "2026-09-27 05:24 UTC",
+  "total": 15,
+  "new_count": 15,
   "jobs": [
     {
-      "company": "Loci",
-      "title": "Senior Software Engineer",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4472412571/",
-      "date_posted": "2026-09-26",
-      "ats": "LinkedIn",
-      "salary": "$180,000.00/yr - $200,000.00/yr"
-    },
-    {
-      "company": "Fieldpiece Instruments",
-      "title": "Sr. AI Engineer",
-      "location": "Orange, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472418176/",
-      "date_posted": "2026-09-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "KBR Careers",
-      "title": "Senior Systems Engineer / Model-Based Systems Engineering Lead",
-      "location": "Lexington Park, MD",
-      "url": "https://www.linkedin.com/jobs/view/4472045888/",
-      "date_posted": "2026-09-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MiRA Clinical",
-      "title": "MiRA Clinical: Software Engineer / AI Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4471063942/",
-      "date_posted": "2026-09-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "UF Information Technology (UFIT)",
-      "title": "Infrastructure Platform Engineer",
-      "location": "Gainesville, FL",
-      "url": "https://www.linkedin.com/jobs/view/4472419014/",
-      "date_posted": "2026-09-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Boston Insights",
-      "title": "Platform Data Engineering Lead",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4470571842/",
-      "date_posted": "2026-09-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Purple Wave Auction",
-      "title": "Data Platform Engineer Manager",
-      "location": "Manhattan, KS",
-      "url": "https://www.linkedin.com/jobs/view/4471064841/",
-      "date_posted": "2026-09-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MarginArc",
-      "title": "Senior Software Engineer (AI / Full-Stack)",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4472418044/",
-      "date_posted": "2026-09-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Wiraa",
-      "title": "Backend Software Engineer (Java, API)",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4472284063/",
-      "date_posted": "2026-09-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Wiraa",
-      "title": "Software Engineer - Java",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4472276307/",
-      "date_posted": "2026-09-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "FutureTech Recruitment",
-      "title": "Senior Software Engineer",
+      "company": "Whitespace",
+      "title": "Software Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471074301/",
-      "date_posted": "2026-09-26",
-      "ats": "LinkedIn",
-      "salary": "$225,000.00/yr - $425,000.00/yr"
-    },
-    {
-      "company": "Univedge Consulting LLC",
-      "title": "Agentic AI Engineer - Cloud Infrastructure Automation",
-      "location": "Texas, United States",
-      "url": "https://www.linkedin.com/jobs/view/4471084032/",
-      "date_posted": "2026-09-26",
-      "ats": "LinkedIn",
-      "salary": "$75.00/hr - $80.00/hr"
-    },
-    {
-      "company": "TalentHop",
-      "title": "Sr. Software Engineer I",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4470568880/",
+      "url": "https://www.linkedin.com/jobs/view/4472432284/",
       "date_posted": "2026-09-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Wiraa",
-      "title": "Python Systems Engineer (Remote)",
+      "company": "Meta",
+      "title": "Software Engineer, Infrastructure (Technical Leadership)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470584536/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn",
+      "salary": "$219,000.00/yr - $301,000.00/yr"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, Product (Technical Leadership)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470588442/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn",
+      "salary": "$219,000.00/yr - $301,000.00/yr"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, Infrastructure (Technical Leadership)",
+      "location": "Bellevue, WA",
+      "url": "https://www.linkedin.com/jobs/view/4470581574/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn",
+      "salary": "$219,000.00/yr - $301,000.00/yr"
+    },
+    {
+      "company": "Torentify",
+      "title": "Full Stack / Backend Engineer (Python,Django)",
       "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4472268505/",
+      "url": "https://www.linkedin.com/jobs/view/4472428519/",
       "date_posted": "2026-09-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Wiraa",
+      "company": "Torentify",
+      "title": "Backend Engineer, Sr.",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4472423649/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Confidential",
+      "title": "Lead Software Engineer",
+      "location": "Greater Bengaluru Area",
+      "url": "https://www.linkedin.com/jobs/view/4470576930/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "MITRE",
+      "title": "Lead Software Engineer, TS/SCI w/ Polygraph",
+      "location": "McLean, VA",
+      "url": "https://www.linkedin.com/jobs/view/4468664922/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Torentify",
+      "title": "Backend Engineer - (Python,Flask) / Contract",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4472423839/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Penn State University",
+      "title": "Systems Engineer Intern",
+      "location": "University Park, PA",
+      "url": "https://www.linkedin.com/jobs/view/4471081591/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Whitespace",
+      "title": "Software Engineer",
+      "location": "Alexandria, VA",
+      "url": "https://www.linkedin.com/jobs/view/4472416677/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Optum",
+      "title": "Senior Data Engineer (Analytics)",
+      "location": "Eden Prairie, MN",
+      "url": "https://www.linkedin.com/jobs/view/4472416680/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Torentify",
+      "title": "Data Engineer - WFH",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4472427580/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Torentify",
       "title": "Data Engineer II",
       "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4472266721/",
+      "url": "https://www.linkedin.com/jobs/view/4472431383/",
       "date_posted": "2026-09-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Wiraa",
-      "title": "Data Engineer",
+      "company": "Torentify",
+      "title": "Backend Engineer (Python / Kotlin)",
       "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4472264893/",
-      "date_posted": "2026-09-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Wiraa",
-      "title": "Full Stack Software Engineer, Sr.",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4472281217/",
+      "url": "https://www.linkedin.com/jobs/view/4472423804/",
       "date_posted": "2026-09-26",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Loci",
-      "title": "Senior Software Engineer",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4472412571/",
+      "company": "Whitespace",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472432284/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, Infrastructure (Technical Leadership)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470584536/",
       "date_posted": "2026-09-26",
       "ats": "LinkedIn",
-      "salary": "$180,000.00/yr - $200,000.00/yr"
+      "salary": "$219,000.00/yr - $301,000.00/yr"
     },
     {
-      "company": "Fieldpiece Instruments",
-      "title": "Sr. AI Engineer",
-      "location": "Orange, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472418176/",
+      "company": "Meta",
+      "title": "Software Engineer, Product (Technical Leadership)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470588442/",
       "date_posted": "2026-09-26",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$219,000.00/yr - $301,000.00/yr"
     },
     {
-      "company": "KBR Careers",
-      "title": "Senior Systems Engineer / Model-Based Systems Engineering Lead",
-      "location": "Lexington Park, MD",
-      "url": "https://www.linkedin.com/jobs/view/4472045888/",
+      "company": "Meta",
+      "title": "Software Engineer, Infrastructure (Technical Leadership)",
+      "location": "Bellevue, WA",
+      "url": "https://www.linkedin.com/jobs/view/4470581574/",
       "date_posted": "2026-09-26",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$219,000.00/yr - $301,000.00/yr"
     },
     {
-      "company": "MiRA Clinical",
-      "title": "MiRA Clinical: Software Engineer / AI Engineer",
+      "company": "Torentify",
+      "title": "Full Stack / Backend Engineer (Python,Django)",
       "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4471063942/",
+      "url": "https://www.linkedin.com/jobs/view/4472428519/",
       "date_posted": "2026-09-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Wiraa",
-      "title": "Full Stack Software Engineer, Sr.",
+      "company": "Torentify",
+      "title": "Backend Engineer, Sr.",
       "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4472281217/",
+      "url": "https://www.linkedin.com/jobs/view/4472423649/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Confidential",
+      "title": "Lead Software Engineer",
+      "location": "Greater Bengaluru Area",
+      "url": "https://www.linkedin.com/jobs/view/4470576930/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "MITRE",
+      "title": "Lead Software Engineer, TS/SCI w/ Polygraph",
+      "location": "McLean, VA",
+      "url": "https://www.linkedin.com/jobs/view/4468664922/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Torentify",
+      "title": "Backend Engineer - (Python,Flask) / Contract",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4472423839/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Penn State University",
+      "title": "Systems Engineer Intern",
+      "location": "University Park, PA",
+      "url": "https://www.linkedin.com/jobs/view/4471081591/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Whitespace",
+      "title": "Software Engineer",
+      "location": "Alexandria, VA",
+      "url": "https://www.linkedin.com/jobs/view/4472416677/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Optum",
+      "title": "Senior Data Engineer (Analytics)",
+      "location": "Eden Prairie, MN",
+      "url": "https://www.linkedin.com/jobs/view/4472416680/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Torentify",
+      "title": "Data Engineer - WFH",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4472427580/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Torentify",
+      "title": "Data Engineer II",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4472431383/",
+      "date_posted": "2026-09-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Torentify",
+      "title": "Backend Engineer (Python / Kotlin)",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4472423804/",
       "date_posted": "2026-09-26",
       "ats": "LinkedIn"
     }
