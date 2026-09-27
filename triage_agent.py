@@ -31,6 +31,8 @@ ALL_JOBS_PATH = os.path.join(SCRIPT_DIR, "all_jobs.json")
 SCORES_PATH = os.path.join(SCRIPT_DIR, "scores.json")
 SOURCE_FILES = ["jobs.json", "linkedin_jobs.json", "indeed_jobs.json"]
 
+global_token_usage = {"input": 0, "output": 0}
+
 DEFAULT_MODEL = "claude-haiku-4-5-20251001"
 GEMINI_MODEL = "gemini-3.5-flash-lite"  # used when GEMINI_API_KEY is set (cheap CI path)
 JD_MAX_CHARS = 6000
@@ -339,6 +341,9 @@ def make_call_model(model: str):
             )
             with urllib.request.urlopen(req, timeout=MODEL_TIMEOUT) as r:
                 data = json.loads(r.read().decode("utf-8"))
+            if "usageMetadata" in data:
+                global_token_usage["input"] += data["usageMetadata"].get("promptTokenCount", 0)
+                global_token_usage["output"] += data["usageMetadata"].get("candidatesTokenCount", 0)
             return data["candidates"][0]["content"]["parts"][0]["text"]
 
         print(f"🧠 backend: Gemini API ({gem_model})")
@@ -364,6 +369,9 @@ def make_call_model(model: str):
                     }],
                     messages=[{"role": "user", "content": job_prompt}],
                 )
+                if hasattr(resp, "usage") and resp.usage:
+                    global_token_usage["input"] += getattr(resp.usage, "input_tokens", 0)
+                    global_token_usage["output"] += getattr(resp.usage, "output_tokens", 0)
                 return resp.content[0].text
 
             print(f"🧠 backend: Anthropic API ({model})")
@@ -658,6 +666,10 @@ def main() -> int:
           f"({successes} scored, {errors} skipped due to errors. "
           f"Dashboard total: {len(scores)})"
           + (f" — raise --limit to cover the remaining {remaining}" if remaining else ""))
+    
+    if global_token_usage["input"] > 0 or global_token_usage["output"] > 0:
+        print(f"📊 Tokens consumed this batch: {global_token_usage['input']:,} input | {global_token_usage['output']:,} output")
+        
     return 0
 
 
