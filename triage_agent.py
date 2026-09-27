@@ -32,7 +32,7 @@ SCORES_PATH = os.path.join(SCRIPT_DIR, "scores.json")
 SOURCE_FILES = ["jobs.json", "linkedin_jobs.json", "indeed_jobs.json"]
 
 DEFAULT_MODEL = "claude-haiku-4-5-20251001"
-GEMINI_MODEL = "gemini-3.5-flash"  # used when GEMINI_API_KEY is set (cheap CI path)
+GEMINI_MODEL = "gemini-3.5-flash-lite"  # used when GEMINI_API_KEY is set (cheap CI path)
 JD_MAX_CHARS = 6000
 # Direct page-fetch sources. LinkedIn is handled via its guest posting
 # endpoint and Indeed via the description the scraper saves — see fetch_jd().
@@ -323,7 +323,7 @@ def make_call_model(model: str):
                 "system_instruction": {"parts": [{"text": static_prefix}]},
                 "contents": [{"parts": [{"text": job_prompt}]}],
                 "generationConfig": {
-                    # 3.5 Flash is a thinking model: thinking tokens count
+                    # 3.5 Flash-Lite supports thinking: thinking tokens count
                     # against the output budget. Cap thinking low (cost) and
                     # give plenty of headroom so the JSON verdict never truncates.
                     "maxOutputTokens": 2048,
@@ -617,6 +617,7 @@ def main() -> int:
             print(f"  ⚠️  {label}: {type(e).__name__}")
         if verdict is None:
             errors += 1
+            time.sleep(4.5)  # Enforce rate limit even on failed requests
             continue
 
         # Opt-in score audit. Runs BEFORE redact_private so the single redaction
