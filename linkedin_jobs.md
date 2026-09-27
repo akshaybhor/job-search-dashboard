@@ -1,77 +1,25 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-26 23:42 UTC*
+*Last updated: 2026-09-27 00:50 UTC*
 
-**18 new role(s)** since last run · 25 total in last 2h
+**5 new role(s)** since last run · 17 total in last 2h
 
-### [Senior Full Stack Software Engineer - Credit Card](https://www.linkedin.com/jobs/view/4470585076/) — TalentHop
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4472412571/) — Loci
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $180,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-09-26
+
+### [Sr. AI Engineer](https://www.linkedin.com/jobs/view/4472418176/) — Fieldpiece Instruments
+- 📍 **Location:** Orange, CA
+- 🕒 **Posted:** 2026-09-26
+
+### [Senior Systems Engineer / Model-Based Systems Engineering Lead](https://www.linkedin.com/jobs/view/4472045888/) — KBR Careers
+- 📍 **Location:** Lexington Park, MD
+- 🕒 **Posted:** 2026-09-26
+
+### [MiRA Clinical: Software Engineer / AI Engineer](https://www.linkedin.com/jobs/view/4471063942/) — MiRA Clinical
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-26
 
-### [Backend Software Engineer (Java, API)](https://www.linkedin.com/jobs/view/4472284063/) — Wiraa
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
-
-### [Sr. Software Engineer I](https://www.linkedin.com/jobs/view/4470568880/) — TalentHop
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
-
-### [Data Platform Engineer Manager](https://www.linkedin.com/jobs/view/4471064841/) — Purple Wave Auction
-- 📍 **Location:** Manhattan, KS
-- 🕒 **Posted:** 2026-09-26
-
-### [Infrastructure Platform Engineer](https://www.linkedin.com/jobs/view/4472419014/) — UF Information Technology (UFIT)
-- 📍 **Location:** Gainesville, FL
-- 🕒 **Posted:** 2026-09-26
-
-### [Python Systems Engineer (Remote)](https://www.linkedin.com/jobs/view/4472268505/) — Wiraa
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
-
-### [Sr. Sales Systems Engineer](https://www.linkedin.com/jobs/view/4470568879/) — TalentHop
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
-
-### [Platform Data Engineering Lead](https://www.linkedin.com/jobs/view/4470571842/) — Boston Insights
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
-
-### [Data Engineer II](https://www.linkedin.com/jobs/view/4472266721/) — Wiraa
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4472264893/) — Wiraa
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
-
-### [AI Engineer - Remote](https://www.linkedin.com/jobs/view/4472277271/) — Wiraa
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
-
-### [Senior Software Engineer (AI / Full-Stack)](https://www.linkedin.com/jobs/view/4472418044/) — MarginArc
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
-
-### [ML Engineer](https://www.linkedin.com/jobs/view/4472269468/) — Wiraa
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
-
-### [Software Engineer (Python, CSS)](https://www.linkedin.com/jobs/view/4472272391/) — Wiraa
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
-
-### [Software Engineer - Java](https://www.linkedin.com/jobs/view/4472276307/) — Wiraa
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4471064766/) — Randstad Digital Americas
-- 📍 **Location:** Columbus, OH
-- 💰 **Salary:** $64.54/hr - $69.54/hr
-- 🕒 **Posted:** 2026-09-26
-
-### [Healthcare IT Software Engineer](https://www.linkedin.com/jobs/view/4471059999/) — Patient Centric Solutions, Inc
-- 📍 **Location:** Rhode Island, United States
-- 🕒 **Posted:** 2026-09-26
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4472282179/) — Wiraa
+### [Full Stack Software Engineer, Sr.](https://www.linkedin.com/jobs/view/4472281217/) — Wiraa
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-26
