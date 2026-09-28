@@ -2,8 +2,19 @@ name: Nightly Job Triage
 
 on:
   schedule:
-    - cron: "47 2 * * *"
-    - cron: "17 5 * * *"
+    # --- 4 New Jobs Before ---
+    - cron: "47 16 * * *"  # 4:47 PM UTC
+    - cron: "17 19 * * *"  # 7:17 PM UTC
+    - cron: "47 21 * * *"  # 9:47 PM UTC
+    - cron: "17 0 * * *"   # 12:17 AM UTC
+
+    # --- Your 2 Original Jobs ---
+    - cron: "47 2 * * *"   # 2:47 AM UTC
+    - cron: "17 5 * * *"   # 5:17 AM UTC
+
+    # --- 2 New Jobs After ---
+    - cron: "47 7 * * *"   # 7:47 AM UTC
+    - cron: "17 10 * * *"  # 10:17 AM UTC
 
   workflow_dispatch:
 
