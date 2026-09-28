@@ -34,7 +34,7 @@ SOURCE_FILES = ["jobs.json", "linkedin_jobs.json", "indeed_jobs.json"]
 global_token_usage = {"input": 0, "output": 0, "last_input": 0, "last_output": 0}
 
 DEFAULT_MODEL = "claude-haiku-4-5-20251001"
-GEMINI_MODEL = "gemini-3.6-flash"  # used when GEMINI_API_KEY is set (cheap CI path)
+GEMINI_MODEL = "gemini-3.5-flash-lite"  # used when GEMINI_API_KEY is set (cheap CI path)
 JD_MAX_CHARS = 6000
 # Direct page-fetch sources. LinkedIn is handled via its guest posting
 # endpoint and Indeed via the description the scraper saves — see fetch_jd().
