@@ -1,28 +1,16 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-27 09:27 UTC*
+*Last updated: 2026-09-28 10:11 UTC*
 
-**6 new role(s)** since last run · 100 total in last 24h
+**3 new role(s)** since last run · 96 total in last 24h
 
-### [Senior Software Engineer II](https://job-boards.greenhouse.io/freenome/jobs/8414748002) — Freenome
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-07-15
+### [Lead Machine Learning Engineer - Engine](https://www.linkedin.com/jobs/view/4406763299/) — Gen
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-27
 
-### [Senior Software Engineer, Research Biology](https://www.linkedin.com/jobs/view/4398007920/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-09-26
+### [Senior Middleware Software Development Engineer](https://www.linkedin.com/jobs/view/4453567512/) — Intel
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-09-27
 
-### [Sr Software Engineer (Data Engineering Team)](https://www.linkedin.com/jobs/view/4407431777/) — Foundation Medicine
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-09-26
-
-### [Sr. Embedded Software Engineer (C++ & MATLAB)](https://www.linkedin.com/jobs/view/4453709919/) — ARi
-- 📍 **Location:** Peoria Metropolitan Area
-- 🕒 **Posted:** 2026-09-26
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4462330254/) — Tempus AI
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-09-26
-
-### [Senior Middleware Software Development Engineer](https://www.linkedin.com/jobs/view/4453582531/) — Intel
-- 📍 **Location:** Hillsboro, OR
-- 🕒 **Posted:** 2026-09-26
+### [Senior Engineer I, Software Engineering- "Factory Automation"](https://www.linkedin.com/jobs/view/4295432099/) — ASM
+- 📍 **Location:** Greater Phoenix Area
+- 🕒 **Posted:** 2026-09-27
