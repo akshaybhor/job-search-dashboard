@@ -3,6 +3,7 @@ __pycache__/
 
 # Personal data — NEVER commit (public repo). CI gets these via Actions secrets.
 candidate_profile.md
+run_local_triage.bat
 resume.md
 resume.txt
 shortlist.*
