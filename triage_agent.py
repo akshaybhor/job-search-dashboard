@@ -306,11 +306,46 @@ def build_job_prompt(job: dict, jd_text: str) -> str:
 # Model backends
 # ---------------------------------------------------------------------------
 
-def make_call_model(model: str):
+def make_call_model(model: str, use_npu: bool = False):
     """Returns call_model(static_prefix, job_prompt) -> str, picking the backend.
 
-    Priority: Gemini (cheapest, used in CI) > Anthropic API > local claude CLI.
+    Priority: Local NPU > Gemini > Anthropic API > local claude CLI.
     """
+    if use_npu:
+        try:
+            from openai import OpenAI
+        except ImportError:
+            print("❌ --local-npu requires the openai package. Run: pip install openai")
+            sys.exit(1)
+            
+        client = OpenAI(
+            base_url="http://localhost:52625/v1", 
+            api_key="local-execution"
+        )
+        
+        def call_npu(static_prefix: str, job_prompt: str) -> str:
+            response = client.chat.completions.create(
+                model="qwen3.5:9b",
+                messages=[
+                    {"role": "system", "content": static_prefix},
+                    {"role": "user", "content": job_prompt}
+                ],
+                response_format={"type": "json_object"}
+            )
+            
+            if response.usage:
+                inp = getattr(response.usage, "prompt_tokens", 0)
+                out = getattr(response.usage, "completion_tokens", 0)
+                global_token_usage["input"] += inp
+                global_token_usage["output"] += out
+                global_token_usage["last_input"] = inp
+                global_token_usage["last_output"] = out
+                
+            return response.choices[0].message.content
+
+        print("🧠 backend: FastFlowLM (Local AMD NPU via OpenAI SDK - qwen3.5:9b)")
+        return call_npu
+
     if os.environ.get("GEMINI_API_KEY"):
         gem_model = model if model.startswith("gemini") else GEMINI_MODEL
         endpoint = (
@@ -544,6 +579,7 @@ def main() -> int:
     ap.add_argument("--since", type=int, default=0,
                     help="only roles first_seen in the last N days (0 = all unscored)")
     ap.add_argument("--model", default=DEFAULT_MODEL, help="model id for the API path")
+    ap.add_argument("--local-npu", action="store_true", help="run on local AMD NPU via FastFlowLM")
     ap.add_argument("--from-files", action="store_true",
                     help="read the live per-source snapshots instead of all_jobs.json")
     ap.add_argument("--dry-run", action="store_true", help="report only; write nothing")
@@ -608,7 +644,7 @@ def main() -> int:
         return 0
 
     batch = unscored[:args.limit]
-    call_model = make_call_model(args.model)
+    call_model = make_call_model(args.model, args.local_npu)
     print(f"📋 scoring {len(batch)} of {len(unscored)} unscored "
           f"({len(jobs)} total in {source}; {len(scores)} already scored)")
 
