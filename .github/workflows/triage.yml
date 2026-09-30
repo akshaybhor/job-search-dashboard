@@ -8,14 +8,6 @@ on:
     - cron: "47 21 * * *"  # 9:47 PM UTC
     - cron: "17 0 * * *"   # 12:17 AM UTC
 
-    # --- Your 2 Original Jobs ---
-    - cron: "47 2 * * *"   # 2:47 AM UTC
-    - cron: "17 5 * * *"   # 5:17 AM UTC
-
-    # --- 2 New Jobs After ---
-    - cron: "47 7 * * *"   # 7:47 AM UTC
-    - cron: "17 10 * * *"  # 10:17 AM UTC
-
   workflow_dispatch:
 
 concurrency:
@@ -54,14 +46,6 @@ jobs:
       - name: Run triage agent (Gemini Key 2)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_2 }}
-          CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
-          CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
-        run: python triage_agent.py --limit 125 --judge
-
-      # Runner 3: Gemini Key 3
-      - name: Run triage agent (Gemini Key 3)
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_3 }}
           CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
           CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
         run: python triage_agent.py --limit 125 --judge
