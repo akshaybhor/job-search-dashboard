@@ -1,252 +1,273 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-03 00:43 UTC*
+*Last updated: 2026-10-03 06:00 UTC*
 
-**61 new role(s)** since last run · 240 total in last 2h
+**67 new role(s)** since last run · 68 total in last 2h
 
-### [Machine Learning Engineer Graduate (AML-Engine-Orchestration) - 2027 Start](https://www.linkedin.com/jobs/view/4475046778/) — ByteDance
+### [Senior Software Engineer, Ads Pangle - USDS](https://www.linkedin.com/jobs/view/4466789366/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Test Software Engineer Graduate (Douyin Research and Development Middle Platform) - 2027 Start](https://www.linkedin.com/jobs/view/4475048705/) — ByteDance
+### [Senior Software Engineer, Enterprise Platform - Frontier Generative AI](https://www.linkedin.com/jobs/view/4466729063/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Machine Learning Engineer Graduate (AML-Engine-Orchestration) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4475063214/) — ByteDance
+### [Sr Software Engineer, Platform Cryptography](https://www.linkedin.com/jobs/view/4473850049/) — Visalytics
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4475087544/) — Cisco
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Software Engineer, Core Infrastructure - Moveworks (New Grad)](https://www.linkedin.com/jobs/view/4473847164/) — Visalytics
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Software Engineer, Advanced Pilot Assistant Software (Autonomy/Robotics)](https://www.linkedin.com/jobs/view/4475094272/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Software Engineer, Compute Performance](https://www.linkedin.com/jobs/view/4475097086/) — Cisco
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Software Engineer, Frontend/Web App](https://www.linkedin.com/jobs/view/4475087689/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Software Engineer, Machine Learning Infrastructure - USDS](https://www.linkedin.com/jobs/view/4467244197/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [AI Agent Security Software Engineer Graduate (Security Engineering) - 2027 Start](https://www.linkedin.com/jobs/view/4475044994/) — ByteDance
+### [Senior Software Engineer, iOS/Mobile](https://www.linkedin.com/jobs/view/4475096253/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Software Engineer, Compute Performance](https://www.linkedin.com/jobs/view/4475089501/) — Cisco
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4475049764/) — ByteDance
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4473846198/) — Visalytics
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Software Engineer, Cloud Infrastructure](https://www.linkedin.com/jobs/view/4475091505/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Tech Lead Software Engineer, Ads Infra - Big Data - USDS](https://www.linkedin.com/jobs/view/4466797292/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start](https://www.linkedin.com/jobs/view/4475045878/) — ByteDance
+### [Software Engineer, Ads Pangle - USDS](https://www.linkedin.com/jobs/view/4467003250/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Engineer Graduate (AML-Engine-Forge Platform) - 2027 Start](https://www.linkedin.com/jobs/view/4475064199/) — ByteDance
+### [Senior Machine Learning Engineer - Ads Pangle - USDS](https://www.linkedin.com/jobs/view/4466794363/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Agentic AI Engineer — Healthcare AI](https://www.linkedin.com/jobs/view/4475048873/) — Deloitte
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Agentic AI Engineer — Healthcare AI](https://www.linkedin.com/jobs/view/4475068100/) — Deloitte
+### [Senior Software Engineer, Ads ML Infrastructure - USDS](https://www.linkedin.com/jobs/view/4466782424/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Development Engineer, Item Relationships Pipeline](https://www.linkedin.com/jobs/view/4475047856/) — Amazon
+### [Senior Software Engineer, Ads Infra - Big Data - USDS](https://www.linkedin.com/jobs/view/4466780666/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [App Software Developer](https://www.linkedin.com/jobs/view/4473843215/) — Hexmodal
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Development Engineer II, AGI Security](https://www.linkedin.com/jobs/view/4475064138/) — Amazon
+### [AI Engineer, Knowledge Matching & Personalization](https://www.linkedin.com/jobs/view/4473363249/) — Hello Muslim
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4473817093/) — Clear Street
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Engineer, iOS, Level 4](https://www.linkedin.com/jobs/view/4475053507/) — Snap Inc.
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Engineer, Manufacturing & Supply Chain](https://www.linkedin.com/jobs/view/4473831014/) — Fluidstack
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $224,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Engineer, Compute Operations](https://www.linkedin.com/jobs/view/4473824261/) — Fluidstack
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $224,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Engineer Graduate (AI Infra Compute) - 2027 Start](https://www.linkedin.com/jobs/view/4475047800/) — ByteDance
+### [Software Engineer, Emerging Product - USDS](https://www.linkedin.com/jobs/view/4473937057/) — TikTok USDS Joint Venture
 - 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Development Engineer, Conversational Ads Experience](https://www.linkedin.com/jobs/view/4475048746/) — Amazon
+### [Senior Software Engineer, Ads Pangle - USDS](https://www.linkedin.com/jobs/view/4466791356/) — TikTok USDS Joint Venture
 - 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Development Engineer - Embedded, Flight Computer Software](https://www.linkedin.com/jobs/view/4475053581/) — Amazon
-- 📍 **Location:** Redmond, WA
-- 🕒 **Posted:** 2026-10-02
-
-### [Multi-Cloud CDN Scheduling Platform Engineer Intern (CDN Platform) - 2027 Summer](https://www.linkedin.com/jobs/view/4475058356/) — ByteDance
+### [Senior Software Engineer - Distribution and Supply](https://www.linkedin.com/jobs/view/4473843450/) — Expedia Group
 - 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Development Engineer, Amazon Catalog services team](https://www.linkedin.com/jobs/view/4475057398/) — Amazon
+### [Flight Dynamics Software Engineer III - Blue Ring](https://www.linkedin.com/jobs/view/4473425032/) — Blue Origin
+- 📍 **Location:** Greater Seattle Area
+- 🕒 **Posted:** 2026-10-02
+
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4473423137/) — Blue Origin
+- 📍 **Location:** Greater Seattle Area
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Manager, Software Development Engineering](https://www.linkedin.com/jobs/view/4473840609/) — Expedia Group
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $184,500.00/yr - $258,000.00/yr
+- 🕒 **Posted:** 2026-10-02
+
+### [Software Engineer, Ads Pangle - USDS](https://www.linkedin.com/jobs/view/4466793335/) — TikTok USDS Joint Venture
 - 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-10-02
 
-### [Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start](https://www.linkedin.com/jobs/view/4475054584/) — ByteDance
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Development Engineer, AWS DynamoDB](https://www.linkedin.com/jobs/view/4475053610/) — Amazon Web Services (AWS)
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4475067023/) — ByteDance
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-02
-
-### [Machine Learning Engineer Graduate (AML-Engine-Orchestration) - 2027 Start](https://www.linkedin.com/jobs/view/4475062219/) — ByteDance
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-02
-
-### [Data Engineer III, AWS Marketplace Demand Generation & Lifecycle Engagement](https://www.linkedin.com/jobs/view/4475052587/) — Amazon Web Services (AWS)
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Development Engineer, AWS Agentic AI](https://www.linkedin.com/jobs/view/4475046823/) — Amazon Web Services (AWS)
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Engineer Intern (AI Infra Compute) - 2027 Summer](https://www.linkedin.com/jobs/view/4475055555/) — ByteDance
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start](https://www.linkedin.com/jobs/view/4475057365/) — ByteDance
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Agentic AI Engineer — Healthcare AI](https://www.linkedin.com/jobs/view/4475053697/) — Deloitte
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Software Development Engineer, Frontier AI Tools](https://www.linkedin.com/jobs/view/4475047842/) — Amazon Web Services (AWS)
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Engineer (Compute Test, Agoura Hills, CA)](https://www.linkedin.com/jobs/view/4473194652/) — Teradyne
-- 📍 **Location:** Agoura Hills, CA
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Engineer, iOS, Level 5](https://www.linkedin.com/jobs/view/4475062133/) — Snap Inc.
+### [Senior Software Engineer, Ads Core & Commerce Ads - USDS](https://www.linkedin.com/jobs/view/4466793336/) — TikTok USDS Joint Venture
 - 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Systems Engineer](https://www.linkedin.com/jobs/view/4472945871/) — Teledyne Scientific & Imaging
-- 📍 **Location:** Camarillo, CA
+### [Software Engineer, Ads ML Infrastructure - USDS](https://www.linkedin.com/jobs/view/4466788310/) — TikTok USDS Joint Venture
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Agentic AI Engineer — Healthcare AI](https://www.linkedin.com/jobs/view/4475069036/) — Deloitte
-- 📍 **Location:** Minneapolis, MN
+### [Senior Software Engineer - AI & Agentic Architecture](https://www.linkedin.com/jobs/view/4473404921/) — Sony Interactive Entertainment
+- 📍 **Location:** Aliso Viejo, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Java Full Stack Developer-Software Engineer III](https://www.linkedin.com/jobs/view/4475050843/) — Deloitte
-- 📍 **Location:** Atlanta, GA
+### [Software Engineering Intern](https://www.linkedin.com/jobs/view/4473849099/) — Arc
+- 📍 **Location:** Torrance, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Agentic AI Engineer — Healthcare AI](https://www.linkedin.com/jobs/view/4475063323/) — Deloitte
-- 📍 **Location:** Atlanta, GA
+### [Integration & Test Systems Engineer](https://www.linkedin.com/jobs/view/4475096149/) — Northrop Grumman
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Development Engineer II, AWS Security Hub](https://www.linkedin.com/jobs/view/4475055537/) — Amazon Web Services (AWS)
-- 📍 **Location:** Seattle, WA
+### [quality control software engineer in Mexico](https://www.linkedin.com/jobs/view/4473381155/) — Maintstar
+- 📍 **Location:** Orange, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Agent Evaluation & Evolution Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start](https://www.linkedin.com/jobs/view/4475064097/) — ByteDance
-- 📍 **Location:** Seattle, WA
+### [Software Engineer, Ads - Core Infra - USDS](https://www.linkedin.com/jobs/view/4466798307/) — TikTok USDS Joint Venture
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Software Engineer, IR Data Products](https://www.linkedin.com/jobs/view/4475066157/) — Muon Space
-- 📍 **Location:** Denver, CO
+### [Manager Software Engineering 2](https://www.linkedin.com/jobs/view/4475081868/) — Northrop Grumman
+- 📍 **Location:** Palmdale, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Agentic AI Engineer — Healthcare AI](https://www.linkedin.com/jobs/view/4475057520/) — Deloitte
-- 📍 **Location:** Denver, CO
+### [Manager Software Engineering 2](https://www.linkedin.com/jobs/view/4475088491/) — Northrop Grumman
+- 📍 **Location:** El Segundo, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [AgentCore Platform Engineer](https://www.linkedin.com/jobs/view/4472644775/) — Appnovation
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-10-02
-
-### [SRE - DevOps Engineer](https://www.linkedin.com/jobs/view/4474366319/) — Capgemini
-- 📍 **Location:** Irving, TX
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Agentic AI Engineer — Healthcare AI](https://www.linkedin.com/jobs/view/4475062289/) — Deloitte
-- 📍 **Location:** Fort Worth, TX
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Agentic AI Engineer — Healthcare AI](https://www.linkedin.com/jobs/view/4475050796/) — Deloitte
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4475056587/) — CVS Health
-- 📍 **Location:** Irving, TX
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Agentic AI Engineer — Healthcare AI](https://www.linkedin.com/jobs/view/4475052713/) — Deloitte
+### [Sr Software Engineer, Platform Cryptography](https://www.linkedin.com/jobs/view/4473846199/) — Visalytics
 - 📍 **Location:** San Diego, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Cloud Engineer - Software Engineer II](https://www.linkedin.com/jobs/view/4475052725/) — Deloitte
-- 📍 **Location:** Portland, OR
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4473408825/) — Blue Origin
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Software Engineer, Ruby on Rails](https://www.linkedin.com/jobs/view/4475050756/) — Principal Financial Group
-- 📍 **Location:** Raleigh, NC
+### [Full Stack Software Engineer - Hybrid](https://www.linkedin.com/jobs/view/4475089589/) — Swift
+- 📍 **Location:** Tysons Corner, VA
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Agentic AI Engineer — Healthcare AI](https://www.linkedin.com/jobs/view/4475055662/) — Deloitte
-- 📍 **Location:** Raleigh, NC
+### [Systems Engineer IV](https://www.linkedin.com/jobs/view/4475085658/) — KARL STORZ North America
+- 📍 **Location:** Goleta, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Engineer, Infrastructure Modelling](https://www.linkedin.com/jobs/view/4473810836/) — Fluidstack
+### [Software Engineer- Platform](https://www.linkedin.com/jobs/view/4460071472/) — Inceed
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-10-02
+
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4475083713/) — Northrop Grumman
+- 📍 **Location:** Apopka, FL
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Data Engineer, Platform](https://www.linkedin.com/jobs/view/4473845161/) — Ryt Bank
+- 📍 **Location:** Greater Kuala Lumpur
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Data Engineer, Analytics](https://www.linkedin.com/jobs/view/4473843237/) — Ryt Bank
+- 📍 **Location:** Greater Kuala Lumpur
+- 🕒 **Posted:** 2026-10-02
+
+### [Machine Learning Engineer - Ads Pangle - USDS](https://www.linkedin.com/jobs/view/4466797291/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [AI/ML & LLM Engineer](https://www.linkedin.com/jobs/view/4475083821/) — REI Systems
+- 📍 **Location:** Sterling, VA
+- 🕒 **Posted:** 2026-10-02
+
+### [AI Engineer (f/m/d)](https://www.linkedin.com/jobs/view/4465773081/) — Plansee Group
+- 📍 **Location:** Mamer, Luxembourg, Luxembourg
+- 🕒 **Posted:** 2026-10-02
+
+### [Systems Engineer - Level 3 or 4 (AHT)](https://www.linkedin.com/jobs/view/4475081871/) — Northrop Grumman
+- 📍 **Location:** Boulder, CO
+- 🕒 **Posted:** 2026-10-02
+
+### [Sr Mobile Software Engineer (Native Android and Backend)](https://www.linkedin.com/jobs/view/4473833822/) — Visalytics
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Manager Software Engineering 2](https://www.linkedin.com/jobs/view/4475083714/) — Northrop Grumman
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Field Application Engineer – Servo Systems](https://www.linkedin.com/jobs/view/4473839632/) — NPAworldwide
+- 📍 **Location:** Triangle, NC
+- 🕒 **Posted:** 2026-10-02
+
+### [Application Engineer II (PAS-X) - SDF](https://www.linkedin.com/jobs/view/4475082815/) — BioSpace
+- 📍 **Location:** Durham, NC
+- 🕒 **Posted:** 2026-10-02
+
+### [Sentinel - Systems Engineer - Modeling Simulation & Analysis - 19867](https://www.linkedin.com/jobs/view/4466034584/) — Northrop Grumman
+- 📍 **Location:** Roy, UT
+- 🕒 **Posted:** 2026-10-02
+
+### [Sentinel - Manager Software Engineering 2 - 11943-1](https://www.linkedin.com/jobs/view/4466017829/) — Northrop Grumman
+- 📍 **Location:** Roy, UT
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Media Systems Engineer](https://www.linkedin.com/jobs/view/4475095250/) — Mayo Clinic
 - 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $224,000.00/yr - $279,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Agentic AI Engineer — Healthcare AI](https://www.linkedin.com/jobs/view/4475060384/) — Deloitte
-- 📍 **Location:** Miami, FL
+### [Systems Engineer (Level 3 or 4)](https://www.linkedin.com/jobs/view/4475082773/) — Northrop Grumman
+- 📍 **Location:** Plymouth, MN
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Development Engineer (Emerging Professionals Jan 2027)](https://www.linkedin.com/jobs/view/4475045985/) — iPipeline
-- 📍 **Location:** Miami-Fort Lauderdale Area
+### [Software Engineer II (Java Full-Stack)](https://www.linkedin.com/jobs/view/4475076659/) — JPMorganChase
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Agentic AI Engineer — Healthcare AI](https://www.linkedin.com/jobs/view/4475057517/) — Deloitte
-- 📍 **Location:** Philadelphia, PA
-- 🕒 **Posted:** 2026-10-02
-
-### [R&D Software Engineer Intern](https://www.linkedin.com/jobs/view/4471630628/) — Boston Scientific
-- 📍 **Location:** Arden Hills, MN
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Software Engineer, Ruby on Rails](https://www.linkedin.com/jobs/view/4475068065/) — Principal Financial Group
-- 📍 **Location:** Des Moines, IA
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Software Engineer, Ruby on Rails](https://www.linkedin.com/jobs/view/4475063305/) — Principal Financial Group
-- 📍 **Location:** Charlotte, NC
-- 🕒 **Posted:** 2026-10-02
-
-### [Applied AI Engineering Lead](https://www.linkedin.com/jobs/view/4473829142/) — N2P Systems
+### [Senior Platform Software Engineer](https://www.linkedin.com/jobs/view/4473405844/) — Oracle
 - 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-10-02
 
-### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4473809906/) — N2P Systems
-- 📍 **Location:** Tampa, FL
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4473843155/) — Airlines Reporting Corporation (ARC)
+- 📍 **Location:** Louisville, KY
 - 🕒 **Posted:** 2026-10-02
 
-### [Lead AI Engineer](https://www.linkedin.com/jobs/view/4473197542/) — AustinWorks
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $300,000.00/yr - $450,000.00/yr
+### [Software Engineer II (Onsite)](https://www.linkedin.com/jobs/view/4475092170/) — Collins Aerospace
+- 📍 **Location:** Huntsville, AL
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Software Engineer, Analytic Services Lead](https://www.linkedin.com/jobs/view/4475039871/) — Parsons Corporation
-- 📍 **Location:** Reston, VA
+### [Software Engineer III - React/UI/Python](https://www.linkedin.com/jobs/view/4475076660/) — JPMorganChase
+- 📍 **Location:** Plano, TX
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Software Engineer, AI Development Platforms](https://www.linkedin.com/jobs/view/4475050252/) — Huxley
-- 📍 **Location:** United States
+### [Software Engineer](https://www.linkedin.com/jobs/view/4473820979/) — PAR Technology
+- 📍 **Location:** Illinois, United States
+- 🕒 **Posted:** 2026-10-02
+
+### [Network Systems Engineer](https://www.linkedin.com/jobs/view/4475082760/) — VITAS Healthcare
+- 📍 **Location:** Macclenny, FL
+- 🕒 **Posted:** 2026-10-02
+
+### [Business Systems Engineer](https://www.linkedin.com/jobs/view/4412061018/) — Sandvik
+- 📍 **Location:** Alachua, FL
+- 🕒 **Posted:** 2026-10-02
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4471132844/) — Naval Nuclear Laboratory (FMP)
+- 📍 **Location:** Niskayuna, NY
+- 🕒 **Posted:** 2026-10-02
+
+### [AWS PLATFORM ENGINEER / AWS ADMINISTRATOR](https://www.linkedin.com/jobs/view/4473410672/) — VeriiPro
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-02
+
+### [Software Engineer, Enterprise Platform - Frontier Generative AI](https://www.linkedin.com/jobs/view/4466723152/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-02
