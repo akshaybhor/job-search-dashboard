@@ -1,40 +1,44 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-10-02 10:00 UTC*
+*Last updated: 2026-10-03 09:21 UTC*
 
-**9 new role(s)** since last run · 106 total in last 24h
+**10 new role(s)** since last run · 106 total in last 24h
 
-### [Senior Software Engineer, LIMS](https://job-boards.greenhouse.io/natera/jobs/6204494004) — Natera
+### [Contract Software Engineer, Full Stack](https://job-boards.greenhouse.io/natera/jobs/5993307004) — Natera
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Manager of Data Engineering & Delivery (Data Science Production Engineering)](https://job-boards.greenhouse.io/natera/jobs/6137669004) — Natera
 - 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-10-01
+- 🕒 **Posted:** 2026-09-02
 
-### [Intern, Software Engineering](https://job-boards.greenhouse.io/profluent/jobs/5441955008) — Profluent
-- 📍 **Location:** Emeryville, California, United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Software Engineering PhD Intern New 2027](https://www.linkedin.com/jobs/view/4472838957/) — Intel
-- 📍 **Location:** Hillsboro, OR
+### [Senior Software Engineer](https://job-boards.greenhouse.io/natera/jobs/6115665004) — Natera
+- 📍 **Location:** US Remote
 - 🕒 **Posted:** 2026-10-02
 
-### [Radar Systems GPU Software engineer](https://www.linkedin.com/jobs/view/4474572616/) — Aptiv
-- 📍 **Location:** Carmel, IN
+### [Software Engineering Intern](https://job-boards.greenhouse.io/natera/jobs/6188497004) — Natera
+- 📍 **Location:** US Remote
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Software Development Engineer - Power Electronics](https://www.linkedin.com/jobs/view/4467903489/) — ABB
-- 📍 **Location:** New Berlin, WI
+### [ Software Engineer III](https://job-boards.greenhouse.io/natera/jobs/6128466004) — Natera
+- 📍 **Location:** US Remote
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Software Engineer II, Enterprise Platform](https://www.linkedin.com/jobs/view/4437844400/) — Lila Sciences
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-01
+### [Software Engineer, AI Engineering and Enablement](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA/Software-Engineer--AI-Engineering-and-Enablement_R1604359-1) — Bristol Myers Squibb
+- 📍 **Location:** Seattle 400 Dexter - WA
+- 🕒 **Posted:** Posted 3 Days Ago
 
-### [Senior Software Engineer, Data](https://www.linkedin.com/jobs/view/4419451247/) — Lila Sciences
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-01
+### [Senior AI Application Engineer](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA---US/Senior-Application-Engineer_R1602672-1) — Bristol Myers Squibb
+- 📍 **Location:** Seattle 400 Dexter - WA - US
+- 🕒 **Posted:** Posted 25 Days Ago
 
-### [Senior Associate, Platform Engineer](https://www.linkedin.com/jobs/view/4474514891/) — Pfizer
+### [Senior Cloud Engineering Lead](https://www.linkedin.com/jobs/view/4474773392/) — Pfizer
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-01
+- 🕒 **Posted:** 2026-10-02
 
-### [Senior Engineer I, Software Engineering](https://www.linkedin.com/jobs/view/4369436053/) — ASM
-- 📍 **Location:** Greater Phoenix Area
-- 🕒 **Posted:** 2026-10-01
+### [Senior Software Engineer I, Data Content](https://www.linkedin.com/jobs/view/4473804575/) — Tempus AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-02
+
+### [AI/ML and Data Engineer](https://www.linkedin.com/jobs/view/4408576269/) — SME
+- 📍 **Location:** Southfield, MI
+- 🕒 **Posted:** 2026-10-02
