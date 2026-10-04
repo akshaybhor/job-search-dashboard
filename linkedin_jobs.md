@@ -1,79 +1,92 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-03 22:56 UTC*
+*Last updated: 2026-10-04 00:55 UTC*
 
-**18 new role(s)** since last run · 26 total in last 2h
+**21 new role(s)** since last run · 26 total in last 2h
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4303376032/) — Probably Genetic
+### [Senior System Software Engineer, Agentic Retrieval](https://www.linkedin.com/jobs/view/4473886280/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-03
+
+### [Lead Backend Engineer (Modeling & Simulation)](https://www.linkedin.com/jobs/view/4473878921/) — Code Metal
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-03
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4473461121/) — Code Compass 🧭
-- 📍 **Location:** San Francisco Bay Area
+### [Full-Stack Software Engineer: Application Engineering (ED0EE55)](https://www.linkedin.com/jobs/view/4475347638/) — Referment
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $225,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-10-03
 
-### [AWS Data Engineer](https://www.linkedin.com/jobs/view/4473881316/) — JSR Tech Consulting
-- 📍 **Location:** Newark, NJ
-- 💰 **Salary:** $65.00/hr - $80.00/hr
+### [Senior AI Engineer – Human Capital (F81CD27)](https://www.linkedin.com/jobs/view/4475359321/) — Referment
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $175,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-10-03
 
-### [Senior Full Stack Software Engineer (Java / React)](https://www.linkedin.com/jobs/view/4473878416/) — JSR Tech Consulting
-- 📍 **Location:** Newark, NJ
-- 💰 **Salary:** $65.00/hr - $70.00/hr
+### [Senior System Software Engineer, Agentic Retrieval](https://www.linkedin.com/jobs/view/4473872804/) — NVIDIA
+- 📍 **Location:** Redmond, WA
 - 🕒 **Posted:** 2026-10-03
 
-### [Embedded Software Engineer (Leve 2 or Level 3)](https://www.linkedin.com/jobs/view/4475350401/) — Northrop Grumman
-- 📍 **Location:** Cincinnati, OH
+### [Lead Backend Engineer (Modeling & Simulation)](https://www.linkedin.com/jobs/view/4473878922/) — Code Metal
+- 📍 **Location:** Boston, MA
 - 🕒 **Posted:** 2026-10-03
 
-### [Python Software Engineer Level 2 or 3 (AHT)](https://www.linkedin.com/jobs/view/4475356230/) — Northrop Grumman
-- 📍 **Location:** Aurora, CO
+### [Full-Time Software Development Engineer](https://www.linkedin.com/jobs/view/4475351486/) — val's services
+- 📍 **Location:** Raymond, OH
 - 🕒 **Posted:** 2026-10-03
 
-### [Software Engineer - Level 4 - Space AHT](https://www.linkedin.com/jobs/view/4475346576/) — Northrop Grumman
-- 📍 **Location:** Huntsville, AL
+### [Senior Backend Engineer, Data and Cloud (C75D7BC)](https://www.linkedin.com/jobs/view/4475355448/) — Referment
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $145,000.00/yr - $190,000.00/yr
 - 🕒 **Posted:** 2026-10-03
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4471132844/) — Naval Nuclear Laboratory (FMP)
-- 📍 **Location:** Niskayuna, NY
+### [Lead Backend Engineer (Modeling & Simulation)](https://www.linkedin.com/jobs/view/4473888508/) — Code Metal
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-10-03
 
-### [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4473874592/) — Evertec
-- 📍 **Location:** Montevideo, Uruguay
+### [SRE - DevOps Engineer](https://www.linkedin.com/jobs/view/4474366319/) — Capgemini
+- 📍 **Location:** Irving, TX
 - 🕒 **Posted:** 2026-10-03
 
-### [AI / ML Engineer](https://www.linkedin.com/jobs/view/4473445858/) — RandomTrees
-- 📍 **Location:** Corpus Christi, TX
+### [Senior System Software Engineer, Agentic Retrieval](https://www.linkedin.com/jobs/view/4473881513/) — NVIDIA
+- 📍 **Location:** Wisconsin, United States
 - 🕒 **Posted:** 2026-10-03
 
-### [Systems Engineer - Level 4](https://www.linkedin.com/jobs/view/4475361035/) — Northrop Grumman
-- 📍 **Location:** Gilbert, AZ
+### [Senior System Software Engineer, Agentic Retrieval](https://www.linkedin.com/jobs/view/4473890109/) — NVIDIA
+- 📍 **Location:** Washington, United States
 - 🕒 **Posted:** 2026-10-03
 
-### [Systems Engineer - Level 4 - Space AHT](https://www.linkedin.com/jobs/view/4475349461/) — Northrop Grumman
-- 📍 **Location:** Huntsville, AL
+### [Senior System Software Engineer, Agentic Retrieval](https://www.linkedin.com/jobs/view/4473888238/) — NVIDIA
+- 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-10-03
 
-### [Lead AI Engineer - Remote](https://www.linkedin.com/jobs/view/4475343568/) — Optum
-- 📍 **Location:** Charleston, WV
+### [AI Systems Engineer](https://www.linkedin.com/jobs/view/4473879505/) — VerifAIX, Inc.
+- 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-10-03
 
-### [Application Engineer](https://www.linkedin.com/jobs/view/4475342507/) — Versigent
-- 📍 **Location:** Pune/Pimpri-Chinchwad Area
+### [Application Engineer III](https://www.linkedin.com/jobs/view/4460733695/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-03
 
-### [Senior Manager, Software Engineering - Remote](https://www.linkedin.com/jobs/view/4475344562/) — Optum
-- 📍 **Location:** Hartford, CT
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4475345695/) — SteerBridge
+- 📍 **Location:** Vienna, VA
+- 💰 **Salary:** $140,000.00/yr - $160,000.00/yr
 - 🕒 **Posted:** 2026-10-03
 
-### [Denodo Data Engineer](https://www.linkedin.com/jobs/view/4473877455/) — JSR Tech Consulting
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4473873734/) — Software
+- 📍 **Location:** Greater Ottawa Metropolitan Area
+- 🕒 **Posted:** 2026-10-03
+
+### [Cloud Engineer - Trading Firm - $150,000-$250,000 + Bonus - Chicago](https://www.linkedin.com/jobs/view/4473462108/) — Hunter Bond
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-03
+
+### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4463916490/) — Avo Photonics
+- 📍 **Location:** Fort Washington, PA
+- 🕒 **Posted:** 2026-10-03
+
+### [Databricks ETL Developer](https://www.linkedin.com/jobs/view/4473876633/) — VeriiPro
 - 📍 **Location:** United States
-- 💰 **Salary:** $60.00/hr - $70.00/hr
 - 🕒 **Posted:** 2026-10-03
 
-### [SENIOR MACHINE LEARNING ENGINEER AT CARBON MAPPER (REMOTE)](https://www.linkedin.com/jobs/view/4473463074/) — Women in Cleantech and Sustainability
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-03
-
-### [Entry-Level Software Engineer- Return-to-Work Opportunity](https://www.linkedin.com/jobs/view/4473885196/) — Precision Technologies
+### [Data Engineer (Consulting / Enterprise Financial Services)](https://www.linkedin.com/jobs/view/4457016657/) — Tential Solutions
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-03
