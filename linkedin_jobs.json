@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-04 00:55 UTC",
-  "total": 26,
-  "new_count": 21,
+  "scraped_at": "2026-10-04 01:53 UTC",
+  "total": 27,
+  "new_count": 4,
   "jobs": [
     {
       "company": "NVIDIA",
@@ -54,6 +54,15 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Robert Half",
+      "title": "Senior Software Engineer",
+      "location": "Greater Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473887664/",
+      "date_posted": "2026-10-03",
+      "ats": "LinkedIn",
+      "salary": "$170,000.00/yr - $240,000.00/yr"
+    },
+    {
       "company": "val's services",
       "title": "Full-Time Software Development Engineer",
       "location": "Raymond, OH",
@@ -87,6 +96,15 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Everest Consultants, Inc.",
+      "title": "Lead Firmware Software Engineer (3 days onsite / 2 days remote)",
+      "location": "Centennial, CO",
+      "url": "https://www.linkedin.com/jobs/view/4473380062/",
+      "date_posted": "2026-10-03",
+      "ats": "LinkedIn",
+      "salary": "$125,000.00/yr - $140,000.00/yr"
+    },
+    {
       "company": "NVIDIA",
       "title": "Senior System Software Engineer, Agentic Retrieval",
       "location": "Wisconsin, United States",
@@ -95,10 +113,26 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Innovative Defense Technologies (IDT)",
+      "title": "AI-Native Software Engineer - JobID-0024",
+      "location": "Arlington, VA",
+      "url": "https://www.linkedin.com/jobs/view/4462735605/",
+      "date_posted": "2026-10-03",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "NVIDIA",
       "title": "Senior System Software Engineer, Agentic Retrieval",
       "location": "Washington, United States",
       "url": "https://www.linkedin.com/jobs/view/4473890109/",
+      "date_posted": "2026-10-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Vantive",
+      "title": "Sr. Systems Engineer",
+      "location": "Minneapolis, MN",
+      "url": "https://www.linkedin.com/jobs/view/4473451724/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn"
     },
@@ -165,7 +199,8 @@
       "location": "Chicago, IL",
       "url": "https://www.linkedin.com/jobs/view/4473462108/",
       "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$150,000.00/yr - $250,000.00/yr"
     },
     {
       "company": "Avo Photonics",
@@ -188,204 +223,42 @@
       "title": "Data Engineer (Consulting / Enterprise Financial Services)",
       "location": "United States",
       "url": "https://www.linkedin.com/jobs/view/4457016657/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Probably Genetic",
-      "title": "Senior Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4303376032/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Northrop Grumman",
-      "title": "Python Software Engineer Level 2 or 3 (AHT)",
-      "location": "Aurora, CO",
-      "url": "https://www.linkedin.com/jobs/view/4475356230/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Northrop Grumman",
-      "title": "Software Engineer - Level 4 - Space AHT",
-      "location": "Huntsville, AL",
-      "url": "https://www.linkedin.com/jobs/view/4475346576/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "NVIDIA",
-      "title": "Senior System Software Engineer, Agentic Retrieval",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473886280/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Code Metal",
-      "title": "Lead Backend Engineer (Modeling & Simulation)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473878921/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Referment",
-      "title": "Full-Stack Software Engineer: Application Engineering (ED0EE55)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4475347638/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "salary": "$225,000.00/yr - $300,000.00/yr"
-    },
-    {
-      "company": "Referment",
-      "title": "Senior AI Engineer \u2013 Human Capital (F81CD27)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4475359321/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "salary": "$175,000.00/yr - $250,000.00/yr"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior System Software Engineer, Agentic Retrieval",
-      "location": "Redmond, WA",
-      "url": "https://www.linkedin.com/jobs/view/4473872804/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Code Metal",
-      "title": "Lead Backend Engineer (Modeling & Simulation)",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4473878922/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "val's services",
-      "title": "Full-Time Software Development Engineer",
-      "location": "Raymond, OH",
-      "url": "https://www.linkedin.com/jobs/view/4475351486/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Referment",
-      "title": "Senior Backend Engineer, Data and Cloud (C75D7BC)",
-      "location": "Denver, CO",
-      "url": "https://www.linkedin.com/jobs/view/4475355448/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "salary": "$145,000.00/yr - $190,000.00/yr"
-    },
-    {
-      "company": "Code Metal",
-      "title": "Lead Backend Engineer (Modeling & Simulation)",
-      "location": "Washington, DC",
-      "url": "https://www.linkedin.com/jobs/view/4473888508/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capgemini",
-      "title": "SRE - DevOps Engineer",
-      "location": "Irving, TX",
-      "url": "https://www.linkedin.com/jobs/view/4474366319/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior System Software Engineer, Agentic Retrieval",
-      "location": "Wisconsin, United States",
-      "url": "https://www.linkedin.com/jobs/view/4473881513/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior System Software Engineer, Agentic Retrieval",
-      "location": "Washington, United States",
-      "url": "https://www.linkedin.com/jobs/view/4473890109/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior System Software Engineer, Agentic Retrieval",
-      "location": "California, United States",
-      "url": "https://www.linkedin.com/jobs/view/4473888238/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "VerifAIX, Inc.",
-      "title": "AI Systems Engineer",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473879505/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Application Engineer III",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460733695/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SteerBridge",
+      "company": "Robert Half",
       "title": "Senior Software Engineer",
-      "location": "Vienna, VA",
-      "url": "https://www.linkedin.com/jobs/view/4475345695/",
+      "location": "Greater Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473887664/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $160,000.00/yr"
+      "salary": "$170,000.00/yr - $240,000.00/yr"
     },
     {
-      "company": "Software",
-      "title": "Cloud Engineer",
-      "location": "Greater Ottawa Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4473873734/",
+      "company": "Everest Consultants, Inc.",
+      "title": "Lead Firmware Software Engineer (3 days onsite / 2 days remote)",
+      "location": "Centennial, CO",
+      "url": "https://www.linkedin.com/jobs/view/4473380062/",
+      "date_posted": "2026-10-03",
+      "ats": "LinkedIn",
+      "salary": "$125,000.00/yr - $140,000.00/yr"
+    },
+    {
+      "company": "Innovative Defense Technologies (IDT)",
+      "title": "AI-Native Software Engineer - JobID-0024",
+      "location": "Arlington, VA",
+      "url": "https://www.linkedin.com/jobs/view/4462735605/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn"
     },
     {
-      "company": "Hunter Bond",
-      "title": "Cloud Engineer - Trading Firm - $150,000-$250,000 + Bonus - Chicago",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4473462108/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Avo Photonics",
-      "title": "Lead Software Engineer",
-      "location": "Fort Washington, PA",
-      "url": "https://www.linkedin.com/jobs/view/4463916490/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "VeriiPro",
-      "title": "Databricks ETL Developer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4473876633/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tential Solutions",
-      "title": "Data Engineer (Consulting / Enterprise Financial Services)",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4457016657/",
+      "company": "Vantive",
+      "title": "Sr. Systems Engineer",
+      "location": "Minneapolis, MN",
+      "url": "https://www.linkedin.com/jobs/view/4473451724/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn"
     }
