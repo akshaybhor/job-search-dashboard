@@ -1,92 +1,249 @@
 {
-  "scraped_at": "2026-10-04 23:07 UTC",
-  "total": 26,
-  "new_count": 16,
+  "scraped_at": "2026-10-05 01:01 UTC",
+  "total": 34,
+  "new_count": 32,
   "jobs": [
     {
-      "company": "General Dynamics Mission Systems",
-      "title": "Embedded Software Engineer",
-      "location": "Florham Park, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4473391646/",
+      "company": "ByteDance",
+      "title": "Software Engineer - AI Agent Infra Graduate (Security Engineering) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475511804/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "BeaconFire Inc.",
-      "title": "Entry-Level Data Engineer",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4473197130/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$62,000.00/yr - $80,000.00/yr"
-    },
-    {
-      "company": "Randstad Digital Americas",
-      "title": "AI/LLM Application Engineer",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4474216683/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$54.62/hr - $64.62/hr"
-    },
-    {
-      "company": "BeaconFire Inc.",
-      "title": "Entry-Level Data Engineer",
-      "location": "Massachusetts, United States",
-      "url": "https://www.linkedin.com/jobs/view/4473180827/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$62,000.00/yr - $80,000.00/yr"
-    },
-    {
-      "company": "Atlantic Group",
-      "title": "Senior Systems Engineer (Medical Devices)",
-      "location": "Lowell, MA",
-      "url": "https://www.linkedin.com/jobs/view/4373848598/",
+      "company": "ByteDance",
+      "title": "LLM Backend Engineer Graduate (Applied Machine Learning) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475510888/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Expert Executive Recruiters (EER Global)",
-      "title": "Embedded Software Engineer",
-      "location": "Greater Philadelphia",
-      "url": "https://www.linkedin.com/jobs/view/4464588915/",
+      "company": "ByteDance",
+      "title": "Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475508977/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Skylight Health",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate (AI Compute) - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475525224/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "AI/LLM Network Software Development Engineer Graduate (High Speed Network) - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475509913/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Software Engineer Intern (Global Payment Infra and SRE) - 2027 Summer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475526151/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475521331/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Software Engineer Intern (AI Platform) - 2027 Summer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475515424/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate (AI Infra Compute) - 2027 Start",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4475525229/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4475523199/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slalom",
+      "title": "Engineering Manager, Software Engineering",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4450394079/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Intern (E-Commerce Recommendation/Search Alliance) - 2026 Start (PhD)",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4475523191/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4475526154/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4475530047/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slalom",
+      "title": "Engineering Manager, Software Engineering",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4450390134/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SVI Technologies, Inc.",
+      "title": "Robotics Software Engineer",
+      "location": "Calabasas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471914953/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Skyworks Solutions, Inc.",
+      "title": "AI Engineer",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474219667/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Software Development Engineer - Shopping Personalization AI, Amazon Stores",
+      "location": "Will County, IL",
+      "url": "https://www.linkedin.com/jobs/view/4475529052/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Garmin",
       "title": "Senior Software Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4474226258/",
+      "location": "Cary, NC",
+      "url": "https://www.linkedin.com/jobs/view/4448677087/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Naval Nuclear Laboratory (FMP)",
-      "title": "Software Engineer",
-      "location": "Niskayuna, NY",
-      "url": "https://www.linkedin.com/jobs/view/4471132844/",
+      "company": "Climactic",
+      "title": "Senior Software Engineer, IR Data Products",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4475517464/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "BeaconFire Inc.",
-      "title": "Entry-Level Data Engineer",
-      "location": "New Jersey, United States",
-      "url": "https://www.linkedin.com/jobs/view/4473177947/",
+      "company": "Shamrock Foods Company",
+      "title": "Senior Software Engineer (PL/SQL & TSQL)",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4475508973/",
       "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$62,000.00/yr - $80,000.00/yr"
+      "ats": "LinkedIn"
     },
     {
-      "company": "Hunter Bond",
-      "title": "Cloud Engineer - Trading Firm - $150,000-$250,000 + Bonus - Chicago",
+      "company": "NVIDIA",
+      "title": "Manager, Field Application Engineering - OEM Support",
+      "location": "Durham, NC",
+      "url": "https://www.linkedin.com/jobs/view/4474226440/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slalom",
+      "title": "Engineering Manager, Software Engineering",
+      "location": "Portland, OR",
+      "url": "https://www.linkedin.com/jobs/view/4450377880/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slalom",
+      "title": "Engineering Manager, Software Engineering",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4450382517/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Predator Software, Inc.",
+      "title": "Model based systems engineer",
+      "location": "Madison, AL",
+      "url": "https://www.linkedin.com/jobs/view/4475518399/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slalom",
+      "title": "Engineering Manager, Software Engineering",
       "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4473488887/",
+      "url": "https://www.linkedin.com/jobs/view/4450389144/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slalom",
+      "title": "Engineering Manager, Software Engineering",
+      "location": "Detroit, MI",
+      "url": "https://www.linkedin.com/jobs/view/4450375964/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "HorizonAI Talent",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4475510814/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn",
-      "salary": "$150,000.00/yr - $250,000.00/yr"
+      "salary": "$125,000.00/yr - $250,000.00/yr"
+    },
+    {
+      "company": "Talently",
+      "title": "Senior Control Systems Engineer",
+      "location": "Hightstown, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4468229958/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "salary": "$130,000.00/yr - $170,000.00/yr"
+    },
+    {
+      "company": "Parsons Corporation",
+      "title": "Full Stack Software Engineer",
+      "location": "Annapolis Junction, MD",
+      "url": "https://www.linkedin.com/jobs/view/4458582801/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
     },
     {
       "company": "BILL",
@@ -97,267 +254,288 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "SAIC",
-      "title": "SETA Systems Engineer",
-      "location": "Chantilly, VA",
-      "url": "https://www.linkedin.com/jobs/view/4474211862/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Doghouse Recruitment",
-      "title": "Platform Engineer",
-      "location": "Eindhoven Area",
-      "url": "https://www.linkedin.com/jobs/view/4463863104/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "L.V. Enterprises",
-      "title": "Software Engineer (Rust)",
-      "location": "Herndon, VA",
-      "url": "https://www.linkedin.com/jobs/view/4469342832/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "L.V. Enterprises",
-      "title": "Software Engineering Manager",
-      "location": "Sioux Falls, SD",
-      "url": "https://www.linkedin.com/jobs/view/4464253332/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sanity",
-      "title": "Software Engineering Manager, Billing & Integrations",
-      "location": "Oslo, Oslo, Norway",
-      "url": "https://www.linkedin.com/jobs/view/4474226264/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "VeriiPro",
-      "title": "Databricks ETL Developer",
+      "company": "JobsInPython",
+      "title": "Software Engineer II, Backend (Streaming)",
       "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4474226300/",
+      "url": "https://www.linkedin.com/jobs/view/4473606246/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Women in Cleantech and Sustainability",
-      "title": "SENIOR MACHINE LEARNING ENGINEER AT CARBON MAPPER (REMOTE)",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4473484985/",
+      "company": "Talently",
+      "title": "Senior Full Stack Software Engineer",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4455341444/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Cair Health",
+      "company": "Naval Nuclear Laboratory (FMP)",
       "title": "Software Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4475511585/",
+      "location": "Niskayuna, NY",
+      "url": "https://www.linkedin.com/jobs/view/4471132844/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn"
-    },
-    {
-      "company": "BeaconFire Inc.",
-      "title": "Entry-Level Data Engineer",
-      "location": "Georgia, United States",
-      "url": "https://www.linkedin.com/jobs/view/4473175956/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$62,000.00/yr - $80,000.00/yr"
-    },
-    {
-      "company": "BeaconFire Inc.",
-      "title": "Entry-Level Data Engineer",
-      "location": "North Carolina, United States",
-      "url": "https://www.linkedin.com/jobs/view/4473179829/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$62,000.00/yr - $80,000.00/yr"
-    },
-    {
-      "company": "VeriiPro",
-      "title": "Databricks ETL Developer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4474216681/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Expert Executive Recruiters (EER Global)",
-      "title": "Technical Systems Engineering Manager",
-      "location": "Herndon, VA",
-      "url": "https://www.linkedin.com/jobs/view/4466174985/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$150,000.00/yr - $175,000.00/yr"
-    },
-    {
-      "company": "HARISAN TECHNOLOGIES",
-      "title": "Software Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4475504806/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "BeaconFire Inc.",
-      "title": "Entry-Level Data Engineer",
-      "location": "Connecticut, United States",
-      "url": "https://www.linkedin.com/jobs/view/4473182661/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$62,000.00/yr - $80,000.00/yr"
-    },
-    {
-      "company": "BeaconFire Inc.",
-      "title": "Entry-Level Data Engineer",
-      "location": "New York, United States",
-      "url": "https://www.linkedin.com/jobs/view/4473186555/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$62,000.00/yr - $80,000.00/yr"
     }
   ],
   "new_jobs": [
     {
-      "company": "General Dynamics Mission Systems",
-      "title": "Embedded Software Engineer",
-      "location": "Florham Park, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4473391646/",
+      "company": "ByteDance",
+      "title": "Software Engineer - AI Agent Infra Graduate (Security Engineering) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475511804/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "BeaconFire Inc.",
-      "title": "Entry-Level Data Engineer",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4473197130/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$62,000.00/yr - $80,000.00/yr"
-    },
-    {
-      "company": "BeaconFire Inc.",
-      "title": "Entry-Level Data Engineer",
-      "location": "Massachusetts, United States",
-      "url": "https://www.linkedin.com/jobs/view/4473180827/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$62,000.00/yr - $80,000.00/yr"
-    },
-    {
-      "company": "Atlantic Group",
-      "title": "Senior Systems Engineer (Medical Devices)",
-      "location": "Lowell, MA",
-      "url": "https://www.linkedin.com/jobs/view/4373848598/",
+      "company": "ByteDance",
+      "title": "LLM Backend Engineer Graduate (Applied Machine Learning) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475510888/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Naval Nuclear Laboratory (FMP)",
-      "title": "Software Engineer",
-      "location": "Niskayuna, NY",
-      "url": "https://www.linkedin.com/jobs/view/4471132844/",
+      "company": "ByteDance",
+      "title": "Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475508977/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "BeaconFire Inc.",
-      "title": "Entry-Level Data Engineer",
-      "location": "New Jersey, United States",
-      "url": "https://www.linkedin.com/jobs/view/4473177947/",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate (AI Compute) - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475525224/",
       "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$62,000.00/yr - $80,000.00/yr"
+      "ats": "LinkedIn"
     },
     {
-      "company": "Hunter Bond",
-      "title": "Cloud Engineer - Trading Firm - $150,000-$250,000 + Bonus - Chicago",
+      "company": "ByteDance",
+      "title": "AI/LLM Network Software Development Engineer Graduate (High Speed Network) - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475509913/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Software Engineer Intern (Global Payment Infra and SRE) - 2027 Summer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475526151/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475521331/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Software Engineer Intern (AI Platform) - 2027 Summer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475515424/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate (AI Infra Compute) - 2027 Start",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4475525229/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4475523199/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slalom",
+      "title": "Engineering Manager, Software Engineering",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4450394079/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Intern (E-Commerce Recommendation/Search Alliance) - 2026 Start (PhD)",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4475523191/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4475526154/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4475530047/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slalom",
+      "title": "Engineering Manager, Software Engineering",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4450390134/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SVI Technologies, Inc.",
+      "title": "Robotics Software Engineer",
+      "location": "Calabasas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471914953/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Skyworks Solutions, Inc.",
+      "title": "AI Engineer",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474219667/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Software Development Engineer - Shopping Personalization AI, Amazon Stores",
+      "location": "Will County, IL",
+      "url": "https://www.linkedin.com/jobs/view/4475529052/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Garmin",
+      "title": "Senior Software Engineer",
+      "location": "Cary, NC",
+      "url": "https://www.linkedin.com/jobs/view/4448677087/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Climactic",
+      "title": "Senior Software Engineer, IR Data Products",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4475517464/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Shamrock Foods Company",
+      "title": "Senior Software Engineer (PL/SQL & TSQL)",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4475508973/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Manager, Field Application Engineering - OEM Support",
+      "location": "Durham, NC",
+      "url": "https://www.linkedin.com/jobs/view/4474226440/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slalom",
+      "title": "Engineering Manager, Software Engineering",
+      "location": "Portland, OR",
+      "url": "https://www.linkedin.com/jobs/view/4450377880/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slalom",
+      "title": "Engineering Manager, Software Engineering",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4450382517/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Predator Software, Inc.",
+      "title": "Model based systems engineer",
+      "location": "Madison, AL",
+      "url": "https://www.linkedin.com/jobs/view/4475518399/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slalom",
+      "title": "Engineering Manager, Software Engineering",
       "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4473488887/",
+      "url": "https://www.linkedin.com/jobs/view/4450389144/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slalom",
+      "title": "Engineering Manager, Software Engineering",
+      "location": "Detroit, MI",
+      "url": "https://www.linkedin.com/jobs/view/4450375964/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "HorizonAI Talent",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4475510814/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn",
-      "salary": "$150,000.00/yr - $250,000.00/yr"
+      "salary": "$125,000.00/yr - $250,000.00/yr"
     },
     {
-      "company": "BILL",
-      "title": "Software Engineer II",
-      "location": "California, United States",
-      "url": "https://www.linkedin.com/jobs/view/4475507888/",
+      "company": "Talently",
+      "title": "Senior Control Systems Engineer",
+      "location": "Hightstown, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4468229958/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "salary": "$130,000.00/yr - $170,000.00/yr"
+    },
+    {
+      "company": "Parsons Corporation",
+      "title": "Full Stack Software Engineer",
+      "location": "Annapolis Junction, MD",
+      "url": "https://www.linkedin.com/jobs/view/4458582801/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "SAIC",
-      "title": "SETA Systems Engineer",
-      "location": "Chantilly, VA",
-      "url": "https://www.linkedin.com/jobs/view/4474211862/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sanity",
-      "title": "Software Engineering Manager, Billing & Integrations",
-      "location": "Oslo, Oslo, Norway",
-      "url": "https://www.linkedin.com/jobs/view/4474226264/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "VeriiPro",
-      "title": "Databricks ETL Developer",
+      "company": "JobsInPython",
+      "title": "Software Engineer II, Backend (Streaming)",
       "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4474226300/",
+      "url": "https://www.linkedin.com/jobs/view/4473606246/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Women in Cleantech and Sustainability",
-      "title": "SENIOR MACHINE LEARNING ENGINEER AT CARBON MAPPER (REMOTE)",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4473484985/",
+      "company": "Talently",
+      "title": "Senior Full Stack Software Engineer",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4455341444/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn"
-    },
-    {
-      "company": "BeaconFire Inc.",
-      "title": "Entry-Level Data Engineer",
-      "location": "Georgia, United States",
-      "url": "https://www.linkedin.com/jobs/view/4473175956/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$62,000.00/yr - $80,000.00/yr"
-    },
-    {
-      "company": "BeaconFire Inc.",
-      "title": "Entry-Level Data Engineer",
-      "location": "North Carolina, United States",
-      "url": "https://www.linkedin.com/jobs/view/4473179829/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$62,000.00/yr - $80,000.00/yr"
-    },
-    {
-      "company": "BeaconFire Inc.",
-      "title": "Entry-Level Data Engineer",
-      "location": "Connecticut, United States",
-      "url": "https://www.linkedin.com/jobs/view/4473182661/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$62,000.00/yr - $80,000.00/yr"
-    },
-    {
-      "company": "BeaconFire Inc.",
-      "title": "Entry-Level Data Engineer",
-      "location": "New York, United States",
-      "url": "https://www.linkedin.com/jobs/view/4473186555/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$62,000.00/yr - $80,000.00/yr"
     }
   ]
 }
