@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-05 01:01 UTC",
-  "total": 34,
-  "new_count": 32,
+  "scraped_at": "2026-10-05 01:11 UTC",
+  "total": 36,
+  "new_count": 2,
   "jobs": [
     {
       "company": "ByteDance",
@@ -204,6 +204,23 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Harrison Clarke",
+      "title": "Senior Backend Engineer",
+      "location": "Bellevue, WA",
+      "url": "https://www.linkedin.com/jobs/view/4445938510/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $300,000.00/yr"
+    },
+    {
+      "company": "Harrison Clarke",
+      "title": "Senior Software Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472010176/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Slalom",
       "title": "Engineering Manager, Software Engineering",
       "location": "Chicago, IL",
@@ -267,7 +284,8 @@
       "location": "Dallas, TX",
       "url": "https://www.linkedin.com/jobs/view/4455341444/",
       "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$175,000.00/yr - $200,000.00/yr"
     },
     {
       "company": "Naval Nuclear Laboratory (FMP)",
@@ -280,260 +298,19 @@
   ],
   "new_jobs": [
     {
-      "company": "ByteDance",
-      "title": "Software Engineer - AI Agent Infra Graduate (Security Engineering) - 2027 Start",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475511804/",
+      "company": "Harrison Clarke",
+      "title": "Senior Backend Engineer",
+      "location": "Bellevue, WA",
+      "url": "https://www.linkedin.com/jobs/view/4445938510/",
       "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $300,000.00/yr"
     },
     {
-      "company": "ByteDance",
-      "title": "LLM Backend Engineer Graduate (Applied Machine Learning) - 2027 Start",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475510888/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ByteDance",
-      "title": "Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475508977/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ByteDance",
-      "title": "Software Engineer Graduate (AI Compute) - 2027 Start (PhD)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475525224/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ByteDance",
-      "title": "AI/LLM Network Software Development Engineer Graduate (High Speed Network) - 2027 Start (PhD)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475509913/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ByteDance",
-      "title": "Software Engineer Intern (Global Payment Infra and SRE) - 2027 Summer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475526151/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ByteDance",
-      "title": "Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475521331/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ByteDance",
-      "title": "Software Engineer Intern (AI Platform) - 2027 Summer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475515424/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ByteDance",
-      "title": "Software Engineer Graduate (AI Infra Compute) - 2027 Start",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4475525229/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ByteDance",
-      "title": "Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4475523199/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Slalom",
-      "title": "Engineering Manager, Software Engineering",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4450394079/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ByteDance",
-      "title": "Machine Learning Engineer Intern (E-Commerce Recommendation/Search Alliance) - 2026 Start (PhD)",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4475523191/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ByteDance",
-      "title": "Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4475526154/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ByteDance",
-      "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4475530047/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Slalom",
-      "title": "Engineering Manager, Software Engineering",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4450390134/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SVI Technologies, Inc.",
-      "title": "Robotics Software Engineer",
-      "location": "Calabasas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471914953/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Skyworks Solutions, Inc.",
-      "title": "AI Engineer",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474219667/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Software Development Engineer - Shopping Personalization AI, Amazon Stores",
-      "location": "Will County, IL",
-      "url": "https://www.linkedin.com/jobs/view/4475529052/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Garmin",
+      "company": "Harrison Clarke",
       "title": "Senior Software Engineer",
-      "location": "Cary, NC",
-      "url": "https://www.linkedin.com/jobs/view/4448677087/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Climactic",
-      "title": "Senior Software Engineer, IR Data Products",
-      "location": "Denver, CO",
-      "url": "https://www.linkedin.com/jobs/view/4475517464/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Shamrock Foods Company",
-      "title": "Senior Software Engineer (PL/SQL & TSQL)",
-      "location": "Phoenix, AZ",
-      "url": "https://www.linkedin.com/jobs/view/4475508973/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Manager, Field Application Engineering - OEM Support",
-      "location": "Durham, NC",
-      "url": "https://www.linkedin.com/jobs/view/4474226440/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Slalom",
-      "title": "Engineering Manager, Software Engineering",
-      "location": "Portland, OR",
-      "url": "https://www.linkedin.com/jobs/view/4450377880/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Slalom",
-      "title": "Engineering Manager, Software Engineering",
-      "location": "Dallas, TX",
-      "url": "https://www.linkedin.com/jobs/view/4450382517/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Predator Software, Inc.",
-      "title": "Model based systems engineer",
-      "location": "Madison, AL",
-      "url": "https://www.linkedin.com/jobs/view/4475518399/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Slalom",
-      "title": "Engineering Manager, Software Engineering",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4450389144/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Slalom",
-      "title": "Engineering Manager, Software Engineering",
-      "location": "Detroit, MI",
-      "url": "https://www.linkedin.com/jobs/view/4450375964/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "HorizonAI Talent",
-      "title": "Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4475510814/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$125,000.00/yr - $250,000.00/yr"
-    },
-    {
-      "company": "Talently",
-      "title": "Senior Control Systems Engineer",
-      "location": "Hightstown, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4468229958/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn",
-      "salary": "$130,000.00/yr - $170,000.00/yr"
-    },
-    {
-      "company": "Parsons Corporation",
-      "title": "Full Stack Software Engineer",
-      "location": "Annapolis Junction, MD",
-      "url": "https://www.linkedin.com/jobs/view/4458582801/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "JobsInPython",
-      "title": "Software Engineer II, Backend (Streaming)",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4473606246/",
-      "date_posted": "2026-10-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Talently",
-      "title": "Senior Full Stack Software Engineer",
-      "location": "Dallas, TX",
-      "url": "https://www.linkedin.com/jobs/view/4455341444/",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472010176/",
       "date_posted": "2026-10-04",
       "ats": "LinkedIn"
     }
