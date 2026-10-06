@@ -1,20 +1,36 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-10-05 10:37 UTC*
+*Last updated: 2026-10-06 10:29 UTC*
 
-**4 new role(s)** since last run · 104 total in last 24h
+**8 new role(s)** since last run · 105 total in last 24h
 
-### [Senior Software Engineer II](https://job-boards.greenhouse.io/freenome/jobs/8414748002) — Freenome
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-07-15
+### [Manager of Data Engineering & Delivery (Data Science Production Engineering)](https://job-boards.greenhouse.io/natera/jobs/6137669004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-09-02
 
-### [Senior Data Engineer - Data Platform & Martech Engineering](https://www.linkedin.com/jobs/view/4435922350/) — Gen
+### [Senior Manager of Software Engineering & DevOps (DSPE)](https://job-boards.greenhouse.io/natera/jobs/6148527004) — Natera
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-10-05
+
+### [Cloud Software Development Engineer](https://www.linkedin.com/jobs/view/4474676727/) — Intel
+- 📍 **Location:** Hillsboro, OR
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Systems Engineer II - Quality Focus](https://www.linkedin.com/jobs/view/4421271372/) — ASM
+- 📍 **Location:** Greater Phoenix Area
+- 🕒 **Posted:** 2026-10-06
+
+### [Machine Learning Engineer, Infra, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4447583143/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-10-05
+
+### [Senior Software Engineer II, RPM Growth & Ops](https://www.linkedin.com/jobs/view/4474606314/) — Tempus AI
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-04
+- 🕒 **Posted:** 2026-10-05
 
-### [Machine Learning Engineer, Infra, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4447580885/) — Genentech
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-04
+### [Software Engineer I/II - Scientific Computing](https://www.linkedin.com/jobs/view/4472098673/) — Iambic
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-05
 
-### [Senior Software Engineer, App](https://www.linkedin.com/jobs/view/4419477105/) — Lila Sciences
-- 📍 **Location:** Cambridge, MA
-- 🕒 **Posted:** 2026-10-04
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4474615893/) — FOUND
+- 📍 **Location:** Santa Monica, CA
+- 🕒 **Posted:** 2026-10-05
