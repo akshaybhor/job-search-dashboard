@@ -1,475 +1,557 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-08 02:19 UTC*
+*Last updated: 2026-10-08 06:55 UTC*
 
-**112 new role(s)** since last run · 165 total in last 2h
+**137 new role(s)** since last run · 138 total in last 2h
 
-### [Senior Software Engineer, Growth](https://www.linkedin.com/jobs/view/4475336530/) — Discord
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475757761/) — Deloitte
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Software Engineer, Full Stack (Serverless)](https://www.linkedin.com/jobs/view/4476975598/) — fal
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475758705/) — Deloitte
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Software Engineer - Security Platform](https://www.linkedin.com/jobs/view/4474805014/) — Cloudflare
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Software Engineer, R&D](https://www.linkedin.com/jobs/view/4476969735/) — Athelas
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Engineer, Front-End (New Grad)](https://www.linkedin.com/jobs/view/4476958699/) — Otter.ai
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $135,000.00/yr - $164,000.00/yr
-- 🕒 **Posted:** 2026-10-07
-
-### [Lead Software Engineer - Multi-Agent Mission Systems](https://www.linkedin.com/jobs/view/4452732451/) — Applied Intuition
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-10-07
-
-### [Data Infrastructure Engineer](https://www.linkedin.com/jobs/view/4476974601/) — Mind Robotics
+### [Sr. Embedded Linux & Platform Engineer](https://www.linkedin.com/jobs/view/4475738787/) — Rivian
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-10-07
 
-### [LLM Inference Systems Engineer](https://www.linkedin.com/jobs/view/4476956774/) — Jobverse.io
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Engineer I, Build Review & Test](https://www.linkedin.com/jobs/view/4476982294/) — Handshake
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $136,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4475715724/) — Sauna by Wordware
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Software Engineer - Treasury](https://www.linkedin.com/jobs/view/4474802117/) — Mercury
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Engineer, Intern](https://www.linkedin.com/jobs/view/4475708885/) — IXL Learning
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Systems Engineer - Enterprise AI Platforms](https://www.linkedin.com/jobs/view/4476981316/) — Lambda
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475756732/) — Deloitte
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $206,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer (Intern)](https://www.linkedin.com/jobs/view/4476971737/) — Strada
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475770093/) — Deloitte
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $7,500.00/mo - $7,500.00/mo
 - 🕒 **Posted:** 2026-10-07
 
-### [R&D Software Engineer](https://www.linkedin.com/jobs/view/4468944529/) — Keysight Technologies
+### [Speaker Systems Engineer](https://www.linkedin.com/jobs/view/4477111092/) — Sesame
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $175,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer (III) [AQ-21234]](https://www.linkedin.com/jobs/view/4475741768/) — Aquent
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $105.00/hr - $110.00/hr
+- 🕒 **Posted:** 2026-10-07
+
+### [Embedded Software Developer for RDK-B](https://www.linkedin.com/jobs/view/4475745477/) — Global Business Ser. 4u
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-07
 
-### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4475714705/) — Alex AI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $100,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Engineering PMTS](https://www.linkedin.com/jobs/view/4476967289/) — Salesforce
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Engineer, Inference](https://www.linkedin.com/jobs/view/4476955989/) — Luma
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $195,000.00/yr - $345,000.00/yr
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Software Engineer - Security Platform](https://www.linkedin.com/jobs/view/4474801060/) — Cloudflare
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475765287/) — Deloitte
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Software Engineer - Treasury](https://www.linkedin.com/jobs/view/4474498264/) — Mercury
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475750889/) — Deloitte
+- 📍 **Location:** Jericho, NY
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Backend Software Engineer, AI Observability & Evals Platform (NYC)](https://www.linkedin.com/jobs/view/4477106296/) — LangChain
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4476987004/) — Bastion
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $240,000.00/yr - $270,000.00/yr
+### [Backend Python Developer](https://www.linkedin.com/jobs/view/4475757921/) — Emonics LLC
+- 📍 **Location:** Bronx, NY
 - 🕒 **Posted:** 2026-10-07
 
-### [Machine Learning Engineer, Applied](https://www.linkedin.com/jobs/view/4476967806/) — Trace
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $185,000.00/yr - $245,000.00/yr
+### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4475736861/) — FAMU National Alumni Association
+- 📍 **Location:** Iselin, NJ
 - 🕒 **Posted:** 2026-10-07
 
-### [Machine Learning Engineer 1](https://www.linkedin.com/jobs/view/4475720553/) — Comcast
+### [Agentic Software Engineer I](https://www.linkedin.com/jobs/view/4475751816/) — Deloitte
+- 📍 **Location:** Morristown, NJ
+- 🕒 **Posted:** 2026-10-07
+
+### [Agentic Software Engineer I](https://www.linkedin.com/jobs/view/4475769115/) — Deloitte
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027](https://www.linkedin.com/jobs/view/4475713714/) — Fifth Third Bank
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475753763/) — Deloitte
+- 📍 **Location:** Stamford, CT
+- 🕒 **Posted:** 2026-10-07
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475746985/) — Deloitte
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-07
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475748928/) — Deloitte
+- 📍 **Location:** Morristown, NJ
+- 🕒 **Posted:** 2026-10-07
+
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4475772067/) — Emonics LLC
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475763374/) — Deloitte
+- 📍 **Location:** Morristown, NJ
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475770099/) — Deloitte
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-07
+
+### [Consultant II, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475768211/) — Deloitte
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-07
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475762369/) — Deloitte
 - 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer III | Framework](https://www.linkedin.com/jobs/view/4476974267/) — ExtraHop
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475755709/) — Deloitte
 - 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer, Inference](https://www.linkedin.com/jobs/view/4476958898/) — Luma
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $195,000.00/yr - $345,000.00/yr
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Software Engineer - Security Platform](https://www.linkedin.com/jobs/view/4474490591/) — Cloudflare
+### [Consultant II, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475767201/) — Deloitte
 - 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer III | AI/ML](https://www.linkedin.com/jobs/view/4441492134/) — ExtraHop
+### [Software Engineer III | Framework](https://www.linkedin.com/jobs/view/4477110435/) — Openbound
 - 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-10-07
 
-### [Python Software Engineer](https://www.linkedin.com/jobs/view/4474493444/) — MORSE Corp
+### [Research Data Engineer](https://www.linkedin.com/jobs/view/4475759383/) — TEKsystems
+- 📍 **Location:** Kirkland, WA
+- 💰 **Salary:** $70.00/hr - $90.00/hr
+- 🕒 **Posted:** 2026-10-07
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475755718/) — Deloitte
 - 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Software Engineer - Security Platform](https://www.linkedin.com/jobs/view/4474497264/) — Cloudflare
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475757788/) — Deloitte
 - 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior II Software Engineer](https://www.linkedin.com/jobs/view/4476967415/) — Akamai Technologies
-- 📍 **Location:** Cambridge, MA
+### [Consultant II, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475756720/) — Deloitte
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer – Java](https://www.linkedin.com/jobs/view/4476957782/) — Global Payments Inc.
+### [AI Engineer III](https://www.linkedin.com/jobs/view/4477113146/) — Expedia Group
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $146,000.00/yr - $204,500.00/yr
+- 🕒 **Posted:** 2026-10-07
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4475750270/) — Aurigo Software Technologies
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-07
+
+### [Agentic Software Engineer I](https://www.linkedin.com/jobs/view/4475746994/) — Deloitte
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475760520/) — Deloitte
 - 📍 **Location:** Boston, MA
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4476974630/) — Powertown
+### [Consultant II, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475755692/) — Deloitte
 - 📍 **Location:** Boston, MA
-- 💰 **Salary:** $160,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-10-07
 
-### [Python Software Engineer](https://www.linkedin.com/jobs/view/4474498242/) — MORSE Corp
-- 📍 **Location:** Cambridge, MA
-- 🕒 **Posted:** 2026-10-07
-
-### [Lead Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4474486797/) — MORSE Corp
-- 📍 **Location:** Cambridge, MA
-- 🕒 **Posted:** 2026-10-07
-
-### [Quantitative Developer | AI/ML Engineer | Top Quant Firm](https://www.linkedin.com/jobs/view/4476972340/) — Delmar Nord
-- 📍 **Location:** Greater Boston
-- 🕒 **Posted:** 2026-10-07
-
-### [Machine Learning Engineer, Intern (Term-Time)](https://www.linkedin.com/jobs/view/4476975636/) — Powertown
+### [Data Engineer](https://www.linkedin.com/jobs/view/4475751202/) — Global Business Ser. 4u
 - 📍 **Location:** Boston, MA
-- 💰 **Salary:** $160,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-10-07
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4476985071/) — Powertown
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475754792/) — Deloitte
 - 📍 **Location:** Boston, MA
-- 💰 **Salary:** $180,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-10-07
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4476981313/) — Powertown
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $180,000.00/yr - $200,000.00/yr
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475749901/) — Deloitte
+- 📍 **Location:** Costa Mesa, CA
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Embedded Software Engineer](https://www.linkedin.com/jobs/view/4476964481/) — Stic
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 💰 **Salary:** $130,000.00/yr - $205,000.00/yr
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475747970/) — Deloitte
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-10-07
 
-### [Embedded Hardware & Software Engineer](https://www.linkedin.com/jobs/view/4476977510/) — Oratomic
-- 📍 **Location:** Pasadena, CA
-- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
+### [Sr. Embedded Linux & Platform Engineer](https://www.linkedin.com/jobs/view/4475738786/) — Rivian
+- 📍 **Location:** Irvine, CA
 - 🕒 **Posted:** 2026-10-07
 
-### [2027 Embedded Systems / Software Engineering Undergrad Intern](https://www.linkedin.com/jobs/view/4474485782/) — The Aerospace Corporation
-- 📍 **Location:** El Segundo, CA
+### [Sr. Embedded Linux & Platform Engineer](https://www.linkedin.com/jobs/view/4475752207/) — Rivian
+- 📍 **Location:** Torrance, CA
 - 🕒 **Posted:** 2026-10-07
 
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4476971779/) — Oratomic
-- 📍 **Location:** Pasadena, CA
-- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
+### [Associate Data Engineer](https://www.linkedin.com/jobs/view/4475751731/) — AAA Auto Club Enterprises
+- 📍 **Location:** Costa Mesa, CA
 - 🕒 **Posted:** 2026-10-07
 
-### [Sr. Program Systems Engineer](https://www.linkedin.com/jobs/view/4474495392/) — Astrolab
-- 📍 **Location:** Hawthorne, CA
-- 💰 **Salary:** $150,000.00/yr - $180,000.00/yr
+### [Data Engineering, Senior Manager](https://www.linkedin.com/jobs/view/4470917547/) — Southern California Edison (SCE)
+- 📍 **Location:** Pomona, CA
+- 💰 **Salary:** $182,800.00/yr - $274,100.00/yr
 - 🕒 **Posted:** 2026-10-07
 
-### [Backend Engineer (Go)｜Fintech Platform](https://www.linkedin.com/jobs/view/4476967710/) — Michael Page
-- 📍 **Location:** Greater Tokyo Area
+### [Consultant II, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475763364/) — Deloitte
+- 📍 **Location:** Costa Mesa, CA
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Software Engineer - Security Platform](https://www.linkedin.com/jobs/view/4474801059/) — Cloudflare
+### [Consultant II, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475752781/) — Deloitte
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Security Systems Engineer](https://www.linkedin.com/jobs/view/4476990942/) — University of Southern California
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-10-07
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475756730/) — Deloitte
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-10-07
+
+### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4464936740/) — LVIS
+- 📍 **Location:** Seoul Incheon Metropolitan Area
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4445948774/) — Nortal
+- 📍 **Location:** Tallinn Metropolitan Area
+- 🕒 **Posted:** 2026-10-07
+
+### [MK1 GN&C Sr. Systems Engineer](https://www.linkedin.com/jobs/view/4476989903/) — Blue Origin
 - 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-10-07
 
-### [Vision Software Engineer](https://www.linkedin.com/jobs/view/4474485863/) — TARGAN Inc.
-- 📍 **Location:** Raleigh, NC
+### [MK1 GN&C Sr. Systems Engineer](https://www.linkedin.com/jobs/view/4476997692/) — Blue Origin
+- 📍 **Location:** Greater Seattle Area
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer, Senior](https://www.linkedin.com/jobs/view/4476983182/) — Booz Allen Hamilton
-- 📍 **Location:** Springfield, VA
-- 🕒 **Posted:** 2026-10-07
-
-### [Lead Software Engineer – Workload Identity & Security](https://www.linkedin.com/jobs/view/4475725339/) — State Farm
-- 📍 **Location:** Bloomington, IL
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Engineer, API Platform](https://www.linkedin.com/jobs/view/4475723491/) — Horizon3.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-07
-
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4475727295/) — Cherokee Nation Businesses
-- 📍 **Location:** Tulsa, OK
-- 🕒 **Posted:** 2026-10-07
-
-### [Engineer, Satellite Platform Engineering](https://www.linkedin.com/jobs/view/4475720470/) — SES Satellites
-- 📍 **Location:** McLean, VA
-- 🕒 **Posted:** 2026-10-07
-
-### [Systems Engineer II](https://www.linkedin.com/jobs/view/4476969426/) — Propio Language Services
-- 📍 **Location:** Overland Park, KS
-- 🕒 **Posted:** 2026-10-07
-
-### [Systems Engineer (MO)](https://www.linkedin.com/jobs/view/4476978460/) — Tetra Tech Digital Systems
-- 📍 **Location:** St Louis, MO
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Systems Engineer](https://www.linkedin.com/jobs/view/4474494594/) — Mob Entertainment
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Engineer – Oscilloscope & Measurement Solutions](https://www.linkedin.com/jobs/view/4469346527/) — Keysight Technologies
+### [Ground Systems Engineer (Lead/Senior) - Millennium Space Systems](https://www.linkedin.com/jobs/view/4477116038/) — Millennium Space Systems
 - 📍 **Location:** Colorado Springs, CO
 - 🕒 **Posted:** 2026-10-07
 
-### [Lead Software Developer - Primate Technologies](https://www.linkedin.com/jobs/view/4476967814/) — Solen Software Group
-- 📍 **Location:** United States
+### [Lead Engineer, Software Systems Engineering](https://www.linkedin.com/jobs/view/4475760389/) — WaferWire Cloud Technologies
+- 📍 **Location:** Tampa, FL
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer, Numerical Computing](https://www.linkedin.com/jobs/view/4475719508/) — CHAOS Industries
-- 📍 **Location:** Washington, DC
+### [Lead Manufacturing Systems Engineer](https://www.linkedin.com/jobs/view/4475758288/) — Logitech
+- 📍 **Location:** Changzhou-Wuxi-Suzhou Metropolitan Area
 - 🕒 **Posted:** 2026-10-07
 
-### [AWS Cloud Engineer](https://www.linkedin.com/jobs/view/4476969617/) — Bright Vision Technologies
-- 📍 **Location:** Yuba City, CA
-- 🕒 **Posted:** 2026-10-07
-
-### [Data Engineer – Snowflake / DBT](https://www.linkedin.com/jobs/view/4475729032/) — Grupo TECDATA Engineering
-- 📍 **Location:** Greater Madrid Metropolitan Area
-- 🕒 **Posted:** 2026-10-07
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4475716738/) — ujet.cx
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-07
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4476966934/) — Solventum
-- 📍 **Location:** Pittsburgh, PA
-- 💰 **Salary:** $106,000.00/yr - $145,750.00/yr
-- 🕒 **Posted:** 2026-10-07
-
-### [Microsoft Fabric Data Engineer](https://www.linkedin.com/jobs/view/4475723352/) — Tata Consultancy Services
-- 📍 **Location:** Greater Sydney Area
-- 🕒 **Posted:** 2026-10-07
-
-### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475734126/) — Dave
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-07
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4475730303/) — Magenest
-- 📍 **Location:** Hanoi Capital Region
-- 🕒 **Posted:** 2026-10-07
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4476983180/) — Booz Allen Hamilton
-- 📍 **Location:** McLean, VA
-- 🕒 **Posted:** 2026-10-07
-
-### [Lead Data Engineer (Hands-On)](https://www.linkedin.com/jobs/view/4474484899/) — RibbitZ LLC
-- 📍 **Location:** Cary, NC
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4464876117/) — VINFAST
-- 📍 **Location:** Hanoi Capital Region
-- 🕒 **Posted:** 2026-10-07
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4476986093/) — Booz Allen Hamilton
-- 📍 **Location:** Alexandria, VA
-- 🕒 **Posted:** 2026-10-07
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4476963988/) — Booz Allen Hamilton
-- 📍 **Location:** Arlington, VA
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4476970817/) — Clusia
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-07
-
-### [AI/ML Engineer SME](https://www.linkedin.com/jobs/view/4476955702/) — GovCIO
-- 📍 **Location:** San Antonio, TX
-- 🕒 **Posted:** 2026-10-07
-
-### [Machine Learning Engineer, Applied](https://www.linkedin.com/jobs/view/4476971768/) — Trace
-- 📍 **Location:** United States
-- 💰 **Salary:** $185,000.00/yr - $245,000.00/yr
-- 🕒 **Posted:** 2026-10-07
-
-### [Data Engineer 4 - Intelligent Foundations and Experiences (IFX)](https://www.linkedin.com/jobs/view/4476964659/) — Capital One
-- 📍 **Location:** McLean, VA
-- 🕒 **Posted:** 2026-10-07
-
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4474499252/) — Synechron
-- 📍 **Location:** Alpharetta, GA
-- 💰 **Salary:** $105,000.00/yr - $115,000.00/yr
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Developer, Embedded Appliances Co-Op](https://www.linkedin.com/jobs/view/4476978297/) — Motorola Solutions
-- 📍 **Location:** Greater Vancouver Metropolitan Area
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Software Engineer - Security Platform](https://www.linkedin.com/jobs/view/4474488680/) — Cloudflare
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-10-07
-
-### [Sr. Elixir Software Engineer](https://www.linkedin.com/jobs/view/4475723439/) — Resolution Technologies, Inc.
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Engineer – Java](https://www.linkedin.com/jobs/view/4476960563/) — Global Payments Inc.
-- 📍 **Location:** Alpharetta, GA
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4475428574/) — Esync Technologies
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-10-07
-
-### [Java Software Engineer](https://www.linkedin.com/jobs/view/4475731136/) — Innova Solutions
-- 📍 **Location:** Irving, TX
-- 🕒 **Posted:** 2026-10-07
-
-### [Systems Engineer – Enterprise Storage & Kubernetes](https://www.linkedin.com/jobs/view/4435830806/) — ECLARO
-- 📍 **Location:** Richardson, TX
-- 🕒 **Posted:** 2026-10-07
-
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4476968574/) — Actalent
-- 📍 **Location:** Grand Prairie, TX
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Development Engineer 1](https://www.linkedin.com/jobs/view/4476977476/) — Dexcom
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Engineer I - 103QE](https://www.linkedin.com/jobs/view/4474121232/) — Quartus Engineering
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Software Engineer - Treasury](https://www.linkedin.com/jobs/view/4474496370/) — Mercury
-- 📍 **Location:** Portland, OR
-- 🕒 **Posted:** 2026-10-07
-
-### [Python Software Engineer - Network Management & DDI](https://www.linkedin.com/jobs/view/4475731050/) — Protingent
-- 📍 **Location:** Bluffdale, UT
-- 🕒 **Posted:** 2026-10-07
-
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4476967681/) — GRUBBRR®
+### [Senior Software Engineer, Firmware](https://www.linkedin.com/jobs/view/4475762218/) — Purpose Brands, LLC
 - 📍 **Location:** Boca Raton, FL
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Development Engineer II - Onsite](https://www.linkedin.com/jobs/view/4476966794/) — Medtronic
-- 📍 **Location:** Fridley, MN
+### [Senior Software Engineer, Firmware](https://www.linkedin.com/jobs/view/4475768050/) — Purpose Brands, LLC
+- 📍 **Location:** Woodbury, MN
 - 🕒 **Posted:** 2026-10-07
 
-### [Systems Architect/Senior Software Engineer](https://www.linkedin.com/jobs/view/4468678780/) — KellyMitchell Group
-- 📍 **Location:** Hopkins, MN
+### [Senior Embedded Software Engineer](https://www.linkedin.com/jobs/view/4476990986/) — HMY
+- 📍 **Location:** Bolivia
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4476980137/) — Actalent
-- 📍 **Location:** Minneapolis, MN
+### [GCP Cloud Engineer](https://www.linkedin.com/jobs/view/4475765271/) — PibyThree
+- 📍 **Location:** Mumbai Metropolitan Region
 - 🕒 **Posted:** 2026-10-07
 
-### [Dsp Software Engineer](https://www.linkedin.com/jobs/view/4476966671/) — Actalent
-- 📍 **Location:** Burnsville, MN
+### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4459116317/) — Nearmap
+- 📍 **Location:** Greater Sydney Area
 - 🕒 **Posted:** 2026-10-07
 
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4476968565/) — Actalent
-- 📍 **Location:** Minneapolis, MN
+### [Lead Cloud Engineer](https://www.linkedin.com/jobs/view/4475752776/) — Lincoln Financial
+- 📍 **Location:** Radnor, PA
 - 🕒 **Posted:** 2026-10-07
 
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4476975392/) — Actalent
-- 📍 **Location:** Burnsville, MN
+### [Senior Data Platform Engineer](https://www.linkedin.com/jobs/view/4477107321/) — Xcel Energy
+- 📍 **Location:** Greater Minneapolis-St. Paul Area
 - 🕒 **Posted:** 2026-10-07
 
-### [Sr. Systems Engineer](https://www.linkedin.com/jobs/view/4476976256/) — Actalent
-- 📍 **Location:** Minneapolis, MN
+### [Senior Data Platform Engineer](https://www.linkedin.com/jobs/view/4477110253/) — Xcel Energy
+- 📍 **Location:** Eau Claire, WI
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4476981084/) — Actalent
-- 📍 **Location:** Minneapolis, MN
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4475764302/) — Deloitte
+- 📍 **Location:** McLean, VA
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4476978330/) — Belay Technologies
-- 📍 **Location:** Fort Meade, MD
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4475762359/) — Deloitte
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-10-07
 
-### [Python Software Engineer](https://www.linkedin.com/jobs/view/4474490643/) — MORSE Corp
+### [Data Engineer](https://www.linkedin.com/jobs/view/4477116093/) — NielsenIQ
+- 📍 **Location:** Pune/Pimpri-Chinchwad Area
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer, Mission Data Products - Clearance Required](https://www.linkedin.com/jobs/view/4475763490/) — LMI
+- 📍 **Location:** Fort Liberty, NC
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4475770069/) — Deloitte
 - 📍 **Location:** Arlington, VA
 - 🕒 **Posted:** 2026-10-07
 
-### [UI Software Engineer - WPF/.NET Desktop Applications](https://www.linkedin.com/jobs/view/4468961091/) — Keysight Technologies
-- 📍 **Location:** Colorado Springs, CO
+### [Sr Data Engineer - Remote](https://www.linkedin.com/jobs/view/4475758054/) — Global Business Ser. 4u
+- 📍 **Location:** Minneapolis, MN
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer, Integrations Delivery & Support](https://www.linkedin.com/jobs/view/4475732317/) — Horizon3.ai
+### [Data Engineer – Entry Level](https://www.linkedin.com/jobs/view/4475772116/) — Emonics LLC
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-10-07
+
+### [AWS Data Engineer](https://www.linkedin.com/jobs/view/4477101734/) — Johnson Technology Systems Inc
+- 📍 **Location:** Reston, VA
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Data Platform Engineer](https://www.linkedin.com/jobs/view/4477101739/) — Xcel Energy
+- 📍 **Location:** Greater Amarillo Area
+- 🕒 **Posted:** 2026-10-07
+
+### [Junior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4475754877/) — Emonics LLC
+- 📍 **Location:** Portland, OR
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475755719/) — Deloitte
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-07
+
+### [Consultant II, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475754765/) — Deloitte
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Data Engineer - Snowflake](https://www.linkedin.com/jobs/view/4476791526/) — Capgemini
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-07
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475758721/) — Deloitte
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Software Engineer, Firmware](https://www.linkedin.com/jobs/view/4475758558/) — Purpose Brands, LLC
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-10-07
+
+### [SQL/ETL Developer](https://www.linkedin.com/jobs/view/4475756107/) — Global Business Ser. 4u
+- 📍 **Location:** Onalaska, WA
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475748930/) — Deloitte
+- 📍 **Location:** Denver, CO
+- 🕒 **Posted:** 2026-10-07
+
+### [Consultant II, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475746993/) — Deloitte
+- 📍 **Location:** Denver, CO
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Data Platform Engineer](https://www.linkedin.com/jobs/view/4477108308/) — Xcel Energy
+- 📍 **Location:** Denver Metropolitan Area
+- 🕒 **Posted:** 2026-10-07
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475757781/) — Deloitte
+- 📍 **Location:** Denver, CO
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475755707/) — Deloitte
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-10-07
+
+### [Consultant II, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475766250/) — Deloitte
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-10-07
+
+### [Agentic Software Engineer I](https://www.linkedin.com/jobs/view/4475755695/) — Deloitte
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-10-07
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475754766/) — Deloitte
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475753773/) — Deloitte
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-07
+
+### [Consultant II, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475751826/) — Deloitte
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-07
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475771015/) — Deloitte
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475770098/) — Deloitte
+- 📍 **Location:** Portland, OR
+- 🕒 **Posted:** 2026-10-07
+
+### [Consultant II, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475748916/) — Deloitte
+- 📍 **Location:** Portland, OR
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475746997/) — Deloitte
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-10-07
+
+### [Consultant II, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475766243/) — Deloitte
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-10-07
+
+### [Lead Data Engineer II](https://www.linkedin.com/jobs/view/4475755704/) — Deloitte
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-10-07
+
+### [AI Software Engineer](https://www.linkedin.com/jobs/view/4428765521/) — Broadcom
+- 📍 **Location:** Fort Collins, CO
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475766245/) — Deloitte
+- 📍 **Location:** Salt Lake City Metropolitan Area
+- 🕒 **Posted:** 2026-10-07
+
+### [Consultant II, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475760528/) — Deloitte
+- 📍 **Location:** Salt Lake City Metropolitan Area
+- 🕒 **Posted:** 2026-10-07
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475749897/) — Deloitte
+- 📍 **Location:** Tempe, AZ
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475767210/) — Deloitte
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-07
+
+### [Agentic Software Engineer I](https://www.linkedin.com/jobs/view/4475764306/) — Deloitte
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-07
+
+### [Consultant II, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475766240/) — Deloitte
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-07
+
+### [Lead Java Backend Developer](https://www.linkedin.com/jobs/view/4475755098/) — Global Business Ser. 4u
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-07
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475770067/) — Deloitte
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475771018/) — Deloitte
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-10-07
+
+### [Consultant II, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475757757/) — Deloitte
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-10-07
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475747969/) — Deloitte
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475760524/) — Deloitte
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-10-07
+
+### [Consultant II, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4475759520/) — Deloitte
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer: IV (Lead)](https://www.linkedin.com/jobs/view/4477105470/) — Dale WorkForce Solutions
+- 📍 **Location:** St Paul, MN
+- 🕒 **Posted:** 2026-10-07
+
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4475752784/) — Deloitte
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-10-07
+
+### [Sr. Software Engineer (Full Stack Platform Engineering) Austin or San Antonio, TX (onsite)](https://www.linkedin.com/jobs/view/4475764239/) — H-E-B
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Software Engineer - Security Platform](https://www.linkedin.com/jobs/view/4476998852/) — Jobgether
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-07
 
-### [Jr Systems Engineer](https://www.linkedin.com/jobs/view/4476952832/) — Leidos
-- 📍 **Location:** Newport News, VA
+### [Software Engineer/Argo Cloud Specialist - 6496782](https://www.linkedin.com/jobs/view/4477108128/) — Accenture
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-10-07
 
-### [Global Robotic Systems Application Engineer](https://www.linkedin.com/jobs/view/4474492546/) — 3M
-- 📍 **Location:** Minnesota, United States
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4471762872/) — TGS
-- 📍 **Location:** Missouri City, TX
-- 🕒 **Posted:** 2026-10-07
-
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4476980235/) — Kranze Technology Solutions, Inc.
-- 📍 **Location:** Des Plaines, IL
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Server Cloud Engineer](https://www.linkedin.com/jobs/view/4476976167/) — The Gund Company
-- 📍 **Location:** St Louis, MO
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4476969179/) — Masterpoint
+### [Software Engineer III - Full Stack (Drupal)](https://www.linkedin.com/jobs/view/4475736647/) — Ad Hoc LLC
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-07
 
-### [Data Engineer 4 - Intelligent Foundations and Experiences (IFX)](https://www.linkedin.com/jobs/view/4476965617/) — Capital One
-- 📍 **Location:** Richmond, VA
+### [Python Developer](https://www.linkedin.com/jobs/view/4475730948/) — Recurring Decimal
+- 📍 **Location:** Charlotte, NC
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer Lead (ETL/Regulatory Risk & Compliance)](https://www.linkedin.com/jobs/view/4476970832/) — PNC
+### [Software Engineer](https://www.linkedin.com/jobs/view/4475728985/) — PDS Tech Commercial, Inc.
+- 📍 **Location:** Cedar Rapids, IA
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Data Scientist – AI Engineer](https://www.linkedin.com/jobs/view/4475737556/) — William Blair
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-07
+
+### [Physical AI Engineer](https://www.linkedin.com/jobs/view/4463918352/) — TD SYNNEX North America
+- 📍 **Location:** Clearwater, FL
+- 🕒 **Posted:** 2026-10-07
+
+### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4477103469/) — CodeCargo
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-07
 
-### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4476983072/) — Bright Vision Technologies
-- 📍 **Location:** Yuba City, CA
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Artificial Intelligence/Machine Learning Engineer](https://www.linkedin.com/jobs/view/4475723258/) — Jobgether
+### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4475743459/) — Evolent
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-07
 
-### [366 - Senior Software Engineer](https://www.linkedin.com/jobs/view/4474492667/) — ARSIEM Corporation
-- 📍 **Location:** Fort Meade, MD
+### [Senior Software Developer](https://www.linkedin.com/jobs/view/4476994678/) — TD SYNNEX North America
+- 📍 **Location:** Reston, VA
 - 🕒 **Posted:** 2026-10-07
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4476981322/) — Booz Allen Hamilton
+### [Lead AI Engineer](https://www.linkedin.com/jobs/view/4475740602/) — BioSpace
+- 📍 **Location:** Tarrytown, NY
+- 🕒 **Posted:** 2026-10-07
+
+### [Lead Data Scientist – AI Engineer](https://www.linkedin.com/jobs/view/4475737555/) — William Blair
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-07
+
+### [Cloud Engineer II](https://www.linkedin.com/jobs/view/4472200424/) — NextGen | GTA: A Kelly Telecom Company
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-10-07
+
+### [Systems Engineer III](https://www.linkedin.com/jobs/view/4475737931/) — PLEXSYS Interface Products UK LTD
+- 📍 **Location:** Midwest City, OK
+- 🕒 **Posted:** 2026-10-07
+
+### [Systems Engineer](https://www.linkedin.com/jobs/view/4477109507/) — Leidos
+- 📍 **Location:** Suitland, MD
+- 🕒 **Posted:** 2026-10-07
+
+### [Sr Systems Engineer](https://www.linkedin.com/jobs/view/4477108609/) — GovCIO
 - 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-07
+
+### [Systems Engineer](https://www.linkedin.com/jobs/view/4477112369/) — Leidos
+- 📍 **Location:** North Charleston, SC
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior CX Platform Engineer](https://www.linkedin.com/jobs/view/4477107263/) — Jobgether
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Business Systems Analyst, IT Data Engineering](https://www.linkedin.com/jobs/view/4476991765/) — IDEXX
+- 📍 **Location:** Westbrook, ME
+- 🕒 **Posted:** 2026-10-07
+
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4476999756/) — Katalyst CRO
+- 📍 **Location:** Peoria, IL
+- 🕒 **Posted:** 2026-10-07
+
+### [Agentic Software Engineer I](https://www.linkedin.com/jobs/view/4475751817/) — Deloitte
+- 📍 **Location:** Jacksonville, FL
+- 🕒 **Posted:** 2026-10-07
+
+### [MK1 GN&C Sr. Systems Engineer](https://www.linkedin.com/jobs/view/4477104399/) — Blue Origin
+- 📍 **Location:** Merritt Island, FL
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4475753875/) — Gear Partners
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-07
+
+### [Agentic Software Engineer I](https://www.linkedin.com/jobs/view/4475757755/) — Deloitte
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Data Engineer (Remote)](https://www.linkedin.com/jobs/view/4475757586/) — CareFirst BlueCross BlueShield
+- 📍 **Location:** Baltimore, MD
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4475750861/) — Deloitte
+- 📍 **Location:** Baltimore, MD
 - 🕒 **Posted:** 2026-10-07
