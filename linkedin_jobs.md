@@ -1,863 +1,505 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-09 00:48 UTC*
+*Last updated: 2026-10-09 02:32 UTC*
 
-**212 new role(s)** since last run · 219 total in last 2h
+**118 new role(s)** since last run · 156 total in last 2h
 
-### [Senior Software Engineer - DGX Cloud Services and Software](https://www.linkedin.com/jobs/view/4476242076/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer, Consumer Revenue](https://www.linkedin.com/jobs/view/4475326917/) — Discord
+### [Senior Software Engineer, Identity Security](https://www.linkedin.com/jobs/view/4477616069/) — Salesforce
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer, Backend, Level 4](https://www.linkedin.com/jobs/view/4477482791/) — Snap Inc.
+### [Software Engineer II - Engineer](https://www.linkedin.com/jobs/view/4477603663/) — Uber
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer, Backend, Level 4](https://www.linkedin.com/jobs/view/4477483754/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading)](https://www.linkedin.com/jobs/view/4477480697/) — Coinbase
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer, Distributed Systems Engineering - DGX Cloud](https://www.linkedin.com/jobs/view/4476226592/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Backend Engineer - Intercom](https://www.linkedin.com/jobs/view/4477499015/) — Verkada
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Full-Stack Software Engineer, TypeScript](https://www.linkedin.com/jobs/view/4474870061/) — Jobot
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $190,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477484726/) — PwC
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer - Data Pipeline](https://www.linkedin.com/jobs/view/4453517542/) — Applied Intuition
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $200,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer, Backend, Level 4](https://www.linkedin.com/jobs/view/4477495346/) — Snap Inc.
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading)](https://www.linkedin.com/jobs/view/4477494315/) — Coinbase
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [Backend Software Engineer, TypeScript / Node.js](https://www.linkedin.com/jobs/view/4474868215/) — Jobot
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $185,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Development Engineer, Developer Experience](https://www.linkedin.com/jobs/view/4477478998/) — Amazon
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer - AI & Cloud Platforms](https://www.linkedin.com/jobs/view/4477490750/) — CVS Health
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Development Engineer, Developer Experience](https://www.linkedin.com/jobs/view/4477600100/) — Amazon
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477488754/) — PwC
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477495437/) — PwC
-- 📍 **Location:** Florham Park, NJ
-- 🕒 **Posted:** 2026-10-08
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4473154746/) — Atlas Search
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477600057/) — PwC
-- 📍 **Location:** Stamford, CT
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477489680/) — PwC
-- 📍 **Location:** Melville, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477483830/) — PwC
-- 📍 **Location:** Cincinnati, OH
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer, Backend, Level 4](https://www.linkedin.com/jobs/view/4477494354/) — Snap Inc.
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading)](https://www.linkedin.com/jobs/view/4477478866/) — Coinbase
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Development Engineer II, Amazon Digital Asset Vault](https://www.linkedin.com/jobs/view/4477496340/) — Amazon Web Services (AWS)
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [SDE II, OIH](https://www.linkedin.com/jobs/view/4477486753/) — Amazon
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Development Engineer II, AWS WorkSpaces, AWS WorkSpaces Control Plane Backend](https://www.linkedin.com/jobs/view/4477481934/) — Amazon Web Services (AWS)
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Development Engineer, Cloudwatch Agent Observability](https://www.linkedin.com/jobs/view/4477490655/) — Amazon Web Services (AWS)
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Development Engineer, Agentic AI, Velocity Labs](https://www.linkedin.com/jobs/view/4477483865/) — Amazon Web Services (AWS)
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Development Engineer, Network Fabric Engineering](https://www.linkedin.com/jobs/view/4477497292/) — Amazon Web Services (AWS)
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [Sr. Software Development Engineer, Agentic AI, Velocity Labs](https://www.linkedin.com/jobs/view/4477478999/) — Amazon Web Services (AWS)
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [Manager, Software Engineering, Core Infrastructure](https://www.linkedin.com/jobs/view/4477494351/) — Snap Inc.
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer Intern - Observability (Platform)](https://www.linkedin.com/jobs/view/4476229576/) — Docusign
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4476232378/) — Docusign
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [Lead SRE](https://www.linkedin.com/jobs/view/4476232377/) — Docusign
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477491559/) — PwC
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Development Engineer](https://www.linkedin.com/jobs/view/4477602131/) — CVS Health
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4418158932/) — Teero
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer, Escalation](https://www.linkedin.com/jobs/view/4453391613/) — Zello
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-08
-
-### [Data Engineer , AWS Infrastructure Supply Chain Intelligence](https://www.linkedin.com/jobs/view/4477489727/) — Amazon Web Services (AWS)
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Platform Engineer - Enterprise AI & Multi-Cloud](https://www.linkedin.com/jobs/view/4477499186/) — Boston Scientific
-- 📍 **Location:** Marlborough, MA
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477487699/) — PwC
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Cloud Engineer](https://www.linkedin.com/jobs/view/4477604001/) — Aras Corporation
-- 📍 **Location:** Andover, MA
-- 🕒 **Posted:** 2026-10-08
-
-### [Electrical/Power Systems Engineer (IST; North Reading, MA)](https://www.linkedin.com/jobs/view/4474855935/) — Teradyne
-- 📍 **Location:** North Reading, MA
-- 🕒 **Posted:** 2026-10-08
-
-### [Lead Application Engineer](https://www.linkedin.com/jobs/view/4477489997/) — Alstom Grid
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer - DGX Cloud Services and Software](https://www.linkedin.com/jobs/view/4476234402/) — NVIDIA
-- 📍 **Location:** Massachusetts, United States
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer, Backend, Level 4](https://www.linkedin.com/jobs/view/4477493395/) — Snap Inc.
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Space Embedded Software Engineer](https://www.linkedin.com/jobs/view/4477490991/) — Varda Space Industries
-- 📍 **Location:** El Segundo, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4476238414/) — A&C Tech, Inc
-- 📍 **Location:** Irvine, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477488744/) — PwC
-- 📍 **Location:** Irvine, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477491555/) — PwC
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Ground Systems Engineer - Millennium Space Systems](https://www.linkedin.com/jobs/view/4477495326/) — Millennium Space Systems
-- 📍 **Location:** El Segundo, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Sr Platform Engineer (AD/PAM)](https://www.linkedin.com/jobs/view/4477493333/) — TEKsystems
-- 📍 **Location:** Burbank, CA
-- 💰 **Salary:** $95.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer, Associate (NJUS)](https://www.linkedin.com/jobs/view/4474852988/) — NetJets
-- 📍 **Location:** Columbus, OH
-- 🕒 **Posted:** 2026-10-08
-
-### [Embedded Software Engineer II - Flight Mgmt Systems (FMS)](https://www.linkedin.com/jobs/view/4477600087/) — Honeywell Aerospace
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4474868267/) — Sierra Nevada Corporation
-- 📍 **Location:** Lone Tree, CO
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4474859672/) — Sierra Nevada Corporation
-- 📍 **Location:** Lone Tree, CO
-- 🕒 **Posted:** 2026-10-08
-
-### [PHP Backend Developer (Middle+/Senior)](https://www.linkedin.com/jobs/view/4476238452/) — Revolution Global LLC
-- 📍 **Location:** Tashkent, Tashkent, Uzbekistan
-- 🕒 **Posted:** 2026-10-08
-
-### [PHP Backend Developer (Middle+/Senior)](https://www.linkedin.com/jobs/view/4476228761/) — Revolution Global LLC
-- 📍 **Location:** Samarqand, Samarqand Region, Uzbekistan
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4477483653/) — HuntingCube
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-08
-
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4477498653/) — Two Six Technologies
-- 📍 **Location:** Herndon, VA
-- 🕒 **Posted:** 2026-10-08
-
-### [Requirements & Architecture Systems Engineer](https://www.linkedin.com/jobs/view/4474866363/) — Johns Hopkins Applied Physics Laboratory
-- 📍 **Location:** Laurel, MD
-- 💰 **Salary:** $100,000.00/yr - $245,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Development Engineer – Embedded Wireless SDR & Analytics](https://www.linkedin.com/jobs/view/4476224772/) — Trabus Technologies
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer (U.S. Citizenship required)](https://www.linkedin.com/jobs/view/4474872009/) — Teledyne FLIR
-- 📍 **Location:** Orlando, FL
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Development Engineer/Manager – Wireless SDR & Mesh Systems](https://www.linkedin.com/jobs/view/4476221777/) — Trabus Technologies
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Scientific Software Developer](https://www.linkedin.com/jobs/view/4476241160/) — Peraton
-- 📍 **Location:** Mississippi, United States
-- 🕒 **Posted:** 2026-10-08
-
-### [Azure Cloud Engineer](https://www.linkedin.com/jobs/view/4477486946/) — AIS (Applied Information Sciences)
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer - DGX Cloud Services and Software](https://www.linkedin.com/jobs/view/4476236365/) — NVIDIA
-- 📍 **Location:** Washington, United States
-- 🕒 **Posted:** 2026-10-08
-
-### [Cloud Software Engineer Top Secret/SCI w/Poly](https://www.linkedin.com/jobs/view/4476237282/) — Peraton
-- 📍 **Location:** Annapolis Junction, MD
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4477489842/) — CVS Health
-- 📍 **Location:** Madison, WI
-- 🕒 **Posted:** 2026-10-08
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4477498366/) — Western Governors University
-- 📍 **Location:** Salt Lake City Metropolitan Area
-- 🕒 **Posted:** 2026-10-08
-
-### [Sr. Data Engineer](https://www.linkedin.com/jobs/view/4462893153/) — Avantor
-- 📍 **Location:** Pune/Pimpri-Chinchwad Area
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477492564/) — PwC
-- 📍 **Location:** Louisville, KY
-- 🕒 **Posted:** 2026-10-08
-
-### [Autonomous Systems Evaluation Data and Software Engineer](https://www.linkedin.com/jobs/view/4474869095/) — Johns Hopkins Applied Physics Laboratory
-- 📍 **Location:** Laurel, MD
-- 💰 **Salary:** $100,000.00/yr - $245,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior AI/ML Engineer](https://www.linkedin.com/jobs/view/4477608088/) — Fidelity Investments
-- 📍 **Location:** Roanoke, TX
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer - Agentic AI engineer](https://www.linkedin.com/jobs/view/4477482667/) — Capgemini
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-10-08
-
-### [AI / ML Engineer](https://www.linkedin.com/jobs/view/4384496949/) — E Source
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477491554/) — PwC
-- 📍 **Location:** Cleveland, OH
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer - FDE](https://www.linkedin.com/jobs/view/4477476903/) — Capgemini
-- 📍 **Location:** Irving, TX
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477499117/) — PwC
-- 📍 **Location:** Pittsburgh, PA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4477601151/) — CVS Health
-- 📍 **Location:** Hartford, CT
-- 🕒 **Posted:** 2026-10-08
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4477494759/) — Vantor
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer (U.S. Citizenship required)](https://www.linkedin.com/jobs/view/4474861500/) — Teledyne FLIR
-- 📍 **Location:** Wilsonville, OR
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4476951480/) — Capgemini
-- 📍 **Location:** Atlanta Metropolitan Area
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477495439/) — PwC
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477492565/) — PwC
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4477485970/) — Women In Science
-- 📍 **Location:** Denton, TX
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477495414/) — PwC
-- 📍 **Location:** Fort Worth, TX
-- 🕒 **Posted:** 2026-10-08
-
-### [Sr. Software Engineer, EC2 VPC](https://www.linkedin.com/jobs/view/4477486754/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477487697/) — PwC
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477482865/) — PwC
-- 📍 **Location:** Portland, OR
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477492566/) — PwC
-- 📍 **Location:** Raleigh, NC
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477490615/) — PwC
-- 📍 **Location:** Salt Lake City, UT
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Software Engineer - Regrello](https://www.linkedin.com/jobs/view/4477600003/) — Cayuse Holdings
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477490623/) — PwC
-- 📍 **Location:** Boca Raton, FL
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477495416/) — PwC
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477479921/) — PwC
-- 📍 **Location:** Philadelphia, PA
-- 🕒 **Posted:** 2026-10-08
-
-### [Data Architect(Lead Data Engineer)](https://www.linkedin.com/jobs/view/4474858706/) — My3Tech
-- 📍 **Location:** Exton, PA
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4477600066/) — PwC
-- 📍 **Location:** Minneapolis, MN
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Ocean Systems Engineer](https://www.linkedin.com/jobs/view/4474851837/) — Johns Hopkins Applied Physics Laboratory
-- 📍 **Location:** Laurel, MD
-- 💰 **Salary:** $100,000.00/yr - $245,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Systems Engineer](https://www.linkedin.com/jobs/view/4477611160/) — Leidos
-- 📍 **Location:** Suitland, MD
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Development Engineer, Amazon Demand Side Platform](https://www.linkedin.com/jobs/view/4477492603/) — Amazon
-- 📍 **Location:** Arlington, VA
-- 🕒 **Posted:** 2026-10-08
-
-### [Ground Software Engineer - Millennium Space Systems](https://www.linkedin.com/jobs/view/4477486520/) — Millennium Space Systems
-- 📍 **Location:** Chantilly, VA
-- 🕒 **Posted:** 2026-10-08
-
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4477486608/) — Trinzic
-- 📍 **Location:** Kihei, HI
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4467358294/) — Johns Hopkins Applied Physics Laboratory
-- 📍 **Location:** Laurel, MD
-- 💰 **Salary:** $100,000.00/yr - $245,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer, Identity Security](https://www.linkedin.com/jobs/view/4477486328/) — Slack
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer - DGX Cloud Services and Software](https://www.linkedin.com/jobs/view/4477488431/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer, Full-Stack](https://www.linkedin.com/jobs/view/4477493162/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer III, Cloud - Falcon Asset Manager Platform (Hybrid)](https://www.linkedin.com/jobs/view/4474853748/) — CrowdStrike
+### [Sr Software Engineer - Engineer](https://www.linkedin.com/jobs/view/4477612440/) — Uber
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Join Our Talent Network - Robotics Software Engineer, Robot Math](https://www.linkedin.com/jobs/view/4477490427/) — Dexterity, Inc.
-- 📍 **Location:** Redwood City, CA
+### [Software Engineer, Machine Learning-Backend](https://www.linkedin.com/jobs/view/4477601902/) — fal
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Sr Software Engineer, Embedded Test Automation](https://www.linkedin.com/jobs/view/4476241080/) — Imperative Care
-- 📍 **Location:** Campbell, CA
+### [Software Engineer, ADAS Behavior Planning and Integration](https://www.linkedin.com/jobs/view/4476243547/) — Lucid Motors
+- 📍 **Location:** Newark, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Infrastructure Software Engineer](https://www.linkedin.com/jobs/view/4385391706/) — Etched
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4476229875/) — Roboflow
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $250,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Sr. Backend Engineer](https://www.linkedin.com/jobs/view/4477493254/) — Addison Group
-- 📍 **Location:** San Ramon, CA
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4477621256/) — Handshake
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $150,000.00/yr - $189,000.00/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Sr Data Engineering Manager](https://www.linkedin.com/jobs/view/4459642849/) — Imperative Care
-- 📍 **Location:** Campbell, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [CST Application Engineer Intern - Physical Systems](https://www.linkedin.com/jobs/view/4476217403/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4476215625/) — Fractal
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $100,000.00/yr - $130,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Applied AI Engineer](https://www.linkedin.com/jobs/view/4477489390/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Optical Systems Engineer](https://www.linkedin.com/jobs/view/4418438764/) — Etched
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Field Application Engineer (FAE) – AI, Workstations and Servers](https://www.linkedin.com/jobs/view/4476230487/) — Acer
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $130,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Capgemini Invent, Consultant, AI Engineer](https://www.linkedin.com/jobs/view/4477494102/) — Capgemini Invent
+### [Machine Learning Engineer - Inference Maintainer & Developer Experience](https://www.linkedin.com/jobs/view/4476236654/) — Roboflow
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Application Engineer](https://www.linkedin.com/jobs/view/4476220743/) — Teledyne LeCroy Protocol Solutions Group (PSG)
-- 📍 **Location:** Milpitas, CA
+### [Hardware Integration Software Engineer](https://www.linkedin.com/jobs/view/4477617015/) — SoloPoint Solutions
+- 📍 **Location:** Napa County, CA
+- 💰 **Salary:** $135,000.00/yr - $165,000.00/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer, Engine Systems](https://www.linkedin.com/jobs/view/4476218972/) — Roblox
-- 📍 **Location:** San Mateo, CA
+### [Research Computing Systems Engineer](https://www.linkedin.com/jobs/view/4477606821/) — Stanford University School of Medicine
+- 📍 **Location:** Stanford, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4477483635/) — Trilyon, Inc.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer II - Core Infrastructure](https://www.linkedin.com/jobs/view/4474865286/) — Poshmark
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Java Software Engineer (W2 only)](https://www.linkedin.com/jobs/view/4468269863/) — Flexton Inc.
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Machine Learning Engineer 2, Business Platform](https://www.linkedin.com/jobs/view/4477490162/) — Intuit
+### [Senior Embedded Software Engineer](https://www.linkedin.com/jobs/view/4476223905/) — Nuro
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [LLM Training Data Engineer](https://www.linkedin.com/jobs/view/4476233252/) — NextAxiom
+### [Software Engineer, Applied Machine Learning](https://www.linkedin.com/jobs/view/4477607717/) — fal
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Development Engineer III](https://www.linkedin.com/jobs/view/4447874144/) — Optimum
-- 📍 **Location:** Bethpage, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [Manager Software Engineering](https://www.linkedin.com/jobs/view/4477489362/) — Optimum
-- 📍 **Location:** Bethpage, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Data Systems Engineer](https://www.linkedin.com/jobs/view/4477486609/) — January
+### [Software Engineer, Banking Automation & AI](https://www.linkedin.com/jobs/view/4477606804/) — Wedbush
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4477477872/) — Trinzic
-- 📍 **Location:** Beavercreek, OH
+### [Lead ServiceNow Platform Engineer](https://www.linkedin.com/jobs/view/4477612500/) — MetLife
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Backend Software Engineer - Customer Service Platform - Global E-Commerce Customer Service Platform](https://www.linkedin.com/jobs/view/4476217459/) — TikTok
+### [Senior Software Engineer, Identity Security](https://www.linkedin.com/jobs/view/4477605419/) — Salesforce
 - 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer III - Data Infrastructure](https://www.linkedin.com/jobs/view/4474859540/) — Allen Institute
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer, Identity Security](https://www.linkedin.com/jobs/view/4477494064/) — Slack
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4474854706/) — Blue Origin
-- 📍 **Location:** Greater Seattle Area
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer, HSM Infrastructure Security, Consumer Devices](https://www.linkedin.com/jobs/view/4476215685/) — OpenAI
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [Systems Engineer, VAST Components](https://www.linkedin.com/jobs/view/4474853751/) — Blue Origin
-- 📍 **Location:** Greater Seattle Area
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer, Identity Security](https://www.linkedin.com/jobs/view/4477487344/) — Slack
+### [Senior Software Engineer, Identity Security](https://www.linkedin.com/jobs/view/4477493951/) — Salesforce
 - 📍 **Location:** Bellevue, WA
 - 🕒 **Posted:** 2026-10-08
 
-### [Capgemini Invent, Consultant, AI Engineer](https://www.linkedin.com/jobs/view/4477480515/) — Capgemini Invent
+### [Software Engineer (New Grad)](https://www.linkedin.com/jobs/view/4477609661/) — Aurelian
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $100,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer II (NST)](https://www.linkedin.com/jobs/view/4474869312/) — Nintendo
+- 📍 **Location:** Redmond, WA
+- 🕒 **Posted:** 2026-10-08
+
+### [Backend Software Engineer, Global E-commerce - Seller Business - Global E-Commerce US](https://www.linkedin.com/jobs/view/4476221998/) — TikTok
 - 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-10-08
 
-### [Sr. Software Engineer - Platform Engineering](https://www.linkedin.com/jobs/view/4474868129/) — Blue Origin
-- 📍 **Location:** Greater Seattle Area
+### [Software Engineer - Identity & Authorization](https://www.linkedin.com/jobs/view/4477605493/) — Baseten
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $240,000.00/yr - $285,000.00/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Platform Software Engineer](https://www.linkedin.com/jobs/view/4474851714/) — Oracle
+### [Sr Software Engineer - Gameplay (NST)](https://www.linkedin.com/jobs/view/4474874174/) — Nintendo
+- 📍 **Location:** Redmond, WA
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer - Enterprise Platform](https://www.linkedin.com/jobs/view/4477496877/) — Baseten
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer- Inference Platform](https://www.linkedin.com/jobs/view/4477606414/) — Baseten
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $180,000.00/yr - $360,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer - Billing & Internal Tooling](https://www.linkedin.com/jobs/view/4477609323/) — Baseten
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Cloud Platform Engineer](https://www.linkedin.com/jobs/view/4477601535/) — Baseten
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer - Model Products](https://www.linkedin.com/jobs/view/4477609321/) — Baseten
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $180,000.00/yr - $360,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer - Dedicated Inference](https://www.linkedin.com/jobs/view/4477611309/) — Baseten
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer - Observability](https://www.linkedin.com/jobs/view/4477616128/) — Baseten
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer - Infrastructure](https://www.linkedin.com/jobs/view/4477609322/) — Baseten
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer - GPU Networking & Distributed Systems](https://www.linkedin.com/jobs/view/4477495956/) — Baseten
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer - AI Developer Productivity](https://www.linkedin.com/jobs/view/4477613321/) — Baseten
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer - Model Performance Systems](https://www.linkedin.com/jobs/view/4477606413/) — Baseten
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer - Voice AI (Inference Runtime)](https://www.linkedin.com/jobs/view/4477609320/) — Baseten
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer - GPU Kernels](https://www.linkedin.com/jobs/view/4477498841/) — Baseten
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $180,000.00/yr - $360,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [CONTRACT - Sr Systems Engineer, Cloud (NTD)](https://www.linkedin.com/jobs/view/4474874176/) — Nintendo
+- 📍 **Location:** Redmond, WA
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer - Continuous Delivery](https://www.linkedin.com/jobs/view/4477601537/) — Baseten
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [CONTRACT - Gameplay Software Engineer](https://www.linkedin.com/jobs/view/4474874173/) — Nintendo
+- 📍 **Location:** Redmond, WA
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer- Inference Performance](https://www.linkedin.com/jobs/view/4477610305/) — Baseten
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $180,000.00/yr - $360,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer, Backend (Security)](https://www.linkedin.com/jobs/view/4477497772/) — Base Power Company
 - 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-10-08
 
-### [Autonomy Software Engineer – SD](https://www.linkedin.com/jobs/view/4474850865/) — York Space Systems
+### [Systems Engineer - Data Security](https://www.linkedin.com/jobs/view/4474857762/) — Cloudflare
 - 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-10-08
 
-### [Strategic Software Development Engineer](https://www.linkedin.com/jobs/view/4474870041/) — York Space Systems
-- 📍 **Location:** Austin, TX
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4476254045/) — Xometry
+- 📍 **Location:** Waltham, MA
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer, Escalation](https://www.linkedin.com/jobs/view/4452728593/) — Zello
-- 📍 **Location:** Austin, Texas Metropolitan Area
+### [Sr. AI Software Engineer](https://www.linkedin.com/jobs/view/4474859685/) — Alexander Technology Group
+- 📍 **Location:** Burlington, MA
 - 🕒 **Posted:** 2026-10-08
 
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4477475907/) — Addison Group
-- 📍 **Location:** Austin, TX
+### [Machine Learning Engineer 4](https://www.linkedin.com/jobs/view/4477620040/) — Capital One
+- 📍 **Location:** Cambridge, MA
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior iOS Software Engineer, Verily Me](https://www.linkedin.com/jobs/view/4454404355/) — Verily Health
-- 📍 **Location:** Boston, MA
+### [Embedded Software Engineer, Platform (Starshield)](https://www.linkedin.com/jobs/view/4477613662/) — SpaceX
+- 📍 **Location:** Hawthorne, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Android Software Engineer, Verily Me](https://www.linkedin.com/jobs/view/4454402366/) — Verily Health
-- 📍 **Location:** Greater Boston
+### [Sr. Software Engineer (AI Data Engineering)](https://www.linkedin.com/jobs/view/4477616545/) — SpaceX
+- 📍 **Location:** Hawthorne, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Lead R&D Software Engineer – Power Systems / Ingénieur Lead Logiciel R&D – Systèmes Énergétiques](https://www.linkedin.com/jobs/view/4477486434/) — GE Vernova
-- 📍 **Location:** Boston, MA
+### [Lead Embedded Software Engineer](https://www.linkedin.com/jobs/view/4461569611/) — Approach Venture
+- 📍 **Location:** Hawthorne, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Research Software Engineer- Simulation Algorithm/ Geometry Processing](https://www.linkedin.com/jobs/view/4477483769/) — Foundation EGI
-- 📍 **Location:** Boston, MA
+### [Machine Learning Engineer III - Unpublished R&D Product](https://www.linkedin.com/jobs/view/4474860576/) — Riot Games
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior AI Engineer for Embedded Security](https://www.linkedin.com/jobs/view/4474348872/) — MITRE
-- 📍 **Location:** Bedford, MA
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4476236571/) — Alexandria Real Estate Equities, Inc.
+- 📍 **Location:** Pasadena, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [AWS Cloud Systems Engineer](https://www.linkedin.com/jobs/view/4477487419/) — Science and Engineering Services, LLC
-- 📍 **Location:** Hanscom AFB, MA
+### [R&D Software Engineer Intern](https://www.linkedin.com/jobs/view/4474874209/) — Keysight Technologies
+- 📍 **Location:** Calabasas, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Systems Engineering Intern](https://www.linkedin.com/jobs/view/4473978534/) — MITRE
-- 📍 **Location:** Bedford, MA
+### [Software Engineer (AI Data Engineering)](https://www.linkedin.com/jobs/view/4477605882/) — SpaceX
+- 📍 **Location:** Hawthorne, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4476217789/) — Eterna
-- 📍 **Location:** Irvine, CA
+### [Sr Azure Data Engineer / Data Architect (LA Location & W2 ONLY)](https://www.linkedin.com/jobs/view/4477610744/) — G3. GG Tech Global
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4476220905/) — SuperbTech, Inc.
-- 📍 **Location:** Fontana, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Strategic Requirements Systems Engineer](https://www.linkedin.com/jobs/view/4477487598/) — Trinzic
+### [Enterprise Systems Engineer](https://www.linkedin.com/jobs/view/4474865555/) — The Aerospace Corporation
 - 📍 **Location:** El Segundo, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Software Engineer, Identity Security](https://www.linkedin.com/jobs/view/4477479571/) — Slack
+### [RF Systems Engineer](https://www.linkedin.com/jobs/view/4476225868/) — Innova Solutions
+- 📍 **Location:** El Segundo, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [AI Security Software Engineer (Starshield)](https://www.linkedin.com/jobs/view/4477622203/) — SpaceX
+- 📍 **Location:** Hawthorne, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Software Engineer, ROS](https://www.linkedin.com/jobs/view/4477613258/) — FieldAI
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Software Engineer, Identity Security](https://www.linkedin.com/jobs/view/4477602465/) — Salesforce
 - 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Software Development Engineer](https://www.linkedin.com/jobs/view/4476206893/) — Adobe
-- 📍 **Location:** Lehi, UT
+### [Software Engineer Senior - Java](https://www.linkedin.com/jobs/view/4477496832/) — Global Payments Inc.
+- 📍 **Location:** Alpharetta, GA
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Software Engineer (C#/.NET)](https://www.linkedin.com/jobs/view/4477492178/) — CoStar Group
-- 📍 **Location:** Arlington, VA
+### [Senior Product Software Engineer](https://www.linkedin.com/jobs/view/4476245282/) — Wolters Kluwer
+- 📍 **Location:** Coppell, TX
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Platform Software Engineer](https://www.linkedin.com/jobs/view/4474851716/) — Oracle
-- 📍 **Location:** Nashville, TN
+### [Software Engineer - LinOS Connect](https://www.linkedin.com/jobs/view/4476257011/) — Lineage
+- 📍 **Location:** Novi, MI
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Android Software Engineer, Verily Me](https://www.linkedin.com/jobs/view/4454435264/) — Verily Health
-- 📍 **Location:** San Bruno, CA
+### [Cloud Software Development Engineer](https://www.linkedin.com/jobs/view/4476235684/) — Intel
+- 📍 **Location:** Hillsboro, OR
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Software Engineer AI+PHP REQ_126](https://www.linkedin.com/jobs/view/4475890468/) — 3Pillar
-- 📍 **Location:** Toluca Metropolitan Area
+### [Software Engineer](https://www.linkedin.com/jobs/view/4477618183/) — Actalent
+- 📍 **Location:** Moorestown, NJ
+- 💰 **Salary:** $43.00/hr - $70.00/hr
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineering Senior Associate (Java)](https://www.linkedin.com/jobs/view/4477490272/) — The Depository Trust & Clearing Corporation (DTCC)
-- 📍 **Location:** Dallas, TX
+### [Software Engineer II - CyberAI](https://www.linkedin.com/jobs/view/4477618279/) — Assured Information Security (AIS)
+- 📍 **Location:** Rome, NY
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Platform Software Engineer](https://www.linkedin.com/jobs/view/4474849832/) — Oracle
-- 📍 **Location:** Nashville, TN
+### [Senior Software Engineer - Cloud Automation](https://www.linkedin.com/jobs/view/4476233739/) — Torc Robotics
+- 📍 **Location:** Ann Arbor, MI
 - 🕒 **Posted:** 2026-10-08
 
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4476237229/) — Trusted Concepts, Inc.
-- 📍 **Location:** Herndon, VA
+### [Site Reliability Engineer (SRE)](https://www.linkedin.com/jobs/view/4474879019/) — Trivine Technology Solutions LLC
+- 📍 **Location:** Frisco, TX
 - 🕒 **Posted:** 2026-10-08
 
-### [Model Based Systems Engineer, Configuration Manager](https://www.linkedin.com/jobs/view/4477472798/) — STC, an Arcfield Company
-- 📍 **Location:** Huntsville, AL
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4477604931/) — CGI
+- 📍 **Location:** Lafayette, LA
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior AI Engineer for Embedded Security](https://www.linkedin.com/jobs/view/4474362089/) — MITRE
-- 📍 **Location:** McLean, VA
+### [Senior Platform Engineer – VMware & Kubernetes](https://www.linkedin.com/jobs/view/4465124857/) — HTC Global Services
+- 📍 **Location:** Dearborn, MI
 - 🕒 **Posted:** 2026-10-08
 
-### [Research Software Engineer- Simulation Algorithm/ Geometry Processing](https://www.linkedin.com/jobs/view/4477477911/) — Foundation EGI
+### [Software Engineer- CI/CD](https://www.linkedin.com/jobs/view/4474876226/) — NetApp
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-08
 
-### [Azure Cloud Engineer - VMware Migration](https://www.linkedin.com/jobs/view/4476235380/) — MMD Services
-- 📍 **Location:** Naperville, IL
+### [Senior Systems Engineer](https://www.linkedin.com/jobs/view/4473577439/) — Plexus Corp.
+- 📍 **Location:** Neenah, WI
 - 🕒 **Posted:** 2026-10-08
 
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4477489260/) — Arena Technical Resources
-- 📍 **Location:** Springfield, VA
+### [Data Engineer](https://www.linkedin.com/jobs/view/4474870264/) — Trivine Technology Solutions LLC
+- 📍 **Location:** Greater Chennai Area
 - 🕒 **Posted:** 2026-10-08
 
-### [Data Engineer, Senior](https://www.linkedin.com/jobs/view/4444265905/) — Stellarus
-- 📍 **Location:** California, United States
+### [812220 Software Engineer $280,000.00](https://www.linkedin.com/jobs/view/4476234863/) — B4Corp
+- 📍 **Location:** Bethesda, MD
 - 🕒 **Posted:** 2026-10-08
 
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4477476774/) — MITRE
-- 📍 **Location:** Stafford, VA
+### [Elastic Data Engineer](https://www.linkedin.com/jobs/view/4477600855/) — JCS Solutions LLC
+- 📍 **Location:** Maryland, United States
 - 🕒 **Posted:** 2026-10-08
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4477476674/) — Mayo Clinic
-- 📍 **Location:** Rochester, MN
-- 🕒 **Posted:** 2026-10-08
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4477478662/) — Harnham
-- 📍 **Location:** Addison, TX
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Cleared Intel AI Engineer](https://www.linkedin.com/jobs/view/4473965799/) — MITRE
-- 📍 **Location:** McLean, VA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Cleared Intel AI Engineer](https://www.linkedin.com/jobs/view/4473985056/) — MITRE
-- 📍 **Location:** Chantilly, VA
-- 🕒 **Posted:** 2026-10-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4476240104/) — ICF
-- 📍 **Location:** Montgomery, AL
-- 🕒 **Posted:** 2026-10-08
-
-### [ML Engineer (R37)](https://www.linkedin.com/jobs/view/4477492083/) — R1 RCM
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-08
-
-### [Capgemini Invent, Consultant, AI Engineer](https://www.linkedin.com/jobs/view/4477489352/) — Capgemini Invent
+### [Software Engineer for Card Fraud Strategy Data Delivery](https://www.linkedin.com/jobs/view/4477431998/) — Truist
 - 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer - ML Ops (R37)](https://www.linkedin.com/jobs/view/4477491097/) — R1 RCM
-- 📍 **Location:** United States
+### [Senior Data Engineer – Power BI & Google Cloud BigQuery](https://www.linkedin.com/jobs/view/4476234773/) — HTC Global Services
+- 📍 **Location:** Livonia, MI
 - 🕒 **Posted:** 2026-10-08
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4476233341/) — ICF
-- 📍 **Location:** Charlotte, NC
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4474872205/) — Trivine Technology Solutions LLC
+- 📍 **Location:** Greater Chennai Area
 - 🕒 **Posted:** 2026-10-08
 
-### [Embedded Software Engineer 2](https://www.linkedin.com/jobs/view/4477469919/) — Cintal, Inc.
-- 📍 **Location:** Pittsburgh, PA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer Intern/Co-op - Spring 2027](https://www.linkedin.com/jobs/view/4477492485/) — SoloPulse
-- 📍 **Location:** Peachtree Corners, GA
-- 🕒 **Posted:** 2026-10-08
-
-### [ETL Engineer - Hybrid (Atlanta, GA)](https://www.linkedin.com/jobs/view/4476208794/) — OneDigital
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-10-08
-
-### [Application Engineer II](https://www.linkedin.com/jobs/view/4477491103/) — Lennox
-- 📍 **Location:** Stone Mountain, GA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer - Costco Travel](https://www.linkedin.com/jobs/view/4477478499/) — Costco Wholesale
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4477478550/) — Broadridge
-- 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-10-08
-
-### [Autonomy Software Engineer – SD](https://www.linkedin.com/jobs/view/4474854781/) — York Space Systems
-- 📍 **Location:** Greenwood Village, CO
-- 🕒 **Posted:** 2026-10-08
-
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4474867256/) — York Space Systems
-- 📍 **Location:** Greenwood Village, CO
-- 🕒 **Posted:** 2026-10-08
-
-### [Strategic Software Development Engineer](https://www.linkedin.com/jobs/view/4474860502/) — York Space Systems
-- 📍 **Location:** Greenwood Village, CO
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4477492145/) — Broadridge
-- 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Full Stack Software Engineer (.Net/Javascript)](https://www.linkedin.com/jobs/view/4476213731/) — Tyler Technologies
-- 📍 **Location:** Plano, TX
-- 🕒 **Posted:** 2026-10-08
-
-### [Capgemini Invent, Consultant, AI Engineer](https://www.linkedin.com/jobs/view/4477473903/) — Capgemini Invent
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4477484564/) — Addison Group
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-10-08
-
-### [Systems Engineering Intern](https://www.linkedin.com/jobs/view/4473975554/) — MITRE
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Photonic Systems Engineering Program Manager](https://www.linkedin.com/jobs/view/4474868174/) — Monarch Quantum
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Power Systems Engineer](https://www.linkedin.com/jobs/view/4475491279/) — Everest Consultants, Inc.
-- 📍 **Location:** Portland, OR
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer, Technical Lead](https://www.linkedin.com/jobs/view/4477497045/) — NinjaOne
-- 📍 **Location:** North Carolina, United States
-- 🕒 **Posted:** 2026-10-08
-
-### [Super Day - Data Engineering Internship](https://www.linkedin.com/jobs/view/4474849880/) — Perpay Inc.
-- 📍 **Location:** Philadelphia, PA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4477471960/) — Emerson
-- 📍 **Location:** Shakopee, MN
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4474851703/) — SoTalent
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer (R37)](https://www.linkedin.com/jobs/view/4477480377/) — R1 RCM
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Developer, Applications](https://www.linkedin.com/jobs/view/4469194708/) — Connected Logistics
-- 📍 **Location:** Huntsville, AL
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Backend Engineer, Core Trading Systems](https://www.linkedin.com/jobs/view/4477484288/) — Novig
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer - Data Platform (R37)](https://www.linkedin.com/jobs/view/4477473781/) — R1 RCM
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-08
-
-### [Java Backend Developer - No OPT/H1b](https://www.linkedin.com/jobs/view/4477468984/) — MPower Plus
-- 📍 **Location:** Tampa, FL
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer (Rust)](https://www.linkedin.com/jobs/view/4469342832/) — L.V. Enterprises
-- 📍 **Location:** Herndon, VA
-- 🕒 **Posted:** 2026-10-08
-
-### [Application Developer, Automation & AI Engineer](https://www.linkedin.com/jobs/view/4477498017/) — Cary Street Partners
+### [Machine Learning Engineer 4](https://www.linkedin.com/jobs/view/4477617183/) — Capital One
 - 📍 **Location:** Richmond, VA
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Systems Engineer - Weapons Systems (Sign On Bonus & Relocation Available)](https://www.linkedin.com/jobs/view/4474858527/) — BAE Systems, Inc.
-- 📍 **Location:** Cedar Rapids, IA
+### [Machine Learning Engineer 4](https://www.linkedin.com/jobs/view/4477609502/) — Capital One
+- 📍 **Location:** McLean, VA
 - 🕒 **Posted:** 2026-10-08
 
-### [Cloud Engineer- Managed Services](https://www.linkedin.com/jobs/view/4477489503/) — Innovative Solutions
+### [Senior Software Engineer II](https://www.linkedin.com/jobs/view/4476231895/) — RELX
+- 📍 **Location:** Oklahoma City, OK
+- 💰 **Salary:** $95,300.00/yr - $158,800.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4466129063/) — HTC Global Services
+- 📍 **Location:** Dearborn, MI
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Software Engineer II](https://www.linkedin.com/jobs/view/4476252011/) — LexisNexis Risk Solutions
+- 📍 **Location:** Oklahoma City, OK
+- 💰 **Salary:** $95,300.00/yr - $158,800.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Machine Learning Engineer, Ads - Quora (Remote)](https://www.linkedin.com/jobs/view/4466017044/) — Quora
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineering Lead](https://www.linkedin.com/jobs/view/4474867180/) — BAE Systems, Inc.
-- 📍 **Location:** Merrimack, NH
+### [Senior Software Engineer, ROS](https://www.linkedin.com/jobs/view/4477494957/) — FieldAI
+- 📍 **Location:** Peoria, IL
+- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Machine Learning Engineer, Behavioral Biometrics](https://www.linkedin.com/jobs/view/4477492086/) — Blackboard
+### [AI Software Developer, Junior](https://www.linkedin.com/jobs/view/4477608676/) — Booz Allen Hamilton
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [81222 Software Engineer $280,000.00](https://www.linkedin.com/jobs/view/4476236857/) — B4Corp
+- 📍 **Location:** Bethesda, MD
+- 🕒 **Posted:** 2026-10-08
+
+### [Product Software Engineer - Agentic AI](https://www.linkedin.com/jobs/view/4476236686/) — Wolters Kluwer
+- 📍 **Location:** Kennesaw, GA
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4477626014/) — CGI
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Manager, Application & Machine Learning Engineer - Fuelight](https://www.linkedin.com/jobs/view/4476234895/) — The Coca-Cola Company
+- 📍 **Location:** Atlanta, GA
+- 💰 **Salary:** $152,000.00/yr - $178,300.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Developer Intern (2027)](https://www.linkedin.com/jobs/view/4476235572/) — Viget
+- 📍 **Location:** Boulder, CO
+- 🕒 **Posted:** 2026-10-08
+
+### [Systems Engineer](https://www.linkedin.com/jobs/view/4477620050/) — Actalent
+- 📍 **Location:** Grand Prairie, TX
+- 💰 **Salary:** $78.00/hr - $78.00/hr
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Software Engineer, Transactions](https://www.linkedin.com/jobs/view/4477613593/) — Turquoise
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Lead ServiceNow Platform Engineer](https://www.linkedin.com/jobs/view/4477607586/) — MetLife
+- 📍 **Location:** Cary, NC
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4477603613/) — ClientSuccess
+- 📍 **Location:** Lehi, UT
+- 🕒 **Posted:** 2026-10-08
+
+### [Lead Software Engineer - Working Capital Finance](https://www.linkedin.com/jobs/view/4477618120/) — U.S. Bank
+- 📍 **Location:** Hopkins, MN
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineering Program Manager - CRM](https://www.linkedin.com/jobs/view/4477615336/) — Medtronic
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-10-08
+
+### [Sr. Systems Engineer](https://www.linkedin.com/jobs/view/4474858874/) — Vantive
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer (Learning Management System – Mid-Level)](https://www.linkedin.com/jobs/view/4477609128/) — Leidos
+- 📍 **Location:** Bethesda, MD
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Developer](https://www.linkedin.com/jobs/view/4476236556/) — Koniag Government Services
+- 📍 **Location:** Huntsville, AL
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4476248180/) — Xometry
+- 📍 **Location:** North Bethesda, MD
+- 🕒 **Posted:** 2026-10-08
+
+### [812238 Software Engineer $220,000.00](https://www.linkedin.com/jobs/view/4476231983/) — B4Corp
+- 📍 **Location:** Chantilly, VA
+- 🕒 **Posted:** 2026-10-08
+
+### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4477604631/) — OneMain Financial
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-08
+
+### [Lead Backend Engineer](https://www.linkedin.com/jobs/view/4477608512/) — Bright Vision Technologies
+- 📍 **Location:** Yuba City, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Lead Backend Developer](https://www.linkedin.com/jobs/view/4477617209/) — Bright Vision Technologies
+- 📍 **Location:** Yuba City, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [812233 Software Engineer $280,000.00](https://www.linkedin.com/jobs/view/4476239745/) — B4Corp
+- 📍 **Location:** Bethesda, MD
+- 🕒 **Posted:** 2026-10-08
+
+### [Python Developer with Angular](https://www.linkedin.com/jobs/view/4474862506/) — Synechron
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Systems Engineer](https://www.linkedin.com/jobs/view/4476246223/) — Central Pacific Bank
+- 📍 **Location:** Honolulu, HI
+- 🕒 **Posted:** 2026-10-08
+
+### [812235 Systems Engineer $300,000.00](https://www.linkedin.com/jobs/view/4476243546/) — B4Corp
+- 📍 **Location:** Bethesda, MD
+- 🕒 **Posted:** 2026-10-08
+
+### [812215 Systems Engineer $300,000.00](https://www.linkedin.com/jobs/view/4476246320/) — B4Corp
+- 📍 **Location:** Chantilly, VA
+- 🕒 **Posted:** 2026-10-08
+
+### [Team Hornet Systems Engineer](https://www.linkedin.com/jobs/view/4477615574/) — DCS Corp
+- 📍 **Location:** Ridgecrest, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Mechanical Systems Engineer, Service Engineering - CS SVS Tech Spec I - Landing Gears](https://www.linkedin.com/jobs/view/4476248009/) — Gulfstream Aerospace
+- 📍 **Location:** Savannah, GA
+- 🕒 **Posted:** 2026-10-08
+
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4476345924/) — Oliver James
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Java Backend Engineer – Google Cloud Platform (GCP)](https://www.linkedin.com/jobs/view/4476244529/) — QUANTOM TECH LLC
+- 📍 **Location:** Novi, MI
+- 🕒 **Posted:** 2026-10-08
+
+### [Senior Software Developer](https://www.linkedin.com/jobs/view/4477617167/) — M1 Technology LLC
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-08
+
+### [812221 Software Engineer $235,000.00](https://www.linkedin.com/jobs/view/4476233937/) — B4Corp
+- 📍 **Location:** Bethesda, MD
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer for Card Fraud Strategy Data Delivery](https://www.linkedin.com/jobs/view/4477452118/) — Truist
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-08
+
+### [Streaming Data Engineer](https://www.linkedin.com/jobs/view/4477617236/) — Bright Vision Technologies
+- 📍 **Location:** Elk Grove, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Program Manager, PIC Data Engineering](https://www.linkedin.com/jobs/view/4474861805/) — Nokia
+- 📍 **Location:** Clark County, NV
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer (L2/L3)](https://www.linkedin.com/jobs/view/4464574948/) — Atlas Data Science
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior ML/AI Platform Engineer (Databricks )](https://www.linkedin.com/jobs/view/4438258614/) — Curinos
+### [Senior Machine Learning Engineer, Ranking - Quora (Remote)](https://www.linkedin.com/jobs/view/4477623055/) — Quora
 - 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-08
+
+### [AI Security Software Engineer (Starshield)](https://www.linkedin.com/jobs/view/4477615497/) — SpaceX
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-10-08
