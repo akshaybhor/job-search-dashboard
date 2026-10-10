@@ -1,128 +1,70 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-10 22:38 UTC*
+*Last updated: 2026-10-10 23:47 UTC*
 
-**31 new role(s)** since last run · 34 total in last 2h
+**16 new role(s)** since last run · 37 total in last 2h
 
-### [Ai Software Engineer](https://www.linkedin.com/jobs/view/4477238083/) — Boardy
+### [AI Engineer](https://www.linkedin.com/jobs/view/4475637358/) — scalr
 - 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-10-10
 
-### [AI Software Engineer](https://www.linkedin.com/jobs/view/4477231248/) — Boardy
+### [AI Engineer](https://www.linkedin.com/jobs/view/4475620939/) — scalr
 - 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-10-10
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4445546000/) — impact.com
-- 📍 **Location:** Seattle, WA
+### [Software Development Engineer III](https://www.linkedin.com/jobs/view/4475636257/) — Blue Origin
+- 📍 **Location:** Greater Seattle Area
 - 🕒 **Posted:** 2026-10-10
 
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4458025519/) — impact.com
-- 📍 **Location:** Seattle, WA
+### [Sr Software Engineer - Windows Applications](https://www.linkedin.com/jobs/view/4415963486/) — Dräger
+- 📍 **Location:** Andover, MA
 - 🕒 **Posted:** 2026-10-10
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4478057020/) — Optum
-- 📍 **Location:** Eden Prairie, MN
+### [AI Engineer](https://www.linkedin.com/jobs/view/4478078779/) — Dassault Systèmes
+- 📍 **Location:** Waltham, MA
 - 🕒 **Posted:** 2026-10-10
 
-### [Senior Full Stack AI Software Engineer (Java)](https://www.linkedin.com/jobs/view/4478088185/) — McKesson
-- 📍 **Location:** Irving, TX
+### [Sr. Sales Application Engineer](https://www.linkedin.com/jobs/view/4477223787/) — Carrier
+- 📍 **Location:** Canton, MA
 - 🕒 **Posted:** 2026-10-10
 
-### [Senior Software Developer, Data Delivery](https://www.linkedin.com/jobs/view/4469687429/) — Autodesk
-- 📍 **Location:** Greater Vancouver Metropolitan Area
+### [Senior Backend Software Engineer](https://www.linkedin.com/jobs/view/4461199871/) — Carex Consulting Group
+- 📍 **Location:** Madison, WI
 - 🕒 **Posted:** 2026-10-10
 
-### [Backend Engineer – Java, Spring Boot, Angular & Blockchain](https://www.linkedin.com/jobs/view/4477222749/) — Photon
-- 📍 **Location:** Dallas, TX
+### [Software Development Engineer III](https://www.linkedin.com/jobs/view/4475621926/) — Blue Origin
+- 📍 **Location:** Merritt Island, FL
 - 🕒 **Posted:** 2026-10-10
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4477220842/) — StratasCorp Technologies
-- 📍 **Location:** Norfolk, VA
-- 🕒 **Posted:** 2026-10-10
-
-### [Software Developer, Senior](https://www.linkedin.com/jobs/view/4478079701/) — Baylor Scott & White Health
+### [Software Application Engineer](https://www.linkedin.com/jobs/view/4477227643/) — DBByte
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-10
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4477234301/) — Karat
-- 📍 **Location:** Greater Bengaluru Area
+### [Senior Systems Engineer](https://www.linkedin.com/jobs/view/4478076827/) — BD
+- 📍 **Location:** Durham, NC
 - 🕒 **Posted:** 2026-10-10
 
-### [Systems Engineer, Senior](https://www.linkedin.com/jobs/view/4478088227/) — Torch Technologies, Inc.
-- 📍 **Location:** Hanscom AFB, MA
+### [ROOTS Hub Cloud Platform Engineer (Remote)](https://www.linkedin.com/jobs/view/4478083473/) — Partners Health Management
+- 📍 **Location:** Elkin, NC
 - 🕒 **Posted:** 2026-10-10
 
-### [Software Engineer Analyst](https://www.linkedin.com/jobs/view/4478065957/) — CBRE
-- 📍 **Location:** United States
+### [Software Engineer I](https://www.linkedin.com/jobs/view/4478092152/) — BD
+- 📍 **Location:** Sparks, MD
 - 🕒 **Posted:** 2026-10-10
 
-### [Software Developer – Oracle JD Edwards Developer](https://www.linkedin.com/jobs/view/4478070953/) — McKesson
-- 📍 **Location:** Richmond, VA
+### [Software Developer](https://www.linkedin.com/jobs/view/4478087199/) — Descartes Systems Group
+- 📍 **Location:** Občina Šenčur, Slovenia
 - 🕒 **Posted:** 2026-10-10
 
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4478079757/) — McKesson
-- 📍 **Location:** Columbus, OH
+### [Senior Software Engineer - Full Stack](https://www.linkedin.com/jobs/view/4478076826/) — BD
+- 📍 **Location:** San Diego, CA
 - 🕒 **Posted:** 2026-10-10
 
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4473396480/) — Riccione Resources, Inc.
-- 📍 **Location:** Dallas, TX
+### [AI Engineer](https://www.linkedin.com/jobs/view/4475626681/) — Silver Spark Apparel Limited ( SSAL )
+- 📍 **Location:** New York, United States
 - 🕒 **Posted:** 2026-10-10
 
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4478078729/) — McKesson
-- 📍 **Location:** Alpharetta, GA
-- 🕒 **Posted:** 2026-10-10
-
-### [Senior Data Engineer (Remote)](https://www.linkedin.com/jobs/view/4475707413/) — Stryker
-- 📍 **Location:** Portage, MI
-- 🕒 **Posted:** 2026-10-10
-
-### [Senior Data Engineer (Remote)](https://www.linkedin.com/jobs/view/4475706427/) — Stryker
-- 📍 **Location:** Tempe, AZ
-- 🕒 **Posted:** 2026-10-10
-
-### [Senior Data Engineer (Remote)](https://www.linkedin.com/jobs/view/4475499583/) — Stryker
-- 📍 **Location:** Flower Mound, TX
-- 🕒 **Posted:** 2026-10-10
-
-### [Senior Data Engineer (Remote)](https://www.linkedin.com/jobs/view/4475702528/) — Stryker
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-10
-
-### [AI Engineer, Voice and Realtime](https://www.linkedin.com/jobs/view/4475624793/) — Obble
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-10
-
-### [AI Engineering Intern](https://www.linkedin.com/jobs/view/4475633182/) — Agentrixx
-- 📍 **Location:** Nairobi County, Kenya
-- 🕒 **Posted:** 2026-10-10
-
-### [Senior Full Stack AI Software Engineer (Java)](https://www.linkedin.com/jobs/view/4478088187/) — McKesson
-- 📍 **Location:** Ohio, United States
-- 🕒 **Posted:** 2026-10-10
-
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4478071938/) — McKesson
-- 📍 **Location:** Irving, TX
-- 🕒 **Posted:** 2026-10-10
-
-### [Backend Engineer III - Growth](https://www.linkedin.com/jobs/view/4478065950/) — onXmaps, Inc.
-- 📍 **Location:** Salt Lake City, UT
-- 🕒 **Posted:** 2026-10-10
-
-### [Intermediate Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4417250664/) — impact.com
-- 📍 **Location:** Columbus, OH
-- 🕒 **Posted:** 2026-10-10
-
-### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4448425773/) — impact.com
-- 📍 **Location:** Santa Barbara, CA
-- 🕒 **Posted:** 2026-10-10
-
-### [Software Developer – Oracle JD Edwards Developer](https://www.linkedin.com/jobs/view/4478088190/) — McKesson
-- 📍 **Location:** Jacksonville, FL
-- 🕒 **Posted:** 2026-10-10
-
-### [Senior Full Stack AI Software Engineer (Java)](https://www.linkedin.com/jobs/view/4478075794/) — McKesson
-- 📍 **Location:** Georgia, United States
-- 🕒 **Posted:** 2026-10-10
-
-### [GenAI Engineer - Product Marketing & Adoption](https://www.linkedin.com/jobs/view/4434539926/) — impact.com
-- 📍 **Location:** Capetown, CA
+### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4478088186/) — McKesson
+- 📍 **Location:** Moon, PA
 - 🕒 **Posted:** 2026-10-10
