@@ -135,6 +135,8 @@ EXCLUDED_COMPANIES = [
     "Infotree Solutions",
     "aditi consulting",
     "TaskVerse",
+    "BeaconFire Inc.",
+    "Affirm",
     "Haystack",
     "Torentify",
     "Syms Strategic Group, LLC (SSG)",
@@ -143,10 +145,43 @@ EXCLUDED_COMPANIES = [
     "Insight Global",
     "dataannotation",    # Spams gig-work prompt-writing jobs
     "data annotation",
-    # Classic Body Shops / Resume Farmers:
     "cybercoders",    # Posts duplicate/evergreen jobs that often don't exist
     "synergisticit",  # Body shop that often asks juniors to pay for training
-    "revature"        # Body shop with strict lock-in contracts
+    "revature",        # Body shop with strict lock-in contracts
+    "fonzi ai",  # Aggregators & Talent Networks identified from feed
+    "high-priority jobs directory - cyopspath",
+    "jobs web3",
+    "people in ai",
+    "remotehunter",
+    "talenthop",
+    "sotalent",
+    "wiraa",
+    "nhs job mastery with dr. samejo",
+    "jobot",     # Massive Recruiting / Spam Agencies
+    "robert half",
+    "the phoenix group",
+    "the phoenix group®",
+    "apex systems",
+    "randstad digital americas",
+    "collabera",
+    "teksystems",
+    "experis",
+    "actalent",
+    "tech consulting",
+    "talent software services",
+    "gbit",
+    "global bridge infotech inc",
+    "saicon",
+    "ktek resourcing",
+    "spectraforce",
+    "testingxperts",
+    "vdart",
+    "us tech solutions",
+    "tekfortune inc",
+    "a-line staffing solutions",
+    "mondo",
+    "reqroute",
+    "system soft technologies"
 ]
 _EXCLUDED_COMPANY_RE = re.compile(
     "|".join(re.escape(c) for c in EXCLUDED_COMPANIES), re.IGNORECASE
