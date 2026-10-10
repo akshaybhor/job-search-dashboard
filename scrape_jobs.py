@@ -182,15 +182,12 @@ EXCLUDED_COMPANIES = [
     "mondo",
     "reqroute",
     "system soft technologies",
-# New Aggregators & Job Boards from role_2.txt
     "jobsinpython",
     "ai talent insider",
     "jobverse.io",
     "coljob",
     "gamblingcareers.com",
     "joppy",
-
-    # New Massive Recruiting / Staffing Agencies / IT Body Shops
     "phaxis",
     "o2 technologies,inc",
     "intepros",
