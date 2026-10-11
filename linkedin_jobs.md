@@ -1,70 +1,122 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-10 23:47 UTC*
+*Last updated: 2026-10-11 02:00 UTC*
 
-**16 new role(s)** since last run · 37 total in last 2h
+**29 new role(s)** since last run · 33 total in last 2h
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4475637358/) — scalr
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
+### [Senior Software Development Engineer, AWS EC2 Nitro Team](https://www.linkedin.com/jobs/view/4478073878/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-10
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4475620939/) — scalr
+### [Sr. Software Engineer Infotainment Software](https://www.linkedin.com/jobs/view/4478078964/) — Nord Resume
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-10
+
+### [Software Engineer, Multimodal Backend Systems](https://www.linkedin.com/jobs/view/4478082733/) — Nord Resume
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-10
+
+### [C++ Software Engineer, Infrastructure Tools - New College Grad 2027](https://www.linkedin.com/jobs/view/4477243038/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-10
+
+### [Software Engineer, SRE and Production Engineering - DGX Cloud](https://www.linkedin.com/jobs/view/4477220948/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-10
+
+### [Senior Data & AI Engineer](https://www.linkedin.com/jobs/view/4478087428/) — CareDx, Inc.
+- 📍 **Location:** Brisbane, CA
+- 🕒 **Posted:** 2026-10-10
+
+### [Embedded Systems Engineer](https://www.linkedin.com/jobs/view/4477245309/) — Bright Silicon Technologies
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-10-10
+
+### [Software Engineer - Game Development](https://www.linkedin.com/jobs/view/4478090257/) — Nord Resume
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-10
+
+### [Lead Systems Engineer - Aerospace](https://www.linkedin.com/jobs/view/4475008411/) — Bright Silicon Technologies
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-10-10
+
+### [Generative AI Engineer (FDE)](https://www.linkedin.com/jobs/view/4475639119/) — AustinWorks
 - 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
+- 💰 **Salary:** $250,000.00/yr - $450,000.00/yr
 - 🕒 **Posted:** 2026-10-10
 
-### [Software Development Engineer III](https://www.linkedin.com/jobs/view/4475636257/) — Blue Origin
-- 📍 **Location:** Greater Seattle Area
+### [Data Engineer](https://www.linkedin.com/jobs/view/4478086587/) — Sony Computer Entertainment France SA
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-10-10
 
-### [Sr Software Engineer - Windows Applications](https://www.linkedin.com/jobs/view/4415963486/) — Dräger
-- 📍 **Location:** Andover, MA
+### [Senior Software Engineer - JobID-0010](https://www.linkedin.com/jobs/view/4452314015/) — Innovative Defense Technologies (IDT)
+- 📍 **Location:** Fall River, MA
+- 💰 **Salary:** $135,000.00/yr - $273,000.00/yr
 - 🕒 **Posted:** 2026-10-10
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4478078779/) — Dassault Systèmes
-- 📍 **Location:** Waltham, MA
+### [Software Engineer, Cinematic Tools](https://www.linkedin.com/jobs/view/4478087421/) — Nord Resume
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-10-10
 
-### [Sr. Sales Application Engineer](https://www.linkedin.com/jobs/view/4477223787/) — Carrier
-- 📍 **Location:** Canton, MA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4478084618/) — Nord Resume
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-10-10
 
-### [Senior Backend Software Engineer](https://www.linkedin.com/jobs/view/4461199871/) — Carex Consulting Group
-- 📍 **Location:** Madison, WI
+### [Senior Data Engineer- Databricks, PySpark,Python](https://www.linkedin.com/jobs/view/4477239549/) — Innovya Technologies
+- 📍 **Location:** Pasadena, CA
 - 🕒 **Posted:** 2026-10-10
 
-### [Software Development Engineer III](https://www.linkedin.com/jobs/view/4475621926/) — Blue Origin
-- 📍 **Location:** Merritt Island, FL
+### [Sr. Software Engineer - .NET + Azure + Angular Job](https://www.linkedin.com/jobs/view/4475632512/) — YASH Technologies Middle East
+- 📍 **Location:** Pune/Pimpri-Chinchwad Area
 - 🕒 **Posted:** 2026-10-10
 
-### [Software Application Engineer](https://www.linkedin.com/jobs/view/4477227643/) — DBByte
+### [Senior Java Software Engineer (Core Financial Services)](https://www.linkedin.com/jobs/view/4477230859/) — Luminor Group
+- 📍 **Location:** Tallinn, Harjumaa, Estonia
+- 🕒 **Posted:** 2026-10-10
+
+### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4478095292/) — enGen
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-10
 
-### [Senior Systems Engineer](https://www.linkedin.com/jobs/view/4478076827/) — BD
-- 📍 **Location:** Durham, NC
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4478097037/) — Nord Resume
+- 📍 **Location:** Dearborn, MI
 - 🕒 **Posted:** 2026-10-10
 
-### [ROOTS Hub Cloud Platform Engineer (Remote)](https://www.linkedin.com/jobs/view/4478083473/) — Partners Health Management
-- 📍 **Location:** Elkin, NC
+### [Image Processing Software Engineer](https://www.linkedin.com/jobs/view/4478081867/) — Nord Resume
+- 📍 **Location:** Miami, FL
 - 🕒 **Posted:** 2026-10-10
 
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4478092152/) — BD
-- 📍 **Location:** Sparks, MD
+### [Software Engineer](https://www.linkedin.com/jobs/view/4478093228/) — Nord Resume
+- 📍 **Location:** Huntsville, AL
 - 🕒 **Posted:** 2026-10-10
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4478087199/) — Descartes Systems Group
-- 📍 **Location:** Občina Šenčur, Slovenia
+### [Sr. Platform Engineer - Cloud](https://www.linkedin.com/jobs/view/4475619958/) — Cargill
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-10-10
 
-### [Senior Software Engineer - Full Stack](https://www.linkedin.com/jobs/view/4478076826/) — BD
-- 📍 **Location:** San Diego, CA
+### [Sr. Software Engineer - Azure Databricks Job](https://www.linkedin.com/jobs/view/4475626803/) — YASH Technologies Middle East
+- 📍 **Location:** Greater Hyderabad Area
 - 🕒 **Posted:** 2026-10-10
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4475626681/) — Silver Spark Apparel Limited ( SSAL )
-- 📍 **Location:** New York, United States
+### [Software Engineer, SRE and Production Engineering - DGX Cloud](https://www.linkedin.com/jobs/view/4477243039/) — NVIDIA
+- 📍 **Location:** Utah, United States
 - 🕒 **Posted:** 2026-10-10
 
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4478088186/) — McKesson
-- 📍 **Location:** Moon, PA
+### [Software Engineer, SRE and Production Engineering - DGX Cloud](https://www.linkedin.com/jobs/view/4477220947/) — NVIDIA
+- 📍 **Location:** South Dakota, United States
+- 🕒 **Posted:** 2026-10-10
+
+### [Application Engineer](https://www.linkedin.com/jobs/view/4475625747/) — ifm
+- 📍 **Location:** Denver, CO
+- 🕒 **Posted:** 2026-10-10
+
+### [Embedded Software Engineer 2](https://www.linkedin.com/jobs/view/4478099008/) — Nord Resume
+- 📍 **Location:** Chandler, AZ
+- 🕒 **Posted:** 2026-10-10
+
+### [Application Engineer](https://www.linkedin.com/jobs/view/4475633361/) — ifm
+- 📍 **Location:** Malvern, PA
+- 🕒 **Posted:** 2026-10-10
+
+### [UI/UX Software Engineer - NREC](https://www.linkedin.com/jobs/view/4478089291/) — Nord Resume
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-10-10
