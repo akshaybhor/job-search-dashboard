@@ -10,6 +10,7 @@ import http.cookiejar
 import itertools
 import json
 import os
+import random
 import re
 import sys
 import time
@@ -18,16 +19,22 @@ import urllib.robotparser
 from datetime import date, datetime, timedelta, timezone
 from html.parser import HTMLParser
 from urllib.request import urlopen, Request, build_opener, HTTPCookieProcessor
-from urllib.error import URLError
+from urllib.error import HTTPError, URLError
 from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.4; rv:125.0) Gecko/20100101 Firefox/125.0",
+]
+
 HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    )
+    "User-Agent": USER_AGENTS[0],
+    "Accept-Language": "en-US,en;q=0.9",
 }
 
 KEYWORDS = [
@@ -93,7 +100,12 @@ KEYWORDS = [
 ]
 
 # Seconds to wait between API probes — keeps us polite
-REQUEST_DELAY = 0.3
+REQUEST_DELAY = 0.5
+
+
+def polite_sleep(base: float = REQUEST_DELAY, jitter_min: float = 0.8, jitter_max: float = 1.6):
+    """Sleep with randomized jitter to emulate organic human request intervals."""
+    time.sleep(random.uniform(base * jitter_min, base * jitter_max))
 
 # Biotech digest should only contain reliably fresh roles.
 FRESH_JOB_LOOKBACK = timedelta(hours=24)
@@ -388,16 +400,33 @@ _KEYWORD_RE = re.compile(
 # Helpers
 # ---------------------------------------------------------------------------
 
-def fetch(url):
-    try:
-        # Request() itself raises ValueError on malformed/schemeless URLs
-        # (third-party portfolio data), so it must sit inside the try.
-        req = Request(url, headers=HEADERS)
-        with urlopen(req, timeout=15) as r:
-            return r.read().decode("utf-8", errors="ignore")
-    except (URLError, TimeoutError, OSError, ValueError) as e:
-        print(f"  ⚠️  Could not fetch {url}: {e}")
-        return ""
+def fetch(url, max_retries: int = 1):
+    for attempt in range(max_retries + 1):
+        try:
+            # Rotate user-agent slightly to mimic organic client variety
+            headers = dict(HEADERS)
+            headers["User-Agent"] = random.choice(USER_AGENTS)
+            req = Request(url, headers=headers)
+            with urlopen(req, timeout=15) as r:
+                return r.read().decode("utf-8", errors="ignore")
+        except HTTPError as e:
+            if e.code == 429:
+                if attempt < max_retries:
+                    backoff = random.uniform(3.0, 5.0) * (attempt + 1)
+                    print(f"  ⚠️  HTTP 429 (rate-limited) on {url} — backing off for {backoff:.1f}s (retry {attempt + 1}/{max_retries})...")
+                    time.sleep(backoff)
+                    continue
+                else:
+                    cooldown = random.uniform(3.0, 5.0)
+                    print(f"  ⚠️  Could not fetch {url}: {e} (cooling down {cooldown:.1f}s)")
+                    time.sleep(cooldown)
+                    return ""
+            print(f"  ⚠️  Could not fetch {url}: {e}")
+            return ""
+        except (URLError, TimeoutError, OSError, ValueError) as e:
+            print(f"  ⚠️  Could not fetch {url}: {e}")
+            return ""
+    return ""
 
 
 def is_mle_role(title: str) -> bool:
@@ -1416,7 +1445,7 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
     total_raw_cards = 0
     for (loc_name, geo_id), term in itertools.product(LINKEDIN_LOCATIONS, terms):
         for start in range(0, 75, 25):
-            time.sleep(REQUEST_DELAY)
+            polite_sleep(0.6, 0.8, 1.5)
             url = (
                 "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
                 f"?keywords={urllib.parse.quote(term)}"
@@ -1445,6 +1474,9 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
                     "date_posted": p["date_posted"],
                     "ats": "LinkedIn",
                 }
+            # If fewer than 25 raw cards were returned, there is no subsequent page
+            if raw_count < 25:
+                break
 
     jobs = list(jobs_by_id.values())
     jobs.sort(key=lambda j: -_iso_to_ts(j.get("date_posted", "")))
@@ -2115,7 +2147,7 @@ def _enrich_linkedin_salaries(jobs: list) -> int:
         m = re.search(r'/jobs/view/(\d+)', job.get("url", ""))
         if not m:
             continue
-        time.sleep(REQUEST_DELAY)
+        polite_sleep(0.6, 0.8, 1.5)
         fetched += 1
         try:
             sal = _linkedin_posting_salary(m.group(1))
