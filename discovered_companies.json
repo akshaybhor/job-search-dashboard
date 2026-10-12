@@ -1366,5 +1366,17 @@
     "ats": "custom",
     "careers_url": "http://flore.com/pages/careers",
     "fallback_location": "Chicago, IL"
+  },
+  {
+    "name": "Klarify",
+    "ats": "ashby",
+    "slug": "klarify",
+    "fallback_location": "TODO, CA"
+  },
+  {
+    "name": "Neurode",
+    "ats": "custom",
+    "careers_url": "https://www.neurodelabs.com/about",
+    "fallback_location": "Austin, TX"
   }
 ]
