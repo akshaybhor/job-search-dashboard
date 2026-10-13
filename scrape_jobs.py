@@ -128,10 +128,16 @@ EXCLUDED_SENIORITY_RE = re.compile(
 EXCLUDED_CLEARANCE_RE = re.compile(
     r'\b('
     r'ts/?sci|top\s+secret|secret\s+clearance|security\s+clearance|'
+    r'active\s+(?:secret|top\s+secret|ts/?sci|clearance)|'
+    r'dod\s+clearance|public\s+trust|'
     r'polygraph|full\s+scope\s+poly|'
+    r'clearance\s+required|'
+    r'itar|export\s+control|'
+    r'u\.?s\.?\s+person|'
     r'u\.?s\.?\s+citizen(?:ship)?\s+(?:only|required)|'
     r'must\s+be\s+(?:a\s+)?u\.?s\.?\s+citizen|'
-    r'clearance\s+required'
+    r'(?:citizen(?:ship)?\s+(?:or|and)\s+(?:permanent\s+resident|green\s+card))|'
+    r'(?:permanent\s+residents?|green\s+card\s+holders?)\s+only'
     r')\b',
     re.IGNORECASE,
 )
@@ -139,9 +145,13 @@ EXCLUDED_CLEARANCE_RE = re.compile(
 # Negative Sponsorship keywords (multi-word phrases only; never matches positive sponsorship)
 EXCLUDED_NO_SPONSORSHIP_RE = re.compile(
     r'\b('
-    r'(?:no|not\s+able\s+to|unable\s+to|cannot|can\s+not|will\s+not|does\s+not)\s+(?:provide\s+|offer\s+)?(?:visa\s+)?sponsor(?:ship)?|'
+    r'(?:no|not\s+able\s+to|unable\s+to|cannot|can\s+not|will\s+not|does\s+not|are\s+not)\s+(?:currently\s+)?(?:provide\s+|offer\s+)?(?:visa\s+)?sponsor(?:ship|ing)?|'
     r'without\s+(?:visa\s+)?sponsor(?:ship)?|'
-    r'no\s+h-?1b|no\s+c2c|c2c\s+not\s+accepted|w2\s+only|w-?2\s+only'
+    r'no\s+h-?1b|no\s+opt|no\s+cpt|'
+    r'no\s+c2c|c2c\s+not\s+accepted|'
+    r'no\s+corp(?:-|\s+)to(?:-|\s+)corp|'
+    r'no\s+(?:3rd|third)(?:-|\s+)party|'
+    r'w2\s+only|w-?2\s+only'
     r')\b',
     re.IGNORECASE,
 )
