@@ -193,6 +193,7 @@ EXCLUDED_COMPANIES = [
     "high-priority jobs directory - cyopspath",
     "jobs web3",
     "people in ai",
+    "AfterQuery Experts",
     "remotehunter",
     "talenthop",
     "sotalent",
