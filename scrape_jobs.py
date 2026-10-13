@@ -1528,13 +1528,18 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
             for p in parsed:
                 if p["id"] in jobs_by_id:
                     continue
+                loc = p["location"]
+                is_rem = f_wt == "2" or "remote" in loc.lower() or "remote" in p["title"].lower()
+                if is_rem and "remote" not in loc.lower():
+                    loc = f"{loc} (Remote)" if loc else "Remote"
                 jobs_by_id[p["id"]] = {
                     "company": p["company"],
                     "title": p["title"],
-                    "location": p["location"],
+                    "location": loc,
                     "url": f"https://www.linkedin.com/jobs/view/{p['id']}/",
                     "date_posted": p["date_posted"],
                     "ats": "LinkedIn",
+                    "remote": is_rem,
                 }
             # If fewer than 25 raw cards were returned, there is no subsequent page
             if raw_count < 25:

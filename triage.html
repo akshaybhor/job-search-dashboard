@@ -707,7 +707,15 @@
     j._role = classifyRole(j.title);
     j._sen  = classifySeniority(j.title);
     j._src  = classifySource(j);
-    j._loc  = /remote/i.test(j.location || '') ? 'Remote' : (/hybrid/i.test(j.location || '') ? 'Hybrid' : 'On-site');
+    const isHyb = /hybrid/i.test(j.location || '') || /hybrid/i.test(j.title || '');
+    const isRem = !isHyb && (
+      j.remote === true ||
+      /remote/i.test(j.location || '') ||
+      /remote/i.test(j.title || '') ||
+      /,\s*united states$/i.test(j.location || '') ||
+      (j.location || '').trim().toLowerCase() === 'united states'
+    );
+    j._loc  = isHyb ? 'Hybrid' : (isRem ? 'Remote' : 'On-site');
     const sal = parseSalary(j);
     j._salMin = sal ? sal.min : null;
     j._salMax = sal ? sal.max : null;
@@ -1125,7 +1133,7 @@
             <span>📍 ${escape(j.location || 'Not specified')}</span>
             ${sal ? `<span>💰 ${escape(sal)}</span>` : ''}
             <span>🕒 ${escape(displayDate(j.date_posted))}</span>
-            <span><span class="tag role">${j._role}</span><span class="tag">${j._sen}</span>${j._family ? `<span class="tag">${escape(j._family)}</span>` : ''}</span>
+            <span><span class="tag role">${j._role}</span><span class="tag">${j._sen}</span>${j._loc === 'Remote' ? '<span class="tag" style="background:#064e3b;color:#34d399;font-weight:600">🌐 Remote</span>' : (j._loc === 'Hybrid' ? '<span class="tag" style="background:#451a03;color:#fbbf24">Hybrid</span>' : '')}${j._family ? `<span class="tag">${escape(j._family)}</span>` : ''}</span>
           </div>
           ${j._why ? `<div class="why">${escape(j._why)}</div>` : ''}
         </div>
