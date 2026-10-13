@@ -1495,7 +1495,7 @@ def scrape_linkedin_recent() -> list:
               f"preserving previous {len(prev)} result(s)")
         return prev
     print(f"  ✅ LinkedIn: {len(jobs)} role(s)")
-    _enrich_linkedin_salaries(jobs)
+    # Salary backfill skipped to avoid secondary rate-limiting on individual jobPosting endpoints
     return jobs
 
 
@@ -2115,11 +2115,8 @@ def save_results(jobs: list):
 GOV_SEARCH_TERMS = LINKEDIN_SEARCH_TERMS[:8]
 
 
-# ---- LinkedIn salary backfill ---------------------------------------------
-# LinkedIn search-result cards omit pay, but the public guest *posting* page
-# carries a `compensation__salary` block when the employer provided it. Fetch
-# it only for jobs still missing salary, capped per run to bound runtime.
-LINKEDIN_SALARY_FETCH_CAP = 120
+# Set to 0 to skip per-posting salary requests and prevent rate-limiting
+LINKEDIN_SALARY_FETCH_CAP = 0
 
 
 def _linkedin_posting_salary(job_id: str) -> str:
