@@ -34,7 +34,14 @@ USER_AGENTS = [
 
 HEADERS = {
     "User-Agent": USER_AGENTS[0],
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
+}
+
+LINKEDIN_HEADERS = {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "X-Requested-With": "XMLHttpRequest",
 }
 
 KEYWORDS = [
@@ -422,11 +429,13 @@ _KEYWORD_RE = re.compile(
 # Helpers
 # ---------------------------------------------------------------------------
 
-def fetch(url, max_retries: int = 1):
+def fetch(url, max_retries: int = 1, extra_headers: dict | None = None):
     for attempt in range(max_retries + 1):
         try:
             # Rotate user-agent slightly to mimic organic client variety
             headers = dict(HEADERS)
+            if extra_headers:
+                headers.update(extra_headers)
             headers["User-Agent"] = random.choice(USER_AGENTS)
             req = Request(url, headers=headers)
             with urlopen(req, timeout=15) as r:
@@ -1506,7 +1515,7 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
                 f"{wt_param}"
                 f"&start={start}"
             )
-            html = fetch(url)
+            html = fetch(url, extra_headers=LINKEDIN_HEADERS)
             if not html.strip():
                 break
             parsed, raw_count = _parse_linkedin_cards(html)
@@ -2183,7 +2192,7 @@ LINKEDIN_SALARY_FETCH_CAP = 0
 
 def _linkedin_posting_salary(job_id: str) -> str:
     import html as html_mod
-    page = fetch(f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{job_id}")
+    page = fetch(f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{job_id}", extra_headers=LINKEDIN_HEADERS)
     if not page:
         return ""
     anchor = re.search(r'compensation__salary', page)
