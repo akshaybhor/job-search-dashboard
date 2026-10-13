@@ -117,6 +117,28 @@ EXCLUDED_SENIORITY_RE = re.compile(
     r'\b(staff|principal|distinguished|founding|director|vice president|s?vp|chief|head of)\b',
     re.IGNORECASE)
 
+# Clearance and Citizenship dealbreaker keywords (matches explicit requirements)
+EXCLUDED_CLEARANCE_RE = re.compile(
+    r'\b('
+    r'ts/?sci|top\s+secret|secret\s+clearance|security\s+clearance|'
+    r'polygraph|full\s+scope\s+poly|'
+    r'u\.?s\.?\s+citizen(?:ship)?\s+(?:only|required)|'
+    r'must\s+be\s+(?:a\s+)?u\.?s\.?\s+citizen|'
+    r'clearance\s+required'
+    r')\b',
+    re.IGNORECASE,
+)
+
+# Negative Sponsorship keywords (multi-word phrases only; never matches positive sponsorship)
+EXCLUDED_NO_SPONSORSHIP_RE = re.compile(
+    r'\b('
+    r'(?:no|not\s+able\s+to|unable\s+to|cannot|can\s+not|will\s+not|does\s+not)\s+(?:provide\s+|offer\s+)?(?:visa\s+)?sponsor(?:ship)?|'
+    r'without\s+(?:visa\s+)?sponsor(?:ship)?|'
+    r'no\s+h-?1b|no\s+c2c|c2c\s+not\s+accepted|w2\s+only|w-?2\s+only'
+    r')\b',
+    re.IGNORECASE,
+)
+
 # Recruiting-platform / aggregator accounts that repost roles which mostly don't
 # actually exist (e.g. "Jack & Jill" reposts other companies' jobs on LinkedIn).
 # Matched against the parsed company name; add a line to block the next one.
@@ -429,8 +451,23 @@ def fetch(url, max_retries: int = 1):
     return ""
 
 
+def has_clearance_requirement(text: str) -> bool:
+    return bool(text) and bool(EXCLUDED_CLEARANCE_RE.search(text))
+
+
+def has_no_sponsorship_requirement(text: str) -> bool:
+    return bool(text) and bool(EXCLUDED_NO_SPONSORSHIP_RE.search(text))
+
+
+def is_dealbreaker_role(title: str = "", text: str = "") -> bool:
+    return (has_clearance_requirement(title) or has_clearance_requirement(text) or
+            has_no_sponsorship_requirement(title) or has_no_sponsorship_requirement(text))
+
+
 def is_mle_role(title: str) -> bool:
     if EXCLUDED_SENIORITY_RE.search(title):
+        return False
+    if is_dealbreaker_role(title):
         return False
     return bool(_KEYWORD_RE.search(title))
 
@@ -1601,6 +1638,9 @@ def scrape_indeed_recent() -> list:
             title = str(row.get("title", "") or "")
             if not is_mle_role(title):
                 continue
+            desc = str(row.get("description", "") or "")
+            if is_dealbreaker_role(title, desc):
+                continue
             if is_excluded_company(str(row.get("company", "") or "")):
                 continue
             url = str(row.get("job_url", "") or "")
@@ -1696,6 +1736,9 @@ def scrape_boards_recent() -> list:
         for _, row in df.iterrows():
             title = str(row.get("title", "") or "")
             if not is_mle_role(title):
+                continue
+            desc = str(row.get("description", "") or "")
+            if is_dealbreaker_role(title, desc):
                 continue
             if is_excluded_company(str(row.get("company", "") or "")):
                 continue
@@ -1888,7 +1931,11 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     # fallbacks (which reload the previous JSON verbatim), so pre-blocklist rows
     # could be re-persisted into the digests the dashboard reads. Filtering here
     # covers every source — including future ones — before anything is written.
-    jobs = [j for j in jobs if not is_excluded_company(j.get("company", ""))]
+    jobs = [
+        j for j in jobs
+        if not is_excluded_company(j.get("company", ""))
+        and not is_dealbreaker_role(j.get("title", ""), j.get("description", ""))
+    ]
 
     # Same choke-point logic for dates: normalizing here covers every source —
     # including future ones — rather than trusting each scraper to get the

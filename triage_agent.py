@@ -42,6 +42,28 @@ JD_FETCHABLE_ATS = {"Greenhouse", "Workday", "Phenom", "Lever", "Ashby"}
 MODEL_TIMEOUT = 120   # seconds per model call (CLI path)
 FETCH_TIMEOUT = 15    # seconds per JD fetch
 
+# Clearance and Citizenship dealbreakers (Candidate Profile Rule 5)
+CLEARANCE_RE = re.compile(
+    r'\b('
+    r'ts/?sci|top\s+secret|secret\s+clearance|security\s+clearance|'
+    r'polygraph|full\s+scope\s+poly|'
+    r'u\.?s\.?\s+citizen(?:ship)?\s+(?:only|required)|'
+    r'must\s+be\s+(?:a\s+)?u\.?s\.?\s+citizen|'
+    r'clearance\s+required'
+    r')\b',
+    re.IGNORECASE,
+)
+
+# Negative Sponsorship dealbreakers (Candidate Profile Rule 6)
+NO_SPONSORSHIP_RE = re.compile(
+    r'\b('
+    r'(?:no|not\s+able\s+to|unable\s+to|cannot|can\s+not|will\s+not|does\s+not)\s+(?:provide\s+|offer\s+)?(?:visa\s+)?sponsor(?:ship)?|'
+    r'without\s+(?:visa\s+)?sponsor(?:ship)?|'
+    r'no\s+h-?1b|no\s+c2c|c2c\s+not\s+accepted|w2\s+only|w-?2\s+only'
+    r')\b',
+    re.IGNORECASE,
+)
+
 ROLE_FAMILIES = ("swe | ml-ai | data-science | data-eng | platform-infra | "
                  "devops-sre | security | robotics | biotech-informatics | other")
 
@@ -656,17 +678,39 @@ def main() -> int:
         jd_text = "" if args.no_jd else fetch_jd(job)
         prompt = build_job_prompt(job, jd_text)
         label = f"[{i}/{len(batch)}] {job.get('title', '')[:48]} @ {job.get('company', '')[:24]}"
-        try:
-            raw = call_model(static_prefix, prompt)
-            verdict = parse_verdict(raw)
-        except urllib.error.HTTPError as e:
-            verdict = None
-            err_body = e.read().decode('utf-8', errors='ignore')
-            print(f"  ⚠️  {label}: HTTPError {e.code}")
-            print(f"      {err_body.strip()}")
-        except Exception as e:
-            verdict = None
-            print(f"  ⚠️  {label}: {type(e).__name__}")
+        full_text = f"{job.get('title', '')} {jd_text}"
+        if CLEARANCE_RE.search(full_text):
+            verdict = {
+                "score": 10,
+                "verdict": "skip",
+                "role_family": "swe",
+                "seniority_fit": "N/A",
+                "why": "Role requires Security Clearance or US Citizenship.",
+                "flags": ["Requires clearance/citizenship"],
+                "outreach_opener": "",
+            }
+        elif NO_SPONSORSHIP_RE.search(full_text):
+            verdict = {
+                "score": 10,
+                "verdict": "skip",
+                "role_family": "swe",
+                "seniority_fit": "N/A",
+                "why": "Role explicitly states no visa sponsorship or C2C/W2 restriction.",
+                "flags": ["No sponsorship"],
+                "outreach_opener": "",
+            }
+        else:
+            try:
+                raw = call_model(static_prefix, prompt)
+                verdict = parse_verdict(raw)
+            except urllib.error.HTTPError as e:
+                verdict = None
+                err_body = e.read().decode('utf-8', errors='ignore')
+                print(f"  ⚠️  {label}: HTTPError {e.code}")
+                print(f"      {err_body.strip()}")
+            except Exception as e:
+                verdict = None
+                print(f"  ⚠️  {label}: {type(e).__name__}")
         if verdict is None:
             errors += 1
             time.sleep(4.5)  # Enforce rate limit even on failed requests
