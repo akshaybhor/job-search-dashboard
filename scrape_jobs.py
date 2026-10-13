@@ -496,6 +496,8 @@ US_BIOTECH_HUBS = {
     "philadelphia": "PA",
     "minneapolis": "MN",
     "cincinnati": "OH",
+    "dayton": "OH",
+    "columbus": "OH",
 }
 
 _HUB_AMBIGUOUS = {"cambridge", "queens", "watertown", "pasadena", "irvine",
@@ -1314,29 +1316,34 @@ LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT di
 # NOTE: To search the other top CS cities on LinkedIn, you must manually find their geoId
 # (by searching on linkedin.com/jobs and looking at the geoId parameter in the URL) and add them here.
 LINKEDIN_LOCATIONS = [
-    ("San Francisco Bay Area", "90000084"),
-    ("New York City Metropolitan Area", "90000070"),
-    ("Cincinnati, OH", "106310628"),
-    ("Seattle, WA", "104116203"),
-    ("Austin, TX", "90000064"),
-    ("Boston, MA", "102380872"),
-    ("Los Angeles, CA", "102448103"),
-    ("Chicago, IL", "10311267"),
-    ("Atlanta, GA", "106224388"),
-    ("Washington, DC", "103977389"),
-    ("Denver, CO", "103736294"),
-    ("Dallas, TX", "104194190"),
-    ("San Diego, CA", "103918656"),
-    ("Portland, OR", "90000079"),
-    ("Raleigh, NC", "100197101"),
-    ("Boulder, CO", "102597912"),
-    ("Salt Lake City, UT", "90000716"),
-    ("Phoenix, AZ", "100219842"),
-    ("Miami, FL", "102394087"),
-    ("Philadelphia, PA", "104937023"),
-    ("Indianapolis, IN", "100871315"),
-    ("Minneapolis, MN", "103039849"),
-    ("United States (Remote)", "103644278"),
+    # ---- Active: Greater Cincinnati Area + Commutable Hubs + US Remote ----
+    ("Cincinnati, OH", "106310628"),                      # Local Greater Cincinnati (Mason, West Chester, NKY)
+    ("Dayton, OH", "103326162"),                          # ~50 mins north on I-75 (WPAFB, UDRI, tech)
+    ("Columbus, OH", "105838153"),                        # ~1.5h drive on I-71 (JPMorgan Polaris, state tech)
+    ("United States", "103644278", "2"),                 # 100% Nationwide US Remote via LinkedIn f_WT=2 filter
+
+    # ---- Previous Nationwide Hubs (Uncomment as desired) ----
+    # ("San Francisco Bay Area", "90000084"),
+    # ("New York City Metropolitan Area", "90000070"),
+    # ("Seattle, WA", "104116203"),
+    # ("Austin, TX", "90000064"),
+    # ("Boston, MA", "102380872"),
+    # ("Los Angeles, CA", "102448103"),
+    # ("Chicago, IL", "10311267"),
+    # ("Atlanta, GA", "106224388"),
+    # ("Washington, DC", "103977389"),
+    # ("Denver, CO", "103736294"),
+    # ("Dallas, TX", "104194190"),
+    # ("San Diego, CA", "103918656"),
+    # ("Portland, OR", "90000079"),
+    # ("Raleigh, NC", "100197101"),
+    # ("Boulder, CO", "102597912"),
+    # ("Salt Lake City, UT", "90000716"),
+    # ("Phoenix, AZ", "100219842"),
+    # ("Miami, FL", "102394087"),
+    # ("Philadelphia, PA", "104937023"),
+    # ("Indianapolis, IN", "100871315"),
+    # ("Minneapolis, MN", "103039849"),
 ]
 
 # Biotech allowlist used by the LinkedIn-side filter. Broader than CURATED_BIOTECHS
@@ -1443,7 +1450,14 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
     """
     jobs_by_id: dict[str, dict] = {}
     total_raw_cards = 0
-    for (loc_name, geo_id), term in itertools.product(LINKEDIN_LOCATIONS, terms):
+    for loc_item, term in itertools.product(LINKEDIN_LOCATIONS, terms):
+        if len(loc_item) >= 3:
+            loc_name, geo_id, f_wt = loc_item[0], loc_item[1], loc_item[2]
+        else:
+            loc_name, geo_id = loc_item[0], loc_item[1]
+            f_wt = None
+
+        wt_param = f"&f_WT={f_wt}" if f_wt else ""
         for start in range(0, 75, 25):
             polite_sleep(0.6, 0.8, 1.5)
             url = (
@@ -1452,6 +1466,7 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
                 f"&location={urllib.parse.quote(loc_name)}"
                 f"&geoId={geo_id}"
                 f"&f_TPR=r{lookback_seconds}"
+                f"{wt_param}"
                 f"&start={start}"
             )
             html = fetch(url)
