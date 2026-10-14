@@ -1945,6 +1945,24 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
         json.dump({"updated_at": now.strftime("%Y-%m-%d %H:%M UTC"), "jobs": kept},
                   f, separators=(",", ":"))
     print(f"🗂  all_jobs.json: +{added} new, {len(kept)} total (last {ALL_JOBS_PRUNE_DAYS}d)")
+
+    # Dynamically register companies with direct ATS / career links into companies.json
+    try:
+        from company_directory import load_company_directory, record_company, save_company_directory
+        comp_dir = load_company_directory()
+        comp_changed = False
+        for j in new_jobs:
+            c_name = j.get("company", "")
+            c_url = j.get("url", "")
+            if c_url and "linkedin.com" not in c_url and "indeed.com" not in c_url:
+                if record_company(c_name, c_url, date_seen=j.get("date_posted"), ats_hint=j.get("ats"), directory_data=comp_dir):
+                    comp_changed = True
+        if comp_changed:
+            save_company_directory(comp_dir)
+            print(f"  🏢 companies.json: updated ({comp_dir.get('total_companies', 0)} companies)")
+    except Exception as e:
+        print(f"  ⚠️ Warning updating company directory: {e}")
+
     return added
 
 

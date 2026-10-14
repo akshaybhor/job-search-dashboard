@@ -65,4 +65,4 @@ jobs:
           python ci_commit_push.py \
             --message "chore: update job listings [$(date -u '+%Y-%m-%d')]" \
             jobs.json jobs.md jobs.html \
-            workflow_runs.jsonl all_jobs.json notified.json
+            workflow_runs.jsonl all_jobs.json notified.json companies.json

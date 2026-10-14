@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Company Career Directory</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta name="theme-color" content="#0a0a0a">
+<style>
+  :root {
+    color-scheme: dark;
+    --bg: #0a0a0a;
+    --panel: #161212;
+    --panel-hover: #1f1a1a;
+    --ink: #ededed;
+    --muted: #9a9a9a;
+    --line: #2a2424;
+    --accent: #ef4444;
+    --accent-soft: rgba(239, 68, 68, 0.15);
+    --pill-bg: #1f1b1b;
+    --shadow: 0 1px 3px rgba(0,0,0,0.5), 0 4px 14px rgba(0,0,0,0.35);
+    
+    /* ATS Badges */
+    --badge-workday: #c084fc;
+    --badge-workday-bg: rgba(192, 132, 252, 0.12);
+    --badge-greenhouse: #34d399;
+    --badge-greenhouse-bg: rgba(52, 211, 153, 0.12);
+    --badge-lever: #fbbf24;
+    --badge-lever-bg: rgba(251, 191, 36, 0.12);
+    --badge-ashby: #38bdf8;
+    --badge-ashby-bg: rgba(56, 189, 248, 0.12);
+    --badge-icims: #818cf8;
+    --badge-icims-bg: rgba(129, 140, 248, 0.12);
+    --badge-direct: #2dd4bf;
+    --badge-direct-bg: rgba(45, 212, 191, 0.12);
+  }
+
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0; background: var(--bg); color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    line-height: 1.45; -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; text-decoration: none; }
+
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 24px 20px 64px; }
+
+  /* Top Navigation Switcher */
+  .nav-header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding-bottom: 16px; margin-bottom: 24px; border-bottom: 1px solid var(--line);
+    flex-wrap: wrap; gap: 12px;
+  }
+  .nav-tabs { display: flex; gap: 8px; background: var(--panel); padding: 4px; border-radius: 10px; border: 1px solid var(--line); }
+  .nav-tab {
+    padding: 7px 14px; border-radius: 7px; font-size: 13px; font-weight: 500;
+    color: var(--muted); transition: all 0.15s ease; display: inline-flex; align-items: center; gap: 6px;
+  }
+  .nav-tab:hover { color: var(--ink); background: var(--line); }
+  .nav-tab.active { background: var(--accent); color: #fff; font-weight: 600; }
+  .nav-tab .badge {
+    background: rgba(255,255,255,0.22); font-size: 11px; padding: 1px 6px; border-radius: 10px;
+  }
+
+  .title-row { margin-bottom: 20px; }
+  .title-row h1 { font-size: 26px; margin: 0 0 6px 0; letter-spacing: -0.01em; display: flex; align-items: center; gap: 10px; }
+  .title-row p { margin: 0; color: var(--muted); font-size: 13px; }
+
+  /* KPIs */
+  .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-bottom: 20px; }
+  .kpi {
+    background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
+    padding: 14px 16px; box-shadow: var(--shadow);
+  }
+  .kpi .num { font-size: 24px; font-weight: 700; line-height: 1.1; color: var(--ink); }
+  .kpi .lbl { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; margin-top: 5px; }
+
+  /* Controls */
+  .controls {
+    display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+    background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
+    padding: 12px 14px; margin-bottom: 16px;
+  }
+  .search-input {
+    flex: 1; min-width: 220px; padding: 8px 12px; border: 1px solid var(--line);
+    border-radius: 8px; background: var(--bg); color: var(--ink); font-size: 13px;
+    outline: none; transition: border-color 0.15s ease;
+  }
+  .search-input:focus { border-color: var(--accent); }
+  .filter-select {
+    padding: 8px 12px; border: 1px solid var(--line); border-radius: 8px;
+    background: var(--bg); color: var(--ink); font-size: 13px; outline: none; cursor: pointer;
+  }
+  .action-btn {
+    padding: 8px 12px; border-radius: 8px; border: 1px solid var(--line);
+    background: var(--pill-bg); color: var(--ink); font-size: 13px; font-weight: 500;
+    cursor: pointer; display: inline-flex; align-items: center; gap: 6px; transition: background 0.15s ease;
+  }
+  .action-btn:hover { background: var(--line); }
+
+  /* Table */
+  .table-card {
+    background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
+    overflow: hidden; box-shadow: var(--shadow);
+  }
+  table { width: 100%; border-collapse: collapse; text-align: left; font-size: 13px; }
+  thead { background: rgba(255,255,255,0.02); border-bottom: 1px solid var(--line); }
+  th { padding: 12px 16px; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 600; }
+  tbody tr { border-bottom: 1px solid var(--line); transition: background 0.12s ease; }
+  tbody tr:last-child { border-bottom: none; }
+  tbody tr:hover { background: var(--panel-hover); }
+  td { padding: 14px 16px; vertical-align: middle; }
+
+  .company-cell { display: flex; align-items: center; gap: 10px; font-weight: 600; color: #fff; font-size: 14px; }
+  .company-avatar {
+    width: 28px; height: 28px; border-radius: 6px; background: var(--line);
+    display: inline-flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 700;
+    color: var(--muted); text-transform: uppercase;
+  }
+
+  .url-link {
+    color: var(--ink); font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 12px; display: inline-flex; align-items: center; gap: 6px;
+    max-width: 440px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    padding: 4px 8px; border-radius: 6px; background: rgba(255,255,255,0.03); border: 1px solid transparent;
+  }
+  .url-link:hover { border-color: var(--line); background: rgba(255,255,255,0.06); text-decoration: none; color: #fff; }
+  .open-btn {
+    display: inline-flex; align-items: center; gap: 4px; padding: 4px 10px;
+    border-radius: 6px; background: var(--accent-soft); color: var(--accent);
+    font-size: 11px; font-weight: 600; transition: all 0.15s ease;
+  }
+  .open-btn:hover { background: var(--accent); color: #fff; text-decoration: none; }
+
+  /* ATS Pills */
+  .ats-pill {
+    display: inline-block; padding: 3px 8px; border-radius: 6px; font-size: 11px; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.04em;
+  }
+  .ats-workday { color: var(--badge-workday); background: var(--badge-workday-bg); border: 1px solid rgba(192, 132, 252, 0.25); }
+  .ats-greenhouse { color: var(--badge-greenhouse); background: var(--badge-greenhouse-bg); border: 1px solid rgba(52, 211, 153, 0.25); }
+  .ats-lever { color: var(--badge-lever); background: var(--badge-lever-bg); border: 1px solid rgba(251, 191, 36, 0.25); }
+  .ats-ashby { color: var(--badge-ashby); background: var(--badge-ashby-bg); border: 1px solid rgba(56, 189, 248, 0.25); }
+  .ats-icims { color: var(--badge-icims); background: var(--badge-icims-bg); border: 1px solid rgba(129, 140, 248, 0.25); }
+  .ats-direct { color: var(--badge-direct); background: var(--badge-direct-bg); border: 1px solid rgba(45, 212, 191, 0.25); }
+  .ats-other { color: var(--muted); background: var(--pill-bg); border: 1px solid var(--line); }
+
+  .date-cell { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+  .count-cell { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--ink); }
+
+  .empty-state { padding: 48px 16px; text-align: center; color: var(--muted); }
+
+  @media (max-width: 768px) {
+    .url-link { max-width: 220px; }
+    th:nth-child(4), td:nth-child(4), th:nth-child(5), td:nth-child(5) { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- Top Navigation Header -->
+  <nav class="nav-header">
+    <div class="nav-tabs">
+      <a href="triage.html" class="nav-tab">
+        <span>🎯</span>
+        <span>Job Triage</span>
+      </a>
+      <a href="companies.html" class="nav-tab active">
+        <span>🏢</span>
+        <span>Company Directory</span>
+        <span class="badge" id="tab-count">0</span>
+      </a>
+    </div>
+    <div style="font-size: 12px; color: var(--muted);" id="last-updated-text">
+      Updated recently
+    </div>
+  </nav>
+
+  <div class="title-row">
+    <h1>🏢 Official Company Career Directory</h1>
+    <p>Permanent database of direct company career portals and ATS systems. Immune to 14-day rolling job prunes.</p>
+  </div>
+
+  <!-- KPIs -->
+  <div class="kpis">
+    <div class="kpi">
+      <div class="num" id="kpi-total">0</div>
+      <div class="lbl">Total Companies</div>
+    </div>
+    <div class="kpi">
+      <div class="num" id="kpi-workday" style="color: var(--badge-workday);">0</div>
+      <div class="lbl">Workday Portals</div>
+    </div>
+    <div class="kpi">
+      <div class="num" id="kpi-greenhouse" style="color: var(--badge-greenhouse);">0</div>
+      <div class="lbl">Greenhouse Boards</div>
+    </div>
+    <div class="kpi">
+      <div class="num" id="kpi-ashby" style="color: var(--badge-ashby);">0</div>
+      <div class="lbl">Ashby Portals</div>
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <div class="controls">
+    <input type="text" id="searchInput" class="search-input" placeholder="Search companies or domain..." autocomplete="off">
+    
+    <select id="platformFilter" class="filter-select">
+      <option value="ALL">All ATS Platforms</option>
+      <option value="Workday">Workday</option>
+      <option value="Greenhouse">Greenhouse</option>
+      <option value="Lever">Lever</option>
+      <option value="Ashby">Ashby</option>
+      <option value="iCIMS">iCIMS</option>
+      <option value="Direct">Direct / Custom</option>
+    </select>
+
+    <select id="sortBy" class="filter-select">
+      <option value="jobs-desc">Most Jobs Observed</option>
+      <option value="name-asc">Company Name (A-Z)</option>
+      <option value="seen-desc">Most Recently Seen</option>
+    </select>
+
+    <button id="exportCsvBtn" class="action-btn">
+      <span>📥</span>
+      <span>Export CSV</span>
+    </button>
+  </div>
+
+  <!-- Main Directory Table -->
+  <div class="table-card">
+    <table id="companiesTable">
+      <thead>
+        <tr>
+          <th>Company</th>
+          <th>Official Career Portal</th>
+          <th>ATS Platform</th>
+          <th style="text-align: right;">Jobs Seen</th>
+          <th style="text-align: right;">Last Active</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody">
+        <tr>
+          <td colspan="5" class="empty-state">Loading company directory...</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>
+
+<script>
+let allCompanies = [];
+
+function getAtsClass(ats) {
+  const norm = (ats || '').toLowerCase();
+  if (norm === 'workday') return 'ats-workday';
+  if (norm === 'greenhouse') return 'ats-greenhouse';
+  if (norm === 'lever') return 'ats-lever';
+  if (norm === 'ashby') return 'ats-ashby';
+  if (norm === 'icims') return 'ats-icims';
+  if (norm === 'direct' || norm === 'custom') return 'ats-direct';
+  return 'ats-other';
+}
+
+function cleanDomain(url) {
+  try {
+    const u = new URL(url);
+    return u.hostname + (u.pathname.length > 1 ? u.pathname : '');
+  } catch(e) {
+    return url;
+  }
+}
+
+function renderTable(list) {
+  const tbody = document.getElementById('tableBody');
+  if (!list.length) {
+    tbody.innerHTML = '<tr><td colspan="5" class="empty-state">No matching companies found.</td></tr>';
+    return;
+  }
+
+  tbody.innerHTML = list.map(c => {
+    const initial = (c.name || '?')[0].toUpperCase();
+    const atsClass = getAtsClass(c.ats);
+    const displayUrl = cleanDomain(c.career_url);
+
+    return `
+      <tr>
+        <td>
+          <div class="company-cell">
+            <span class="company-avatar">${initial}</span>
+            <span>${c.name}</span>
+          </div>
+        </td>
+        <td>
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <a class="url-link" href="${c.career_url}" target="_blank" rel="noopener noreferrer" title="${c.career_url}">
+              <span>${displayUrl}</span>
+            </a>
+            <a class="open-btn" href="${c.career_url}" target="_blank" rel="noopener noreferrer">
+              <span>Open</span>
+              <span>↗</span>
+            </a>
+          </div>
+        </td>
+        <td>
+          <span class="ats-pill ${atsClass}">${c.ats || 'Direct'}</span>
+        </td>
+        <td style="text-align: right;" class="count-cell">
+          ${c.total_jobs_seen || 1}
+        </td>
+        <td style="text-align: right;" class="date-cell">
+          ${c.last_seen || c.first_seen || 'Recently'}
+        </td>
+      </tr>
+    `;
+  }).join('');
+}
+
+function applyFilters() {
+  const query = document.getElementById('searchInput').value.trim().toLowerCase();
+  const platform = document.getElementById('platformFilter').value;
+  const sort = document.getElementById('sortBy').value;
+
+  let filtered = allCompanies.filter(c => {
+    if (query) {
+      const matchName = (c.name || '').toLowerCase().includes(query);
+      const matchUrl = (c.career_url || '').toLowerCase().includes(query);
+      if (!matchName && !matchUrl) return false;
+    }
+    if (platform !== 'ALL') {
+      const ats = (c.ats || '').toLowerCase();
+      if (platform.toLowerCase() === 'direct') {
+        if (ats !== 'direct' && ats !== 'custom') return false;
+      } else if (ats !== platform.toLowerCase()) {
+        return false;
+      }
+    }
+    return true;
+  });
+
+  filtered.sort((a, b) => {
+    if (sort === 'jobs-desc') {
+      return (b.total_jobs_seen || 1) - (a.total_jobs_seen || 1);
+    }
+    if (sort === 'name-asc') {
+      return (a.name || '').localeCompare(b.name || '');
+    }
+    if (sort === 'seen-desc') {
+      return (b.last_seen || '').localeCompare(a.last_seen || '');
+    }
+    return 0;
+  });
+
+  renderTable(filtered);
+}
+
+function updateKPIs(companies) {
+  document.getElementById('kpi-total').textContent = companies.length;
+  document.getElementById('tab-count').textContent = companies.length;
+
+  let workday = 0, greenhouse = 0, ashby = 0;
+  companies.forEach(c => {
+    const a = (c.ats || '').toLowerCase();
+    if (a === 'workday') workday++;
+    else if (a === 'greenhouse') greenhouse++;
+    else if (a === 'ashby') ashby++;
+  });
+
+  document.getElementById('kpi-workday').textContent = workday;
+  document.getElementById('kpi-greenhouse').textContent = greenhouse;
+  document.getElementById('kpi-ashby').textContent = ashby;
+}
+
+function exportCsv() {
+  if (!allCompanies.length) return;
+  const header = ['Company Name', 'Career Portal URL', 'ATS Platform', 'Total Jobs Seen', 'Last Seen', 'First Seen'];
+  const rows = allCompanies.map(c => [
+    `"${(c.name || '').replace(/"/g, '""')}"`,
+    `"${(c.career_url || '').replace(/"/g, '""')}"`,
+    `"${(c.ats || 'Direct').replace(/"/g, '""')}"`,
+    c.total_jobs_seen || 1,
+    `"${c.last_seen || ''}"`,
+    `"${c.first_seen || ''}"`
+  ]);
+
+  const csvContent = 'data:text/csv;charset=utf-8,' + [header.join(','), ...rows.map(r => r.join(','))].join('\n');
+  const encodedUri = encodeURI(csvContent);
+  const link = document.createElement('a');
+  link.setAttribute('href', encodedUri);
+  link.setAttribute('download', `company_career_directory_${new Date().toISOString().slice(0, 10)}.csv`);
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+}
+
+async function loadData() {
+  try {
+    const res = await fetch('companies.json?t=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    const map = data.companies || {};
+    allCompanies = Object.values(map);
+
+    if (data.updated_at) {
+      document.getElementById('last-updated-text').textContent = 'Updated: ' + data.updated_at;
+    }
+
+    updateKPIs(allCompanies);
+    applyFilters();
+  } catch(e) {
+    console.error('Error loading companies.json:', e);
+    document.getElementById('tableBody').innerHTML = 
+      `<tr><td colspan="5" class="empty-state" style="color: #ef4444;">Failed to load company directory: ${e.message}</td></tr>`;
+  }
+}
+
+document.getElementById('searchInput').addEventListener('input', applyFilters);
+document.getElementById('platformFilter').addEventListener('change', applyFilters);
+document.getElementById('sortBy').addEventListener('change', applyFilters);
+document.getElementById('exportCsvBtn').addEventListener('click', exportCsv);
+
+loadData();
+</script>
+</body>
+</html>
