@@ -1197,7 +1197,6 @@
           ${j._why ? `<div class="why">${escape(j._why)}</div>` : ''}
         </div>
         <div class="actions">
-          ${directApply ? `<a href="${escape(directApply.url)}" target="_blank" rel="noopener noreferrer" class="act" style="display:inline-flex;align-items:center;text-decoration:none;color:#fff;background:var(--accent);font-weight:600" title="Apply directly to this job on company site">⚡ Apply Direct ↗</a>` : ''}
           ${(directApply && directApply.careerUrl) ? `<a href="${escape(directApply.careerUrl)}" target="_blank" rel="noopener noreferrer" class="act" style="display:inline-flex;align-items:center;text-decoration:none;color:var(--muted)" title="Open ${escape(j.company)} Official Career Board">🏢 All Jobs ↗</a>` : ''}
           ${j._opener ? '<button type="button" class="act" data-act="opener">✉ Opener</button>' : ''}
           <button type="button" class="act save ${st==='saved'?'on':''}" data-act="saved" aria-pressed="${st==='saved'}">★ Save</button>
