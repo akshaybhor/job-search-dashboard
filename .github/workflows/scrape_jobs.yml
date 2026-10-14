@@ -36,6 +36,9 @@ jobs:
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
           NOTIFY_TERMS: ${{ vars.NOTIFY_TERMS }}
 
+      - name: Auto-resolve direct ATS company portals
+        run: python resolve_ats.py --enrich
+
       - name: Record workflow run
         run: |
           python - <<'EOF'
