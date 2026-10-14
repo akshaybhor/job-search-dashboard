@@ -118,8 +118,9 @@
     transition: opacity 0.15s, border-color 0.15s; }
   .job:hover { border-color: var(--accent); }
   .job[data-state="dismissed"] { opacity: 0.38; }
-  .job[data-state="saved"] { border-left: 3px solid var(--save); }
-  .job[data-state="applied"] { border-left: 3px solid var(--applied); }
+  .job[data-source="direct_ats"] { border-left: 3px solid #c084fc; }
+  .job[data-state="saved"] { border-left: 3px solid var(--save) !important; }
+  .job[data-state="applied"] { border-left: 3px solid var(--applied) !important; }
   .job-main .title { font-size: 15px; font-weight: 600; line-height: 1.35;
     margin-bottom: 4px; }
   .job-main .title a { color: var(--ink); }
@@ -129,6 +130,7 @@
   .src { display: inline-block; font-size: 10px; padding: 1px 7px; border-radius: 10px;
     font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em;
     vertical-align: middle; margin-left: 6px; }
+  .src.direct-ats, .src.direct_ats { background: rgba(168,85,247,0.22); color: #c084fc; border: 1px solid rgba(168,85,247,0.45); font-weight: 700; }
   .src.linkedin { background: rgba(96,165,250,0.14); color: var(--linkedin); }
   .src.biotech { background: rgba(52,211,153,0.14); color: var(--biotech); }
   .src.indeed { background: rgba(167,139,250,0.14); color: var(--indeed); }
@@ -600,11 +602,12 @@
     return 'Mid';
   }
   function classifySource(j) {
+    if (j.source === 'direct_ats' || (j.direct_url && (j.ats === 'Greenhouse' || j.ats === 'Lever' || j.ats === 'Ashby') && !((j.url || '').includes('linkedin.com')))) return 'Direct ATS';
     if (j.ats === 'USAJOBS' || (j.url || '').includes('usajobs.gov')) return 'USAJOBS';
     if (j.ats === 'NEOGOV' || (j.url || '').includes('governmentjobs.com')) return 'NEOGOV';
     if (j.ats === 'CalOpps' || (j.url || '').includes('calopps.org')) return 'CalOpps';
     if (j.ats === 'CalCareers' || (j.url || '').includes('calcareers.ca.gov')) return 'CalCareers';
-    if (j.ats === 'LinkedIn') return 'LinkedIn';
+    if (j.ats === 'LinkedIn' || (j.url || '').includes('linkedin.com')) return 'LinkedIn';
     if (j.ats === 'Greenhouse' || j.ats === 'Lever' || j.ats === 'Ashby') return 'Biotech';
     if (j.ats === 'Indeed' || (j.url || '').includes('indeed.com')) return 'Indeed';
     return 'Other';
@@ -995,7 +998,8 @@
       p.type = 'button';
       p.className = 'pill' + (active ? ' on' : '');
       p.setAttribute('aria-pressed', active ? 'true' : 'false');
-      p.innerHTML = `${escape(v)}<span class="ct">${ct}</span>`;
+      const displayLabel = v === 'Direct ATS' ? '⚡ Direct ATS' : escape(v);
+      p.innerHTML = `${displayLabel}<span class="ct">${ct}</span>`;
       p.onclick = () => {
         if (filters[key].has(v)) filters[key].delete(v);
         else filters[key].add(v);
@@ -1177,16 +1181,22 @@
     }
     el.innerHTML = jobs.map(j => {
       const st = tri(j.url) || 'active';
+      const isDirectAts = (j._src === 'Direct ATS') || (j.source === 'direct_ats') || (j.direct_url && (j.ats === 'Greenhouse' || j.ats === 'Lever' || j.ats === 'Ashby') && !((j.url || '').includes('linkedin.com')));
       const srcs = j._srcs || [j._src];
-      const srcBadges = srcs.map(s => `<span class="src ${s.toLowerCase()}">${s}</span>`).join('');
+      const srcBadges = srcs.map(s => {
+        const cls = s.toLowerCase().replace(/[\s_]+/g, '-');
+        const lbl = s === 'Direct ATS' ? '⚡ Direct ATS' : s;
+        return `<span class="src ${cls}">${lbl}</span>`;
+      }).join('');
       const sal = j._salDisp || j.salary;
       const directApply = getDirectApplyUrl(j);
       const applyUrl = directApply ? directApply.url : j.url;
-      return `<div class="job" data-url="${escape(j.url)}" data-state="${st}">
+      return `<div class="job" data-url="${escape(j.url)}" data-state="${st}" ${isDirectAts ? 'data-source="direct_ats"' : ''}>
         <div class="job-main">
           <div class="title">${scoreChip(j)}<a href="${escape(applyUrl)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
           <div class="meta">
             <span class="co">${escape(j.company)}</span>
+            ${isDirectAts ? `<span class="tag" style="background:rgba(168,85,247,0.22);color:#c084fc;font-weight:700;border:1px solid rgba(168,85,247,0.45);margin-left:4px" title="Direct from employer ATS (zero LinkedIn middleman)">⚡ Direct ATS</span>` : ''}
             ${directApply ? `<a href="${escape(directApply.url)}" target="_blank" rel="noopener noreferrer" class="tag" style="background:rgba(239,68,68,0.18);color:#f87171;font-weight:600;margin-left:4px;border:1px solid rgba(239,68,68,0.35)" title="Apply directly on company site">${escape(directApply.label)}</a>` : ''}
             <span class="src-item">🔗 ${srcBadges}</span>
             <span>📍 ${escape(j.location || 'Not specified')}</span>
@@ -1396,7 +1406,7 @@
   function renderAll() {
     VIEW = dedupe(state.jobs);   // collapse cross-posted (LinkedIn↔Indeed↔…) dupes
     renderFilterGroup('filter-source', 'source',
-      ['LinkedIn', 'Biotech', 'Indeed', 'USAJOBS', 'NEOGOV', 'CalOpps', 'CalCareers']);
+      ['Direct ATS', 'LinkedIn', 'Biotech', 'Indeed', 'USAJOBS', 'NEOGOV', 'CalOpps', 'CalCareers']);
     renderFilterGroup('filter-role', 'role',
       ['AI Engineer', 'MLE', 'MLOps', 'Scientist', 'Comp Chem/Sci',
        'Data Sci/Eng', 'Cloud/DevOps', 'Systems', 'SWE', 'Bioinformatics', 'Other']);

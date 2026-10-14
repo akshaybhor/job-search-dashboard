@@ -124,6 +124,7 @@ def probe_greenhouse_company(company_name: str, slug: str, max_lookback_hours: i
             "ats": "Greenhouse",
             "remote": is_remote,
             "direct_url": apply_url,
+            "source": "direct_ats",
         })
     return jobs
 
@@ -182,6 +183,7 @@ def probe_ashby_company(company_name: str, slug: str, max_lookback_hours: int = 
             "ats": "Ashby",
             "remote": is_remote,
             "direct_url": apply_url,
+            "source": "direct_ats",
         })
     return jobs
 
@@ -235,6 +237,7 @@ def probe_lever_company(company_name: str, slug: str, max_lookback_hours: int = 
             "ats": "Lever",
             "remote": is_remote,
             "direct_url": apply_url,
+            "source": "direct_ats",
         })
     return jobs
 
