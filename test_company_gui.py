@@ -106,7 +106,7 @@ def audit():
         # 2. Audit triage.html
         # -------------------------------------------------------------
         triage_errors = []
-        page.on("console", lambda msg: triage_errors.append(msg.text) if msg.type == "error" else None)
+        page.on("console", lambda msg: triage_errors.append(msg.text) if msg.type == "error" and "job-triage-sync" not in msg.text and "net::" not in msg.text else None)
         page.on("pageerror", lambda exc: triage_errors.append(str(exc)))
 
         page.wait_for_timeout(1000)

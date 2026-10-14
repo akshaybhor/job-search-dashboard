@@ -427,6 +427,39 @@
     return COMPANY_MAP[clean] || null;
   }
 
+  function getDirectApplyUrl(job) {
+    if (!job) return null;
+    const career = getCompanyCareerPortal(job.company);
+    
+    // 1. If job has an explicit direct ATS URL:
+    if (job.direct_url) {
+      const atsName = job.ats || (career ? career.ats : 'Direct');
+      return { url: job.direct_url, label: `${atsName} Apply ↗`, careerUrl: career ? career.career_url : null };
+    }
+    
+    // 2. If it's a direct non-LinkedIn posting (Greenhouse, Ashby, Workday, etc.):
+    if (job.url && !job.url.includes('linkedin.com') && !job.url.includes('indeed.com')) {
+      const atsName = job.ats || 'Direct';
+      return { url: job.url, label: `${atsName} Apply ↗`, careerUrl: career ? career.career_url : null };
+    }
+
+    // 3. For LinkedIn jobs: use LinkedIn's backend external apply redirect
+    // When clicked by a logged-in user in their browser, this bypasses the LinkedIn job page
+    // and bounces straight to the employer's official job application page!
+    const m = job.url && job.url.match(/\/jobs\/view\/(\d+)/);
+    if (m) {
+      const extApplyUrl = `https://www.linkedin.com/jobs/view/externalApply/${m[1]}/`;
+      const atsName = career ? career.ats : 'Direct';
+      return { url: extApplyUrl, label: `${atsName} Apply ↗`, careerUrl: career ? career.career_url : null };
+    }
+
+    if (career && career.career_url) {
+      return { url: career.career_url, label: `${career.ats} Portal ↗`, careerUrl: career.career_url };
+    }
+
+    return null;
+  }
+
   // ---------- Persistence ----------
   // Two keys, deliberately separate. Decisions are small and precious; the job
   // cache is bulky and disposable. v1 kept both under one key, so the corpus's
@@ -1147,13 +1180,14 @@
       const srcs = j._srcs || [j._src];
       const srcBadges = srcs.map(s => `<span class="src ${s.toLowerCase()}">${s}</span>`).join('');
       const sal = j._salDisp || j.salary;
-      const career = getCompanyCareerPortal(j.company);
+      const directApply = getDirectApplyUrl(j);
+      const applyUrl = directApply ? directApply.url : j.url;
       return `<div class="job" data-url="${escape(j.url)}" data-state="${st}">
         <div class="job-main">
-          <div class="title">${scoreChip(j)}<a href="${escape(j.url)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
+          <div class="title">${scoreChip(j)}<a href="${escape(applyUrl)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
           <div class="meta">
             <span class="co">${escape(j.company)}</span>
-            ${career ? `<a href="${escape(career.career_url)}" target="_blank" rel="noopener noreferrer" class="tag" style="background:rgba(239,68,68,0.15);color:#f87171;font-weight:600;margin-left:4px" title="Official Career Portal (${escape(career.ats)})">🏢 ${escape(career.ats)} Portal ↗</a>` : ''}
+            ${directApply ? `<a href="${escape(directApply.url)}" target="_blank" rel="noopener noreferrer" class="tag" style="background:rgba(239,68,68,0.18);color:#f87171;font-weight:600;margin-left:4px;border:1px solid rgba(239,68,68,0.35)" title="Apply directly on company site">${escape(directApply.label)}</a>` : ''}
             <span class="src-item">🔗 ${srcBadges}</span>
             <span>📍 ${escape(j.location || 'Not specified')}</span>
             ${sal ? `<span>💰 ${escape(sal)}</span>` : ''}
@@ -1163,7 +1197,8 @@
           ${j._why ? `<div class="why">${escape(j._why)}</div>` : ''}
         </div>
         <div class="actions">
-          ${career ? `<a href="${escape(career.career_url)}" target="_blank" rel="noopener noreferrer" class="act" style="display:inline-flex;align-items:center;text-decoration:none;color:var(--ink)" title="Open ${escape(j.company)} Official Career Portal">🏢 Career Portal ↗</a>` : ''}
+          ${directApply ? `<a href="${escape(directApply.url)}" target="_blank" rel="noopener noreferrer" class="act" style="display:inline-flex;align-items:center;text-decoration:none;color:#fff;background:var(--accent);font-weight:600" title="Apply directly to this job on company site">⚡ Apply Direct ↗</a>` : ''}
+          ${(directApply && directApply.careerUrl) ? `<a href="${escape(directApply.careerUrl)}" target="_blank" rel="noopener noreferrer" class="act" style="display:inline-flex;align-items:center;text-decoration:none;color:var(--muted)" title="Open ${escape(j.company)} Official Career Board">🏢 All Jobs ↗</a>` : ''}
           ${j._opener ? '<button type="button" class="act" data-act="opener">✉ Opener</button>' : ''}
           <button type="button" class="act save ${st==='saved'?'on':''}" data-act="saved" aria-pressed="${st==='saved'}">★ Save</button>
           <button type="button" class="act applied ${st==='applied'?'on':''}" data-act="applied" aria-pressed="${st==='applied'}">✓ Applied</button>
