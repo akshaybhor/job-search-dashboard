@@ -25,6 +25,8 @@ if hasattr(sys.stdout, "reconfigure"):
 from scrape_jobs import (
     is_mle_role,
     is_excluded_company,
+    is_excluded_location,
+    is_dealbreaker_role,
     EXCLUDED_CLEARANCE_RE,
     EXCLUDED_SENIORITY_RE,
     _merge_into_all_jobs,
@@ -89,9 +91,18 @@ def probe_greenhouse_company(company_name: str, slug: str, max_lookback_hours: i
         if EXCLUDED_SENIORITY_RE.search(title):
             continue
 
-        # Check description for clearance dealbreakers
+        # Check description for clearance and no-sponsorship dealbreakers
         content = item.get("content", "") or ""
-        if EXCLUDED_CLEARANCE_RE.search(content):
+        if EXCLUDED_CLEARANCE_RE.search(content) or is_dealbreaker_role(title, content):
+            continue
+
+        # Location filtering: reject non-US / foreign locations
+        loc_data = item.get("location") or {}
+        location = (loc_data.get("name") or "").strip() or "United States"
+        if is_excluded_location(location):
+            continue
+        offices = [o.get("name") for o in item.get("offices", []) if o.get("name")]
+        if offices and all(is_excluded_location(o) for o in offices):
             continue
 
         # Freshness check
@@ -100,8 +111,6 @@ def probe_greenhouse_company(company_name: str, slug: str, max_lookback_hours: i
             continue
 
         date_posted = pub_dt.strftime("%Y-%m-%d") if pub_dt else datetime.now(timezone.utc).strftime("%Y-%m-%d")
-        loc_data = item.get("location") or {}
-        location = (loc_data.get("name") or "").strip() or "United States"
         workplace = (item.get("workplaceType") or "").lower()
         is_remote = bool("remote" in location.lower() or workplace == "remote")
         apply_url = item.get("absolute_url") or f"https://job-boards.greenhouse.io/{slug}/jobs/{item.get('id')}"
@@ -142,7 +151,17 @@ def probe_ashby_company(company_name: str, slug: str, max_lookback_hours: int = 
             continue
 
         content = item.get("descriptionPlain", "") or ""
-        if EXCLUDED_CLEARANCE_RE.search(content):
+        if EXCLUDED_CLEARANCE_RE.search(content) or is_dealbreaker_role(title, content):
+            continue
+
+        # Location filtering
+        location = (item.get("location") or "").strip() or "United States"
+        address_country = (
+            (item.get("address") or {})
+            .get("postalAddress", {})
+            .get("addressCountry", "")
+        )
+        if is_excluded_location(location) or is_excluded_location(address_country):
             continue
 
         pub_dt = parse_iso_or_epoch_to_dt(item.get("publishedAt"))
@@ -150,7 +169,6 @@ def probe_ashby_company(company_name: str, slug: str, max_lookback_hours: int = 
             continue
 
         date_posted = pub_dt.strftime("%Y-%m-%d") if pub_dt else datetime.now(timezone.utc).strftime("%Y-%m-%d")
-        location = (item.get("location") or "").strip() or "United States"
         workplace = (item.get("workplaceType") or "").lower()
         is_remote = bool(item.get("isRemote") or "remote" in location.lower() or workplace == "remote")
         apply_url = item.get("jobUrl") or item.get("applyUrl") or f"https://jobs.ashbyhq.com/{slug}/{item.get('id')}"
@@ -190,7 +208,13 @@ def probe_lever_company(company_name: str, slug: str, max_lookback_hours: int = 
             continue
 
         content = item.get("descriptionPlain", "") or ""
-        if EXCLUDED_CLEARANCE_RE.search(content):
+        if EXCLUDED_CLEARANCE_RE.search(content) or is_dealbreaker_role(title, content):
+            continue
+
+        # Location filtering
+        categories = item.get("categories") or {}
+        location = (categories.get("location") or "").strip() or "United States"
+        if is_excluded_location(location):
             continue
 
         pub_dt = parse_iso_or_epoch_to_dt(item.get("createdAt"))
@@ -198,8 +222,6 @@ def probe_lever_company(company_name: str, slug: str, max_lookback_hours: int = 
             continue
 
         date_posted = pub_dt.strftime("%Y-%m-%d") if pub_dt else datetime.now(timezone.utc).strftime("%Y-%m-%d")
-        categories = item.get("categories") or {}
-        location = categories.get("location", "").strip() or "United States"
         workplace = (item.get("workplaceType") or "").lower()
         is_remote = bool("remote" in location.lower() or workplace == "remote")
         apply_url = item.get("hostedUrl") or item.get("applyUrl") or f"https://jobs.lever.co/{slug}/{item.get('id')}"
@@ -231,6 +253,9 @@ def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 50) ->
     # Select candidate companies that use Greenhouse, Ashby, or Lever
     target_list = []
     for key, c in companies.items():
+        c_name = c.get("name", key)
+        if is_excluded_company(c_name):
+            continue
         ats = (c.get("ats") or "").strip()
         career_url = (c.get("career_url") or "").strip()
         if not career_url:
@@ -239,7 +264,7 @@ def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 50) ->
             slug = career_url.rstrip("/").split("/")[-1]
             if slug:
                 target_list.append({
-                    "name": c.get("name", key),
+                    "name": c_name,
                     "ats": ats,
                     "slug": slug,
                     "last_seen": c.get("last_seen", ""),

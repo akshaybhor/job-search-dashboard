@@ -432,7 +432,7 @@ EXCLUDED_LOCATIONS = [
     "DACH",
 ]
 _EXCLUDED_LOCATION_RE = re.compile(
-    "|".join(re.escape(c) for c in EXCLUDED_LOCATIONS), re.IGNORECASE
+    r'\b(?:' + "|".join(re.escape(c) for c in EXCLUDED_LOCATIONS) + r'|uk|korea)\b', re.IGNORECASE
 )
 
 def is_excluded_company(company: str) -> bool:
