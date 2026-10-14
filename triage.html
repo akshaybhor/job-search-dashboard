@@ -418,6 +418,14 @@
 
   // Fit scores from the nightly triage agent, keyed by job URL (optional file).
   let SCORES = {};
+  // Company official career portals map (from companies.json)
+  let COMPANY_MAP = {};
+  function getCompanyCareerPortal(companyName) {
+    if (!companyName || !COMPANY_MAP) return null;
+    const clean = companyName.toLowerCase().trim().replace(/[\.,'\"\(\)]/g, '')
+      .replace(/\b(inc|llc|corp|corporation|ltd|co|group|technologies|holdings|plc)\b/g, '').trim().replace(/\s+/g, '-');
+    return COMPANY_MAP[clean] || null;
+  }
 
   // ---------- Persistence ----------
   // Two keys, deliberately separate. Decisions are small and precious; the job
@@ -759,6 +767,10 @@
       const r = await fetch('scores.json' + bust);
       SCORES = r.ok ? ((await r.json()).scores || {}) : {};
     } catch { SCORES = {}; }
+    try {
+      const cr = await fetch('companies.json' + bust);
+      COMPANY_MAP = cr.ok ? ((await cr.json()).companies || {}) : {};
+    } catch { COMPANY_MAP = {}; }
     const settled = await Promise.allSettled(
       SOURCES.map(s => fetch(s.name + bust).then(r => {
         if (!r.ok) throw new Error(`${s.name}: ${r.status}`);
@@ -1135,11 +1147,13 @@
       const srcs = j._srcs || [j._src];
       const srcBadges = srcs.map(s => `<span class="src ${s.toLowerCase()}">${s}</span>`).join('');
       const sal = j._salDisp || j.salary;
+      const career = getCompanyCareerPortal(j.company);
       return `<div class="job" data-url="${escape(j.url)}" data-state="${st}">
         <div class="job-main">
           <div class="title">${scoreChip(j)}<a href="${escape(j.url)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
           <div class="meta">
             <span class="co">${escape(j.company)}</span>
+            ${career ? `<a href="${escape(career.career_url)}" target="_blank" rel="noopener noreferrer" class="tag" style="background:rgba(239,68,68,0.15);color:#f87171;font-weight:600;margin-left:4px" title="Official Career Portal (${escape(career.ats)})">🏢 ${escape(career.ats)} Portal ↗</a>` : ''}
             <span class="src-item">🔗 ${srcBadges}</span>
             <span>📍 ${escape(j.location || 'Not specified')}</span>
             ${sal ? `<span>💰 ${escape(sal)}</span>` : ''}
@@ -1149,6 +1163,7 @@
           ${j._why ? `<div class="why">${escape(j._why)}</div>` : ''}
         </div>
         <div class="actions">
+          ${career ? `<a href="${escape(career.career_url)}" target="_blank" rel="noopener noreferrer" class="act" style="display:inline-flex;align-items:center;text-decoration:none;color:var(--ink)" title="Open ${escape(j.company)} Official Career Portal">🏢 Career Portal ↗</a>` : ''}
           ${j._opener ? '<button type="button" class="act" data-act="opener">✉ Opener</button>' : ''}
           <button type="button" class="act save ${st==='saved'?'on':''}" data-act="saved" aria-pressed="${st==='saved'}">★ Save</button>
           <button type="button" class="act applied ${st==='applied'?'on':''}" data-act="applied" aria-pressed="${st==='applied'}">✓ Applied</button>

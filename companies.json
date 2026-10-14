@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14 16:46 UTC",
-  "total_companies": 16,
+  "updated_at": "2026-10-14 17:03 UTC",
+  "total_companies": 19,
   "companies": {
     "arc-institute": {
       "name": "Arc Institute",
@@ -128,6 +128,30 @@
       "ats": "Ashby",
       "first_seen": "2026-09-21",
       "last_seen": "2026-09-21",
+      "total_jobs_seen": 1
+    },
+    "plaid": {
+      "name": "Plaid",
+      "career_url": "https://jobs.ashbyhq.com/plaid",
+      "ats": "Ashby",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "total_jobs_seen": 1
+    },
+    "hinge-health": {
+      "name": "Hinge Health",
+      "career_url": "https://jobs.ashbyhq.com/hinge-health",
+      "ats": "Ashby",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "total_jobs_seen": 1
+    },
+    "robinhood": {
+      "name": "Robinhood",
+      "career_url": "https://job-boards.greenhouse.io/robinhood",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
       "total_jobs_seen": 1
     }
   }
