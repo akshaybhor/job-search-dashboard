@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14 19:36 UTC",
-  "total_companies": 24,
+  "updated_at": "2026-10-14 19:55 UTC",
+  "total_companies": 27,
   "companies": {
     "arc-institute": {
       "name": "Arc Institute",
@@ -8,7 +8,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-12",
       "last_seen": "2026-10-12",
-      "total_jobs_seen": 6
+      "total_jobs_seen": 8
     },
     "chai-discovery": {
       "name": "Chai Discovery",
@@ -16,7 +16,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-12",
       "last_seen": "2026-10-12",
-      "total_jobs_seen": 6
+      "total_jobs_seen": 8
     },
     "benchling": {
       "name": "Benchling",
@@ -24,7 +24,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-12",
       "last_seen": "2026-10-12",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "vaxcyte": {
       "name": "Vaxcyte, Inc.",
@@ -47,8 +47,8 @@
       "career_url": "https://job-boards.greenhouse.io/natera",
       "ats": "Greenhouse",
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "total_jobs_seen": 14
+      "last_seen": "2026-10-12",
+      "total_jobs_seen": 16
     },
     "bristol-myers-squibb": {
       "name": "Bristol Myers Squibb",
@@ -152,7 +152,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "ensco": {
       "name": "ENSCO, Inc.",
@@ -176,7 +176,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
-      "total_jobs_seen": 1
+      "total_jobs_seen": 2
     },
     "tower-research-capital": {
       "name": "Tower Research Capital",
@@ -192,7 +192,31 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 4
+    },
+    "ripple": {
+      "name": "Ripple",
+      "career_url": "https://job-boards.greenhouse.io/ripple",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "total_jobs_seen": 1
+    },
+    "crusoe": {
+      "name": "Crusoe",
+      "career_url": "https://jobs.ashbyhq.com/crusoe",
+      "ats": "Ashby",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "total_jobs_seen": 1
+    },
+    "nash": {
+      "name": "Nash",
+      "career_url": "https://jobs.ashbyhq.com/nash",
+      "ats": "Ashby",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "total_jobs_seen": 1
     }
   }
 }
