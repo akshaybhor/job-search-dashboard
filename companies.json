@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14 19:55 UTC",
-  "total_companies": 27,
+  "updated_at": "2026-10-15 08:25 UTC",
+  "total_companies": 32,
   "companies": {
     "arc-institute": {
       "name": "Arc Institute",
@@ -152,7 +152,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
-      "total_jobs_seen": 5
+      "total_jobs_seen": 6
     },
     "ensco": {
       "name": "ENSCO, Inc.",
@@ -176,7 +176,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "tower-research-capital": {
       "name": "Tower Research Capital",
@@ -192,7 +192,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "ripple": {
       "name": "Ripple",
@@ -217,6 +217,46 @@
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
       "total_jobs_seen": 1
+    },
+    "philo": {
+      "name": "Philo",
+      "career_url": "https://jobs.ashbyhq.com/philo",
+      "ats": "Ashby",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "total_jobs_seen": 2
+    },
+    "mozilla": {
+      "name": "Mozilla",
+      "career_url": "https://job-boards.greenhouse.io/mozilla",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "total_jobs_seen": 1
+    },
+    "jobgether": {
+      "name": "Jobgether",
+      "career_url": "https://jobs.lever.co/jobgether",
+      "ats": "Lever",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "total_jobs_seen": 16
+    },
+    "cloudflare": {
+      "name": "Cloudflare",
+      "career_url": "https://job-boards.greenhouse.io/cloudflare",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "total_jobs_seen": 1
+    },
+    "sirenopt": {
+      "name": "SirenOpt",
+      "career_url": "https://job-boards.greenhouse.io/sirenopt",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
+      "total_jobs_seen": 2
     }
   }
 }
