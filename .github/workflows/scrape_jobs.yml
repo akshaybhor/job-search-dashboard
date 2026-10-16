@@ -1,4 +1,4 @@
-name: Biotech MLE Job Scraper
+name: Nightly Tech & Direct ATS Sweep
 
 on:
   schedule:
@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   scrape:
-    name: Scrape MLE Job Listings
+    name: Nightly Tech Scrape
     runs-on: ubuntu-latest
 
     permissions:
@@ -29,8 +29,8 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run scraper (biotech LinkedIn, last 24h, allowlist-filtered)
-        run: python scrape_jobs.py --biotech-only
+      - name: Run scraper (Nightly tech sweep, last 24h)
+        run: python scrape_jobs.py --nightly-tech
         env:
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
@@ -39,7 +39,7 @@ jobs:
       - name: Auto-resolve direct ATS company portals
         run: python resolve_ats.py --enrich
 
-      - name: Scrape direct ATS career portals (Greenhouse, Ashby, Lever)
+      - name: Scrape direct ATS career portals (Greenhouse, Ashby, Lever, Workday)
         run: python scrape_direct_ats.py --lookback 48 --limit 100
 
       - name: Record workflow run
@@ -53,7 +53,7 @@ jobs:
               data = json.load(f)
 
           entry = {
-              "workflow": "biotech",
+              "workflow": "nightly_tech",
               "timestamp": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
               "job_count": int(data.get("total", 0)),
               "run_id": os.environ.get("GITHUB_RUN_ID", ""),
@@ -69,6 +69,6 @@ jobs:
           git config user.name  "JobBot"
           git config user.email "jobbot@users.noreply.github.com"
           python ci_commit_push.py \
-            --message "chore: update job listings [$(date -u '+%Y-%m-%d')]" \
+            --message "chore: update nightly tech listings [$(date -u '+%Y-%m-%d')]" \
             jobs.json jobs.md jobs.html \
             workflow_runs.jsonl all_jobs.json notified.json companies.json

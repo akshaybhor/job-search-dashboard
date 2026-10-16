@@ -132,7 +132,7 @@
     vertical-align: middle; margin-left: 6px; }
   .src.direct-ats, .src.direct_ats { background: rgba(168,85,247,0.22); color: #c084fc; border: 1px solid rgba(168,85,247,0.45); font-weight: 700; }
   .src.linkedin { background: rgba(96,165,250,0.14); color: var(--linkedin); }
-  .src.biotech { background: rgba(52,211,153,0.14); color: var(--biotech); }
+  .src.nightly-tech, .src.nightly_tech, .src.biotech { background: rgba(52,211,153,0.14); color: var(--biotech); }
   .src.indeed { background: rgba(167,139,250,0.14); color: var(--indeed); }
   .src.usajobs { background: rgba(29,78,216,0.18); color: #93c5fd; }
   .src.neogov { background: rgba(14,116,144,0.20); color: #67e8f9; }
@@ -406,7 +406,7 @@
 <script>
   // ---------- Sources ----------
   const SOURCES = [
-    { name: 'jobs.json',          src: 'Biotech'  },
+    { name: 'jobs.json',          src: 'Nightly Tech' },
     { name: 'linkedin_jobs.json', src: 'LinkedIn' },
     { name: 'indeed_jobs.json',   src: 'Indeed'   },
     { name: 'usajobs_jobs.json',  src: 'USAJOBS'  },
@@ -1410,7 +1410,7 @@
   function renderAll() {
     VIEW = dedupe(state.jobs);   // collapse cross-posted (LinkedIn↔Indeed↔…) dupes
     renderFilterGroup('filter-source', 'source',
-      ['Direct ATS', 'LinkedIn', 'Biotech', 'Indeed', 'USAJOBS', 'NEOGOV', 'CalOpps', 'CalCareers']);
+      ['Direct ATS', 'LinkedIn', 'Nightly Tech', 'Indeed', 'USAJOBS', 'NEOGOV', 'CalOpps', 'CalCareers']);
     renderFilterGroup('filter-role', 'role',
       ['AI Engineer', 'MLE', 'MLOps', 'Scientist', 'Comp Chem/Sci',
        'Data Sci/Eng', 'Cloud/DevOps', 'Systems', 'SWE', 'Bioinformatics', 'Other']);

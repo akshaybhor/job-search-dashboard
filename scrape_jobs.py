@@ -1202,17 +1202,6 @@ def probe_curated_custom(entry: dict) -> list:
     return jobs
 
 
-def _load_discovered_companies() -> list:
-    """Companies found by discover.py --write, auto-merged into the sweep so no
-    manual paste into CURATED_BIOTECHS is needed. Missing/corrupt file → []."""
-    path = os.path.join(SCRIPT_DIR, "discovered_companies.json")
-    try:
-        with open(path) as f:
-            data = json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError):
-        return []
-    return data if isinstance(data, list) else data.get("companies", [])
-
 
 def scrape_curated_biotechs() -> list:
     companies = list(CURATED_BIOTECHS)
@@ -1527,23 +1516,28 @@ def scrape_linkedin_recent() -> list:
     return jobs
 
 
-def scrape_linkedin_biotech() -> list:
+def scrape_linkedin_nightly_tech() -> list:
     """
-    Last 24h on LinkedIn, filtered to companies on the biotech allowlist.
-    LinkedIn's f_I industry filter is silently ignored on the public guest
-    endpoint, so we use general MLE/DS keywords + a company allowlist.
+    Last 24h on LinkedIn for Tech & Engineering roles across US hubs & remote.
+    Filters out excluded spam staffing agencies and foreign locations.
     """
-    print(f"🧬 Scraping LinkedIn biotech allowlist (last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h)...")
+    print(f"⚡ Scraping LinkedIn tech sweep (last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h)...")
     raw, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_BIOTECH_LOOKBACK_SECONDS)
     if raw_cards == 0:
-        # Blocked run: contribute nothing rather than nuke the digest baseline;
-        # the direct ATS probes in --biotech-only still supply fresh roles.
         print("  ⛔ LinkedIn returned 0 cards across all terms (likely blocked); "
               "skipping LinkedIn for this digest")
         return []
-    jobs = [j for j in raw if _is_biotech_company(j["company"])]
-    print(f"  ✅ Biotech LinkedIn: {len(jobs)} role(s) (from {len(raw)} total)")
+    jobs = [
+        j for j in raw
+        if not is_excluded_company(j.get("company", ""))
+        and not is_excluded_location(j.get("location", ""))
+    ]
+    print(f"  ✅ Nightly Tech LinkedIn: {len(jobs)} role(s) (from {len(raw)} total)")
     return jobs
+
+
+# Backward-compat alias
+scrape_linkedin_biotech = scrape_linkedin_nightly_tech
 
 
 # ---------------------------------------------------------------------------
@@ -2034,16 +2028,19 @@ def save_boards_results(jobs: list):
     )
 
 
-def save_biotech_linkedin_results(jobs: list):
+def save_nightly_tech_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="jobs",
-        title="🧬 Biotech LinkedIn — MLE / DS Roles",
-        subtitle=f"US biotech allowlist · last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
-        accent="#2ea04f",
-        empty_message="No new biotech roles since the last run.",
+        title="⚡ Nightly Tech & Direct ATS — Engineering Roles",
+        subtitle=f"US Tech Hubs & Remote · last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
+        accent="#7c5cff",
+        empty_message="No new tech roles since the last run.",
         window_label=f"last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
     )
+
+
+save_biotech_linkedin_results = save_nightly_tech_results
 
 
 def _render_jobs_html(*, title: str, subtitle: str, timestamp: str,
@@ -2606,19 +2603,9 @@ if __name__ == "__main__":
         save_calcareers_results(scrape_calcareers_recent())
         sys.exit(0)
 
-    if "--biotech-only" in sys.argv:
-        # Direct ATS gives a stable baseline (LinkedIn's 24h endpoint has been
-        # flaky on GH Actions runners — see workflow_runs.jsonl). LinkedIn is
-        # kept as a supplemental source for biotechs not in CURATED_BIOTECHS.
-        # Cross-run dedupe via _load_prev_ids → save_biotech_linkedin_results
-        # provides "new since last digest" semantics, so we skip the 24h
-        # freshness filter (ATS updated_at is unreliable for that anyway).
-        jobs = list(scrape_genentech())
-        jobs.extend(scrape_curated_biotechs())
-        # Biotech sweep covers all major US biotech hubs + US-remote; the
-        # LinkedIn/Indeed/gov watchers keep their tighter Bay Area gate.
+    if "--nightly-tech" in sys.argv or "--biotech-only" in sys.argv:
+        jobs = scrape_linkedin_nightly_tech()
         jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
-        jobs.extend(scrape_linkedin_biotech())
 
         seen: set[tuple[str, str]] = set()
         deduped: list[dict] = []
@@ -2628,10 +2615,10 @@ if __name__ == "__main__":
                 continue
             seen.add(key)
             deduped.append(j)
-        print(f"\n🧬 Combined biotech total: {len(deduped)} unique role(s) "
+        print(f"\n⚡ Combined Nightly Tech total: {len(deduped)} unique role(s) "
               f"(from {len(jobs)} across sources)")
 
-        save_biotech_linkedin_results(deduped)
+        save_nightly_tech_results(deduped)
         sys.exit(0)
 
     # Legacy default: curated Greenhouse/Workday/Phenom sweep. Returned 0 roles

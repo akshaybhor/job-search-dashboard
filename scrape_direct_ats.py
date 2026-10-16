@@ -12,6 +12,7 @@ import re
 import sys
 import time
 import urllib.request
+import urllib.parse
 from datetime import datetime, timezone, timedelta
 
 # Ensure UTF-8 output on Windows consoles
@@ -242,10 +243,110 @@ def probe_lever_company(company_name: str, slug: str, max_lookback_hours: int = 
     return jobs
 
 
-def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 50) -> list[dict]:
+def is_workday_fresh(posted_on: str, max_lookback_hours: int = 48) -> bool:
+    """Checks whether a Workday 'postedOn' string falls within the lookback window."""
+    if not posted_on:
+        return True
+    s = str(posted_on).lower().strip()
+    if "today" in s or "just posted" in s:
+        return True
+    if "yesterday" in s:
+        return max_lookback_hours >= 24
+    m = re.search(r"(\d+)\s+day", s)
+    if m:
+        days = int(m.group(1))
+        return (days * 24) <= max_lookback_hours
+    if "hour" in s or "minute" in s:
+        return True
+    if "30+" in s or "month" in s or "week" in s:
+        return False
+    try:
+        dt = parse_iso_or_epoch_to_dt(posted_on)
+        if dt:
+            return is_job_fresh(dt, max_lookback_hours)
+    except Exception:
+        pass
+    return False
+
+
+def probe_workday_company(company_name: str, career_url: str, max_lookback_hours: int = 48) -> list[dict]:
+    """Scrapes fresh matching engineering roles from a company's Workday CXS API."""
+    if not career_url:
+        return []
+
+    parsed = urllib.parse.urlparse(career_url)
+    netloc = parsed.netloc.lower()
+    path = parsed.path.strip("/")
+
+    if "/wday/cxs/" in career_url:
+        m = re.search(r"/wday/cxs/([^/]+)/([^/]+)/jobs", career_url)
+        if not m:
+            return []
+        cxs_url = career_url
+        base_url = f"https://{netloc}/{m.group(2)}"
+    else:
+        parts = path.split("/")
+        site = parts[0] if parts and parts[0] else "careers"
+        tenant = netloc.split(".")[0]
+        cxs_url = f"https://{netloc}/wday/cxs/{tenant}/{site}/jobs"
+        base_url = f"https://{netloc}/{site}"
+
+    terms = ["software engineer", "machine learning", "data engineer", "backend", "ai engineer"]
+    seen: dict[str, dict] = {}
+
+    for term in terms:
+        time.sleep(0.3)
+        body = json.dumps({"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": term}).encode("utf-8")
+        req = urllib.request.Request(
+            cxs_url,
+            data=body,
+            headers={**HEADERS, "Content-Type": "application/json", "Accept": "application/json"},
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=10) as res:
+                data = json.loads(res.read().decode("utf-8"))
+        except Exception:
+            continue
+
+        postings = data.get("jobPostings", [])
+        for posting in postings:
+            ext_path = posting.get("externalPath", "")
+            if not ext_path or ext_path in seen:
+                continue
+            title = posting.get("title", "")
+            if not is_mle_role(title) or EXCLUDED_SENIORITY_RE.search(title):
+                continue
+
+            posted_on = posting.get("postedOn", "")
+            if not is_workday_fresh(posted_on, max_lookback_hours):
+                continue
+
+            loc = posting.get("locationsText", "") or "United States"
+            if is_excluded_location(loc):
+                continue
+
+            job_url = f"{base_url}{ext_path}"
+            is_remote = bool("remote" in loc.lower() or "remote" in title.lower())
+
+            seen[ext_path] = {
+                "company": company_name,
+                "title": title,
+                "location": loc,
+                "url": job_url,
+                "date_posted": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                "ats": "Workday",
+                "remote": is_remote,
+                "direct_url": job_url,
+                "source": "direct_ats",
+            }
+
+    return list(seen.values())
+
+
+def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 100) -> list[dict]:
     """
     Scans cataloged companies from companies.json, fetches fresh roles via direct APIs,
-    and merges them into all_jobs.json.
+    and merges them into all_jobs.json. Supports Greenhouse, Ashby, Lever, and Workday.
     """
     comp_data = load_company_directory()
     companies = comp_data.get("companies", {})
@@ -253,7 +354,7 @@ def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 50) ->
         print("[Direct ATS] No companies found in companies.json.")
         return []
 
-    # Select candidate companies that use Greenhouse, Ashby, or Lever
+    # Select candidate companies that use Greenhouse, Ashby, Lever, or Workday
     target_list = []
     for key, c in companies.items():
         c_name = c.get("name", key)
@@ -263,16 +364,16 @@ def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 50) ->
         career_url = (c.get("career_url") or "").strip()
         if not career_url:
             continue
-        if ats in ("Greenhouse", "Ashby", "Lever"):
-            slug = career_url.rstrip("/").split("/")[-1]
-            if slug:
-                target_list.append({
-                    "name": c_name,
-                    "ats": ats,
-                    "slug": slug,
-                    "last_seen": c.get("last_seen", ""),
-                    "key": key,
-                })
+        if ats in ("Greenhouse", "Ashby", "Lever", "Workday"):
+            slug = career_url.rstrip("/").split("/")[-1] if ats != "Workday" else ""
+            target_list.append({
+                "name": c_name,
+                "ats": ats,
+                "slug": slug,
+                "career_url": career_url,
+                "last_seen": c.get("last_seen", ""),
+                "key": key,
+            })
 
     # Prioritize by recency
     target_list.sort(key=lambda x: x.get("last_seen", ""), reverse=True)
@@ -285,6 +386,7 @@ def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 50) ->
         c_name = item["name"]
         ats = item["ats"]
         slug = item["slug"]
+        career_url = item.get("career_url", "")
         time.sleep(0.4)  # Polite throttle
 
         found = []
@@ -294,6 +396,8 @@ def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 50) ->
             found = probe_ashby_company(c_name, slug, max_lookback_hours=lookback_hours)
         elif ats == "Lever":
             found = probe_lever_company(c_name, slug, max_lookback_hours=lookback_hours)
+        elif ats == "Workday":
+            found = probe_workday_company(c_name, career_url, max_lookback_hours=lookback_hours)
 
         if found:
             print(f"  [+] {c_name} ({ats}): +{len(found)} fresh role(s)")
@@ -311,7 +415,7 @@ def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 50) ->
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Direct ATS Scraper for Greenhouse, Ashby, and Lever")
+    parser = argparse.ArgumentParser(description="Direct ATS Scraper for Greenhouse, Ashby, Lever, and Workday")
     parser.add_argument("--lookback", type=int, default=48, help="Lookback window in hours (default: 48)")
     parser.add_argument("--limit", type=int, default=100, help="Max companies to scan per run (default: 100)")
     args = parser.parse_args()
