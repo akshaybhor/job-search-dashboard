@@ -432,9 +432,19 @@ EXCLUDED_LOCATIONS = [
     "Latin America",
     "EMEA",
     "DACH",
+    # Foreign offshore tech centers
+    "Hyderabad",
+    "Bengaluru",
+    "Bangalore",
+    "Pune",
+    "Chennai",
+    "Noida",
+    "Gurgaon",
+    "Mumbai",
+    "Delhi",
 ]
 _EXCLUDED_LOCATION_RE = re.compile(
-    r'\b(?:' + "|".join(re.escape(c) for c in EXCLUDED_LOCATIONS) + r'|uk|korea)\b', re.IGNORECASE
+    r'\b(?:' + "|".join(re.escape(c) for c in EXCLUDED_LOCATIONS) + r'|uk|korea)\b|\b-\s*IN\b|---IN', re.IGNORECASE
 )
 
 def is_excluded_company(company: str) -> bool:

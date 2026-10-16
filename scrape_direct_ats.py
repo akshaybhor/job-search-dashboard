@@ -322,7 +322,11 @@ def probe_workday_company(company_name: str, career_url: str, max_lookback_hours
                 continue
 
             loc = posting.get("locationsText", "") or "United States"
-            if is_excluded_location(loc):
+            if re.match(r"^\d+\s+Locations?$", loc, re.I):
+                m_path = re.search(r'/job/([^/]+)/', ext_path)
+                if m_path:
+                    loc = m_path.group(1).replace("---", ", ").replace("-", " ")
+            if is_excluded_location(loc) or is_excluded_location(ext_path.replace("---", " ").replace("-", " ")):
                 continue
 
             job_url = f"{base_url}{ext_path}"
