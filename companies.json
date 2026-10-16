@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16 21:14 UTC",
-  "total_companies": 64,
+  "updated_at": "2026-10-16 22:18 UTC",
+  "total_companies": 66,
   "companies": {
     "accenture-federal-services": {
       "name": "Accenture Federal Services",
@@ -40,7 +40,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 11
+      "total_jobs_seen": 14
     },
     "appfolio": {
       "name": "AppFolio",
@@ -48,7 +48,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "total_jobs_seen": 19
+      "total_jobs_seen": 25
     },
     "arc-institute": {
       "name": "Arc Institute",
@@ -64,7 +64,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 5
+      "total_jobs_seen": 6
     },
     "audiohook": {
       "name": "Audiohook",
@@ -138,12 +138,28 @@
       "last_seen": "2026-10-16",
       "total_jobs_seen": 1
     },
+    "coinbase": {
+      "name": "Coinbase",
+      "career_url": "https://job-boards.greenhouse.io/coinbase",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 2
+    },
     "crusoe": {
       "name": "Crusoe",
       "career_url": "https://jobs.ashbyhq.com/crusoe",
       "ats": "Ashby",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
+      "total_jobs_seen": 1
+    },
+    "divergent": {
+      "name": "Divergent",
+      "career_url": "https://job-boards.greenhouse.io/divergent",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
       "total_jobs_seen": 1
     },
     "e-source": {
@@ -224,7 +240,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 4
     },
     "iambic-therapeutics": {
       "name": "Iambic Therapeutics",
@@ -312,7 +328,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 5
+      "total_jobs_seen": 7
     },
     "otter": {
       "name": "Otter",
@@ -344,7 +360,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "total_jobs_seen": 5
+      "total_jobs_seen": 6
     },
     "plaid": {
       "name": "Plaid",
@@ -408,7 +424,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-15",
-      "total_jobs_seen": 5
+      "total_jobs_seen": 6
     },
     "swarm-aero": {
       "name": "Swarm Aero",
@@ -424,7 +440,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "tatari": {
       "name": "Tatari",
@@ -440,7 +456,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "the-farmers-dog": {
       "name": "The Farmer's Dog",
@@ -504,7 +520,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "total_jobs_seen": 5
+      "total_jobs_seen": 6
     },
     "zoominfo": {
       "name": "ZoomInfo",
@@ -512,7 +528,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     }
   }
 }
