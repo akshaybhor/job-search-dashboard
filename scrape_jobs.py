@@ -859,69 +859,8 @@ def is_recent_posting(job: dict, *, now: datetime | None = None) -> bool:
 # - ashby:      "slug" (used in api.ashbyhq.com/posting-api/job-board/{slug})
 # - lever:      "slug" (used in api.lever.co/v0/postings/{slug}?mode=json)
 # - workday:    "url"  (full /wday/cxs/{tenant}/{site}/jobs endpoint)
-CURATED_BIOTECHS = [
-    # ---- Greenhouse (confirmed via probes) ----
-    {"name": "10x Genomics",         "ats": "greenhouse", "slug": "10xgenomics",       "fallback_location": "Pleasanton, CA"},
-    {"name": "Twist Bioscience",     "ats": "greenhouse", "slug": "twistbioscience",   "fallback_location": "South San Francisco, CA"},
-    {"name": "Maze Therapeutics",    "ats": "greenhouse", "slug": "mazetherapeutics",  "fallback_location": "South San Francisco, CA"},
-    {"name": "Freenome",             "ats": "greenhouse", "slug": "freenome",          "fallback_location": "South San Francisco, CA"},
-    {"name": "Cytokinetics",         "ats": "greenhouse", "slug": "cytokinetics",      "fallback_location": "South San Francisco, CA"},
-    {"name": "Natera",               "ats": "greenhouse", "slug": "natera",            "fallback_location": "San Carlos, CA"},
-    {"name": "Inceptive",            "ats": "greenhouse", "slug": "inceptive",         "fallback_location": "Palo Alto, CA"},
-    {"name": "Atomwise",             "ats": "greenhouse", "slug": "atomwise",          "fallback_location": "San Francisco, CA"},
-    {"name": "Profluent",            "ats": "greenhouse", "slug": "profluent",         "fallback_location": "Berkeley, CA"},
-    {"name": "Eikon Therapeutics",   "ats": "greenhouse", "slug": "eikontherapeutics", "fallback_location": "South San Francisco, CA"},
-    {"name": "Altos Labs",           "ats": "greenhouse", "slug": "altoslabs",         "fallback_location": "Redwood City, CA"},
-    {"name": "Arc Institute",        "ats": "greenhouse", "slug": "arcinstitute",      "fallback_location": "Palo Alto, CA"},
-    {"name": "Caribou Biosciences",  "ats": "greenhouse", "slug": "caribou",           "fallback_location": "Berkeley, CA"},
-    {"name": "Octant Bio",           "ats": "greenhouse", "slug": "octantbio",         "fallback_location": "Emeryville, CA"},
-    {"name": "Chan Zuckerberg Biohub", "ats": "greenhouse", "slug": "biohub",          "fallback_location": "San Francisco, CA"},
-    {"name": "Xaira Therapeutics",   "ats": "greenhouse", "slug": "xairatherapeutics", "fallback_location": "South San Francisco, CA"},
-    {"name": "Isomorphic Labs",      "ats": "greenhouse", "slug": "isomorphiclabs",    "fallback_location": "South San Francisco, CA"},
-    {"name": "Formation Bio",        "ats": "greenhouse", "slug": "formationbio",      "fallback_location": "New York, NY"},
-    {"name": "Septerna",             "ats": "greenhouse", "slug": "septerna",          "fallback_location": "South San Francisco, CA"},
-    {"name": "Calico Life Sciences", "ats": "greenhouse", "slug": "calicolabs",        "fallback_location": "South San Francisco, CA"},
-    {"name": "Ultima Genomics",      "ats": "greenhouse", "slug": "ultimagenomics",    "fallback_location": "Newark, CA"},
-    {"name": "Element Biosciences",  "ats": "greenhouse", "slug": "elementbiosciences", "fallback_location": "San Diego, CA"},
-    # ---- Ashby (confirmed) ----
-    {"name": "Chai Discovery",       "ats": "ashby",      "slug": "chaidiscovery",     "fallback_location": "San Francisco, CA"},
-    # ---- Lever (confirmed) ----
-    {"name": "Karius",               "ats": "lever",      "slug": "kariusdx",          "fallback_location": "Redwood City, CA"},
-    # ---- Workday (confirmed) ----
-    {"name": "Gilead Sciences",      "ats": "workday",
-     "url": "https://gilead.wd1.myworkdayjobs.com/wday/cxs/gilead/gileadcareers/jobs",
-     "fallback_location": "Foster City, CA"},
-    # ---- Big-name biotechs (endpoints verified live 2026-07-16) ----
-    {"name": "Ginkgo Bioworks",      "ats": "greenhouse", "slug": "ginkgobioworks",   "fallback_location": "Boston, MA"},
-    {"name": "Flatiron Health",      "ats": "greenhouse", "slug": "flatironhealth",   "fallback_location": "New York, NY"},
-    {"name": "Benchling",            "ats": "ashby",      "slug": "benchling",        "fallback_location": "San Francisco, CA"},
-    {"name": "Vertex Pharmaceuticals", "ats": "workday",
-     "url": "https://vrtx.wd501.myworkdayjobs.com/wday/cxs/vrtx/Vertex_Careers/jobs",
-     "fallback_location": "Boston, MA"},
-    {"name": "Amgen",                "ats": "workday",
-     "url": "https://amgen.wd1.myworkdayjobs.com/wday/cxs/amgen/careers/jobs",
-     "fallback_location": "Thousand Oaks, CA"},
-    {"name": "Regeneron",            "ats": "workday",
-     "url": "https://regeneron.wd1.myworkdayjobs.com/wday/cxs/regeneron/careers/jobs",
-     "fallback_location": "Tarrytown, NY"},
-    {"name": "Moderna",              "ats": "workday",
-     "url": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/jobs",
-     "fallback_location": "Cambridge, MA"},
-    {"name": "Bristol Myers Squibb", "ats": "workday",
-     "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/wday/cxs/bristolmyerssquibb/BMS/jobs",
-     "fallback_location": "Princeton, NJ"},
-    # ---- Startups added via careers-page sweep (2026-07) ----
-    {"name": "Insitro",              "ats": "ashby",      "slug": "insitro",             "fallback_location": "South San Francisco, CA"},
-    {"name": "Manifold Bio",         "ats": "greenhouse", "slug": "manifoldbio",         "fallback_location": "San Francisco, CA"},
-    {"name": "Relay Therapeutics",   "ats": "greenhouse", "slug": "relaytherapeutics",   "fallback_location": "Cambridge, MA"},
-    {"name": "Nimbus Therapeutics",  "ats": "greenhouse", "slug": "nimbustherapeutics",  "fallback_location": "Boston, MA"},
-    {"name": "Generate Biomedicines", "ats": "greenhouse", "slug": "generatebiomedicines", "fallback_location": "Somerville, MA"},
-    {"name": "Kernal Bio",           "ats": "greenhouse", "slug": "kernalbio",           "fallback_location": "Boston, MA"},
-    {"name": "Dyno Therapeutics",    "ats": "greenhouse", "slug": "dynotherapeutics",    "fallback_location": "Watertown, MA"},
-    # ---- Comp chem/Sci lane (endpoints verified live 2026-07-24) ----
-    {"name": "Aralez Bio",           "ats": "greenhouse", "slug": "aralezbio",           "fallback_location": "Berkeley, CA"},
-    {"name": "Axiom Bio",            "ats": "ashby",      "slug": "axiombio",            "fallback_location": "San Francisco, CA"},
-]
+# Curated direct biotech sweep retired per user preference (software / MLE focus).
+CURATED_BIOTECHS: list[dict] = []
 
 
 def probe_curated_greenhouse(entry: dict) -> list:
@@ -1277,6 +1216,8 @@ def _load_discovered_companies() -> list:
 
 def scrape_curated_biotechs() -> list:
     companies = list(CURATED_BIOTECHS)
+    if not companies:
+        return []
     print(f"🔬 Scraping {len(companies)} curated biotech leaders...")
     all_jobs: list = []
     for entry in companies:
