@@ -314,7 +314,7 @@ def probe_workday_company(company_name: str, career_url: str, max_lookback_hours
             if not ext_path or ext_path in seen:
                 continue
             title = posting.get("title", "")
-            if not is_mle_role(title) or EXCLUDED_SENIORITY_RE.search(title):
+            if not is_mle_role(title) or EXCLUDED_SENIORITY_RE.search(title) or EXCLUDED_CLEARANCE_RE.search(title) or is_dealbreaker_role(title, ""):
                 continue
 
             posted_on = posting.get("postedOn", "")
