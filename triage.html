@@ -1188,14 +1188,16 @@
       const srcBadges = srcs.map(s => {
         const cls = s.toLowerCase().replace(/[\s_]+/g, '-');
         const lbl = s === 'Direct ATS' ? '⚡ Direct ATS' : s;
+        if (s.toLowerCase() === 'linkedin' && (j.url || '').includes('linkedin.com')) {
+          return `<a href="${escape(j.url)}" target="_blank" rel="noopener noreferrer" class="src ${cls}" style="text-decoration:none" title="Open LinkedIn posting">${lbl}</a>`;
+        }
         return `<span class="src ${cls}">${lbl}</span>`;
       }).join('');
       const sal = j._salDisp || j.salary;
       const directApply = getDirectApplyUrl(j);
-      const applyUrl = directApply ? directApply.url : j.url;
       return `<div class="job" data-url="${escape(j.url)}" data-state="${st}" ${isDirectAts ? 'data-source="direct_ats"' : ''}>
         <div class="job-main">
-          <div class="title">${scoreChip(j)}<a href="${escape(applyUrl)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
+          <div class="title">${scoreChip(j)}<a href="${escape(j.url)}" target="_blank" rel="noopener noreferrer" title="Open original listing">${escape(j.title)}</a></div>
           <div class="meta">
             <span class="co">${escape(j.company)}</span>
             ${isDirectAts ? `<span class="tag" style="background:rgba(168,85,247,0.22);color:#c084fc;font-weight:700;border:1px solid rgba(168,85,247,0.45);margin-left:4px" title="Direct from employer ATS (zero LinkedIn middleman)">⚡ Direct ATS</span>` : ''}
