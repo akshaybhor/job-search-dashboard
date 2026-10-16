@@ -351,6 +351,7 @@ EXCLUDED_COMPANIES = [
     "bluepeak consulting",
     "starhaven group",
     "avance consulting",
+    "Jobgether",
     "talent groups",
     "tsr consulting"
 ]
