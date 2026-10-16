@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16 08:21 UTC",
-  "total_companies": 41,
+  "updated_at": "2026-10-16 16:52 UTC",
+  "total_companies": 52,
   "companies": {
     "arc-institute": {
       "name": "Arc Institute",
@@ -234,14 +234,6 @@
       "last_seen": "2026-10-15",
       "total_jobs_seen": 1
     },
-    "jobgether": {
-      "name": "Jobgether",
-      "career_url": "https://jobs.lever.co/jobgether",
-      "ats": "Lever",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
-      "total_jobs_seen": 43
-    },
     "cloudflare": {
       "name": "Cloudflare",
       "career_url": "https://job-boards.greenhouse.io/cloudflare",
@@ -264,7 +256,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "e-source": {
       "name": "E Source",
@@ -328,6 +320,102 @@
       "ats": "Ashby",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
+      "total_jobs_seen": 1
+    },
+    "audiohook": {
+      "name": "Audiohook",
+      "career_url": "https://jobs.ashbyhq.com/audiohook",
+      "ats": "Ashby",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
+    "otter": {
+      "name": "Otter",
+      "career_url": "https://job-boards.greenhouse.io/otter",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
+    "gitlab": {
+      "name": "GitLab",
+      "career_url": "https://job-boards.greenhouse.io/gitlab",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
+    "cognite": {
+      "name": "Cognite",
+      "career_url": "https://job-boards.greenhouse.io/cognite",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
+    "camunda": {
+      "name": "Camunda",
+      "career_url": "https://jobs.ashbyhq.com/camunda",
+      "ats": "Ashby",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
+    "lambda": {
+      "name": "Lambda",
+      "career_url": "https://jobs.ashbyhq.com/lambda",
+      "ats": "Ashby",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
+    "peregrine": {
+      "name": "Peregrine",
+      "career_url": "https://job-boards.greenhouse.io/peregrine",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
+    "nexhealth": {
+      "name": "NexHealth",
+      "career_url": "https://job-boards.greenhouse.io/nexhealth",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
+    "atlas-air": {
+      "name": "Atlas Air",
+      "career_url": "https://job-boards.greenhouse.io/atlasair",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
+    "tatari": {
+      "name": "Tatari",
+      "career_url": "https://job-boards.greenhouse.io/tatari",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
+    "otterai": {
+      "name": "Otter.ai",
+      "career_url": "https://job-boards.greenhouse.io/otterai",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
+    "openai": {
+      "name": "OpenAI",
+      "career_url": "https://jobs.ashbyhq.com/openai",
+      "ats": "Ashby",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
       "total_jobs_seen": 1
     }
   }

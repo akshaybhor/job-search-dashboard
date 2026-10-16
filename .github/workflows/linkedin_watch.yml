@@ -34,6 +34,12 @@ jobs:
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
           NOTIFY_TERMS: ${{ vars.NOTIFY_TERMS }}
 
+      - name: Auto-resolve direct ATS company portals
+        run: python resolve_ats.py --enrich
+
+      - name: Scrape direct ATS career portals (Greenhouse, Ashby, Lever)
+        run: python scrape_direct_ats.py --lookback 48 --limit 100
+
       - name: Record workflow run
         run: |
           python - <<'EOF'
@@ -63,4 +69,4 @@ jobs:
           python ci_commit_push.py \
             --message "chore: update linkedin listings [$(date -u '+%Y-%m-%d %H:%MZ')]" \
             linkedin_jobs.json linkedin_jobs.md linkedin_jobs.html \
-            workflow_runs.jsonl all_jobs.json notified.json
+            workflow_runs.jsonl all_jobs.json notified.json companies.json

@@ -183,11 +183,49 @@ def merge_scores(theirs: str, ours: str) -> str:
     return json.dumps(merged, separators=(",", ":"))
 
 
+def merge_companies(theirs: str, ours: str) -> str:
+    """Union the companies directory by slug/key so concurrent runs don't overwrite additions."""
+    theirs_data, ours_data = _load(theirs, {}), _load(ours, {})
+    theirs_comps = theirs_data.get("companies", {})
+    ours_comps = ours_data.get("companies", {})
+    all_keys = set(theirs_comps.keys()) | set(ours_comps.keys())
+    merged_comps = {}
+    for k in sorted(all_keys):
+        t_c = theirs_comps.get(k)
+        o_c = ours_comps.get(k)
+        if not t_c:
+            merged_comps[k] = o_c
+        elif not o_c:
+            merged_comps[k] = t_c
+        else:
+            merged_entry = dict(t_c)
+            merged_entry.update(o_c)
+            merged_entry["first_seen"] = min(t_c.get("first_seen", "9999"), o_c.get("first_seen", "9999"))
+            merged_entry["last_seen"] = max(t_c.get("last_seen", ""), o_c.get("last_seen", ""))
+            merged_entry["total_jobs_seen"] = max(t_c.get("total_jobs_seen", 1), o_c.get("total_jobs_seen", 1))
+            if t_c.get("ats") in ("Workday", "Greenhouse", "Lever", "Ashby", "iCIMS"):
+                merged_entry["ats"] = t_c["ats"]
+                merged_entry["career_url"] = t_c["career_url"]
+            elif o_c.get("ats") in ("Workday", "Greenhouse", "Lever", "Ashby", "iCIMS"):
+                merged_entry["ats"] = o_c["ats"]
+                merged_entry["career_url"] = o_c["career_url"]
+            merged_comps[k] = merged_entry
+
+    stamps = [d.get("updated_at") for d in (theirs_data, ours_data) if d.get("updated_at")]
+    updated_at = max(stamps) if stamps else datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    return json.dumps({
+        "updated_at": updated_at,
+        "total_companies": len(merged_comps),
+        "companies": merged_comps,
+    }, indent=2)
+
+
 MERGERS = {
     "all_jobs.json": merge_all_jobs,
     "notified.json": merge_notified,
     "workflow_runs.jsonl": merge_jsonl,
     "scores.json": merge_scores,
+    "companies.json": merge_companies,
 }
 
 

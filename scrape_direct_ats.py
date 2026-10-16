@@ -313,7 +313,7 @@ def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 50) ->
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Direct ATS Scraper for Greenhouse, Ashby, and Lever")
     parser.add_argument("--lookback", type=int, default=48, help="Lookback window in hours (default: 48)")
-    parser.add_argument("--limit", type=int, default=50, help="Max companies to scan per run (default: 50)")
+    parser.add_argument("--limit", type=int, default=100, help="Max companies to scan per run (default: 100)")
     args = parser.parse_args()
 
     run_direct_ats_scraper(lookback_hours=args.lookback, max_companies=args.limit)

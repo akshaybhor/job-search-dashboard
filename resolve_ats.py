@@ -17,6 +17,12 @@ from company_directory import (
     save_company_directory,
     normalize_company_key,
 )
+try:
+    from scrape_jobs import is_excluded_company
+except ImportError:
+    def is_excluded_company(name: str) -> bool:
+        return False
+
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
@@ -96,6 +102,8 @@ def resolve_direct_ats(company_name: str, job_title: str) -> tuple[str, str, str
     Attempts to discover direct ATS application link for a company and title.
     Returns (direct_url, ats_platform, root_career_url).
     """
+    if not company_name or is_excluded_company(company_name):
+        return "", "", ""
     slugs = slugify_company(company_name)
     if not slugs:
         return "", "", ""
@@ -188,7 +196,7 @@ def enrich_jobs(all_jobs_path: str = None, max_companies: int = 50) -> int:
     seen_companies = set()
     for j in jobs:
         c_name = j.get("company", "").strip()
-        if not c_name or c_name.lower() == "unknown" or c_name in seen_companies:
+        if not c_name or c_name.lower() == "unknown" or c_name in seen_companies or is_excluded_company(c_name):
             continue
         seen_companies.add(c_name)
 

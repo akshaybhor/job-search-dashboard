@@ -165,6 +165,7 @@ EXCLUDED_COMPANIES = [
     "crewlia", 
     "enhance it",
     "jobright.ai",
+    "jobgether",
     # Missed from your screenshot:
     "micro1",       # Spams "AI/ML Engineer, Internal Platforms" globally
     "webbocket",    # Spams intern/junior roles globally from India
@@ -1276,15 +1277,7 @@ def _load_discovered_companies() -> list:
 
 def scrape_curated_biotechs() -> list:
     companies = list(CURATED_BIOTECHS)
-    known = {e["name"].strip().lower() for e in companies}
-    for e in _load_discovered_companies():
-        name = (e.get("name") or "").strip()
-        if name and e.get("ats") and name.lower() not in known:
-            companies.append(e)
-            known.add(name.lower())
-    n_disc = len(companies) - len(CURATED_BIOTECHS)
-    print(f"🔬 Scraping {len(companies)} biotechs "
-          f"({len(CURATED_BIOTECHS)} curated + {n_disc} discovered)...")
+    print(f"🔬 Scraping {len(companies)} curated biotech leaders...")
     all_jobs: list = []
     for entry in companies:
         if entry["ats"] == "greenhouse":
