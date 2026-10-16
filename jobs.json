@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-15 08:23 UTC",
+  "scraped_at": "2026-10-16 08:19 UTC",
   "total": 100,
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Twist Bioscience",
@@ -46,8 +46,8 @@
     {
       "company": "Natera",
       "title": "Senior Manager of Software Engineering & DevOps (DSPE)",
-      "location": "San Carlos, CA",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6148527004",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6137673004",
       "date_posted": "2026-10-12",
       "ats": "Greenhouse"
     },
@@ -208,15 +208,7 @@
       "title": "Senior Manager, Machine Learning Platform Engineer",
       "location": "United States - California - Foster City",
       "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Senior-Manager--Machine-Learning-Platform-Engineer_R0054104-2",
-      "date_posted": "Posted 23 Days Ago",
-      "ats": "Workday"
-    },
-    {
-      "company": "Gilead Sciences",
-      "title": "Intern - CFO - IT (AI Engineer)",
-      "location": "United States - North Carolina - Raleigh",
-      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744",
-      "date_posted": "Posted 30+ Days Ago",
+      "date_posted": "Posted 24 Days Ago",
       "ats": "Workday"
     },
     {
@@ -352,6 +344,14 @@
       "title": "Specialist Software Engineer",
       "location": "US - California - Thousand Oaks",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Specialist-Software-Engineer_R-255466",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday"
+    },
+    {
+      "company": "Amgen",
+      "title": "Full Stack Software Engineer",
+      "location": "US - California - Thousand Oaks",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Full-Stack-Software-Engineer_R-216946",
       "date_posted": "Posted Yesterday",
       "ats": "Workday"
     },
@@ -368,7 +368,7 @@
       "title": "Senior Manufacturing Systems Engineer (DeltaV/PLC)",
       "location": "US - California - Thousand Oaks",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Senior-Manufacturing-Systems-Engineer--DeltaV-PLC-_R-256106",
-      "date_posted": "Posted 23 Days Ago",
+      "date_posted": "Posted 24 Days Ago",
       "ats": "Workday"
     },
     {
@@ -376,7 +376,7 @@
       "title": "Senior Machine Learning Engineer",
       "location": "United States - Remote",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Senior-Machine-Learning-Engineer_R-256345",
-      "date_posted": "Posted 16 Days Ago",
+      "date_posted": "Posted 17 Days Ago",
       "ats": "Workday"
     },
     {
@@ -480,7 +480,7 @@
       "title": "Software Engineer, AI Engineering and Enablement",
       "location": "Seattle 400 Dexter - WA",
       "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA/Software-Engineer--AI-Engineering-and-Enablement_R1604359-1",
-      "date_posted": "Posted 15 Days Ago",
+      "date_posted": "Posted 16 Days Ago",
       "ats": "Workday"
     },
     {
@@ -804,5 +804,22 @@
       "ats": "Greenhouse"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Natera",
+      "title": "Senior Manager of Software Engineering & DevOps (DSPE)",
+      "location": "US Remote",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6137673004",
+      "date_posted": "2026-10-12",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Amgen",
+      "title": "Full Stack Software Engineer",
+      "location": "US - California - Thousand Oaks",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Full-Stack-Software-Engineer_R-216946",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday"
+    }
+  ]
 }

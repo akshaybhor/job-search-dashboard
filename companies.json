@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15 08:25 UTC",
-  "total_companies": 32,
+  "updated_at": "2026-10-16 08:21 UTC",
+  "total_companies": 41,
   "companies": {
     "arc-institute": {
       "name": "Arc Institute",
@@ -39,8 +39,8 @@
       "career_url": "https://amgen.wd1.myworkdayjobs.com/careers",
       "ats": "Workday",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
-      "total_jobs_seen": 4
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 5
     },
     "natera": {
       "name": "Natera",
@@ -48,7 +48,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-12",
-      "total_jobs_seen": 16
+      "total_jobs_seen": 17
     },
     "bristol-myers-squibb": {
       "name": "Bristol Myers Squibb",
@@ -152,7 +152,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
-      "total_jobs_seen": 6
+      "total_jobs_seen": 7
     },
     "ensco": {
       "name": "ENSCO, Inc.",
@@ -176,7 +176,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 4
     },
     "tower-research-capital": {
       "name": "Tower Research Capital",
@@ -192,7 +192,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
-      "total_jobs_seen": 5
+      "total_jobs_seen": 6
     },
     "ripple": {
       "name": "Ripple",
@@ -224,7 +224,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "mozilla": {
       "name": "Mozilla",
@@ -239,8 +239,8 @@
       "career_url": "https://jobs.lever.co/jobgether",
       "ats": "Lever",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "total_jobs_seen": 16
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 43
     },
     "cloudflare": {
       "name": "Cloudflare",
@@ -256,7 +256,79 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-15",
+      "total_jobs_seen": 3
+    },
+    "flex": {
+      "name": "Flex",
+      "career_url": "https://job-boards.greenhouse.io/flex",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
       "total_jobs_seen": 2
+    },
+    "e-source": {
+      "name": "E Source",
+      "career_url": "https://jobs.ashbyhq.com/e-source",
+      "ats": "Ashby",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
+    "swarm-aero": {
+      "name": "Swarm Aero",
+      "career_url": "https://jobs.ashbyhq.com/swarmaero",
+      "ats": "Ashby",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "total_jobs_seen": 1
+    },
+    "hp": {
+      "name": "HP",
+      "career_url": "https://job-boards.greenhouse.io/hp",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "total_jobs_seen": 1
+    },
+    "appfolio": {
+      "name": "AppFolio",
+      "career_url": "https://jobs.ashbyhq.com/appfolio",
+      "ats": "Ashby",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "total_jobs_seen": 7
+    },
+    "temporal": {
+      "name": "Temporal Technologies",
+      "career_url": "https://jobs.ashbyhq.com/temporal",
+      "ats": "Ashby",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "total_jobs_seen": 2
+    },
+    "g2it": {
+      "name": "G2IT, LLC.",
+      "career_url": "https://job-boards.greenhouse.io/g2it",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "total_jobs_seen": 1
+    },
+    "wayve": {
+      "name": "Wayve",
+      "career_url": "https://jobs.ashbyhq.com/wayve",
+      "ats": "Ashby",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "total_jobs_seen": 3
+    },
+    "post": {
+      "name": "Post Holdings",
+      "career_url": "https://jobs.ashbyhq.com/post",
+      "ats": "Ashby",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "total_jobs_seen": 1
     }
   }
 }
