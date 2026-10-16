@@ -1,10 +1,18 @@
 {
-  "updated_at": "2026-10-16 18:54 UTC",
-  "total_companies": 59,
+  "updated_at": "2026-10-16 21:14 UTC",
+  "total_companies": 64,
   "companies": {
     "accenture-federal-services": {
       "name": "Accenture Federal Services",
       "career_url": "https://job-boards.greenhouse.io/accenturefederalservices",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
+    "advanced-space": {
+      "name": "Advanced Space",
+      "career_url": "https://job-boards.greenhouse.io/advancedspace",
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
@@ -32,7 +40,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 8
+      "total_jobs_seen": 11
     },
     "appfolio": {
       "name": "AppFolio",
@@ -40,7 +48,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "total_jobs_seen": 13
+      "total_jobs_seen": 19
     },
     "arc-institute": {
       "name": "Arc Institute",
@@ -56,7 +64,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "audiohook": {
       "name": "Audiohook",
@@ -86,6 +94,14 @@
       "name": "Camunda",
       "career_url": "https://jobs.ashbyhq.com/camunda",
       "ats": "Ashby",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
+    "carbon": {
+      "name": "Carbon",
+      "career_url": "https://job-boards.greenhouse.io/carbon",
+      "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
       "total_jobs_seen": 1
@@ -208,7 +224,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "iambic-therapeutics": {
       "name": "Iambic Therapeutics",
@@ -216,6 +232,14 @@
       "ats": "Ashby",
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25",
+      "total_jobs_seen": 1
+    },
+    "icon": {
+      "name": "ICON plc",
+      "career_url": "https://jobs.ashbyhq.com/icon",
+      "ats": "Ashby",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
       "total_jobs_seen": 1
     },
     "immunai": {
@@ -288,7 +312,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 5
     },
     "otter": {
       "name": "Otter",
@@ -320,7 +344,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "plaid": {
       "name": "Plaid",
@@ -370,8 +394,8 @@
       "last_seen": "2026-10-14",
       "total_jobs_seen": 7
     },
-    "schrödinger": {
-      "name": "Schrödinger",
+    "schr\u00f6dinger": {
+      "name": "Schr\u00f6dinger",
       "career_url": "https://job-boards.greenhouse.io/schrdinger",
       "ats": "Greenhouse",
       "first_seen": "2026-09-30",
@@ -384,7 +408,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-15",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "swarm-aero": {
       "name": "Swarm Aero",
@@ -393,6 +417,14 @@
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
       "total_jobs_seen": 1
+    },
+    "taboola": {
+      "name": "Taboola",
+      "career_url": "https://job-boards.greenhouse.io/taboola",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 2
     },
     "tatari": {
       "name": "Tatari",
@@ -408,7 +440,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 4
     },
     "the-farmers-dog": {
       "name": "The Farmer's Dog",
@@ -442,6 +474,14 @@
       "last_seen": "2026-09-28",
       "total_jobs_seen": 1
     },
+    "vast": {
+      "name": "Vast",
+      "career_url": "https://job-boards.greenhouse.io/vast",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
     "vaxcyte": {
       "name": "Vaxcyte, Inc.",
       "career_url": "https://boards.greenhouse.io/vaxcyte",
@@ -464,7 +504,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "zoominfo": {
       "name": "ZoomInfo",
@@ -472,7 +512,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 1
+      "total_jobs_seen": 2
     }
   }
 }
