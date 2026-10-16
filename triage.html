@@ -928,7 +928,9 @@
   // lookback makes "first seen within the hour" ≈ "posted within the hour".
   function jobFreshMs(j) {
     if (j.first_seen) {
-      const t = Date.parse(j.first_seen);
+      let fs = String(j.first_seen).trim();
+      if (fs.includes(' ') && !fs.includes('T')) fs = fs.replace(' ', 'T') + 'Z';
+      const t = Date.parse(fs);
       if (!isNaN(t)) return t;
     }
     return jobDateMs(j);
@@ -959,7 +961,7 @@
       if (!filters.state.has(st)) return false;
     }
     if (except !== 'days' && filters.days != null) {
-      const t = filters.days < 1 ? jobFreshMs(j) : jobDateMs(j);
+      const t = filters.days <= 1 ? jobFreshMs(j) : jobDateMs(j);
       if (t == null || t < Date.now() - filters.days * 86400000) return false;
     }
     if (except !== 'salary' && filters.salMin > 0) {
@@ -1024,7 +1026,7 @@
       const ct = VIEW.filter(j => {
         if (!matchesFilters(j, 'days')) return false;   // honor Source/Role/Seniority/Show/search
         if (days == null) return true;
-        const t = days < 1 ? jobFreshMs(j) : jobDateMs(j);
+        const t = days <= 1 ? jobFreshMs(j) : jobDateMs(j);
         return t != null && t >= Date.now() - days * 86400000;
       }).length;
       const active = filters.days === days;
