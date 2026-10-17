@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17 19:29 UTC",
-  "total_companies": 108,
+  "updated_at": "2026-10-17 22:24 UTC",
+  "total_companies": 109,
   "companies": {
     "accenture-federal-services": {
       "name": "Accenture Federal Services",
@@ -56,7 +56,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-17",
-      "total_jobs_seen": 29
+      "total_jobs_seen": 30
     },
     "appfolio": {
       "name": "AppFolio",
@@ -96,7 +96,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 14
+      "total_jobs_seen": 15
     },
     "audiohook": {
       "name": "Audiohook",
@@ -162,13 +162,21 @@
       "last_seen": "2026-10-16",
       "total_jobs_seen": 1
     },
+    "career-team": {
+      "name": "Career Team",
+      "career_url": "https://job-boards.greenhouse.io/careerteam",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "total_jobs_seen": 1
+    },
     "carta": {
       "name": "Carta",
       "career_url": "https://job-boards.greenhouse.io/carta",
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 7
+      "total_jobs_seen": 8
     },
     "chai-discovery": {
       "name": "Chai Discovery",
@@ -224,7 +232,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 10
+      "total_jobs_seen": 11
     },
     "companycam": {
       "name": "CompanyCam",
@@ -232,7 +240,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 9
+      "total_jobs_seen": 10
     },
     "concurrence": {
       "name": "Concurrence",
@@ -240,7 +248,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 6
+      "total_jobs_seen": 7
     },
     "crexi": {
       "name": "Crexi",
@@ -312,7 +320,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-17",
-      "total_jobs_seen": 6
+      "total_jobs_seen": 7
     },
     "fleetpulse": {
       "name": "FleetPulse",
@@ -400,7 +408,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 12
+      "total_jobs_seen": 13
     },
     "iambic-therapeutics": {
       "name": "Iambic Therapeutics",
@@ -464,7 +472,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-17",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 5
     },
     "mercury": {
       "name": "Mercury",
@@ -528,7 +536,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 30
+      "total_jobs_seen": 33
     },
     "optimum": {
       "name": "Optimum",
@@ -608,7 +616,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 9
+      "total_jobs_seen": 10
     },
     "qualtrics": {
       "name": "Qualtrics",
@@ -672,7 +680,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-17",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "rocket-lab": {
       "name": "Rocket Lab",
@@ -728,7 +736,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 11
+      "total_jobs_seen": 12
     },
     "tatari": {
       "name": "Tatari",
@@ -824,7 +832,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 7
+      "total_jobs_seen": 8
     },
     "vitalize": {
       "name": "Vitalize",
@@ -840,7 +848,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-17",
-      "total_jobs_seen": 6
+      "total_jobs_seen": 7
     },
     "wayve": {
       "name": "Wayve",
@@ -864,7 +872,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 11
+      "total_jobs_seen": 12
     }
   }
 }
