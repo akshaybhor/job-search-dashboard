@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16 23:40 UTC",
-  "total_companies": 69,
+  "updated_at": "2026-10-17 00:44 UTC",
+  "total_companies": 73,
   "companies": {
     "accenture-federal-services": {
       "name": "Accenture Federal Services",
@@ -39,8 +39,8 @@
       "career_url": "https://amgen.wd1.myworkdayjobs.com/careers",
       "ats": "Workday",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-16",
-      "total_jobs_seen": 17
+      "last_seen": "2026-10-17",
+      "total_jobs_seen": 20
     },
     "appfolio": {
       "name": "AppFolio",
@@ -48,7 +48,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "total_jobs_seen": 31
+      "total_jobs_seen": 37
     },
     "arc-institute": {
       "name": "Arc Institute",
@@ -58,13 +58,21 @@
       "last_seen": "2026-10-12",
       "total_jobs_seen": 8
     },
+    "astroscale-us": {
+      "name": "Astroscale U.S.",
+      "career_url": "https://jobs.ashbyhq.com/astroscale-us",
+      "ats": "Ashby",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
     "atlas-air": {
       "name": "Atlas Air",
       "career_url": "https://job-boards.greenhouse.io/atlasair",
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 7
+      "total_jobs_seen": 8
     },
     "audiohook": {
       "name": "Audiohook",
@@ -144,7 +152,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 4
     },
     "companycam": {
       "name": "CompanyCam",
@@ -152,7 +160,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "crusoe": {
       "name": "Crusoe",
@@ -169,6 +177,14 @@
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
       "total_jobs_seen": 1
+    },
+    "docker": {
+      "name": "Docker, Inc",
+      "career_url": "https://jobs.ashbyhq.com/docker",
+      "ats": "Ashby",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 2
     },
     "e-source": {
       "name": "E Source",
@@ -201,6 +217,14 @@
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-15",
       "total_jobs_seen": 2
+    },
+    "fullstack": {
+      "name": "FullStack",
+      "career_url": "https://jobs.ashbyhq.com/fullstack",
+      "ats": "Ashby",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
     },
     "g2it": {
       "name": "G2IT, LLC.",
@@ -248,7 +272,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 5
+      "total_jobs_seen": 6
     },
     "iambic-therapeutics": {
       "name": "Iambic Therapeutics",
@@ -336,7 +360,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 9
+      "total_jobs_seen": 12
     },
     "otter": {
       "name": "Otter",
@@ -400,7 +424,15 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
+    },
+    "qualtrics": {
+      "name": "Qualtrics",
+      "career_url": "https://job-boards.greenhouse.io/qualtrics",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
     },
     "riot-games": {
       "name": "Riot Games",
@@ -464,7 +496,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "tatari": {
       "name": "Tatari",
@@ -480,7 +512,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "total_jobs_seen": 6
+      "total_jobs_seen": 7
     },
     "the-farmers-dog": {
       "name": "The Farmer's Dog",
@@ -544,7 +576,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "total_jobs_seen": 7
+      "total_jobs_seen": 8
     },
     "zoominfo": {
       "name": "ZoomInfo",
@@ -552,7 +584,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     }
   }
 }
