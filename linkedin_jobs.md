@@ -1,44 +1,36 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-18 04:56 UTC*
+*Last updated: 2026-10-18 05:57 UTC*
 
-**10 new role(s)** since last run · 10 total in last 2h
+**8 new role(s)** since last run · 10 total in last 2h
 
-### [Senior Software Engineer — WPT Home (Full-Stack)](https://www.linkedin.com/jobs/view/4480863691/) — Bellota Labs
-- 📍 **Location:** Redwood City, CA (Remote)
+### [Software Engineer -2 (Full - Stack : Vue.js and .Net )](https://www.linkedin.com/jobs/view/4480873365/) — U.S. Bank
+- 📍 **Location:** Hopkins, MN (Remote)
 - 🕒 **Posted:** 2026-10-17
 
-### [Senior System Software Engineer, Display Security](https://www.linkedin.com/jobs/view/4479912344/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA (Remote)
+### [Software Engineer -2 (Full - Stack : Vue.js and .Net )](https://www.linkedin.com/jobs/view/4480859864/) — U.S. Bank
+- 📍 **Location:** Atlanta, GA (Remote)
 - 🕒 **Posted:** 2026-10-17
 
-### [Senior Java Backend Developer – AWS / Microservices](https://www.linkedin.com/jobs/view/4480566470/) — Delta Computer Consulting
-- 📍 **Location:** Los Angeles Metropolitan Area (Remote)
+### [Software Engineer II - UI/UX (Qt/QML)](https://www.linkedin.com/jobs/view/4477815005/) — Medtronic
+- 📍 **Location:** Newton, MA (Remote)
 - 🕒 **Posted:** 2026-10-17
 
-### [Java Big Data Engineer](https://www.linkedin.com/jobs/view/4480872187/) — ZVST Cloud Technologies, Inc.,
-- 📍 **Location:** Manchester, MO (Remote)
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4480877280/) — Remedy Scientific Inc.
+- 📍 **Location:** Oakland, CA (Remote)
 - 🕒 **Posted:** 2026-10-17
 
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4480861617/) — Empower AI
+### [Retail Systems Engineer (HYBRID)](https://www.linkedin.com/jobs/view/4479925009/) — The Fresh Market
+- 📍 **Location:** Greensboro, NC (Remote)
+- 🕒 **Posted:** 2026-10-17
+
+### [Global Facilities & Critical Systems Engineer,](https://www.linkedin.com/jobs/view/4480867594/) — Baxter International Inc.
+- 📍 **Location:** Deerfield, IL (Remote)
+- 🕒 **Posted:** 2026-10-17
+
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4478202518/) — Textron
+- 📍 **Location:** Fort Worth, TX (Remote)
+- 🕒 **Posted:** 2026-10-17
+
+### [ML Engineer | $120/hr | Remote](https://www.linkedin.com/jobs/view/4479924010/) — The Ai Training Company
 - 📍 **Location:** United States (Remote)
-- 🕒 **Posted:** 2026-10-17
-
-### [Machine Learning Engineer, GeForce G-Assist](https://www.linkedin.com/jobs/view/4479916110/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA (Remote)
-- 🕒 **Posted:** 2026-10-17
-
-### [Data Engineer, Finance (R6329)](https://www.linkedin.com/jobs/view/4480866448/) — Shield AI
-- 📍 **Location:** San Diego, CA (Remote)
-- 🕒 **Posted:** 2026-10-17
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4479914413/) — Western Natural Resources
-- 📍 **Location:** Oklahoma City, OK (Remote)
-- 🕒 **Posted:** 2026-10-17
-
-### [Senior Data Engineer- Databricks/PySpark/Python/SQL](https://www.linkedin.com/jobs/view/4479900836/) — Innovya Technologies
-- 📍 **Location:** Pasadena, CA (Remote)
-- 🕒 **Posted:** 2026-10-17
-
-### [Sr. Data Engineer(ETL Focus) – Covington, KY (Onsite)](https://www.linkedin.com/jobs/view/4478211014/) — Digipulse Technologies Inc.
-- 📍 **Location:** Kentucky, United States (Remote)
 - 🕒 **Posted:** 2026-10-17
