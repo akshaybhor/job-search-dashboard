@@ -1,193 +1,13 @@
 {
-  "scraped_at": "2026-10-18 19:33 UTC",
-  "total": 44,
-  "new_count": 43,
+  "scraped_at": "2026-10-18 20:47 UTC",
+  "total": 24,
+  "new_count": 12,
   "jobs": [
-    {
-      "company": "The Malwin Company",
-      "title": "Senior Software Engineer, Aerospace Test Equipment",
-      "location": "Enfield, CT",
-      "url": "https://www.linkedin.com/jobs/view/4471935983/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, CUDA UMD - Graphs and GPU Sharing",
-      "location": "Santa Clara, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4395470524/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior System Software Engineer - Dynamo-Triton Inference Server",
-      "location": "Seattle, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4395469595/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Sr. Software Engineer V - (E5)",
-      "location": "Billerica, MA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4470574157/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
     {
       "company": "Amentum",
       "title": "Journeyman Software Engineer",
       "location": "Dahlgren, VA (Remote)",
       "url": "https://www.linkedin.com/jobs/view/4444975654/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "ICE",
-      "title": "Senior C++ Developer",
-      "location": "Atlanta, GA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4443963816/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Enlighten",
-      "title": "Senior Software Engineer (Hybrid) - 27718",
-      "location": "Columbia, MD (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4398301087/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Vantor",
-      "title": "Senior Software Engineer (Hybrid)",
-      "location": "Washington, DC (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4454578614/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Vantor",
-      "title": "Senior Software Engineer (Hybrid)",
-      "location": "Arlington, VA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4454561702/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Enlighten",
-      "title": "Software Engineer (Hybrid) - 26938",
-      "location": "Columbia, MD (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4368481305/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Mission Technologies, a division of HII",
-      "title": "Software Engineer (Hybrid) - 26938",
-      "location": "Columbia, MD (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4368060613/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "SLB",
-      "title": "Back End Software Engineer",
-      "location": "Houston, TX (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4406471228/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Gormat",
-      "title": "Sr. Systems Engineer",
-      "location": "Annapolis Junction, MD (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480912477/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "BAE Systems, Inc.",
-      "title": "EOIR Systems Engineering Lead",
-      "location": "Merrimack, NH (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4451283272/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "L3Harris Technologies",
-      "title": "Specialist, Systems Engineer",
-      "location": "Salt Lake City, UT (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4455108018/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Amentum",
-      "title": "Supervising Systems Engineer I",
-      "location": "Englewood, CO (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4444980302/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Red Cedar Consultancy, LLC",
-      "title": "Software Systems Engineer",
-      "location": "Randolph Air Force Base, TX (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480920169/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Hardware Systems Application Engineer - CSP",
-      "location": "Santa Clara, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4395477339/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior HPC and Quantum Systems Engineer",
-      "location": "New Hampshire, United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4453265664/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Nerd Up Staffing",
-      "title": "Systems Engineer, Navy Missile Defense | C++, DOORS, V&V | No Layoffs in Nearly 20 Years",
-      "location": "Mount Laurel, NJ (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4477352444/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, C++ and CUDA - Analytics and Data Intelligence",
-      "location": "Texas, United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4453939536/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
@@ -202,28 +22,55 @@
       "remote": true
     },
     {
-      "company": "HuntingCube",
-      "title": "Senior Backend Engineer",
-      "location": "United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480911402/",
+      "company": "Reflexive Concepts",
+      "title": "Cloud Software Engineer II",
+      "location": "Annapolis Junction, MD (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4480910550/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Esri",
-      "title": "C/C++ Software Development Engineer II",
-      "location": "Redlands, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4417031524/",
+      "company": "Erias Ventures",
+      "title": "Enterprise - Cloud Software Engineer - Java, Cloud, MapReduce",
+      "location": "Annapolis Junction, MD (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4480913524/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Samsung Semiconductor",
-      "title": "Senior Software Engineer, Simulator Development",
-      "location": "San Jose, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4442914279/",
+      "company": "Mastercard",
+      "title": "Lead Software Engineer",
+      "location": "Atlanta, GA (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4451709352/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Gormat",
+      "title": "Sr. Systems Engineer",
+      "location": "Annapolis Junction, MD (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4480912477/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Red Cedar Consultancy, LLC",
+      "title": "Software Systems Engineer",
+      "location": "Randolph Air Force Base, TX (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4480920169/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Leonardo DRS",
+      "title": "Senior Software Engineer - Embedded",
+      "location": "Dallas, TX (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4478233578/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
@@ -238,55 +85,19 @@
       "remote": true
     },
     {
-      "company": "Hexcel Corporation",
-      "title": "Senior Azure Cloud Engineer",
-      "location": "Salt Lake City Metropolitan Area (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4463664159/",
+      "company": "Knowledge Builders Inc",
+      "title": "HBITS-08-15062-Cloud Engineer- Mid-Level",
+      "location": "New York, NY (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4480914514/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "SAIC",
-      "title": "Systems Engineer - Platform",
-      "location": "Springfield, VA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4444968949/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior System Software Engineer, Software Defined Networking",
-      "location": "California, United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4453758183/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Reflexive Concepts",
-      "title": "Cloud Software Engineer II",
-      "location": "Annapolis Junction, MD (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480910550/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Vantor",
-      "title": "Geospatial Platform Engineer",
-      "location": "McLean, VA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4427058843/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Corewell Health",
-      "title": "Data Engineer",
-      "location": "Grand Rapids, MI (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4479936553/",
+      "company": "Apollo Solutions",
+      "title": "Senior Cloud Engineer",
+      "location": "New York, United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4478227817/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
@@ -301,10 +112,10 @@
       "remote": true
     },
     {
-      "company": "Themesoft Inc.",
-      "title": "Data Engineer with Databricks",
-      "location": "Wilmington, DE (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480920052/",
+      "company": "Textron",
+      "title": "Data Engineer II",
+      "location": "Fort Worth, TX (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4478237421/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
@@ -319,15 +130,6 @@
       "remote": true
     },
     {
-      "company": "Invesco",
-      "title": "Senior Data Engineer",
-      "location": "Atlanta, GA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4445248871/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
       "company": "Clear Street",
       "title": "Senior Data Engineer",
       "location": "United States (Remote)",
@@ -337,19 +139,28 @@
       "remote": true
     },
     {
-      "company": "Genentech",
-      "title": "Senior Software Engineer, Research Biology",
-      "location": "South San Francisco, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4398007920/",
+      "company": "Collectiv",
+      "title": "Data Engineer (Azure, Fabric, Databricks)",
+      "location": "Chicago, IL (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4479931833/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "PURE Insurance",
-      "title": "Senior AI Engineer",
-      "location": "White Plains, NY (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4445280001/",
+      "company": "Caterpillar Inc.",
+      "title": "Senior Data Engineer",
+      "location": "Chicago, IL (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4478588713/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Virtusa",
+      "title": "Lead Software Engineer",
+      "location": "New York, United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4475678021/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
@@ -373,10 +184,28 @@
       "remote": true
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior SOCD Applied AI Engineer",
-      "location": "Santa Clara, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4435009202/",
+      "company": "Gormat",
+      "title": "AI/ML Engineer, SME",
+      "location": "Annapolis Junction, MD (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4480918286/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Collectiv",
+      "title": "AI Engineer, Forward Deployed (Claude)",
+      "location": "Chicago, IL (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4479927950/",
+      "date_posted": "2026-10-18",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Collectiv",
+      "title": "AI Engineer, Forward Deployed (Copilot and Azure AI Foundry)",
+      "location": "Chicago, IL (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4479944414/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
@@ -386,15 +215,6 @@
       "title": "Senior Machine Learning Engineer",
       "location": "Washington, DC (Remote)",
       "url": "https://www.linkedin.com/jobs/view/4463613037/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "SAIC",
-      "title": "Senior AI Systems Engineer",
-      "location": "Chantilly, VA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4409160896/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
@@ -402,388 +222,109 @@
   ],
   "new_jobs": [
     {
-      "company": "The Malwin Company",
-      "title": "Senior Software Engineer, Aerospace Test Equipment",
-      "location": "Enfield, CT",
-      "url": "https://www.linkedin.com/jobs/view/4471935983/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, CUDA UMD - Graphs and GPU Sharing",
-      "location": "Santa Clara, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4395470524/",
+      "company": "Erias Ventures",
+      "title": "Enterprise - Cloud Software Engineer - Java, Cloud, MapReduce",
+      "location": "Annapolis Junction, MD (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4480913524/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior System Software Engineer - Dynamo-Triton Inference Server",
-      "location": "Seattle, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4395469595/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Sr. Software Engineer V - (E5)",
-      "location": "Billerica, MA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4470574157/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Amentum",
-      "title": "Journeyman Software Engineer",
-      "location": "Dahlgren, VA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4444975654/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "ICE",
-      "title": "Senior C++ Developer",
+      "company": "Mastercard",
+      "title": "Lead Software Engineer",
       "location": "Atlanta, GA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4443963816/",
+      "url": "https://www.linkedin.com/jobs/view/4451709352/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Enlighten",
-      "title": "Senior Software Engineer (Hybrid) - 27718",
-      "location": "Columbia, MD (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4398301087/",
+      "company": "Leonardo DRS",
+      "title": "Senior Software Engineer - Embedded",
+      "location": "Dallas, TX (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4478233578/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Vantor",
-      "title": "Senior Software Engineer (Hybrid)",
-      "location": "Washington, DC (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4454578614/",
+      "company": "Knowledge Builders Inc",
+      "title": "HBITS-08-15062-Cloud Engineer- Mid-Level",
+      "location": "New York, NY (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4480914514/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Vantor",
-      "title": "Senior Software Engineer (Hybrid)",
-      "location": "Arlington, VA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4454561702/",
+      "company": "Apollo Solutions",
+      "title": "Senior Cloud Engineer",
+      "location": "New York, United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4478227817/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Enlighten",
-      "title": "Software Engineer (Hybrid) - 26938",
-      "location": "Columbia, MD (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4368481305/",
+      "company": "Textron",
+      "title": "Data Engineer II",
+      "location": "Fort Worth, TX (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4478237421/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Mission Technologies, a division of HII",
-      "title": "Software Engineer (Hybrid) - 26938",
-      "location": "Columbia, MD (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4368060613/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "SLB",
-      "title": "Back End Software Engineer",
-      "location": "Houston, TX (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4406471228/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Gormat",
-      "title": "Sr. Systems Engineer",
-      "location": "Annapolis Junction, MD (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480912477/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "BAE Systems, Inc.",
-      "title": "EOIR Systems Engineering Lead",
-      "location": "Merrimack, NH (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4451283272/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "L3Harris Technologies",
-      "title": "Specialist, Systems Engineer",
-      "location": "Salt Lake City, UT (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4455108018/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Amentum",
-      "title": "Supervising Systems Engineer I",
-      "location": "Englewood, CO (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4444980302/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Red Cedar Consultancy, LLC",
-      "title": "Software Systems Engineer",
-      "location": "Randolph Air Force Base, TX (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480920169/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Hardware Systems Application Engineer - CSP",
-      "location": "Santa Clara, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4395477339/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior HPC and Quantum Systems Engineer",
-      "location": "New Hampshire, United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4453265664/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Nerd Up Staffing",
-      "title": "Systems Engineer, Navy Missile Defense | C++, DOORS, V&V | No Layoffs in Nearly 20 Years",
-      "location": "Mount Laurel, NJ (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4477352444/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, C++ and CUDA - Analytics and Data Intelligence",
-      "location": "Texas, United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4453939536/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "AgileGrid Solutions",
-      "title": "Sr. C++ Backend Engineer",
-      "location": "United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480904885/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "HuntingCube",
-      "title": "Senior Backend Engineer",
-      "location": "United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480911402/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Esri",
-      "title": "C/C++ Software Development Engineer II",
-      "location": "Redlands, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4417031524/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Samsung Semiconductor",
-      "title": "Senior Software Engineer, Simulator Development",
-      "location": "San Jose, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4442914279/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "deciBel Research, Inc.",
-      "title": "Software Developer",
-      "location": "Huntsville, AL (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480920188/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Hexcel Corporation",
-      "title": "Senior Azure Cloud Engineer",
-      "location": "Salt Lake City Metropolitan Area (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4463664159/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "SAIC",
-      "title": "Systems Engineer - Platform",
-      "location": "Springfield, VA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4444968949/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior System Software Engineer, Software Defined Networking",
-      "location": "California, United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4453758183/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Reflexive Concepts",
-      "title": "Cloud Software Engineer II",
-      "location": "Annapolis Junction, MD (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480910550/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Vantor",
-      "title": "Geospatial Platform Engineer",
-      "location": "McLean, VA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4427058843/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Capital One",
-      "title": "Data Engineer 4",
+      "company": "Collectiv",
+      "title": "Data Engineer (Azure, Fabric, Databricks)",
       "location": "Chicago, IL (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4472299562/",
+      "url": "https://www.linkedin.com/jobs/view/4479931833/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Themesoft Inc.",
-      "title": "Data Engineer with Databricks",
-      "location": "Wilmington, DE (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480920052/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "First Citizens Bank",
-      "title": "Senior Data Engineer - SPM Solutions (Remote)",
-      "location": "Lansing, MI (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4436481144/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Invesco",
+      "company": "Caterpillar Inc.",
       "title": "Senior Data Engineer",
-      "location": "Atlanta, GA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4445248871/",
+      "location": "Chicago, IL (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4478588713/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Clear Street",
-      "title": "Senior Data Engineer",
-      "location": "United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4479932788/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Genentech",
-      "title": "Senior Software Engineer, Research Biology",
-      "location": "South San Francisco, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4398007920/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "PURE Insurance",
-      "title": "Senior AI Engineer",
-      "location": "White Plains, NY (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4445280001/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "American Express",
-      "title": "Senior AI Engineer (GenAI/ LLMs/ Agentic)",
-      "location": "Phoenix, AZ (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4443417584/",
+      "company": "Virtusa",
+      "title": "Lead Software Engineer",
+      "location": "New York, United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4475678021/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
     },
     {
       "company": "Gormat",
-      "title": "AI/ML Engineer, Senior",
+      "title": "AI/ML Engineer, SME",
       "location": "Annapolis Junction, MD (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480925108/",
+      "url": "https://www.linkedin.com/jobs/view/4480918286/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior SOCD Applied AI Engineer",
-      "location": "Santa Clara, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4435009202/",
+      "company": "Collectiv",
+      "title": "AI Engineer, Forward Deployed (Claude)",
+      "location": "Chicago, IL (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4479927950/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "The Washington Post",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Washington, DC (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4463613037/",
-      "date_posted": "2026-10-18",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "SAIC",
-      "title": "Senior AI Systems Engineer",
-      "location": "Chantilly, VA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4409160896/",
+      "company": "Collectiv",
+      "title": "AI Engineer, Forward Deployed (Copilot and Azure AI Foundry)",
+      "location": "Chicago, IL (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4479944414/",
       "date_posted": "2026-10-18",
       "ats": "LinkedIn",
       "remote": true
