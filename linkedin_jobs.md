@@ -1,60 +1,56 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-18 23:15 UTC*
+*Last updated: 2026-10-19 00:22 UTC*
 
-**14 new role(s)** since last run · 19 total in last 2h
+**13 new role(s)** since last run · 26 total in last 2h
 
-### [Senior Python Software Engineer – Azure, Distributed Systems & AI (Seattle)](https://www.linkedin.com/jobs/view/4480923362/) — InnoveIQ
-- 📍 **Location:** Seattle, WA (Remote)
+### [Applied Signal Processing and AI/ML Engineer](https://www.linkedin.com/jobs/view/4429481692/) — Johns Hopkins Applied Physics Laboratory
+- 📍 **Location:** Laurel, MD (Remote)
 - 🕒 **Posted:** 2026-10-18
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4480914690/) — iT1
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4440369171/) — Carbon
+- 📍 **Location:** Sunnyvale, CA (Remote)
+- 🕒 **Posted:** 2026-10-18
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4478238102/) — AI Talent Hunt Cloud
+- 📍 **Location:** Stamford, NY (Remote)
+- 🕒 **Posted:** 2026-10-18
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4479954024/) — DBByte
 - 📍 **Location:** United States (Remote)
 - 🕒 **Posted:** 2026-10-18
 
-### [Senior Python Software Engineer – Azure, Distributed Systems & AI (NYC)](https://www.linkedin.com/jobs/view/4480926251/) — InnoveIQ
-- 📍 **Location:** New York City Metropolitan Area (Remote)
+### [Reliability Systems Engineer (On-Site, Muscatine, IA)](https://www.linkedin.com/jobs/view/4469194261/) — Bayer
+- 📍 **Location:** Muscatine, IA (Remote)
 - 🕒 **Posted:** 2026-10-18
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4443488784/) — BackOps
-- 📍 **Location:** San Francisco Bay Area (Remote)
-- 🕒 **Posted:** 2026-10-18
-
-### [Junior Systems Engineer](https://www.linkedin.com/jobs/view/4479934881/) — VT Group (VTG)
-- 📍 **Location:** Fort Meade, MD (Remote)
-- 🕒 **Posted:** 2026-10-18
-
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4380282759/) — Sandvik
-- 📍 **Location:** Camarillo, CA (Remote)
-- 🕒 **Posted:** 2026-10-18
-
-### [Associate Embedded Software Engineer (DRT)](https://www.linkedin.com/jobs/view/4479936763/) — Thales Defense & Security, Inc.
-- 📍 **Location:** Germantown, MD (Remote)
-- 🕒 **Posted:** 2026-10-18
-
-### [Software Engineer, Motion Planning](https://www.linkedin.com/jobs/view/4480917539/) — DiDi
-- 📍 **Location:** San Jose, CA (Remote)
-- 🕒 **Posted:** 2026-10-18
-
-### [Data Engineering Senior Consultant](https://www.linkedin.com/jobs/view/4476852467/) — Clarkston Consulting
-- 📍 **Location:** Tampa, FL (Remote)
-- 🕒 **Posted:** 2026-10-18
-
-### [Back-End Engineer - Fleet Management](https://www.linkedin.com/jobs/view/4479945455/) — Atoms
+### [Senior Data Infrastructure Engineer](https://www.linkedin.com/jobs/view/4470339201/) — Greylock Partners
 - 📍 **Location:** San Francisco, CA (Remote)
 - 🕒 **Posted:** 2026-10-18
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4480907926/) — Netrolynx AI
-- 📍 **Location:** United States (Remote)
+### [Data Engineer (Intermediate OR Senior)](https://www.linkedin.com/jobs/view/4480927285/) — Teacher Retirement System of Texas
+- 📍 **Location:** Austin, TX (Remote)
 - 🕒 **Posted:** 2026-10-18
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4479134592/) — BackOps
+### [Junior Data Engineer](https://www.linkedin.com/jobs/view/4480924411/) — SteerBridge
+- 📍 **Location:** Vienna, VA (Remote)
+- 🕒 **Posted:** 2026-10-18
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4480929205/) — SoGal Ventures
+- 📍 **Location:** San Francisco, CA (Remote)
+- 🕒 **Posted:** 2026-10-18
+
+### [AI Engineer (Forward Deployed)](https://www.linkedin.com/jobs/view/4478242347/) — scalr
+- 📍 **Location:** New York City Metropolitan Area (Remote)
+- 🕒 **Posted:** 2026-10-18
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4478233691/) — scalr
 - 📍 **Location:** San Francisco Bay Area (Remote)
 - 🕒 **Posted:** 2026-10-18
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4480912691/) — Netrolynx AI
-- 📍 **Location:** United States (Remote)
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4480908887/) — STAAC Professional E-Learning LTD
+- 📍 **Location:** New York, NY (Remote)
 - 🕒 **Posted:** 2026-10-18
 
-### [ML Engineer, Motion Planning](https://www.linkedin.com/jobs/view/4480910822/) — DiDi
-- 📍 **Location:** San Jose, CA (Remote)
+### [AI Engineer (Forward Deployed)](https://www.linkedin.com/jobs/view/4478238471/) — scalr
+- 📍 **Location:** San Francisco Bay Area (Remote)
 - 🕒 **Posted:** 2026-10-18
