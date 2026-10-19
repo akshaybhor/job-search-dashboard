@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19 20:02 UTC",
-  "total_companies": 160,
+  "updated_at": "2026-10-19 21:52 UTC",
+  "total_companies": 163,
   "companies": {
     "abaka-ai": {
       "name": "Abaka AI",
@@ -16,7 +16,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 5
+      "total_jobs_seen": 7
     },
     "advanced-space": {
       "name": "Advanced Space",
@@ -64,7 +64,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 5
+      "total_jobs_seen": 6
     },
     "aisquared": {
       "name": "AISquared",
@@ -104,7 +104,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 36
+      "total_jobs_seen": 37
     },
     "appfolio": {
       "name": "AppFolio",
@@ -152,7 +152,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
-      "total_jobs_seen": 8
+      "total_jobs_seen": 9
     },
     "audiohook": {
       "name": "Audiohook",
@@ -223,8 +223,8 @@
       "career_url": "https://job-boards.greenhouse.io/braze",
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
-      "total_jobs_seen": 9
+      "last_seen": "2026-10-19",
+      "total_jobs_seen": 10
     },
     "bristol-myers-squibb": {
       "name": "Bristol Myers Squibb",
@@ -328,7 +328,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 5
     },
     "circle": {
       "name": "Circle",
@@ -352,7 +352,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
-      "total_jobs_seen": 11
+      "total_jobs_seen": 12
     },
     "cloudflare": {
       "name": "Cloudflare",
@@ -448,7 +448,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
-      "total_jobs_seen": 15
+      "total_jobs_seen": 17
     },
     "divergent": {
       "name": "Divergent",
@@ -528,7 +528,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 4
     },
     "fleetpulse": {
       "name": "FleetPulse",
@@ -632,7 +632,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "hp": {
       "name": "HP",
@@ -688,7 +688,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "koch": {
       "name": "Koch",
@@ -745,6 +745,14 @@
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
       "total_jobs_seen": 1
+    },
+    "myome": {
+      "name": "MyOme",
+      "career_url": "https://job-boards.greenhouse.io/myome",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "total_jobs_seen": 2
     },
     "nash": {
       "name": "Nash",
@@ -936,7 +944,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 11
+      "total_jobs_seen": 13
     },
     "replit": {
       "name": "Replit",
@@ -1034,13 +1042,21 @@
       "last_seen": "2026-09-30",
       "total_jobs_seen": 1
     },
+    "self-financial": {
+      "name": "Self Financial, Inc.",
+      "career_url": "https://job-boards.greenhouse.io/selffinancial",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "total_jobs_seen": 1
+    },
     "shield-ai": {
       "name": "Shield AI",
       "career_url": "https://jobs.lever.co/shieldai",
       "ats": "Lever",
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-18",
-      "total_jobs_seen": 16
+      "total_jobs_seen": 17
     },
     "sirenopt": {
       "name": "SirenOpt",
@@ -1071,6 +1087,14 @@
       "career_url": "https://jobs.lever.co/steerbridge",
       "ats": "Lever",
       "first_seen": "2026-10-18",
+      "last_seen": "2026-10-19",
+      "total_jobs_seen": 3
+    },
+    "stripe": {
+      "name": "Stripe",
+      "career_url": "https://job-boards.greenhouse.io/stripe",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
       "total_jobs_seen": 2
     },
@@ -1264,7 +1288,7 @@
       "ats": "Lever",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "zeta-global": {
       "name": "Zeta Global",
