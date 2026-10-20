@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20 01:12 UTC",
-  "total_companies": 169,
+  "updated_at": "2026-10-20 04:57 UTC",
+  "total_companies": 172,
   "companies": {
     "abaka-ai": {
       "name": "Abaka AI",
@@ -16,7 +16,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 11
+      "total_jobs_seen": 13
     },
     "advanced-space": {
       "name": "Advanced Space",
@@ -72,7 +72,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 8
+      "total_jobs_seen": 9
     },
     "aisquared": {
       "name": "AISquared",
@@ -112,7 +112,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-20",
-      "total_jobs_seen": 39
+      "total_jobs_seen": 40
     },
     "anthropic": {
       "name": "Anthropic",
@@ -120,7 +120,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 4
     },
     "appfolio": {
       "name": "AppFolio",
@@ -168,7 +168,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
-      "total_jobs_seen": 11
+      "total_jobs_seen": 12
     },
     "audiohook": {
       "name": "Audiohook",
@@ -200,7 +200,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 4
     },
     "bellota-labs": {
       "name": "Bellota Labs",
@@ -240,7 +240,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 12
+      "total_jobs_seen": 13
     },
     "bristol-myers-squibb": {
       "name": "Bristol Myers Squibb",
@@ -256,7 +256,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 4
     },
     "camunda": {
       "name": "Camunda",
@@ -352,7 +352,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 9
+      "total_jobs_seen": 11
     },
     "circle": {
       "name": "Circle",
@@ -376,7 +376,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
-      "total_jobs_seen": 14
+      "total_jobs_seen": 15
     },
     "cloudflare": {
       "name": "Cloudflare",
@@ -458,6 +458,14 @@
       "last_seen": "2026-10-14",
       "total_jobs_seen": 1
     },
+    "cursor": {
+      "name": "Cursor",
+      "career_url": "https://jobs.ashbyhq.com/cursor",
+      "ats": "Ashby",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
+      "total_jobs_seen": 2
+    },
     "dexmate": {
       "name": "Dexmate",
       "career_url": "https://jobs.ashbyhq.com/dexmate",
@@ -472,7 +480,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
-      "total_jobs_seen": 21
+      "total_jobs_seen": 23
     },
     "divergent": {
       "name": "Divergent",
@@ -480,6 +488,14 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
+    "docebo": {
+      "name": "Docebo",
+      "career_url": "https://jobs.ashbyhq.com/docebo",
+      "ats": "Ashby",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
       "total_jobs_seen": 1
     },
     "docker": {
@@ -512,7 +528,7 @@
       "ats": "Lever",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 7
     },
     "ensco": {
       "name": "ENSCO, Inc.",
@@ -560,7 +576,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 10
+      "total_jobs_seen": 13
     },
     "fleetpulse": {
       "name": "FleetPulse",
@@ -664,7 +680,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 5
+      "total_jobs_seen": 6
     },
     "hp": {
       "name": "HP",
@@ -720,7 +736,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 5
+      "total_jobs_seen": 6
     },
     "koch": {
       "name": "Koch",
@@ -762,6 +778,14 @@
       "last_seen": "2026-10-17",
       "total_jobs_seen": 31
     },
+    "mendix": {
+      "name": "Mendix",
+      "career_url": "https://jobs.lever.co/mendix",
+      "ats": "Lever",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "total_jobs_seen": 1
+    },
     "mercury": {
       "name": "Mercury",
       "career_url": "https://job-boards.greenhouse.io/mercury",
@@ -784,7 +808,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "nash": {
       "name": "Nash",
@@ -880,7 +904,7 @@
       "ats": "Lever",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 5
     },
     "pathward": {
       "name": "Pathward",
@@ -984,7 +1008,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 17
+      "total_jobs_seen": 19
     },
     "replit": {
       "name": "Replit",
@@ -1031,8 +1055,8 @@
       "career_url": "https://job-boards.greenhouse.io/roblox",
       "ats": "Greenhouse",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "total_jobs_seen": 12
+      "last_seen": "2026-10-20",
+      "total_jobs_seen": 13
     },
     "rocket-lab": {
       "name": "Rocket Lab",
@@ -1136,7 +1160,7 @@
       "ats": "Lever",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 5
+      "total_jobs_seen": 6
     },
     "stripe": {
       "name": "Stripe",
@@ -1144,7 +1168,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "swarm-aero": {
       "name": "Swarm Aero",
@@ -1336,7 +1360,7 @@
       "ats": "Lever",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-19",
-      "total_jobs_seen": 7
+      "total_jobs_seen": 8
     },
     "zeta-global": {
       "name": "Zeta Global",
