@@ -2,7 +2,7 @@
 cd /d "%~dp0"
 
 echo ========================================================
-echo Dedicated Ubuntu AI Server Scoring (Ollama qwen2.5:7b)
+echo Dedicated Ubuntu AI Server Scoring (Ollama qwen2.5:3b)
 echo Server: http://192.168.0.133:11434
 echo ========================================================
 
@@ -37,9 +37,9 @@ git pull --rebase
 
 echo.
 echo ========================================================
-echo Running Triage Agent via AI Server (qwen2.5:7b)...
+echo Running Triage Agent via AI Server (qwen2.5:3b)...
 echo ========================================================
-python triage_agent.py --limit %LIMIT% --ai-server
+python triage_agent.py --limit %LIMIT% --ai-server --ai-server-model qwen2.5:3b
 
 echo.
 echo ========================================================

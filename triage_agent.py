@@ -654,11 +654,11 @@ def main() -> int:
                     help="only roles first_seen in the last N days (0 = all unscored)")
     ap.add_argument("--model", default=DEFAULT_MODEL, help="model id for the API path")
     ap.add_argument("--local-npu", action="store_true", help="run on local AMD NPU via FastFlowLM")
-    ap.add_argument("--ai-server", action="store_true", help="run on remote dedicated AI server (Ollama qwen2.5:7b)")
+    ap.add_argument("--ai-server", action="store_true", help="run on remote dedicated AI server (Ollama qwen2.5:3b)")
     ap.add_argument("--ai-server-url", default=os.environ.get("OLLAMA_BASE_URL", "http://192.168.0.133:11434/v1"),
                     help="base URL for dedicated AI server (default: http://192.168.0.133:11434/v1)")
-    ap.add_argument("--ai-server-model", default="qwen2.5:7b",
-                    help="model name on dedicated AI server (default: qwen2.5:7b)")
+    ap.add_argument("--ai-server-model", default="qwen2.5:3b",
+                    help="model name on dedicated AI server (default: qwen2.5:3b)")
     ap.add_argument("--from-files", action="store_true",
                     help="read the live per-source snapshots instead of all_jobs.json")
     ap.add_argument("--dry-run", action="store_true", help="report only; write nothing")
@@ -738,9 +738,11 @@ def main() -> int:
     jd_read = jd_meta = errors = 0
 
     for i, job in enumerate(batch, 1):
+        label = f"[{i}/{len(batch)}] {job.get('title', '')[:48]} @ {job.get('company', '')[:24]}"
+        print(f"  ⏳ {label} ...", end="\r", flush=True)
+
         jd_text = "" if args.no_jd else fetch_jd(job)
         prompt = build_job_prompt(job, jd_text)
-        label = f"[{i}/{len(batch)}] {job.get('title', '')[:48]} @ {job.get('company', '')[:24]}"
         full_text = f"{job.get('title', '')} {jd_text}"
         if CLEARANCE_RE.search(full_text):
             verdict = {
@@ -769,11 +771,11 @@ def main() -> int:
             except urllib.error.HTTPError as e:
                 verdict = None
                 err_body = e.read().decode('utf-8', errors='ignore')
-                print(f"  ⚠️  {label}: HTTPError {e.code}")
-                print(f"      {err_body.strip()}")
+                print(f"\n  ⚠️  {label}: HTTPError {e.code}", flush=True)
+                print(f"      {err_body.strip()}", flush=True)
             except Exception as e:
                 verdict = None
-                print(f"  ⚠️  {label}: {type(e).__name__}")
+                print(f"\n  ⚠️  {label}: {type(e).__name__}", flush=True)
         if verdict is None:
             errors += 1
             if not (args.local_npu or args.ai_server):
@@ -804,7 +806,7 @@ def main() -> int:
             global_token_usage["last_input"] = 0
             global_token_usage["last_output"] = 0
             
-        print(f"  {verdict['score']:>3}/100 {verdict['verdict']:<6} {label}{tokens_info}")
+        print(f"  {verdict['score']:>3}/100 {verdict['verdict']:<6} {label}{tokens_info}    ", flush=True)
 
         # Save incrementally so an interrupted run keeps its progress.
         model_name = (
