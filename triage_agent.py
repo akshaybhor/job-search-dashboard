@@ -25,6 +25,11 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
 
+if sys.stdout and hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if sys.stderr and hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 ALL_JOBS_PATH = os.path.join(SCRIPT_DIR, "all_jobs.json")
@@ -338,11 +343,48 @@ def build_job_prompt(job: dict, jd_text: str) -> str:
 # Model backends
 # ---------------------------------------------------------------------------
 
-def make_call_model(model: str, use_npu: bool = False):
+def make_call_model(model: str, use_npu: bool = False, use_ai_server: bool = False, ai_server_url: str = None, ai_server_model: str = None):
     """Returns call_model(static_prefix, job_prompt) -> str, picking the backend.
 
-    Priority: Local NPU > Gemini > Anthropic API > local claude CLI.
+    Priority: AI Server > Local NPU > Gemini > Anthropic API > local claude CLI.
     """
+    if use_ai_server:
+        try:
+            from openai import OpenAI
+        except ImportError:
+            print("❌ --ai-server requires the openai package. Run: pip install openai")
+            sys.exit(1)
+
+        server_url = ai_server_url or os.environ.get("OLLAMA_BASE_URL", "http://192.168.0.133:11434/v1")
+        server_model = ai_server_model or "qwen2.5:7b"
+        client = OpenAI(
+            base_url=server_url,
+            api_key="ollama"
+        )
+
+        def call_ai_server(static_prefix: str, job_prompt: str) -> str:
+            response = client.chat.completions.create(
+                model=server_model,
+                messages=[
+                    {"role": "system", "content": static_prefix},
+                    {"role": "user", "content": job_prompt}
+                ],
+                response_format={"type": "json_object"}
+            )
+
+            if response.usage:
+                inp = getattr(response.usage, "prompt_tokens", 0)
+                out = getattr(response.usage, "completion_tokens", 0)
+                global_token_usage["input"] += inp
+                global_token_usage["output"] += out
+                global_token_usage["last_input"] = inp
+                global_token_usage["last_output"] = out
+
+            return response.choices[0].message.content
+
+        print(f"🧠 backend: Dedicated Ubuntu AI Server ({server_url} - {server_model})")
+        return call_ai_server
+
     if use_npu:
         try:
             from openai import OpenAI
@@ -612,6 +654,11 @@ def main() -> int:
                     help="only roles first_seen in the last N days (0 = all unscored)")
     ap.add_argument("--model", default=DEFAULT_MODEL, help="model id for the API path")
     ap.add_argument("--local-npu", action="store_true", help="run on local AMD NPU via FastFlowLM")
+    ap.add_argument("--ai-server", action="store_true", help="run on remote dedicated AI server (Ollama qwen2.5:7b)")
+    ap.add_argument("--ai-server-url", default=os.environ.get("OLLAMA_BASE_URL", "http://192.168.0.133:11434/v1"),
+                    help="base URL for dedicated AI server (default: http://192.168.0.133:11434/v1)")
+    ap.add_argument("--ai-server-model", default="qwen2.5:7b",
+                    help="model name on dedicated AI server (default: qwen2.5:7b)")
     ap.add_argument("--from-files", action="store_true",
                     help="read the live per-source snapshots instead of all_jobs.json")
     ap.add_argument("--dry-run", action="store_true", help="report only; write nothing")
@@ -676,7 +723,13 @@ def main() -> int:
         return 0
 
     batch = unscored[:args.limit]
-    call_model = make_call_model(args.model, args.local_npu)
+    call_model = make_call_model(
+        args.model,
+        use_npu=args.local_npu,
+        use_ai_server=args.ai_server,
+        ai_server_url=args.ai_server_url,
+        ai_server_model=args.ai_server_model,
+    )
     print(f"📋 scoring {len(batch)} of {len(unscored)} unscored "
           f"({len(jobs)} total in {source}; {len(scores)} already scored)")
 
@@ -723,7 +776,8 @@ def main() -> int:
                 print(f"  ⚠️  {label}: {type(e).__name__}")
         if verdict is None:
             errors += 1
-            time.sleep(4.5)  # Enforce rate limit even on failed requests
+            if not (args.local_npu or args.ai_server):
+                time.sleep(4.5)  # Enforce rate limit even on failed requests for Gemini
             continue
 
         # Opt-in score audit. Runs BEFORE redact_private so the single redaction
@@ -753,18 +807,24 @@ def main() -> int:
         print(f"  {verdict['score']:>3}/100 {verdict['verdict']:<6} {label}{tokens_info}")
 
         # Save incrementally so an interrupted run keeps its progress.
+        model_name = (
+            f"{args.ai_server_model} (AI Server)" if args.ai_server
+            else "qwen3.5:9b (Local NPU)" if args.local_npu
+            else (GEMINI_MODEL if os.environ.get("GEMINI_API_KEY")
+                  else args.model if os.environ.get("ANTHROPIC_API_KEY")
+                  else "claude-cli")
+        )
         data.update({
             "scored_at": verdict["scored_at"],
-            "model": (GEMINI_MODEL if os.environ.get("GEMINI_API_KEY")
-                      else args.model if os.environ.get("ANTHROPIC_API_KEY")
-                      else "claude-cli"),
+            "model": model_name,
         })
         with open(SCORES_PATH, "w") as f:
             json.dump(data, f, separators=(",", ":"))  # compact: dashboard fetches this
         
         # Free-tier Gemini is capped at 15 Requests Per Minute.
         # Sleeping 4.5 seconds guarantees we stay safely under that limit (~13 RPM).
-        time.sleep(4.5)
+        if not (args.local_npu or args.ai_server):
+            time.sleep(4.5)
 
     remaining = len(unscored) - len(batch)
     successes = len(batch) - errors
