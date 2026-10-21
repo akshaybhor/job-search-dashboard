@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-10-21 00:50 UTC",
-  "total": 65,
-  "new_count": 62,
+  "scraped_at": "2026-10-21 01:37 UTC",
+  "total": 56,
+  "new_count": 12,
   "jobs": [
+    {
+      "company": "Global Payments Inc.",
+      "title": "Software Engineer Senior - Backend (.Net)",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4482012811/",
+      "date_posted": "2026-10-20",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Global Payments Inc.",
+      "title": "Senior Software Engineer - Backend",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4482015726/",
+      "date_posted": "2026-10-20",
+      "ats": "LinkedIn",
+      "remote": false
+    },
     {
       "company": "Trinzic",
       "title": "Software Engineering Manager",
@@ -112,10 +130,19 @@
       "remote": true
     },
     {
-      "company": "Garmin",
-      "title": "Data Engineer 2",
-      "location": "Olathe, KS (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4459000701/",
+      "company": "Fervo Energy",
+      "title": "Senior Cloud Engineer",
+      "location": "Houston, TX (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4482002997/",
+      "date_posted": "2026-10-20",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Referment",
+      "title": "Senior Cloud Engineer | Hedge Fund (A499FA5)",
+      "location": "New York, NY (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4481796926/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
@@ -125,6 +152,42 @@
       "title": "Data Engineer",
       "location": "Denver, CO (Remote)",
       "url": "https://www.linkedin.com/jobs/view/4478955187/",
+      "date_posted": "2026-10-20",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Truist",
+      "title": "Data Engineer",
+      "location": "Charlotte, NC (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4482027045/",
+      "date_posted": "2026-10-20",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+      "title": "Sr. Data Engineer & Scientist",
+      "location": "Boca Raton, FL (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4479539205/",
+      "date_posted": "2026-10-20",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Garmin",
+      "title": "Data Engineer 2",
+      "location": "Olathe, KS (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4459000701/",
+      "date_posted": "2026-10-20",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "DetailPage",
+      "title": "Data Engineer II",
+      "location": "United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4480736968/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
@@ -179,6 +242,33 @@
       "title": "Lead Applied AI Engineer II",
       "location": "Tampa, FL (Remote)",
       "url": "https://www.linkedin.com/jobs/view/4481798729/",
+      "date_posted": "2026-10-20",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Uber",
+      "title": "Sr Machine Learning Engineer",
+      "location": "Sunnyvale, CA (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4482032099/",
+      "date_posted": "2026-10-20",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Brain Co.",
+      "title": "AI/ML Engineer, 2027 New Grad",
+      "location": "San Francisco Bay Area (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4482024226/",
+      "date_posted": "2026-10-20",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "NexDew Technologies LLC",
+      "title": "AI/ML Engineer",
+      "location": "United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4478937955/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
@@ -301,46 +391,10 @@
       "remote": true
     },
     {
-      "company": "Justworks",
-      "title": "Senior Software Engineer, Backend",
-      "location": "New York, NY (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481794424/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "LodgeLink",
-      "title": "Senior Software Engineer (Back-end focus)",
-      "location": "Scottsdale, AZ (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4430652681/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Justworks",
-      "title": "Software Engineer, Backend",
-      "location": "New York, NY (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481786855/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
       "company": "SpinQuest",
       "title": "Senior Backend Software Engineer",
       "location": "United States (Remote)",
       "url": "https://www.linkedin.com/jobs/view/4481795727/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Prime Video & Amazon MGM Studios",
-      "title": "Software Development Engineer II, Prime Video Ads Channels",
-      "location": "Seattle, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481771242/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
@@ -355,10 +409,10 @@
       "remote": true
     },
     {
-      "company": "Amazon",
-      "title": "Software Development Engineer, Ads AI Core Infra (ACI)",
-      "location": "Seattle, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481768282/",
+      "company": "DNV",
+      "title": "Senior Software Developer",
+      "location": "San Diego, CA (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4478954175/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
@@ -382,64 +436,19 @@
       "remote": true
     },
     {
-      "company": "BAE Systems, Inc.",
-      "title": "Cloud Engineer",
-      "location": "Sterling, VA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4478952213/",
+      "company": "Bright Minds",
+      "title": "Cloud Platform Engineer",
+      "location": "United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4482003340/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "ActioNet, Inc.",
-      "title": "Senior Cloud Engineer II",
-      "location": "Suitland, MD (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481786824/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Ventura Foods",
-      "title": "Cloud Systems Engineer",
-      "location": "Irvine, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4478947353/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "BAE Systems, Inc.",
-      "title": "AWS Cloud Engineer",
-      "location": "Sterling, VA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4478936790/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Prime Video & Amazon MGM Studios",
-      "title": "Data Engineer, Partner Experience",
-      "location": "Seattle, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4472472374/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Amazon",
-      "title": "Data Engineer, Global Planning, Amazon Leo",
-      "location": "Bellevue, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481752905/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Maverik, Inc.",
-      "title": "Sr Data Engineer",
-      "location": "Salt Lake City, UT (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480716930/",
+      "company": "Optum",
+      "title": "Software Engineer",
+      "location": "Bridgeton, MO (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4481795093/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
@@ -454,55 +463,10 @@
       "remote": true
     },
     {
-      "company": "Prime Video & Amazon MGM Studios",
-      "title": "Data Engineer, Amazon Prime Video Product Analytics",
-      "location": "Seattle, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481759646/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "John Deere",
-      "title": "Software Engineer",
-      "location": "East Moline, IL (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480737347/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "The Hartford",
-      "title": "Data Engineer - Google Cloud Platform",
-      "location": "Hartford, CT (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4478636159/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
       "company": "Rentschler Biopharma",
       "title": "IT Data Engineer",
       "location": "Milford, MA (Remote)",
       "url": "https://www.linkedin.com/jobs/view/4482000189/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "John Deere",
-      "title": "Software Engineer",
-      "location": "Illinois, United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480734404/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Optum",
-      "title": "Software Engineer",
-      "location": "Bridgeton, MO (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481795093/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
@@ -526,46 +490,10 @@
       "remote": true
     },
     {
-      "company": "Info Way Solutions",
-      "title": "AI/ML Engineer",
-      "location": "San Francisco Bay Area (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481791730/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Amazon",
-      "title": "Machine Learning Engineer, Advertising & Marketing Performance Intelligence",
-      "location": "Seattle, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481763621/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Prime Video & Amazon MGM Studios",
-      "title": "Machine Learning Engineer, Prime Video Ads CX",
-      "location": "Seattle, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4472474363/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Amazon",
-      "title": "Machine Learning Engineer, Foundational AI (FAI)",
-      "location": "Sunnyvale, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481788431/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Divine Talent",
-      "title": "AI/ML Engineer - Entry Level",
-      "location": "United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480734390/",
+      "company": "Exelixis",
+      "title": "Data & AI Platform Engineer II",
+      "location": "Alameda, CA (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4482005115/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
@@ -575,15 +503,6 @@
       "title": "Full Stack AI Engineer",
       "location": "United States (Remote)",
       "url": "https://www.linkedin.com/jobs/view/4481791825/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Exelixis",
-      "title": "Data & AI Platform Engineer II",
-      "location": "Alameda, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4482005115/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
@@ -591,559 +510,109 @@
   ],
   "new_jobs": [
     {
-      "company": "Trinzic",
-      "title": "Software Engineering Manager",
-      "location": "Beavercreek, OH",
-      "url": "https://www.linkedin.com/jobs/view/4482006422/",
+      "company": "Global Payments Inc.",
+      "title": "Software Engineer Senior - Backend (.Net)",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4482012811/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Honeywell Aerospace",
-      "title": "Lead Systems Engineer",
-      "location": "Phoenix, AZ (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4482004518/",
+      "company": "Global Payments Inc.",
+      "title": "Senior Software Engineer - Backend",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4482015726/",
+      "date_posted": "2026-10-20",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Fervo Energy",
+      "title": "Senior Cloud Engineer",
+      "location": "Houston, TX (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4482002997/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Honeywell Aerospace",
-      "title": "Senior Advanced Systems Engineer",
-      "location": "Torrance, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481795806/",
+      "company": "Referment",
+      "title": "Senior Cloud Engineer | Hedge Fund (A499FA5)",
+      "location": "New York, NY (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4481796926/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Peraton",
-      "title": "Surveillance Systems Engineering, Advisor",
-      "location": "Herndon, VA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4472840496/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "V2X Inc",
-      "title": "Sr. Systems Engineer II",
-      "location": "Indianapolis, IN (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4438933200/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Consertus",
-      "title": "Systems Engineer",
-      "location": "Los Angeles, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481798484/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Sierra Nevada Corporation",
-      "title": "Sr Systems Engineer",
-      "location": "Lone Tree, CO (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4478950436/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "Senior Software Engineer",
-      "location": "Laurel, MD (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4426889563/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Systems Software Engineer, CUDA and AI HW Profiler",
-      "location": "Texas, United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480725973/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Garmin",
-      "title": "Senior Software Engineer - GNSS / INS",
-      "location": "Boulder, CO (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4482019098/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Garmin",
-      "title": "Senior Software Engineer - GNSS / INS",
-      "location": "Olathe, KS (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4482014512/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Systems Software Engineer, CUDA and AI HW Profiler",
-      "location": "Austin, TX (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480749137/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Garmin",
-      "title": "Data Engineer 2",
-      "location": "Olathe, KS (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4459000701/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Janus Henderson Investors",
+      "company": "Truist",
       "title": "Data Engineer",
-      "location": "Denver, CO (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4478955187/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Sellen Construction",
-      "title": "Data and AI Engineer",
-      "location": "Seattle, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4478939892/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Jackson Health System",
-      "title": "Machine Learning Engineer, Data Science, Full Time, Days, Monday- Friday 8:30 am-5pm",
-      "location": "Miami, FL (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480740466/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Ulta Beauty",
-      "title": "Lead AI Engineer",
-      "location": "Bolingbrook, IL (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4482004568/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Deloitte",
-      "title": "Applied AI Software Engineer III",
-      "location": "Tampa, FL (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4482016347/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Scout AI",
-      "title": "Senior AI Engineer",
-      "location": "Sunnyvale, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480986940/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Deloitte",
-      "title": "Lead Applied AI Engineer II",
-      "location": "Tampa, FL (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481798729/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "United Network for Organ Sharing (UNOS)",
-      "title": "Senior AI/ML Engineer",
-      "location": "Virginia, United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480729818/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Precision Castparts",
-      "title": "AI Engineer",
-      "location": "Clackamas, OR (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4482005564/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Parallel",
-      "title": "Senior Robotics Software Engineer, Perception",
-      "location": "Los Angeles, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4482017185/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Tompkins Bank & Trust",
-      "title": "Senior Software Developer",
-      "location": "Brewster, NY",
-      "url": "https://www.linkedin.com/jobs/view/4481789904/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Senior Software Engineer - AWS EC2, Blackfoot Endpoints",
-      "location": "Seattle, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481745720/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Amazon",
-      "title": "Senior Software Development Engineer, Fauna",
-      "location": "New York, NY (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481742767/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "American Express",
-      "title": "Software Engineer III - Enterprise Architecture",
-      "location": "Phoenix, AZ (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480742191/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Humana",
-      "title": "Senior Software Engineer",
-      "location": "Louisville, KY (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4478933970/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Humana",
-      "title": "Senior Software Engineer",
-      "location": "Nashville, TN (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4478949170/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Systems/Software Engineer II",
-      "location": "Roseville, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481530389/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "First American",
-      "title": "Senior Software Engineer (CA - Remote)",
-      "location": "Santa Ana, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4482004225/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Canopy",
-      "title": "Senior Software Engineer - NYC metro",
-      "location": "New York City Metropolitan Area (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4395291270/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Justworks",
-      "title": "Senior Software Engineer, Backend",
-      "location": "New York, NY (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481794424/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "LodgeLink",
-      "title": "Senior Software Engineer (Back-end focus)",
-      "location": "Scottsdale, AZ (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4430652681/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Justworks",
-      "title": "Software Engineer, Backend",
-      "location": "New York, NY (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481786855/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "SpinQuest",
-      "title": "Senior Backend Software Engineer",
-      "location": "United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481795727/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Prime Video & Amazon MGM Studios",
-      "title": "Software Development Engineer II, Prime Video Ads Channels",
-      "location": "Seattle, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481771242/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Software Engineer III - Backend & Data Systems (AI Solutions)",
-      "location": "Greater Seattle Area (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4478940819/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Amazon",
-      "title": "Software Development Engineer, Ads AI Core Infra (ACI)",
-      "location": "Seattle, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481768282/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "NODA AI",
-      "title": "Senior Systems Software Engineer",
-      "location": "Austin, TX (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4441093267/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "RAPSYS TECHNOLOGIES PTE LTD",
-      "title": "Vision Software Engineer",
-      "location": "Fremont, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480736497/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "BAE Systems, Inc.",
-      "title": "Cloud Engineer",
-      "location": "Sterling, VA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4478952213/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "ActioNet, Inc.",
-      "title": "Senior Cloud Engineer II",
-      "location": "Suitland, MD (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481786824/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Ventura Foods",
-      "title": "Cloud Systems Engineer",
-      "location": "Irvine, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4478947353/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "BAE Systems, Inc.",
-      "title": "AWS Cloud Engineer",
-      "location": "Sterling, VA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4478936790/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Prime Video & Amazon MGM Studios",
-      "title": "Data Engineer, Partner Experience",
-      "location": "Seattle, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4472472374/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Amazon",
-      "title": "Data Engineer, Global Planning, Amazon Leo",
-      "location": "Bellevue, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481752905/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Siemens Energy",
-      "title": "Factory Data Engineer",
       "location": "Charlotte, NC (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480725784/",
+      "url": "https://www.linkedin.com/jobs/view/4482027045/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Prime Video & Amazon MGM Studios",
-      "title": "Data Engineer, Amazon Prime Video Product Analytics",
-      "location": "Seattle, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481759646/",
+      "company": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+      "title": "Sr. Data Engineer & Scientist",
+      "location": "Boca Raton, FL (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4479539205/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "John Deere",
-      "title": "Software Engineer",
-      "location": "East Moline, IL (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480737347/",
+      "company": "DetailPage",
+      "title": "Data Engineer II",
+      "location": "United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4480736968/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "The Hartford",
-      "title": "Data Engineer - Google Cloud Platform",
-      "location": "Hartford, CT (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4478636159/",
+      "company": "Uber",
+      "title": "Sr Machine Learning Engineer",
+      "location": "Sunnyvale, CA (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4482032099/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Rentschler Biopharma",
-      "title": "IT Data Engineer",
-      "location": "Milford, MA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4482000189/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "John Deere",
-      "title": "Software Engineer",
-      "location": "Illinois, United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480734404/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Optum",
-      "title": "Software Engineer",
-      "location": "Bridgeton, MO (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481795093/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "MITRE",
-      "title": "Associate Generative AI Engineer",
-      "location": "McLean, VA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481795492/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "MITRE",
-      "title": "Associate Generative AI Engineer",
-      "location": "Ellicott City, MD (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481799283/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Info Way Solutions",
-      "title": "AI/ML Engineer",
+      "company": "Brain Co.",
+      "title": "AI/ML Engineer, 2027 New Grad",
       "location": "San Francisco Bay Area (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481791730/",
+      "url": "https://www.linkedin.com/jobs/view/4482024226/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Amazon",
-      "title": "Machine Learning Engineer, Advertising & Marketing Performance Intelligence",
-      "location": "Seattle, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481763621/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Prime Video & Amazon MGM Studios",
-      "title": "Machine Learning Engineer, Prime Video Ads CX",
-      "location": "Seattle, WA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4472474363/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Divine Talent",
-      "title": "AI/ML Engineer - Entry Level",
+      "company": "NexDew Technologies LLC",
+      "title": "AI/ML Engineer",
       "location": "United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4480734390/",
+      "url": "https://www.linkedin.com/jobs/view/4478937955/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "VySystems",
-      "title": "Full Stack AI Engineer",
+      "company": "DNV",
+      "title": "Senior Software Developer",
+      "location": "San Diego, CA (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4478954175/",
+      "date_posted": "2026-10-20",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Bright Minds",
+      "title": "Cloud Platform Engineer",
       "location": "United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4481791825/",
-      "date_posted": "2026-10-20",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Exelixis",
-      "title": "Data & AI Platform Engineer II",
-      "location": "Alameda, CA (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/4482005115/",
+      "url": "https://www.linkedin.com/jobs/view/4482003340/",
       "date_posted": "2026-10-20",
       "ats": "LinkedIn",
       "remote": true
