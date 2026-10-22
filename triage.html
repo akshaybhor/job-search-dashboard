@@ -762,19 +762,7 @@
     j._role = classifyRole(j.title);
     j._sen  = classifySeniority(j.title);
     j._src  = classifySource(j);
-    const isHyb = /hybrid/i.test(j.location || '') || /hybrid/i.test(j.title || '');
-    const isRem = !isHyb && (
-      j.remote === true ||
-      /remote/i.test(j.location || '') ||
-      /remote/i.test(j.title || '') ||
-      /,\s*united states$/i.test(j.location || '') ||
-      (j.location || '').trim().toLowerCase() === 'united states'
-    );
-    j._loc  = isHyb ? 'Hybrid' : (isRem ? 'Remote' : 'On-site');
-    const sal = parseSalary(j);
-    j._salMin = sal ? sal.min : null;
-    j._salMax = sal ? sal.max : null;
-    j._salDisp = sal ? sal.disp : '';
+
     // Agent verdict, when this URL has been scored (see scores.json).
     // A stored "error" verdict is a failed model call, not a judgment —
     // treat it as unscored so it doesn't masquerade as a real 0/100.
@@ -785,12 +773,36 @@
     j._family  = errored ? null : (s.role_family || null);
     j._why     = errored ? '' : (s.why || '');
     j._opener  = errored ? '' : (s.outreach_opener || '');
+    const flags = (!errored && Array.isArray(s.flags)) ? s.flags : [];
+
     // Optional score-audit (triage_agent --judge). judge_conf < 0 is the
     // "could not judge" sentinel → treat as un-judged (no marker, never a false ✅).
     const jc = (typeof s.judge_conf === 'number') ? s.judge_conf : null;
     j._judgeOk   = (errored || jc === null || jc < 0) ? null
                    : (typeof s.judge_ok === 'boolean' ? s.judge_ok : null);
     j._judgeNote = errored ? '' : (s.judge_note || '');
+
+    // Classify work arrangement (Hybrid vs Remote vs On-site).
+    // Prioritize LLM agent flags from reading the full JD, then structured fields.
+    const hasHybridFlag = flags.some(f => /hybrid/i.test(f));
+    const hasOnsiteFlag = flags.some(f => /onsite|on-site|in-office/i.test(f));
+    const hasRemoteFlag = flags.some(f => /\bremote\b/i.test(f));
+
+    const isHyb = hasHybridFlag || /hybrid/i.test(j.location || '') || /hybrid/i.test(j.title || '');
+    const isRem = !isHyb && !hasOnsiteFlag && (
+      hasRemoteFlag ||
+      j.remote === true ||
+      /\bremote\b/i.test(j.location || '') ||
+      /\bremote\b/i.test(j.title || '') ||
+      (j.location || '').trim().toLowerCase() === 'united states' ||
+      (j.location || '').trim().toLowerCase() === 'remote'
+    );
+    j._loc  = isHyb ? 'Hybrid' : (isRem ? 'Remote' : 'On-site');
+
+    const sal = parseSalary(j);
+    j._salMin = sal ? sal.min : null;
+    j._salMax = sal ? sal.max : null;
+    j._salDisp = sal ? sal.disp : '';
   }
 
   // ---------- Data loading ----------

@@ -22,6 +22,11 @@ from urllib.request import urlopen, Request, build_opener, HTTPCookieProcessor
 from urllib.error import HTTPError, URLError
 from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
+if sys.stdout and hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if sys.stderr and hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 USER_AGENTS = [
@@ -1489,9 +1494,11 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
                 if p["id"] in jobs_by_id:
                     continue
                 loc = p["location"]
-                is_rem = f_wt == "2" or "remote" in loc.lower() or "remote" in p["title"].lower()
-                if is_rem and "remote" not in loc.lower():
-                    loc = f"{loc} (Remote)" if loc else "Remote"
+                is_rem = bool(
+                    "remote" in loc.lower()
+                    or "remote" in p["title"].lower()
+                    or loc.strip().lower() in ("remote", "united states", "")
+                )
                 jobs_by_id[p["id"]] = {
                     "company": p["company"],
                     "title": p["title"],
