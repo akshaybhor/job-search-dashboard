@@ -3,11 +3,13 @@ __pycache__/
 
 # Personal data — NEVER commit (public repo). CI gets these via Actions secrets.
 candidate_profile.md
+candidate_profile.json
 run_local_triage.bat
 resume.md
 resume.txt
 shortlist.*
 website_extrator/
+auto_apply/
 
 # Sync service (sync/ deploys to Vercel from the CLI). GitHub Pages serves this
 # repo's root, so anything committed here is published — keep credentials and
