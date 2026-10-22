@@ -49,7 +49,7 @@ def extract_career_root_url(url: str, fallback_ats: str = None) -> tuple[str, st
         # Match tenant or career site name before /job or end
         m = re.match(r"^/([^/]+)", clean_path)
         site_name = m.group(1) if m else ""
-        if site_name and site_name.lower() not in ("job", "jobs", "apply"):
+        if site_name and site_name.lower() not in ("job", "jobs"):
             root = f"https://{netloc}/{site_name}"
         else:
             root = f"https://{netloc}"

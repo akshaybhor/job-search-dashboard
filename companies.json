@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22 15:32 UTC",
-  "total_companies": 222,
+  "updated_at": "2026-10-22 15:43 UTC",
+  "total_companies": 244,
   "companies": {
     "abaka-ai": {
       "name": "Abaka AI",
@@ -25,6 +25,14 @@
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-19",
       "total_jobs_seen": 35
+    },
+    "adobe": {
+      "name": "Adobe",
+      "career_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
     },
     "advanced-space": {
       "name": "Advanced Space",
@@ -138,6 +146,14 @@
       "last_seen": "2026-10-22",
       "total_jobs_seen": 55
     },
+    "analog-devices": {
+      "name": "Analog Devices",
+      "career_url": "https://analogdevices.wd1.myworkdayjobs.com/External",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
+    },
     "anthropic": {
       "name": "Anthropic",
       "career_url": "https://job-boards.greenhouse.io/anthropic",
@@ -218,6 +234,14 @@
       "last_seen": "2026-10-16",
       "total_jobs_seen": 1
     },
+    "autodesk": {
+      "name": "Autodesk",
+      "career_url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
+    },
     "avathon": {
       "name": "Avathon",
       "career_url": "https://job-boards.greenhouse.io/avathon",
@@ -266,6 +290,14 @@
       "last_seen": "2026-10-12",
       "total_jobs_seen": 3
     },
+    "boeing": {
+      "name": "Boeing",
+      "career_url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
+    },
     "bold-orange": {
       "name": "Bold Orange",
       "career_url": "https://jobs.lever.co/bold-orange",
@@ -297,6 +329,22 @@
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
       "total_jobs_seen": 2
+    },
+    "broadcom": {
+      "name": "Broadcom",
+      "career_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
+    },
+    "cadence": {
+      "name": "Cadence Design Systems",
+      "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
     },
     "cambridge-mobile-telematics": {
       "name": "Cambridge Mobile Telematics",
@@ -522,12 +570,28 @@
       "last_seen": "2026-10-21",
       "total_jobs_seen": 1
     },
+    "costar-group": {
+      "name": "CoStar Group",
+      "career_url": "https://costar.wd1.myworkdayjobs.com/CoStarCareers",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
+    },
     "crexi": {
       "name": "Crexi",
       "career_url": "https://job-boards.greenhouse.io/crexi",
       "ats": "Greenhouse",
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-17",
+      "total_jobs_seen": 1
+    },
+    "crowdstrike": {
+      "name": "CrowdStrike",
+      "career_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
       "total_jobs_seen": 1
     },
     "crusoe": {
@@ -608,6 +672,14 @@
       "ats": "Ashby",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
+      "total_jobs_seen": 1
+    },
+    "ebay": {
+      "name": "eBay",
+      "career_url": "https://ebay.wd5.myworkdayjobs.com/apply",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
       "total_jobs_seen": 1
     },
     "edra": {
@@ -842,6 +914,14 @@
       "last_seen": "2026-10-16",
       "total_jobs_seen": 19
     },
+    "hp-inc": {
+      "name": "HP Inc.",
+      "career_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
+    },
     "iambic-therapeutics": {
       "name": "Iambic Therapeutics",
       "career_url": "https://jobs.ashbyhq.com/iambic-therapeutics",
@@ -864,6 +944,14 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
+      "total_jobs_seen": 1
+    },
+    "illumina": {
+      "name": "Illumina",
+      "career_url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
       "total_jobs_seen": 1
     },
     "immunai": {
@@ -905,6 +993,14 @@
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-20",
       "total_jobs_seen": 25
+    },
+    "kla": {
+      "name": "KLA",
+      "career_url": "https://kla.wd1.myworkdayjobs.com/Search",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
     },
     "koch": {
       "name": "Koch",
@@ -954,6 +1050,22 @@
       "last_seen": "2026-10-17",
       "total_jobs_seen": 31
     },
+    "marvell-technology": {
+      "name": "Marvell Technology",
+      "career_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
+    },
+    "mastercard": {
+      "name": "Mastercard",
+      "career_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
+    },
     "may-mobility": {
       "name": "May Mobility",
       "career_url": "https://job-boards.greenhouse.io/maymobility",
@@ -994,6 +1106,14 @@
       "last_seen": "2026-10-20",
       "total_jobs_seen": 1
     },
+    "moderna": {
+      "name": "Moderna",
+      "career_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
+    },
     "mongodb": {
       "name": "MongoDB",
       "career_url": "https://job-boards.greenhouse.io/mongodb",
@@ -1001,6 +1121,14 @@
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-21",
       "total_jobs_seen": 37
+    },
+    "motorola-solutions": {
+      "name": "Motorola Solutions",
+      "career_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
     },
     "mozilla": {
       "name": "Mozilla",
@@ -1081,6 +1209,14 @@
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-20",
       "total_jobs_seen": 10
+    },
+    "nvidia": {
+      "name": "NVIDIA",
+      "career_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
     },
     "obvio": {
       "name": "Obvio",
@@ -1201,6 +1337,14 @@
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-21",
       "total_jobs_seen": 3
+    },
+    "pfizer": {
+      "name": "Pfizer",
+      "career_url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
     },
     "philo": {
       "name": "Philo",
@@ -1402,6 +1546,14 @@
       "last_seen": "2026-10-17",
       "total_jobs_seen": 1
     },
+    "salesforce": {
+      "name": "Salesforce",
+      "career_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
+    },
     "samsung-semiconductor": {
       "name": "Samsung Semiconductor",
       "career_url": "https://job-boards.greenhouse.io/samsungsemiconductor",
@@ -1418,8 +1570,16 @@
       "last_seen": "2026-10-21",
       "total_jobs_seen": 11
     },
-    "schr\u00f6dinger": {
-      "name": "Schr\u00f6dinger",
+    "sanofi": {
+      "name": "Sanofi",
+      "career_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
+    },
+    "schrödinger": {
+      "name": "Schrödinger",
       "career_url": "https://job-boards.greenhouse.io/schrdinger",
       "ats": "Greenhouse",
       "first_seen": "2026-09-30",
@@ -1545,6 +1705,14 @@
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
       "total_jobs_seen": 20
+    },
+    "target": {
+      "name": "Target",
+      "career_url": "https://target.wd5.myworkdayjobs.com/targetcareers",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
     },
     "tastytrade": {
       "name": "tastytrade",
@@ -1737,6 +1905,14 @@
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-20",
       "total_jobs_seen": 16
+    },
+    "workday": {
+      "name": "Workday",
+      "career_url": "https://workday.wd5.myworkdayjobs.com/Workday",
+      "ats": "Workday",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
     },
     "worldquant": {
       "name": "WorldQuant",
