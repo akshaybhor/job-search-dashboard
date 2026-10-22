@@ -347,10 +347,11 @@ def probe_workday_company(company_name: str, career_url: str, max_lookback_hours
     return list(seen.values())
 
 
-def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 100) -> list[dict]:
+def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 0) -> list[dict]:
     """
     Scans cataloged companies from companies.json, fetches fresh roles via direct APIs,
     and merges them into all_jobs.json. Supports Greenhouse, Ashby, Lever, and Workday.
+    If max_companies <= 0, scans all eligible companies in the directory.
     """
     comp_data = load_company_directory()
     companies = comp_data.get("companies", {})
@@ -379,11 +380,11 @@ def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 100) -
                 "key": key,
             })
 
-    # Prioritize by recency
+    # Prioritize by recency; scan all if max_companies <= 0
     target_list.sort(key=lambda x: x.get("last_seen", ""), reverse=True)
-    batch = target_list[:max_companies]
+    batch = target_list[:max_companies] if max_companies > 0 else target_list
 
-    print(f">>> [Direct ATS Scraper] Scanning {len(batch)} companies (lookback: {lookback_hours}h)...")
+    print(f">>> [Direct ATS Scraper] Scanning {len(batch)} of {len(target_list)} companies (lookback: {lookback_hours}h)...")
     surfaced_jobs = []
 
     for item in batch:
@@ -391,7 +392,7 @@ def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 100) -
         ats = item["ats"]
         slug = item["slug"]
         career_url = item.get("career_url", "")
-        time.sleep(0.4)  # Polite throttle
+        time.sleep(0.25)  # Polite throttle
 
         found = []
         if ats == "Greenhouse":
@@ -421,7 +422,7 @@ def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 100) -
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Direct ATS Scraper for Greenhouse, Ashby, Lever, and Workday")
     parser.add_argument("--lookback", type=int, default=48, help="Lookback window in hours (default: 48)")
-    parser.add_argument("--limit", type=int, default=100, help="Max companies to scan per run (default: 100)")
+    parser.add_argument("--limit", type=int, default=0, help="Max companies to scan per run (0 = scan all, default: 0)")
     args = parser.parse_args()
 
     run_direct_ats_scraper(lookback_hours=args.lookback, max_companies=args.limit)

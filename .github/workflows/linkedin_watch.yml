@@ -37,8 +37,8 @@ jobs:
       - name: Auto-resolve direct ATS company portals
         run: python resolve_ats.py --enrich
 
-      - name: Scrape direct ATS career portals (Greenhouse, Ashby, Lever)
-        run: python scrape_direct_ats.py --lookback 48 --limit 100
+      - name: Scrape direct ATS career portals (Greenhouse, Ashby, Lever, Workday)
+        run: python scrape_direct_ats.py --lookback 48 --limit 0
 
       - name: Record workflow run
         run: |
