@@ -329,6 +329,19 @@ def probe_workday_company(company_name: str, career_url: str, max_lookback_hours
             if is_excluded_location(loc) or is_excluded_location(ext_path.replace("---", " ").replace("-", " ")):
                 continue
 
+            combined_loc = f"{loc} {ext_path}".lower()
+            is_us_or_rem = bool(
+                "remote" in combined_loc
+                or "united states" in combined_loc
+                or "usa" in combined_loc
+                or "/job/us-" in ext_path.lower()
+                or "/job/us_" in ext_path.lower()
+                or re.search(r'\b(us|usa)\b', loc, re.I)
+                or re.search(r'\b(al|ak|az|ar|ca|co|ct|de|fl|ga|hi|id|il|in|ia|ks|ky|la|me|md|ma|mi|mn|ms|mo|mt|ne|nv|nh|nj|nm|ny|nc|nd|oh|ok|or|pa|ri|sc|sd|tn|tx|ut|vt|va|wa|wv|wi|wy)\b', loc, re.I)
+            )
+            if not is_us_or_rem:
+                continue
+
             job_url = f"{base_url}{ext_path}"
             is_remote = bool("remote" in loc.lower() or "remote" in title.lower())
 
