@@ -1,0 +1,39 @@
+name: Generate Daily Application Queue
+
+on:
+  schedule:
+    # 10:00 UTC ≈ 6:00 AM EDT / 5:00 AM EST (Right after nightly scrapes & AI triage finish)
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  queue:
+    name: Build Daily 50+ ATS Queue
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate daily 50+ queue (Greenhouse & Ashby, 48h lookback)
+        run: python generate_daily_queue.py --min-score 50 --lookback 48
+
+      - name: Commit queue to Daily folder
+        run: |
+          git config user.name  "JobBot"
+          git config user.email "jobbot@users.noreply.github.com"
+          python ci_commit_push.py \
+            --message "chore: update daily application queue [$(date -u '+%Y-%m-%d %H:%MZ')]" \
+            Daily/daily_queue.json Daily/daily_queue.txt
