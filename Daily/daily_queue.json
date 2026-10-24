@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T13:45:20Z",
-  "date_est": "2026-10-24 09:45 AM EDT",
+  "generated_at": "2026-10-24T19:41:15Z",
+  "date_est": "2026-10-24 03:41 PM EDT",
   "min_score": 50,
   "lookback_hours": 48,
   "summary": {
-    "total": 22,
-    "greenhouse_count": 13,
+    "total": 26,
+    "greenhouse_count": 17,
     "ashby_count": 9
   },
   "greenhouse": [
@@ -20,6 +20,30 @@
       "first_seen": "2026-10-22T15:32:53Z",
       "url": "https://job-boards.greenhouse.io/yext/jobs/8296161",
       "source_url": "https://job-boards.greenhouse.io/yext/jobs/8296161"
+    },
+    {
+      "company": "Robinhood",
+      "title": "Software Engineer 2, Backend",
+      "location": "New York, NY",
+      "score": 85,
+      "verdict": "strong",
+      "ats": "Greenhouse",
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-24T08:07:23Z",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592",
+      "source_url": "https://www.linkedin.com/jobs/view/4443625312/"
+    },
+    {
+      "company": "Roblox",
+      "title": "Software Engineer, Reliability",
+      "location": "San Mateo, CA",
+      "score": 85,
+      "verdict": "strong",
+      "ats": "Greenhouse",
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-24T05:57:09Z",
+      "url": "https://careers.roblox.com/jobs/8283707?gh_jid=8283707",
+      "source_url": "https://www.linkedin.com/jobs/view/4481977979/"
     },
     {
       "company": "Roblox",
@@ -44,6 +68,18 @@
       "first_seen": "2026-10-22T15:29:57Z",
       "url": "https://job-boards.greenhouse.io/netdocuments/jobs/5437746008",
       "source_url": "https://www.linkedin.com/jobs/view/4472301653/"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Machine Learning Engineer, Core Engineering",
+      "location": "San Francisco, CA",
+      "score": 75,
+      "verdict": "strong",
+      "ats": "Greenhouse",
+      "date_posted": "2026-10-24",
+      "first_seen": "2026-10-24T14:06:52Z",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121450",
+      "source_url": "https://www.linkedin.com/jobs/view/4121963772/"
     },
     {
       "company": "Esri",
@@ -92,6 +128,18 @@
       "first_seen": "2026-10-22T15:29:57Z",
       "url": "https://job-boards.greenhouse.io/yext/jobs/8160649",
       "source_url": "https://www.linkedin.com/jobs/view/4481362650/"
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer - Economy Platform",
+      "location": "San Mateo, CA",
+      "score": 65,
+      "verdict": "maybe",
+      "ats": "Greenhouse",
+      "date_posted": "2026-10-24",
+      "first_seen": "2026-10-24T14:06:52Z",
+      "url": "https://careers.roblox.com/jobs/8142712?gh_jid=8142712",
+      "source_url": "https://www.linkedin.com/jobs/view/4455609387/"
     },
     {
       "company": "ALTEN Technology USA",
@@ -290,6 +338,30 @@
       "source_url": "https://job-boards.greenhouse.io/yext/jobs/8296161"
     },
     {
+      "company": "Robinhood",
+      "title": "Software Engineer 2, Backend",
+      "location": "New York, NY",
+      "score": 85,
+      "verdict": "strong",
+      "ats": "Greenhouse",
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-24T08:07:23Z",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592",
+      "source_url": "https://www.linkedin.com/jobs/view/4443625312/"
+    },
+    {
+      "company": "Roblox",
+      "title": "Software Engineer, Reliability",
+      "location": "San Mateo, CA",
+      "score": 85,
+      "verdict": "strong",
+      "ats": "Greenhouse",
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-24T05:57:09Z",
+      "url": "https://careers.roblox.com/jobs/8283707?gh_jid=8283707",
+      "source_url": "https://www.linkedin.com/jobs/view/4481977979/"
+    },
+    {
       "company": "Roblox",
       "title": "Software Engineer, Notifications",
       "location": "San Mateo, CA",
@@ -324,6 +396,18 @@
       "first_seen": "2026-10-22T15:29:57Z",
       "url": "https://jobs.ashbyhq.com/scribe/4cbbac75-4082-4e5f-905b-e985f68bd77c",
       "source_url": "https://www.linkedin.com/jobs/view/4472384142/"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Machine Learning Engineer, Core Engineering",
+      "location": "San Francisco, CA",
+      "score": 75,
+      "verdict": "strong",
+      "ats": "Greenhouse",
+      "date_posted": "2026-10-24",
+      "first_seen": "2026-10-24T14:06:52Z",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121450",
+      "source_url": "https://www.linkedin.com/jobs/view/4121963772/"
     },
     {
       "company": "Esri",
@@ -420,6 +504,18 @@
       "first_seen": "2026-10-23T08:31:58Z",
       "url": "https://jobs.ashbyhq.com/canals/441bb087-c46a-4e3b-a695-bbaca433a84e",
       "source_url": "https://www.linkedin.com/jobs/view/4482814463/"
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer - Economy Platform",
+      "location": "San Mateo, CA",
+      "score": 65,
+      "verdict": "maybe",
+      "ats": "Greenhouse",
+      "date_posted": "2026-10-24",
+      "first_seen": "2026-10-24T14:06:52Z",
+      "url": "https://careers.roblox.com/jobs/8142712?gh_jid=8142712",
+      "source_url": "https://www.linkedin.com/jobs/view/4455609387/"
     },
     {
       "company": "ALTEN Technology USA",
