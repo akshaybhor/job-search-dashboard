@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-23T14:48:13Z",
-  "date_est": "2026-10-23 10:48 AM EDT",
+  "generated_at": "2026-10-24T10:34:55Z",
+  "date_est": "2026-10-24 06:34 AM EDT",
   "min_score": 50,
   "lookback_hours": 48,
   "summary": {
-    "total": 26,
-    "greenhouse_count": 16,
-    "ashby_count": 10
+    "total": 22,
+    "greenhouse_count": 13,
+    "ashby_count": 9
   },
   "greenhouse": [
     {
@@ -22,28 +22,16 @@
       "source_url": "https://job-boards.greenhouse.io/yext/jobs/8296161"
     },
     {
-      "company": "Coinbase",
-      "title": "Software Engineer - Crypto Data Foundations",
-      "location": "Remote - USA",
+      "company": "Roblox",
+      "title": "Software Engineer, Notifications",
+      "location": "San Mateo, CA",
       "score": 85,
       "verdict": "strong",
       "ats": "Greenhouse",
-      "date_posted": "2026-10-20",
-      "first_seen": "2026-10-22T18:40:55Z",
-      "url": "https://www.coinbase.com/careers/positions/8304038?gh_jid=8304038",
-      "source_url": "https://www.coinbase.com/careers/positions/8304038?gh_jid=8304038"
-    },
-    {
-      "company": "HP",
-      "title": "Senior Software Engineer, Distributed Agentic AI Systems",
-      "location": "Houston, TX",
-      "score": 85,
-      "verdict": "strong",
-      "ats": "Greenhouse",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-22T18:40:55Z",
-      "url": "https://job-boards.greenhouse.io/hp/jobs/6231626004",
-      "source_url": "https://job-boards.greenhouse.io/hp/jobs/6231626004"
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-24T00:45:43Z",
+      "url": "https://careers.roblox.com/jobs/8261393?gh_jid=8261393",
+      "source_url": "https://www.linkedin.com/jobs/view/4481975804/"
     },
     {
       "company": "NetDocuments",
@@ -56,42 +44,6 @@
       "first_seen": "2026-10-22T15:29:57Z",
       "url": "https://job-boards.greenhouse.io/netdocuments/jobs/5437746008",
       "source_url": "https://www.linkedin.com/jobs/view/4472301653/"
-    },
-    {
-      "company": "WorldQuant",
-      "title": "Software Engineer - Trading Systems",
-      "location": "Greater Chicago Area",
-      "score": 85,
-      "verdict": "strong",
-      "ats": "Greenhouse",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-22T08:35:37Z",
-      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4062126006",
-      "source_url": "https://www.linkedin.com/jobs/view/4387656758/"
-    },
-    {
-      "company": "Airbnb",
-      "title": "Software Engineer, DevAI",
-      "location": "United States",
-      "score": 85,
-      "verdict": "strong",
-      "ats": "Greenhouse",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-22T01:35:51Z",
-      "url": "https://careers.airbnb.com/positions/8280222?gh_jid=8280222",
-      "source_url": "https://careers.airbnb.com/positions/8280222?gh_jid=8280222"
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer, Test Frameworks & Tools",
-      "location": "San Mateo, CA, United States",
-      "score": 78,
-      "verdict": "strong",
-      "ats": "Greenhouse",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-21T18:44:12Z",
-      "url": "https://careers.roblox.com/jobs/8244812?gh_jid=8244812",
-      "source_url": "https://careers.roblox.com/jobs/8244812?gh_jid=8244812"
     },
     {
       "company": "Esri",
@@ -142,18 +94,6 @@
       "source_url": "https://www.linkedin.com/jobs/view/4481362650/"
     },
     {
-      "company": "Coinbase",
-      "title": "Software Engineer, CDP - Foundations",
-      "location": "New York, NY",
-      "score": 75,
-      "verdict": "maybe",
-      "ats": "Greenhouse",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-22T08:35:37Z",
-      "url": "https://www.coinbase.com/careers/positions/8241522?gh_jid=8241522",
-      "source_url": "https://www.linkedin.com/jobs/view/4473544881/"
-    },
-    {
       "company": "ALTEN Technology USA",
       "title": "Software Engineer - Teleoperation Systems",
       "location": "North Reading, MA",
@@ -166,16 +106,40 @@
       "source_url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5272024007"
     },
     {
-      "company": "MongoDB",
-      "title": "Senior Software Engineer, App Modernization",
-      "location": "Sydney",
-      "score": 65,
+      "company": "Verkada",
+      "title": "Senior Backend Engineer - Access Control",
+      "location": "San Mateo, CA",
+      "score": 60,
       "verdict": "maybe",
       "ats": "Greenhouse",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-21T15:33:16Z",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8305331",
-      "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8305331"
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-23T19:28:46Z",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5273882007",
+      "source_url": "https://www.linkedin.com/jobs/view/4483125204/"
+    },
+    {
+      "company": "GitLab",
+      "title": "Backend Engineer, Knowledge Graph (Rust)",
+      "location": "United States",
+      "score": 55,
+      "verdict": "maybe",
+      "ats": "Greenhouse",
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-24T00:45:43Z",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
+      "source_url": "https://www.linkedin.com/jobs/view/4483179287/"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Machine Learning Engineer, EPD Ads",
+      "location": "Seattle, WA",
+      "score": 55,
+      "verdict": "maybe",
+      "ats": "Greenhouse",
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-23T18:24:24Z",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121543",
+      "source_url": "https://www.linkedin.com/jobs/view/3981020696/"
     },
     {
       "company": "MongoDB",
@@ -216,6 +180,18 @@
       "source_url": "https://www.linkedin.com/jobs/view/4472384142/"
     },
     {
+      "company": "OpenAI",
+      "title": "Software Engineer",
+      "location": "San Francisco",
+      "score": 75,
+      "verdict": "maybe",
+      "ats": "Ashby",
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-23T19:34:11Z",
+      "url": "https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
+      "source_url": "https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7"
+    },
+    {
       "company": "Cursor",
       "title": "Software Engineer, Compute Infra",
       "location": "San Francisco",
@@ -240,16 +216,28 @@
       "source_url": "https://jobs.ashbyhq.com/airwallex/5031c6ab-8fd3-4b2f-8c1d-4271e85075b0"
     },
     {
-      "company": "Perplexity",
-      "title": "Software Engineer, Enterprise Knowledge Platform",
-      "location": "San Francisco",
+      "company": "Canals",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco, CA",
       "score": 70,
       "verdict": "maybe",
       "ats": "Ashby",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-21T06:23:29Z",
-      "url": "https://jobs.ashbyhq.com/perplexity/0113c03a-69d0-489d-bd11-451d11a9f64b",
-      "source_url": "https://jobs.ashbyhq.com/perplexity/0113c03a-69d0-489d-bd11-451d11a9f64b"
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-23T08:31:58Z",
+      "url": "https://jobs.ashbyhq.com/canals/441bb087-c46a-4e3b-a695-bbaca433a84e",
+      "source_url": "https://www.linkedin.com/jobs/view/4482814463/"
+    },
+    {
+      "company": "Benchling",
+      "title": "Software Engineer, Cloud Infrastructure",
+      "location": "San Francisco, CA",
+      "score": 65,
+      "verdict": "maybe",
+      "ats": "Ashby",
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-24T00:45:43Z",
+      "url": "https://jobs.ashbyhq.com/benchling/7c32ac1e-3de3-462b-aa17-7618317f0da0",
+      "source_url": "https://www.linkedin.com/jobs/view/4483172007/"
     },
     {
       "company": "Ramp",
@@ -265,18 +253,6 @@
     },
     {
       "company": "Ramp",
-      "title": "Senior Backend Engineer | Accounting",
-      "location": "New York, NY",
-      "score": 65,
-      "verdict": "maybe",
-      "ats": "Ashby",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-21T22:23:51Z",
-      "url": "https://jobs.ashbyhq.com/ramp/c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
-      "source_url": "https://www.linkedin.com/jobs/view/4482158970/"
-    },
-    {
-      "company": "Ramp",
       "title": "Software Engineer, Forward Deployed",
       "location": "New York, NY (HQ)",
       "score": 60,
@@ -288,40 +264,16 @@
       "source_url": "https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8"
     },
     {
-      "company": "Plaid",
-      "title": "Software Engineer - Security Engineering",
-      "location": "Seattle Office",
+      "company": "Docebo",
+      "title": "Senior Cloud Engineer I",
+      "location": "Remote USA",
       "score": 55,
       "verdict": "maybe",
       "ats": "Ashby",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-22T18:40:55Z",
-      "url": "https://jobs.ashbyhq.com/plaid/f214bf6c-2008-4eab-8943-03f5d03088c2",
-      "source_url": "https://jobs.ashbyhq.com/plaid/f214bf6c-2008-4eab-8943-03f5d03088c2"
-    },
-    {
-      "company": "SandboxAQ",
-      "title": "AI Engineer",
-      "location": "United States",
-      "score": 55,
-      "verdict": "maybe",
-      "ats": "Ashby",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-21T22:26:16Z",
-      "url": "https://jobs.ashbyhq.com/sandboxaq/3b34aecf-e980-44f2-ab4b-b884a29297ca",
-      "source_url": "https://jobs.ashbyhq.com/sandboxaq/3b34aecf-e980-44f2-ab4b-b884a29297ca"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Software Engineer, Privacy Engineering (Lawful Access)",
-      "location": "San Francisco",
-      "score": 50,
-      "verdict": "maybe",
-      "ats": "Ashby",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-22T18:40:55Z",
-      "url": "https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835",
-      "source_url": "https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835"
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-23T22:19:33Z",
+      "url": "https://jobs.ashbyhq.com/docebo/f004fa75-f98c-4588-969a-93c2653900bb",
+      "source_url": "https://jobs.ashbyhq.com/docebo/f004fa75-f98c-4588-969a-93c2653900bb"
     }
   ],
   "all": [
@@ -338,28 +290,16 @@
       "source_url": "https://job-boards.greenhouse.io/yext/jobs/8296161"
     },
     {
-      "company": "Coinbase",
-      "title": "Software Engineer - Crypto Data Foundations",
-      "location": "Remote - USA",
+      "company": "Roblox",
+      "title": "Software Engineer, Notifications",
+      "location": "San Mateo, CA",
       "score": 85,
       "verdict": "strong",
       "ats": "Greenhouse",
-      "date_posted": "2026-10-20",
-      "first_seen": "2026-10-22T18:40:55Z",
-      "url": "https://www.coinbase.com/careers/positions/8304038?gh_jid=8304038",
-      "source_url": "https://www.coinbase.com/careers/positions/8304038?gh_jid=8304038"
-    },
-    {
-      "company": "HP",
-      "title": "Senior Software Engineer, Distributed Agentic AI Systems",
-      "location": "Houston, TX",
-      "score": 85,
-      "verdict": "strong",
-      "ats": "Greenhouse",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-22T18:40:55Z",
-      "url": "https://job-boards.greenhouse.io/hp/jobs/6231626004",
-      "source_url": "https://job-boards.greenhouse.io/hp/jobs/6231626004"
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-24T00:45:43Z",
+      "url": "https://careers.roblox.com/jobs/8261393?gh_jid=8261393",
+      "source_url": "https://www.linkedin.com/jobs/view/4481975804/"
     },
     {
       "company": "NetDocuments",
@@ -374,30 +314,6 @@
       "source_url": "https://www.linkedin.com/jobs/view/4472301653/"
     },
     {
-      "company": "WorldQuant",
-      "title": "Software Engineer - Trading Systems",
-      "location": "Greater Chicago Area",
-      "score": 85,
-      "verdict": "strong",
-      "ats": "Greenhouse",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-22T08:35:37Z",
-      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4062126006",
-      "source_url": "https://www.linkedin.com/jobs/view/4387656758/"
-    },
-    {
-      "company": "Airbnb",
-      "title": "Software Engineer, DevAI",
-      "location": "United States",
-      "score": 85,
-      "verdict": "strong",
-      "ats": "Greenhouse",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-22T01:35:51Z",
-      "url": "https://careers.airbnb.com/positions/8280222?gh_jid=8280222",
-      "source_url": "https://careers.airbnb.com/positions/8280222?gh_jid=8280222"
-    },
-    {
       "company": "Scribe",
       "title": "Backend Engineer",
       "location": "San Francisco, CA",
@@ -408,18 +324,6 @@
       "first_seen": "2026-10-22T15:29:57Z",
       "url": "https://jobs.ashbyhq.com/scribe/4cbbac75-4082-4e5f-905b-e985f68bd77c",
       "source_url": "https://www.linkedin.com/jobs/view/4472384142/"
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer, Test Frameworks & Tools",
-      "location": "San Mateo, CA, United States",
-      "score": 78,
-      "verdict": "strong",
-      "ats": "Greenhouse",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-21T18:44:12Z",
-      "url": "https://careers.roblox.com/jobs/8244812?gh_jid=8244812",
-      "source_url": "https://careers.roblox.com/jobs/8244812?gh_jid=8244812"
     },
     {
       "company": "Esri",
@@ -470,16 +374,16 @@
       "source_url": "https://www.linkedin.com/jobs/view/4481362650/"
     },
     {
-      "company": "Coinbase",
-      "title": "Software Engineer, CDP - Foundations",
-      "location": "New York, NY",
+      "company": "OpenAI",
+      "title": "Software Engineer",
+      "location": "San Francisco",
       "score": 75,
       "verdict": "maybe",
-      "ats": "Greenhouse",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-22T08:35:37Z",
-      "url": "https://www.coinbase.com/careers/positions/8241522?gh_jid=8241522",
-      "source_url": "https://www.linkedin.com/jobs/view/4473544881/"
+      "ats": "Ashby",
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-23T19:34:11Z",
+      "url": "https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
+      "source_url": "https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7"
     },
     {
       "company": "Cursor",
@@ -506,16 +410,16 @@
       "source_url": "https://jobs.ashbyhq.com/airwallex/5031c6ab-8fd3-4b2f-8c1d-4271e85075b0"
     },
     {
-      "company": "Perplexity",
-      "title": "Software Engineer, Enterprise Knowledge Platform",
-      "location": "San Francisco",
+      "company": "Canals",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco, CA",
       "score": 70,
       "verdict": "maybe",
       "ats": "Ashby",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-21T06:23:29Z",
-      "url": "https://jobs.ashbyhq.com/perplexity/0113c03a-69d0-489d-bd11-451d11a9f64b",
-      "source_url": "https://jobs.ashbyhq.com/perplexity/0113c03a-69d0-489d-bd11-451d11a9f64b"
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-23T08:31:58Z",
+      "url": "https://jobs.ashbyhq.com/canals/441bb087-c46a-4e3b-a695-bbaca433a84e",
+      "source_url": "https://www.linkedin.com/jobs/view/4482814463/"
     },
     {
       "company": "ALTEN Technology USA",
@@ -530,16 +434,16 @@
       "source_url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5272024007"
     },
     {
-      "company": "MongoDB",
-      "title": "Senior Software Engineer, App Modernization",
-      "location": "Sydney",
+      "company": "Benchling",
+      "title": "Software Engineer, Cloud Infrastructure",
+      "location": "San Francisco, CA",
       "score": 65,
       "verdict": "maybe",
-      "ats": "Greenhouse",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-21T15:33:16Z",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8305331",
-      "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8305331"
+      "ats": "Ashby",
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-24T00:45:43Z",
+      "url": "https://jobs.ashbyhq.com/benchling/7c32ac1e-3de3-462b-aa17-7618317f0da0",
+      "source_url": "https://www.linkedin.com/jobs/view/4483172007/"
     },
     {
       "company": "Ramp",
@@ -554,16 +458,16 @@
       "source_url": "https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce"
     },
     {
-      "company": "Ramp",
-      "title": "Senior Backend Engineer | Accounting",
-      "location": "New York, NY",
-      "score": 65,
+      "company": "Verkada",
+      "title": "Senior Backend Engineer - Access Control",
+      "location": "San Mateo, CA",
+      "score": 60,
       "verdict": "maybe",
-      "ats": "Ashby",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-21T22:23:51Z",
-      "url": "https://jobs.ashbyhq.com/ramp/c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
-      "source_url": "https://www.linkedin.com/jobs/view/4482158970/"
+      "ats": "Greenhouse",
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-23T19:28:46Z",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5273882007",
+      "source_url": "https://www.linkedin.com/jobs/view/4483125204/"
     },
     {
       "company": "Ramp",
@@ -578,28 +482,40 @@
       "source_url": "https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8"
     },
     {
-      "company": "Plaid",
-      "title": "Software Engineer - Security Engineering",
-      "location": "Seattle Office",
-      "score": 55,
-      "verdict": "maybe",
-      "ats": "Ashby",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-22T18:40:55Z",
-      "url": "https://jobs.ashbyhq.com/plaid/f214bf6c-2008-4eab-8943-03f5d03088c2",
-      "source_url": "https://jobs.ashbyhq.com/plaid/f214bf6c-2008-4eab-8943-03f5d03088c2"
-    },
-    {
-      "company": "SandboxAQ",
-      "title": "AI Engineer",
+      "company": "GitLab",
+      "title": "Backend Engineer, Knowledge Graph (Rust)",
       "location": "United States",
       "score": 55,
       "verdict": "maybe",
+      "ats": "Greenhouse",
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-24T00:45:43Z",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
+      "source_url": "https://www.linkedin.com/jobs/view/4483179287/"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Machine Learning Engineer, EPD Ads",
+      "location": "Seattle, WA",
+      "score": 55,
+      "verdict": "maybe",
+      "ats": "Greenhouse",
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-23T18:24:24Z",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121543",
+      "source_url": "https://www.linkedin.com/jobs/view/3981020696/"
+    },
+    {
+      "company": "Docebo",
+      "title": "Senior Cloud Engineer I",
+      "location": "Remote USA",
+      "score": 55,
+      "verdict": "maybe",
       "ats": "Ashby",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-21T22:26:16Z",
-      "url": "https://jobs.ashbyhq.com/sandboxaq/3b34aecf-e980-44f2-ab4b-b884a29297ca",
-      "source_url": "https://jobs.ashbyhq.com/sandboxaq/3b34aecf-e980-44f2-ab4b-b884a29297ca"
+      "date_posted": "2026-10-23",
+      "first_seen": "2026-10-23T22:19:33Z",
+      "url": "https://jobs.ashbyhq.com/docebo/f004fa75-f98c-4588-969a-93c2653900bb",
+      "source_url": "https://jobs.ashbyhq.com/docebo/f004fa75-f98c-4588-969a-93c2653900bb"
     },
     {
       "company": "MongoDB",
@@ -624,18 +540,6 @@
       "first_seen": "2026-10-22T08:38:25Z",
       "url": "https://job-boards.greenhouse.io/adyen/jobs/8276205",
       "source_url": "https://job-boards.greenhouse.io/adyen/jobs/8276205"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Software Engineer, Privacy Engineering (Lawful Access)",
-      "location": "San Francisco",
-      "score": 50,
-      "verdict": "maybe",
-      "ats": "Ashby",
-      "date_posted": "2026-10-21",
-      "first_seen": "2026-10-22T18:40:55Z",
-      "url": "https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835",
-      "source_url": "https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835"
     }
   ]
 }
