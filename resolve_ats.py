@@ -277,11 +277,11 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
     return "", "", ""
 
 
-def enrich_jobs(all_jobs_path: str = None, max_known: int = 50, max_unknown: int = 5) -> int:
+def enrich_jobs(all_jobs_path: str = None, max_known: int = 150, max_unknown: int = 5) -> int:
     """
     Enriches all_jobs.json with direct ATS application URLs (Workday, Greenhouse, Ashby, Lever).
-    Prioritizes known ATS employers (NVIDIA, Salesforce, Adobe, etc.) for instant linking,
-    then probes candidate slugs for unknown employers.
+    Prioritizes recent jobs from known ATS employers (NVIDIA, Salesforce, Adobe, Capital One, etc.)
+    for instant linking, and remembers probed portals so old unmatched jobs never block new scrapes.
     """
     if not all_jobs_path:
         all_jobs_path = os.path.join(SCRIPT_DIR, "all_jobs.json")
@@ -302,35 +302,73 @@ def enrich_jobs(all_jobs_path: str = None, max_known: int = 50, max_unknown: int
     known_candidates = []
     unknown_candidates = []
     seen_probes = set()
+    jobs_enriched = 0
 
     for j in jobs:
         c_name = j.get("company", "").strip()
         title = j.get("title", "").strip()
-        url = j.get("url", "")
-        existing_direct = j.get("direct_url", "")
+        url = j.get("url", "").strip()
+        existing_direct = j.get("direct_url", "").strip()
 
         if not c_name or c_name.lower() == "unknown" or is_excluded_company(c_name):
             continue
+
+        # Fast-path: if primary url is already a direct ATS URL, populate direct_url & ats without API calls
+        if not existing_direct and url:
+            u_low = url.lower()
+            detected = ""
+            if "myworkdayjobs.com" in u_low and "/job/" in u_low:
+                detected = "Workday"
+            elif "greenhouse.io" in u_low or "gh_jid=" in u_low:
+                detected = "Greenhouse"
+            elif "ashbyhq.com" in u_low or "ashby_jid=" in u_low:
+                detected = "Ashby"
+            elif "lever.co" in u_low:
+                detected = "Lever"
+            if detected:
+                j["direct_url"] = url
+                j["ats"] = detected
+                jobs_enriched += 1
+                continue
 
         if existing_direct:
             continue
 
         comp_key = normalize_company_key(c_name)
-        probe_key = (comp_key, title.lower())
-        if probe_key in seen_probes:
-            continue
-        seen_probes.add(probe_key)
-
         if comp_key in existing_companies:
-            ats_plat = existing_companies[comp_key].get("ats", "")
-            if ats_plat in ("Workday", "Greenhouse", "Lever", "Ashby"):
+            comp_entry = existing_companies[comp_key]
+            ats_plat = comp_entry.get("ats", "")
+            portal_url = comp_entry.get("career_url", "")
+            if ats_plat in ("Workday", "Greenhouse", "Lever", "Ashby") and portal_url:
+                # Skip if already probed against this exact portal URL
+                if j.get("ats_probed_portal") == portal_url:
+                    continue
+                probe_key = (comp_key, title.lower())
+                if probe_key in seen_probes:
+                    continue
+                seen_probes.add(probe_key)
                 known_candidates.append(j)
         else:
+            if j.get("ats_probed_unknown"):
+                continue
+            probe_key = (comp_key, title.lower())
+            if probe_key in seen_probes:
+                continue
+            seen_probes.add(probe_key)
             unknown_candidates.append(j)
 
-    print(f"[ATS Resolver] Found {len(known_candidates)} roles from known ATS employers, {len(unknown_candidates)} from uncataloged companies.", flush=True)
+    # Sort candidates so newest jobs (is_recent=True, then scraped_at/date_posted descending) are always probed first
+    def _recency_key(job_item):
+        return (
+            1 if job_item.get("is_recent") else 0,
+            str(job_item.get("scraped_at") or job_item.get("date_posted") or ""),
+        )
 
-    jobs_enriched = 0
+    known_candidates.sort(key=_recency_key, reverse=True)
+    unknown_candidates.sort(key=_recency_key, reverse=True)
+
+    print(f"[ATS Resolver] Found {len(known_candidates)} unprobed roles from known ATS employers, {len(unknown_candidates)} from uncataloged companies.", flush=True)
+
     companies_resolved = 0
     probed = 0
 
@@ -339,8 +377,11 @@ def enrich_jobs(all_jobs_path: str = None, max_known: int = 50, max_unknown: int
         c_name = j.get("company", "").strip()
         title = j.get("title", "").strip()
         existing_direct = j.get("direct_url", "")
+        comp_key = normalize_company_key(c_name)
+        portal_url = existing_companies.get(comp_key, {}).get("career_url", "")
 
         direct_url, ats_plat, root_url = resolve_direct_ats(c_name, title, comp_dir=comp_dir)
+        j["ats_probed_portal"] = portal_url
         probed += 1
 
         if direct_url and direct_url != existing_direct:
@@ -350,11 +391,11 @@ def enrich_jobs(all_jobs_path: str = None, max_known: int = 50, max_unknown: int
             print(f"  🔗 [Linked {ats_plat}] {c_name} — {title[:40]} -> {direct_url[:75]}...", flush=True)
         time.sleep(0.1)
 
-    # Immediate flush of Phase 1 matches so no progress is ever delayed
-    if jobs_enriched > 0:
+    # Immediate flush of Phase 1 matches & probed markers so no progress is ever delayed
+    if jobs_enriched > 0 or probed > 0:
         with open(all_jobs_path, "w", encoding="utf-8") as f:
             json.dump(all_data, f, separators=(",", ":"))
-        print(f"[OK] Phase 1 saved: {jobs_enriched} direct ATS links in all_jobs.json", flush=True)
+        print(f"[OK] Phase 1 saved: {jobs_enriched} direct ATS links ({probed} probed) in all_jobs.json", flush=True)
 
     # Phase 2: Discovery for uncataloged companies (quick probe of top candidates)
     if unknown_candidates and max_unknown > 0:
@@ -364,6 +405,7 @@ def enrich_jobs(all_jobs_path: str = None, max_known: int = 50, max_unknown: int
             comp_key = normalize_company_key(c_name)
 
             direct_url, ats_plat, root_url = resolve_direct_ats(c_name, title, comp_dir=comp_dir)
+            j["ats_probed_unknown"] = True
             probed += 1
 
             if direct_url:
@@ -384,7 +426,7 @@ def enrich_jobs(all_jobs_path: str = None, max_known: int = 50, max_unknown: int
                 print(f"  🏢 [Discovered Portal] {c_name} -> {ats_plat} ({root_url})", flush=True)
             time.sleep(0.15)
 
-    if jobs_enriched > 0:
+    if jobs_enriched > 0 or probed > 0:
         with open(all_jobs_path, "w", encoding="utf-8") as f:
             json.dump(all_data, f, separators=(",", ":"))
 

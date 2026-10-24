@@ -27,7 +27,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Generate daily 50+ queue (Greenhouse & Ashby, 48h lookback)
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate daily 50+ queue (Greenhouse, Ashby & Workday, 48h lookback)
         run: python generate_daily_queue.py --min-score 50 --lookback 48
 
       - name: Commit queue to Daily folder
@@ -36,4 +39,4 @@ jobs:
           git config user.email "jobbot@users.noreply.github.com"
           python ci_commit_push.py \
             --message "chore: update daily application queue [$(date -u '+%Y-%m-%d %H:%MZ')]" \
-            Daily/daily_queue.json Daily/daily_queue.txt
+            Daily/daily_queue.json Daily/daily_queue.txt Daily/workday_daily_queue.json Daily/workday_daily_queue.txt all_jobs.json companies.json

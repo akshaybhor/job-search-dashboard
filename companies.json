@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24 17:34 UTC",
-  "total_companies": 247,
+  "updated_at": "2026-10-24 19:45 UTC",
+  "total_companies": 267,
   "companies": {
     "abaka-ai": {
       "name": "Abaka AI",
@@ -1602,8 +1602,8 @@
       "last_seen": "2026-10-22",
       "total_jobs_seen": 1
     },
-    "schr\u00f6dinger": {
-      "name": "Schr\u00f6dinger",
+    "schrödinger": {
+      "name": "Schrödinger",
       "career_url": "https://job-boards.greenhouse.io/schrdinger",
       "ats": "Greenhouse",
       "first_seen": "2026-09-30",
@@ -1977,6 +1977,166 @@
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-21",
       "total_jobs_seen": 26
+    },
+    "capital-one": {
+      "name": "Capital One",
+      "career_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "cisco": {
+      "name": "Cisco",
+      "career_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "blue-origin": {
+      "name": "Blue Origin",
+      "career_url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "us-bank": {
+      "name": "U.S. Bank",
+      "career_url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "travelers": {
+      "name": "Travelers",
+      "career_url": "https://travelers.wd5.myworkdayjobs.com/External",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "general-motors": {
+      "name": "General Motors",
+      "career_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "hewlett-packard-enterprise": {
+      "name": "Hewlett Packard Enterprise",
+      "career_url": "https://hpe.wd5.myworkdayjobs.com/JobsatHPE",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "ge-aerospace": {
+      "name": "GE Aerospace",
+      "career_url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "cvs-health": {
+      "name": "CVS Health",
+      "career_url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "northrop-grumman": {
+      "name": "Northrop Grumman",
+      "career_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "leidos": {
+      "name": "Leidos",
+      "career_url": "https://leidos.wd5.myworkdayjobs.com/External",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "thomson-reuters": {
+      "name": "Thomson Reuters",
+      "career_url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "truist": {
+      "name": "Truist",
+      "career_url": "https://truist.wd1.myworkdayjobs.com/Careers",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "caci-international": {
+      "name": "CACI International Inc",
+      "career_url": "https://caci.wd1.myworkdayjobs.com/External",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "fifth-third-bank": {
+      "name": "Fifth Third Bank",
+      "career_url": "https://fifththird.wd5.myworkdayjobs.com/53careers",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "humana": {
+      "name": "Humana",
+      "career_url": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "booz-allen-hamilton": {
+      "name": "Booz Allen Hamilton",
+      "career_url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "pwc": {
+      "name": "PwC",
+      "career_url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "raytheon": {
+      "name": "Raytheon",
+      "career_url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
+    },
+    "collins-aerospace": {
+      "name": "Collins Aerospace",
+      "career_url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway",
+      "ats": "Workday",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "total_jobs_seen": 1
     }
   }
 }

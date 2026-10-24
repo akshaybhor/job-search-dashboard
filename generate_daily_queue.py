@@ -30,11 +30,14 @@ SCORES_PATH = os.path.join(SCRIPT_DIR, "scores.json")
 DAILY_DIR = os.path.join(SCRIPT_DIR, "Daily")
 QUEUE_JSON_PATH = os.path.join(DAILY_DIR, "daily_queue.json")
 QUEUE_TXT_PATH = os.path.join(DAILY_DIR, "daily_queue.txt")
+WORKDAY_QUEUE_JSON_PATH = os.path.join(DAILY_DIR, "workday_daily_queue.json")
+WORKDAY_QUEUE_TXT_PATH = os.path.join(DAILY_DIR, "workday_daily_queue.txt")
 
 
 def get_effective_direct_url(job: dict) -> tuple[str, str]:
     """
-    Returns (direct_url, ats_name) if the job has a valid direct ATS URL (Greenhouse or Ashby).
+    Returns (direct_url, ats_name) if the job has a valid direct ATS URL
+    (Greenhouse, Ashby, or Workday).
     Prefers job['direct_url'], then job['url'].
     """
     d_url = (job.get("direct_url") or "").strip()
@@ -49,11 +52,15 @@ def get_effective_direct_url(job: dict) -> tuple[str, str]:
             return candidate, "Greenhouse"
         if "ashbyhq.com" in c_low or "ashby_jid=" in c_low:
             return candidate, "Ashby"
+        if "myworkdayjobs.com" in c_low and "/job/" in c_low:
+            return candidate, "Workday"
 
     if "greenhouse" in ats_field and ("boards.greenhouse.io" in u or "job-boards.greenhouse.io" in u):
         return u, "Greenhouse"
     if "ashby" in ats_field and "jobs.ashbyhq.com" in u:
         return u, "Ashby"
+    if "workday" in ats_field and "myworkdayjobs.com" in u.lower() and "/job/" in u.lower():
+        return u, "Workday"
 
     return "", ""
 
@@ -83,13 +90,14 @@ def parse_timestamp(ts_str: str) -> datetime | None:
 
 
 def is_recent(job: dict, max_hours: int = 48) -> bool:
-    """Checks if job was first seen or posted within the lookback window."""
+    """Checks if job was first seen, scraped, or posted within the lookback window."""
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(hours=max_hours)
 
-    fs = parse_timestamp(job.get("first_seen", ""))
-    if fs and fs >= cutoff:
-        return True
+    for field in ("first_seen", "scraped_at"):
+        fs = parse_timestamp(job.get(field, ""))
+        if fs and fs >= cutoff:
+            return True
 
     dp = parse_timestamp(job.get("date_posted", ""))
     if dp and dp >= (cutoff - timedelta(days=1)):  # 1-day grace period for date_posted resolution
@@ -99,7 +107,7 @@ def is_recent(job: dict, max_hours: int = 48) -> bool:
 
 
 def build_daily_queue(min_score: int = 50, max_hours: int = 48) -> dict:
-    """Extracts, scores, and categorizes eligible jobs."""
+    """Extracts, scores, and categorizes eligible jobs across Greenhouse, Ashby, and Workday."""
     if not os.path.exists(ALL_JOBS_PATH):
         raise FileNotFoundError(f"Missing {ALL_JOBS_PATH}")
 
@@ -118,6 +126,7 @@ def build_daily_queue(min_score: int = 50, max_hours: int = 48) -> dict:
 
     greenhouse_jobs = []
     ashby_jobs = []
+    workday_jobs = []
     seen_urls = set()
 
     for job in all_jobs:
@@ -157,7 +166,7 @@ def build_daily_queue(min_score: int = 50, max_hours: int = 48) -> dict:
             "verdict": score_info.get("verdict", "strong" if fit_score >= 80 else "good"),
             "ats": ats,
             "date_posted": job.get("date_posted", ""),
-            "first_seen": job.get("first_seen", ""),
+            "first_seen": job.get("first_seen", "") or job.get("scraped_at", ""),
             "url": direct_url,
             "source_url": url,
         }
@@ -166,10 +175,13 @@ def build_daily_queue(min_score: int = 50, max_hours: int = 48) -> dict:
             greenhouse_jobs.append(item)
         elif ats == "Ashby":
             ashby_jobs.append(item)
+        elif ats == "Workday":
+            workday_jobs.append(item)
 
     greenhouse_jobs.sort(key=lambda x: x["score"], reverse=True)
     ashby_jobs.sort(key=lambda x: x["score"], reverse=True)
-    all_eligible = sorted(greenhouse_jobs + ashby_jobs, key=lambda x: x["score"], reverse=True)
+    workday_jobs.sort(key=lambda x: x["score"], reverse=True)
+    all_eligible = sorted(greenhouse_jobs + ashby_jobs + workday_jobs, key=lambda x: x["score"], reverse=True)
 
     now_utc = datetime.now(timezone.utc)
     # Calculate EST offset approx (UTC - 5 / UTC - 4)
@@ -184,9 +196,11 @@ def build_daily_queue(min_score: int = 50, max_hours: int = 48) -> dict:
             "total": len(all_eligible),
             "greenhouse_count": len(greenhouse_jobs),
             "ashby_count": len(ashby_jobs),
+            "workday_count": len(workday_jobs),
         },
         "greenhouse": greenhouse_jobs,
         "ashby": ashby_jobs,
+        "workday": workday_jobs,
         "all": all_eligible,
     }
 
@@ -195,7 +209,15 @@ def main():
     parser = argparse.ArgumentParser(description="Generate Daily Application Queue")
     parser.add_argument("--min-score", type=int, default=50, help="Minimum fit score (default: 50)")
     parser.add_argument("--lookback", type=int, default=48, help="Lookback window in hours (default: 48)")
+    parser.add_argument("--skip-enrich", action="store_true", help="Skip running resolve_ats enrichment before building queue")
     args = parser.parse_args()
+
+    if not args.skip_enrich:
+        try:
+            from resolve_ats import enrich_jobs
+            enrich_jobs(ALL_JOBS_PATH, max_known=150, max_unknown=5)
+        except Exception as e:
+            print(f"⚠️ Warning running ATS resolver enrichment: {e}")
 
     os.makedirs(DAILY_DIR, exist_ok=True)
     queue = build_daily_queue(min_score=args.min_score, max_hours=args.lookback)
@@ -207,11 +229,28 @@ def main():
         for item in queue.get("all", []):
             f.write(f"{item['url']}\n")
 
+    # Also write dedicated Workday queue files
+    workday_only = {
+        "generated_at": queue["generated_at"],
+        "date_est": queue["date_est"],
+        "min_score": queue["min_score"],
+        "lookback_hours": queue["lookback_hours"],
+        "total": len(queue.get("workday", [])),
+        "workday": queue.get("workday", []),
+    }
+    with open(WORKDAY_QUEUE_JSON_PATH, "w", encoding="utf-8") as f:
+        json.dump(workday_only, f, indent=2)
+
+    with open(WORKDAY_QUEUE_TXT_PATH, "w", encoding="utf-8") as f:
+        for item in queue.get("workday", []):
+            f.write(f"{item['url']}\n")
+
     print(f"✅ Daily Queue successfully generated in '{DAILY_DIR}':")
     print(f"   • Total Eligible Roles (Score >={args.min_score}): {queue['summary']['total']}")
     print(f"     - Greenhouse: {queue['summary']['greenhouse_count']}")
     print(f"     - Ashby:      {queue['summary']['ashby_count']}")
-    print(f"   • Files created: {QUEUE_JSON_PATH} & {QUEUE_TXT_PATH}")
+    print(f"     - Workday:    {queue['summary']['workday_count']}")
+    print(f"   • Files created: {QUEUE_JSON_PATH}, {QUEUE_TXT_PATH}, {WORKDAY_QUEUE_JSON_PATH}, {WORKDAY_QUEUE_TXT_PATH}")
 
 
 if __name__ == "__main__":
