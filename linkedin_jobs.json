@@ -1,58 +1,13 @@
 {
-  "scraped_at": "2026-10-25 20:53 UTC",
-  "total": 22,
-  "new_count": 22,
+  "scraped_at": "2026-10-25 21:05 UTC",
+  "total": 18,
+  "new_count": 3,
   "jobs": [
     {
       "company": "NITYA Software Solutions Inc",
       "title": "Sr. Data Engineer on application development",
       "location": "Connecticut, United States",
       "url": "https://www.linkedin.com/jobs/view/4482906193/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "EngRadar",
-      "title": "Bioinformatics Software Engineer III, OncoKB",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4483512061/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "MongoDB",
-      "title": "Software Engineer 3, Atlas Clusters Platform",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4457389217/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Mission Technologies, a division of HII",
-      "title": "Software Engineer (Hybrid) - 29014",
-      "location": "Columbia, MD",
-      "url": "https://www.linkedin.com/jobs/view/4429356477/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Enlighten",
-      "title": "Software Engineer (Hybrid) - 29509",
-      "location": "Fort Meade, MD",
-      "url": "https://www.linkedin.com/jobs/view/4446939372/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "REI Systems",
-      "title": "Associate Software Engineer- Java",
-      "location": "Sterling, VA",
-      "url": "https://www.linkedin.com/jobs/view/4466338010/",
       "date_posted": "2026-10-25",
       "ats": "LinkedIn",
       "remote": false
@@ -69,26 +24,35 @@
     {
       "company": "DEPT\u00ae",
       "title": "Senior, Software Engineer",
-      "location": "New York, United States",
-      "url": "https://www.linkedin.com/jobs/view/4457364568/",
+      "location": "Illinois, United States",
+      "url": "https://www.linkedin.com/jobs/view/4457360622/",
       "date_posted": "2026-10-25",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "MongoDB",
-      "title": "Senior Software Engineer, Storage Layer Services",
+      "company": "Referment",
+      "title": "Full-Stack Software Engineer | Hedge Fund (1674036)",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4430164081/",
+      "url": "https://www.linkedin.com/jobs/view/4483391277/",
       "date_posted": "2026-10-25",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "HuntingCube",
-      "title": "Senior Backend Engineer",
+      "company": "Enlighten",
+      "title": "Software Engineer (Hybrid) - 29509",
+      "location": "Fort Meade, MD",
+      "url": "https://www.linkedin.com/jobs/view/4446939372/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "EngRadar",
+      "title": "Software Engineer - Storage",
       "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4483397100/",
+      "url": "https://www.linkedin.com/jobs/view/4483390903/",
       "date_posted": "2026-10-25",
       "ats": "LinkedIn",
       "remote": true
@@ -204,202 +168,31 @@
   ],
   "new_jobs": [
     {
-      "company": "NITYA Software Solutions Inc",
-      "title": "Sr. Data Engineer on application development",
-      "location": "Connecticut, United States",
-      "url": "https://www.linkedin.com/jobs/view/4482906193/",
+      "company": "DEPT\u00ae",
+      "title": "Senior, Software Engineer",
+      "location": "Illinois, United States",
+      "url": "https://www.linkedin.com/jobs/view/4457360622/",
+      "date_posted": "2026-10-25",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Referment",
+      "title": "Full-Stack Software Engineer | Hedge Fund (1674036)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4483391277/",
       "date_posted": "2026-10-25",
       "ats": "LinkedIn",
       "remote": false
     },
     {
       "company": "EngRadar",
-      "title": "Bioinformatics Software Engineer III, OncoKB",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4483512061/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "MongoDB",
-      "title": "Software Engineer 3, Atlas Clusters Platform",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4457389217/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Mission Technologies, a division of HII",
-      "title": "Software Engineer (Hybrid) - 29014",
-      "location": "Columbia, MD",
-      "url": "https://www.linkedin.com/jobs/view/4429356477/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Enlighten",
-      "title": "Software Engineer (Hybrid) - 29509",
-      "location": "Fort Meade, MD",
-      "url": "https://www.linkedin.com/jobs/view/4446939372/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "REI Systems",
-      "title": "Associate Software Engineer- Java",
-      "location": "Sterling, VA",
-      "url": "https://www.linkedin.com/jobs/view/4466338010/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Mission Technologies, a division of HII",
-      "title": "Senior Software Engineer (Hybrid) - 27020",
-      "location": "Columbia, MD",
-      "url": "https://www.linkedin.com/jobs/view/4370486049/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "DEPT\u00ae",
-      "title": "Senior, Software Engineer",
-      "location": "New York, United States",
-      "url": "https://www.linkedin.com/jobs/view/4457364568/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "MongoDB",
-      "title": "Senior Software Engineer, Storage Layer Services",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4430164081/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "HuntingCube",
-      "title": "Senior Backend Engineer",
+      "title": "Software Engineer - Storage",
       "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4483397100/",
+      "url": "https://www.linkedin.com/jobs/view/4483390903/",
       "date_posted": "2026-10-25",
       "ats": "LinkedIn",
       "remote": true
-    },
-    {
-      "company": "Verra Mobility",
-      "title": "Sr. Systems Engineer",
-      "location": "Mesa, AZ",
-      "url": "https://www.linkedin.com/jobs/view/4466738765/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Mujin",
-      "title": "Software Developer \u2013 Warehouse Execution",
-      "location": "Suwanee, GA",
-      "url": "https://www.linkedin.com/jobs/view/4483504493/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Round-Peg Solutions (RPS)",
-      "title": "Embedded Software Engineer",
-      "location": "Torrance, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483396761/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "JST",
-      "title": "Azure Cloud Engineer",
-      "location": "Washington, DC",
-      "url": "https://www.linkedin.com/jobs/view/4483394644/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capgemini",
-      "title": "Senior Data Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483369276/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Infinite Computer Solutions",
-      "title": "Azure Data Engineer",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4482912080/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Datifact",
-      "title": "AI Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4482901227/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Network Designs, Inc.",
-      "title": "Data Engineer / Database & BI Developer",
-      "location": "McLean, VA",
-      "url": "https://www.linkedin.com/jobs/view/4483392713/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Synechron",
-      "title": "Generative AI Engineer",
-      "location": "New York, United States",
-      "url": "https://www.linkedin.com/jobs/view/4481408325/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "GameStop",
-      "title": "AI Engineer",
-      "location": "Grapevine, TX",
-      "url": "https://www.linkedin.com/jobs/view/4483395701/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Beni Health",
-      "title": "AI Engineering Lead",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4482913043/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Relevance Lab",
-      "title": "GenAI DevOps Engineer /AI Engineer (Agentic AI / AWS Bedrock/ AgentCore)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482692662/",
-      "date_posted": "2026-10-25",
-      "ats": "LinkedIn",
-      "remote": false
     }
   ]
 }
