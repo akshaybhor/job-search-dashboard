@@ -1,170 +1,297 @@
 {
-  "scraped_at": "2026-10-24 23:17 UTC",
-  "total": 18,
-  "new_count": 0,
+  "scraped_at": "2026-10-25 01:18 UTC",
+  "total": 16,
+  "new_count": 16,
   "jobs": [
     {
-      "company": "Northrop Grumman",
-      "title": "HW Requirements Systems Engineer  (Level 2 or Level 3)",
-      "location": "Cincinnati, OH",
-      "url": "https://www.linkedin.com/jobs/view/4483362127/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Optum",
-      "title": "Sr Software Engineer - Remote",
-      "location": "Eden Prairie, MN",
-      "url": "https://www.linkedin.com/jobs/view/4483147804/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "BioRender",
-      "title": "Senior Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483341779/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Stripe",
-      "title": "Software Engineer, Early Career \u2014 Immediate Start",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Senior Software Development Engineer , AWS Transform Migrations",
       "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4468876013/",
+      "url": "https://www.linkedin.com/jobs/view/4483356568/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Reddit, Inc.",
-      "title": "Software Engineer, Ad Signals",
+      "company": "AAA Auto Club Enterprises",
+      "title": "Software Engineer",
+      "location": "Coppell, TX",
+      "url": "https://www.linkedin.com/jobs/view/4481073392/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Boulder Connect",
+      "title": "Senior Software Engineer \u2013 Enterprise Systems",
+      "location": "St Louis, MO",
+      "url": "https://www.linkedin.com/jobs/view/4482668326/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "AAA Auto Club Enterprises",
+      "title": "Software Engineer Lead eBiz",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481071428/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "AAA Auto Club Enterprises",
+      "title": "Associate Data Engineer",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481077177/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Rondo",
+      "title": "Platform Engineer",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4482669395/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "val's services",
+      "title": "Security Systems Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4483348547/",
+      "url": "https://www.linkedin.com/jobs/view/4483345781/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Reddit, Inc.",
-      "title": "Software Engineer, Ad Signals",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483352413/",
+      "company": "IQSIGHT",
+      "title": "Embedded Software Engineer",
+      "location": "Lancaster, PA",
+      "url": "https://www.linkedin.com/jobs/view/4483159293/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Optum",
-      "title": "Full Stack Software Engineer",
-      "location": "Tempe, AZ",
-      "url": "https://www.linkedin.com/jobs/view/4483345611/",
+      "company": "Domino's",
+      "title": "Software Engineer II",
+      "location": "Ann Arbor, MI",
+      "url": "https://www.linkedin.com/jobs/view/4481071457/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Stripe",
-      "title": "Backend Engineer, Link",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4468858869/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Netrolynx AI",
-      "title": "Backend Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4483357337/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Optum",
-      "title": "Lead Software Engineer - Remote",
-      "location": "Eden Prairie, MN",
-      "url": "https://www.linkedin.com/jobs/view/4483357309/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Northrop Grumman",
-      "title": "Sentinel - Systems Engineer - Guidance Navigation & Control (GN&C)",
-      "location": "Roy, UT",
-      "url": "https://www.linkedin.com/jobs/view/4476399200/",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Machine learning engineer II, AWS Inference Optimization",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483350619/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Netrolynx AI",
-      "title": "Systems Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4483353476/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Piris Labs",
-      "title": "Senior RF Systems Engineer: Co-Packaged Photonic Design, Packaging, and Characterization",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4482666116/",
+      "company": "AAA Auto Club Enterprises",
+      "title": "Sr. Software Engineer - CloudOps",
+      "location": "Coppell, TX",
+      "url": "https://www.linkedin.com/jobs/view/4481068611/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Exigent Technologies",
-      "title": "L2 Field Systems Engineer",
-      "location": "Morristown, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4470055613/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Iridium",
-      "title": "Embedded Software Engineer III",
-      "location": "McLean, VA",
-      "url": "https://www.linkedin.com/jobs/view/4483357352/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Netrolynx AI",
-      "title": "Software Developer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4483360179/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Optum",
-      "title": "Sr Dir Software - Data Platform Engineer - Minneapolis",
-      "location": "Minneapolis, MN",
-      "url": "https://www.linkedin.com/jobs/view/4483342701/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Johnson Controls",
-      "title": "Ai Engineer",
+      "company": "Children's Wisconsin",
+      "title": "Manager, Cloud Engineering",
       "location": "Milwaukee, WI",
-      "url": "https://www.linkedin.com/jobs/view/4481070523/",
+      "url": "https://www.linkedin.com/jobs/view/4483350793/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Merlin",
+      "title": "Autonomy Software Engineer",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4482664453/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "sedbox",
+      "title": "Python Developer",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4482658778/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Acer",
+      "title": "Field Application Engineer (FAE) \u2013 AI, Workstations and Servers",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476230487/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Brown Brothers Harriman",
+      "title": "Braid Cloud Engineer",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4455469775/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "remote": false
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Senior Software Development Engineer , AWS Transform Migrations",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4483356568/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "AAA Auto Club Enterprises",
+      "title": "Software Engineer",
+      "location": "Coppell, TX",
+      "url": "https://www.linkedin.com/jobs/view/4481073392/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Boulder Connect",
+      "title": "Senior Software Engineer \u2013 Enterprise Systems",
+      "location": "St Louis, MO",
+      "url": "https://www.linkedin.com/jobs/view/4482668326/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "AAA Auto Club Enterprises",
+      "title": "Software Engineer Lead eBiz",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481071428/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "AAA Auto Club Enterprises",
+      "title": "Associate Data Engineer",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481077177/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Rondo",
+      "title": "Platform Engineer",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4482669395/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "val's services",
+      "title": "Security Systems Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4483345781/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "IQSIGHT",
+      "title": "Embedded Software Engineer",
+      "location": "Lancaster, PA",
+      "url": "https://www.linkedin.com/jobs/view/4483159293/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Domino's",
+      "title": "Software Engineer II",
+      "location": "Ann Arbor, MI",
+      "url": "https://www.linkedin.com/jobs/view/4481071457/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Machine learning engineer II, AWS Inference Optimization",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483350619/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "AAA Auto Club Enterprises",
+      "title": "Sr. Software Engineer - CloudOps",
+      "location": "Coppell, TX",
+      "url": "https://www.linkedin.com/jobs/view/4481068611/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Children's Wisconsin",
+      "title": "Manager, Cloud Engineering",
+      "location": "Milwaukee, WI",
+      "url": "https://www.linkedin.com/jobs/view/4483350793/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Merlin",
+      "title": "Autonomy Software Engineer",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4482664453/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "sedbox",
+      "title": "Python Developer",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4482658778/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Acer",
+      "title": "Field Application Engineer (FAE) \u2013 AI, Workstations and Servers",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476230487/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Brown Brothers Harriman",
+      "title": "Braid Cloud Engineer",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4455469775/",
+      "date_posted": "2026-10-24",
+      "ats": "LinkedIn",
+      "remote": false
+    }
+  ]
 }
