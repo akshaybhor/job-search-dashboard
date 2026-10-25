@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T19:50:21Z",
-  "date_est": "2026-10-24 03:50 PM EDT",
+  "generated_at": "2026-10-25T14:03:41Z",
+  "date_est": "2026-10-25 10:03 AM EDT",
   "min_score": 50,
   "lookback_hours": 48,
-  "total": 27,
+  "total": 31,
   "workday": [
     {
       "company": "Cisco",
@@ -54,16 +54,16 @@
       "source_url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Software-Engineer-Senior-Software-Engineer---AI-Platform--Agent-Runtime-_JR-0109507"
     },
     {
-      "company": "KLA",
-      "title": "AI Software Engineer - Operations",
-      "location": "Ann Arbor, MI",
-      "score": 85,
+      "company": "Leidos",
+      "title": "Software Engineering \u2013 Intelligent Platforms (Mid)",
+      "location": "6314 Remote/Teleworker US",
+      "score": 82,
       "verdict": "strong",
       "ats": "Workday",
-      "date_posted": "2026-10-22",
-      "first_seen": "2026-10-22T22:22:12Z",
-      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Software-Engineer---Operations_2640067-1",
-      "source_url": "https://www.linkedin.com/jobs/view/4480094027/"
+      "date_posted": "2026-10-24",
+      "first_seen": "2026-10-24T21:00:21Z",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---Intelligent-Platforms--Mid-_R-00193838",
+      "source_url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---Intelligent-Platforms--Mid-_R-00193838"
     },
     {
       "company": "CrowdStrike",
@@ -76,6 +76,18 @@
       "first_seen": "2026-10-23T18:29:50Z",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WV/Systems-Engineer-II--Remote-_R29877",
       "source_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WV/Systems-Engineer-II--Remote-_R29877"
+    },
+    {
+      "company": "Humana",
+      "title": "Data Engineer",
+      "location": "Louisville, KY",
+      "score": 75,
+      "verdict": "strong",
+      "ats": "Workday",
+      "date_posted": "2026-10-24",
+      "first_seen": "2026-10-24T21:00:21Z",
+      "url": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Data-Engineer_R-430106-1",
+      "source_url": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Data-Engineer_R-430106-1"
     },
     {
       "company": "HP Inc.",
@@ -114,28 +126,28 @@
       "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Backend-Engineer_JR2020354"
     },
     {
-      "company": "KLA",
-      "title": "AI Engineer (Computer Vision/Signal Processing)",
-      "location": "Milpitas, CA",
-      "score": 75,
-      "verdict": "strong",
-      "ats": "Workday",
-      "date_posted": "2026-10-22",
-      "first_seen": "2026-10-22T18:40:55Z",
-      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582",
-      "source_url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582"
-    },
-    {
-      "company": "Motorola Solutions",
+      "company": "Cisco",
       "title": "Software Engineer",
-      "location": "Schaumburg, IL",
+      "location": "San Francisco, California, US",
       "score": 70,
       "verdict": "maybe",
       "ats": "Workday",
-      "date_posted": "2026-10-22",
-      "first_seen": "2026-10-22T22:27:38Z",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R69235",
-      "source_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R69235"
+      "date_posted": "2026-10-24",
+      "first_seen": "2026-10-24T21:00:21Z",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Software-Engineer_2027875",
+      "source_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Software-Engineer_2027875"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Software Engineer",
+      "location": "Westford Massachusetts United States of America",
+      "score": 70,
+      "verdict": "maybe",
+      "ats": "Workday",
+      "date_posted": "2026-10-24",
+      "first_seen": "2026-10-24T21:00:21Z",
+      "url": "https://hpe.wd5.myworkdayjobs.com/JobsatHPE/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1215856-2",
+      "source_url": "https://hpe.wd5.myworkdayjobs.com/JobsatHPE/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1215856-2"
     },
     {
       "company": "Cadence",
@@ -148,6 +160,18 @@
       "first_seen": "2026-10-24T05:57:09Z",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Lead-Software-Engineer---Mesh-Generation_R56961",
       "source_url": "https://www.linkedin.com/jobs/view/4482385415/"
+    },
+    {
+      "company": "Collins Aerospace",
+      "title": "Software Engineer II",
+      "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
+      "score": 65,
+      "verdict": "maybe",
+      "ats": "Workday",
+      "date_posted": "2026-10-24",
+      "first_seen": "2026-10-24T21:00:21Z",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-II_01882767",
+      "source_url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-II_01882767"
     },
     {
       "company": "NVIDIA",
@@ -186,6 +210,18 @@
       "source_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-D/Platform-Engineer---VCF-Networking_R027365"
     },
     {
+      "company": "CACI International Inc",
+      "title": "Data Engineering/Analytics Support",
+      "location": "Norco, CA, US",
+      "score": 60,
+      "verdict": "maybe",
+      "ats": "Workday",
+      "date_posted": "2026-10-24",
+      "first_seen": "2026-10-24T21:00:21Z",
+      "url": "https://caci.wd1.myworkdayjobs.com/External/job/Norco-CA-US/Data-Engineering-Analytics-Support_332939",
+      "source_url": "https://caci.wd1.myworkdayjobs.com/External/job/Norco-CA-US/Data-Engineering-Analytics-Support_332939"
+    },
+    {
       "company": "NVIDIA",
       "title": "Senior Software Engineer, AI Infrastructure Solutions",
       "location": "Santa Clara, CA",
@@ -198,16 +234,40 @@
       "source_url": "https://www.linkedin.com/jobs/view/4482307071/"
     },
     {
-      "company": "KLA",
-      "title": "AI/ML Software Engineer",
-      "location": "Ann Arbor, MI",
-      "score": 60,
+      "company": "Capital One",
+      "title": "Data Engineer 4 - HR Tech",
+      "location": "McLean VA",
+      "score": 55,
       "verdict": "maybe",
       "ats": "Workday",
-      "date_posted": "2026-10-22",
-      "first_seen": "2026-10-22T18:40:55Z",
-      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-ML-Software-Engineer_2641706-2",
-      "source_url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-ML-Software-Engineer_2641706-2"
+      "date_posted": "2026-10-24",
+      "first_seen": "2026-10-24T21:00:21Z",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Engineer-4---HR-Tech_R1001595-1",
+      "source_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Engineer-4---HR-Tech_R1001595-1"
+    },
+    {
+      "company": "Collins Aerospace",
+      "title": "Software Engineer II - Embedded",
+      "location": "US-TX-PLANO-465 ~ 465 Independence Pkwy ~ INDEPENDENCE",
+      "score": 55,
+      "verdict": "maybe",
+      "ats": "Workday",
+      "date_posted": "2026-10-24",
+      "first_seen": "2026-10-24T21:00:21Z",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/Software-Engineer-II---Embedded_01884165",
+      "source_url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/Software-Engineer-II---Embedded_01884165"
+    },
+    {
+      "company": "Leidos",
+      "title": "Software Engineer",
+      "location": "Huntsville, AL",
+      "score": 55,
+      "verdict": "maybe",
+      "ats": "Workday",
+      "date_posted": "2026-10-24",
+      "first_seen": "2026-10-24T21:00:21Z",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00188155",
+      "source_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00188155"
     },
     {
       "company": "HP Inc.",
@@ -246,16 +306,40 @@
       "source_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Cloud--Hybrid-_R28302"
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, At Scale Compute Analysis",
-      "location": "US CA Santa Clara",
-      "score": 55,
+      "company": "Collins Aerospace",
+      "title": "Software Engineer II",
+      "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
+      "score": 50,
       "verdict": "maybe",
       "ats": "Workday",
-      "date_posted": "2026-10-22",
-      "first_seen": "2026-10-22T18:40:55Z",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Data-Engineer_JR1999730",
-      "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Data-Engineer_JR1999730"
+      "date_posted": "2026-10-24",
+      "first_seen": "2026-10-24T21:00:21Z",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-II_01882766",
+      "source_url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-II_01882766"
+    },
+    {
+      "company": "CVS Health",
+      "title": "Senior Software Development Engineer",
+      "location": "TX - Work from home",
+      "score": 50,
+      "verdict": "maybe",
+      "ats": "Workday",
+      "date_posted": "2026-10-24",
+      "first_seen": "2026-10-24T21:00:21Z",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Senior-Software-Development-Engineer_R0983121",
+      "source_url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Senior-Software-Development-Engineer_R0983121"
+    },
+    {
+      "company": "Truist",
+      "title": "Senior Associate Software Engineer",
+      "location": "Charlotte NC, 214 North Tryon Street",
+      "score": 50,
+      "verdict": "maybe",
+      "ats": "Workday",
+      "date_posted": "2026-10-24",
+      "first_seen": "2026-10-24T21:00:21Z",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC---214-North-Tryon-Street/Senior-Associate-Software-Engineer_R0115856",
+      "source_url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC---214-North-Tryon-Street/Senior-Associate-Software-Engineer_R0115856"
     },
     {
       "company": "Boeing",
@@ -292,42 +376,6 @@
       "first_seen": "2026-10-23T07:55:23Z",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Platform-Data-Engineer--Remote-_R30556",
       "source_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Platform-Data-Engineer--Remote-_R30556"
-    },
-    {
-      "company": "Boeing",
-      "title": "Software Engineer",
-      "location": "USA - Hazelwood, MO",
-      "score": 50,
-      "verdict": "maybe",
-      "ats": "Workday",
-      "date_posted": "2026-10-22",
-      "first_seen": "2026-10-22T18:40:55Z",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Software-Engineer_JR2026511461-1",
-      "source_url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Software-Engineer_JR2026511461-1"
-    },
-    {
-      "company": "Boeing",
-      "title": "Experienced Software Engineer",
-      "location": "USA, El Segundo CA",
-      "score": 50,
-      "verdict": "maybe",
-      "ats": "Workday",
-      "date_posted": "2026-10-22",
-      "first_seen": "2026-10-22T18:40:55Z",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Experienced-Software-Engineer_JR2026523599-1",
-      "source_url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Experienced-Software-Engineer_JR2026523599-1"
-    },
-    {
-      "company": "CoStar Group",
-      "title": "Senior Software Engineer",
-      "location": "US-CA San Diego",
-      "score": 50,
-      "verdict": "maybe",
-      "ats": "Workday",
-      "date_posted": "2026-10-22",
-      "first_seen": "2026-10-22T18:40:55Z",
-      "url": "https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-CA-San-Diego/Senior-Software-Engineer_R40185",
-      "source_url": "https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-CA-San-Diego/Senior-Software-Engineer_R40185"
     }
   ]
 }
