@@ -2,8 +2,8 @@ name: Generate Daily Application Queue
 
 on:
   schedule:
-    # 10:00 UTC ≈ 6:00 AM EDT / 5:00 AM EST (Right after nightly scrapes & AI triage finish)
-    - cron: "0 10 * * *"
+    # 09:00 UTC = 4:00 AM EST (5:00 AM EDT) — ready well before 6:00 AM server cron
+    - cron: "0 9 * * *"
   workflow_dispatch:
 
 concurrency:
