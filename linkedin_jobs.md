@@ -1,84 +1,96 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-26 01:30 UTC*
+*Last updated: 2026-10-26 04:50 UTC*
 
-**20 new role(s)** since last run · 20 total in last 2h
+**23 new role(s)** since last run · 23 total in last 2h
 
-### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459413143/) — Slalom
-- 📍 **Location:** Hartford, CT
+### [Application Software Engineer, Launch Software](https://www.linkedin.com/jobs/view/4483530231/) — SpaceX
+- 📍 **Location:** Hawthorne, CA
 - 🕒 **Posted:** 2026-10-25
 
-### [Senior System Software Engineer, Platform and Performance - GeForce Now](https://www.linkedin.com/jobs/view/4482912343/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Senior Spacecraft Flight Software Engineer](https://www.linkedin.com/jobs/view/4483511786/) — Varda Space Industries
+- 📍 **Location:** El Segundo, CA
 - 🕒 **Posted:** 2026-10-25
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4483527058/) — GDI Infotech
-- 📍 **Location:** Huntsville-Decatur-Albertville Area
+### [Senior Spacecraft Mission Software Engineer](https://www.linkedin.com/jobs/view/4483512615/) — Varda Space Industries
+- 📍 **Location:** El Segundo, CA
 - 🕒 **Posted:** 2026-10-25
 
-### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459425091/) — Slalom
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-10-25
-
-### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459418228/) — Slalom
-- 📍 **Location:** Philadelphia, PA
-- 🕒 **Posted:** 2026-10-25
-
-### [Quant Data Engineer (Chinese speaking)](https://www.linkedin.com/jobs/view/4482905621/) — Gravitas Recruitment Group (Global) Ltd
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-25
-
-### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459406111/) — Slalom
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-10-25
-
-### [Forward Deployed AI Engineer](https://www.linkedin.com/jobs/view/4483502851/) — JumpOff
-- 📍 **Location:** Sandy Springs, GA
-- 🕒 **Posted:** 2026-10-25
-
-### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459428086/) — Slalom
-- 📍 **Location:** Minneapolis, MN
-- 🕒 **Posted:** 2026-10-25
-
-### [Data Engineer - East Region](https://www.linkedin.com/jobs/view/4459427087/) — Slalom
-- 📍 **Location:** Nashville, TN
-- 🕒 **Posted:** 2026-10-25
-
-### [Senior Manager, Software Engineering - Remote](https://www.linkedin.com/jobs/view/4483376004/) — Optum
-- 📍 **Location:** Hartford, CT
-- 🕒 **Posted:** 2026-10-25
-
-### [C/C++ Software Engineer 3 or 4 (AHT)](https://www.linkedin.com/jobs/view/4482426509/) — Northrop Grumman
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4455341444/) — Talently
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-10-25
-
-### [Software Engineer, Full Stack](https://www.linkedin.com/jobs/view/4483397984/) — Weave Robotics
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Sentinel - Systems Engineer - Guidance Navigation & Control (GN&C)](https://www.linkedin.com/jobs/view/4476399200/) — Northrop Grumman
-- 📍 **Location:** Roy, UT
-- 🕒 **Posted:** 2026-10-25
-
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4483503815/) — Netrolynx AI
+### [Software Engineer](https://www.linkedin.com/jobs/view/4482920115/) — Salas O'Brien
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-25
 
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4483504876/) — ProFound People
+### [Software Engineer (Backend)](https://www.linkedin.com/jobs/view/4481405850/) — Yuzu
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-25
+
+### [Sr Associate AI Full stack Software Engineer](https://www.linkedin.com/jobs/view/4483522333/) — CoverMyMeds
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-10-25
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4483523189/) — Clusia
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-25
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4483525150/) — The ReWork Group
+- 📍 **Location:** Atlanta Metropolitan Area
+- 🕒 **Posted:** 2026-10-25
+
+### [Senior Spacecraft Embedded Software Engineer](https://www.linkedin.com/jobs/view/4483522308/) — Varda Space Industries
+- 📍 **Location:** El Segundo, CA
+- 🕒 **Posted:** 2026-10-25
+
+### [Computer Vision Engineer](https://www.linkedin.com/jobs/view/4482916201/) — Looq AI
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-10-25
+
+### [Deep Learning / Computer Vision Engineer](https://www.linkedin.com/jobs/view/4446365246/) — DeWinter Group
+- 📍 **Location:** Campbell, CA
+- 🕒 **Posted:** 2026-10-25
+
+### [Senior AWS Cloud Engineer – ‘Remote' (minimal travel) – Irvine, CA/ Western States Resident Only](https://www.linkedin.com/jobs/view/4477721512/) — e360
+- 📍 **Location:** California, United States
+- 🕒 **Posted:** 2026-10-25
+
+### [AI Platform Engineer, Developer Productivity](https://www.linkedin.com/jobs/view/4483519807/) — Brain Co.
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-25
+
+### [Software Engineering Lead - Data](https://www.linkedin.com/jobs/view/4454535147/) — InductiveHealth
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-25
+
+### [Data Engineer, Video Platform](https://www.linkedin.com/jobs/view/4483512567/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-25
 
-### [Software Engineer – Backend](https://www.linkedin.com/jobs/view/4481409400/) — Default
+### [Data Engineer](https://www.linkedin.com/jobs/view/4482919012/) — Talemexa
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-25
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4483512296/) — Netrolynx AI
-- 📍 **Location:** United States
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4473396480/) — Riccione Resources, Inc.
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-10-25
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4483506737/) — Netrolynx AI
-- 📍 **Location:** United States
+### [Senior Applied AI Engineer](https://www.linkedin.com/jobs/view/4482917164/) — Artiminds
+- 📍 **Location:** Minnesota, United States
+- 🕒 **Posted:** 2026-10-25
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4473234474/) — Wanderboat AI
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-25
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4482910803/) — Radical AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-25
+
+### [AI Software Engineer](https://www.linkedin.com/jobs/view/4482903852/) — Confidential
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-25
+
+### [Software Engineer - AI Agent (Chinese speaking)](https://www.linkedin.com/jobs/view/4482913520/) — Gravitas Recruitment Group (Global) Ltd
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-25
+
+### [Application Engineer](https://www.linkedin.com/jobs/view/4474202296/) — Lumafield
+- 📍 **Location:** Boston, MA
 - 🕒 **Posted:** 2026-10-25
