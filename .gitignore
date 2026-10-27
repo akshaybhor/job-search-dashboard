@@ -22,3 +22,13 @@ node_modules/
 sync/.agents/
 sync/.claude/
 sync/skills-lock.json
+
+# Auto‑generated job data – keep them out of Git
+all_jobs.json
+companies.json
+jobs.*
+linkedin_jobs.*
+scores.json
+workflow_runs.jsonl
+Daily/*.json
+Daily/*.txt
