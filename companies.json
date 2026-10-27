@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27 09:16 UTC",
-  "total_companies": 272,
+  "updated_at": "2026-10-27 16:16 UTC",
+  "total_companies": 274,
   "companies": {
     "abaka-ai": {
       "name": "Abaka AI",
@@ -63,8 +63,8 @@
       "career_url": "https://jobs.lever.co/agile-defense",
       "ats": "Lever",
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
-      "total_jobs_seen": 1
+      "last_seen": "2026-10-27",
+      "total_jobs_seen": 2
     },
     "air": {
       "name": "Air",
@@ -160,7 +160,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-26",
-      "total_jobs_seen": 22
+      "total_jobs_seen": 23
     },
     "appfolio": {
       "name": "AppFolio",
@@ -336,7 +336,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-27",
-      "total_jobs_seen": 33
+      "total_jobs_seen": 35
     },
     "braze": {
       "name": "Braze",
@@ -432,7 +432,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-27",
-      "total_jobs_seen": 147
+      "total_jobs_seen": 151
     },
     "carbon": {
       "name": "Carbon",
@@ -504,7 +504,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-26",
-      "total_jobs_seen": 49
+      "total_jobs_seen": 51
     },
     "chime": {
       "name": "Chime",
@@ -528,7 +528,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-27",
-      "total_jobs_seen": 61
+      "total_jobs_seen": 63
     },
     "citian": {
       "name": "Citian",
@@ -607,8 +607,8 @@
       "career_url": "https://job-boards.greenhouse.io/coinbase",
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-20",
-      "total_jobs_seen": 24
+      "last_seen": "2026-10-27",
+      "total_jobs_seen": 25
     },
     "collins-aerospace": {
       "name": "Collins Aerospace",
@@ -696,7 +696,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-27",
-      "total_jobs_seen": 99
+      "total_jobs_seen": 103
     },
     "dex": {
       "name": "Dex",
@@ -768,6 +768,14 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-22",
+      "total_jobs_seen": 1
+    },
+    "ecp": {
+      "name": "ECP",
+      "career_url": "https://job-boards.greenhouse.io/ecp",
+      "ats": "Greenhouse",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "total_jobs_seen": 1
     },
     "edra": {
@@ -864,7 +872,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-27",
-      "total_jobs_seen": 29
+      "total_jobs_seen": 32
     },
     "figma": {
       "name": "Figma",
@@ -952,7 +960,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-27",
-      "total_jobs_seen": 12
+      "total_jobs_seen": 14
     },
     "genius-sports": {
       "name": "Genius Sports",
@@ -1000,7 +1008,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-27",
-      "total_jobs_seen": 8
+      "total_jobs_seen": 9
     },
     "hewlett-packard-enterprise": {
       "name": "Hewlett Packard Enterprise",
@@ -1008,7 +1016,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-27",
-      "total_jobs_seen": 10
+      "total_jobs_seen": 11
     },
     "higharc": {
       "name": "Higharc",
@@ -1018,13 +1026,21 @@
       "last_seen": "2026-10-21",
       "total_jobs_seen": 1
     },
+    "hightouch": {
+      "name": "Hightouch",
+      "career_url": "https://jobs.ashbyhq.com/hightouch",
+      "ats": "Ashby",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "total_jobs_seen": 1
+    },
     "hinge-health": {
       "name": "Hinge Health",
       "career_url": "https://jobs.ashbyhq.com/hinge-health",
       "ats": "Ashby",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-26",
-      "total_jobs_seen": 9
+      "last_seen": "2026-10-27",
+      "total_jobs_seen": 15
     },
     "home-chef": {
       "name": "Home Chef",
@@ -1056,7 +1072,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-27",
-      "total_jobs_seen": 59
+      "total_jobs_seen": 61
     },
     "iambic-therapeutics": {
       "name": "Iambic Therapeutics",
@@ -1080,7 +1096,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-26",
-      "total_jobs_seen": 9
+      "total_jobs_seen": 10
     },
     "illumina": {
       "name": "Illumina",
@@ -1127,8 +1143,8 @@
       "career_url": "https://job-boards.greenhouse.io/justworks",
       "ats": "Greenhouse",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
-      "total_jobs_seen": 31
+      "last_seen": "2026-10-27",
+      "total_jobs_seen": 33
     },
     "kla": {
       "name": "KLA",
@@ -1280,7 +1296,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-27",
-      "total_jobs_seen": 50
+      "total_jobs_seen": 51
     },
     "mozilla": {
       "name": "Mozilla",
@@ -1312,7 +1328,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-26",
-      "total_jobs_seen": 23
+      "total_jobs_seen": 24
     },
     "netdocuments": {
       "name": "NetDocuments",
@@ -1376,7 +1392,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-27",
-      "total_jobs_seen": 162
+      "total_jobs_seen": 164
     },
     "obvio": {
       "name": "Obvio",
@@ -1408,7 +1424,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-26",
-      "total_jobs_seen": 144
+      "total_jobs_seen": 145
     },
     "openmind": {
       "name": "OpenMind",
@@ -1424,7 +1440,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-26",
-      "total_jobs_seen": 9
+      "total_jobs_seen": 10
     },
     "otter": {
       "name": "Otter",
@@ -1456,7 +1472,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-26",
-      "total_jobs_seen": 7
+      "total_jobs_seen": 8
     },
     "pathai": {
       "name": "PathAI",
@@ -1640,7 +1656,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-27",
-      "total_jobs_seen": 196
+      "total_jobs_seen": 207
     },
     "reddit": {
       "name": "Reddit, Inc.",
@@ -1648,7 +1664,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-26",
-      "total_jobs_seen": 86
+      "total_jobs_seen": 87
     },
     "relativity": {
       "name": "Relativity",
@@ -1656,7 +1672,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-26",
-      "total_jobs_seen": 28
+      "total_jobs_seen": 29
     },
     "replit": {
       "name": "Replit",
@@ -1704,7 +1720,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-26",
-      "total_jobs_seen": 133
+      "total_jobs_seen": 135
     },
     "rocket-lab": {
       "name": "Rocket Lab",
@@ -1904,7 +1920,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-27",
-      "total_jobs_seen": 10
+      "total_jobs_seen": 12
     },
     "tastytrade": {
       "name": "tastytrade",
@@ -1936,7 +1952,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-26",
-      "total_jobs_seen": 17
+      "total_jobs_seen": 18
     },
     "tennr": {
       "name": "Tennr",
@@ -1968,7 +1984,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-27",
-      "total_jobs_seen": 26
+      "total_jobs_seen": 27
     },
     "tillster": {
       "name": "Tillster",
@@ -1992,15 +2008,15 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-27",
-      "total_jobs_seen": 233
+      "total_jobs_seen": 262
     },
     "trm-labs": {
       "name": "TRM Labs",
       "career_url": "https://jobs.ashbyhq.com/trm-labs",
       "ats": "Ashby",
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-21",
-      "total_jobs_seen": 10
+      "last_seen": "2026-10-27",
+      "total_jobs_seen": 11
     },
     "truist": {
       "name": "Truist",
@@ -2008,7 +2024,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-27",
-      "total_jobs_seen": 31
+      "total_jobs_seen": 33
     },
     "twitch": {
       "name": "Twitch",
@@ -2016,7 +2032,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-26",
-      "total_jobs_seen": 48
+      "total_jobs_seen": 49
     },
     "typeface": {
       "name": "Typeface",
@@ -2048,7 +2064,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-26",
-      "total_jobs_seen": 8
+      "total_jobs_seen": 9
     },
     "vaxcyte": {
       "name": "Vaxcyte, Inc.",
