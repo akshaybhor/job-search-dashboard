@@ -313,6 +313,7 @@ EXCLUDED_COMPANIES = [
     "advanced tech placement",
     "Northrop Grumman",
     "CACI International Inc",
+    "Travelers",
     "consultnet technology services and solutions",
     "findr",
     "breed staffing",
