@@ -1,428 +1,196 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-28 05:49 UTC*
+*Last updated: 2026-10-28 07:13 UTC*
 
-**106 new role(s)** since last run · 111 total in last 2h
+**48 new role(s)** since last run · 93 total in last 2h
 
-### [Senior Systems Engineer (Network Security Engineer)](https://www.linkedin.com/jobs/view/4477849787/) — U.S. Bank
-- 📍 **Location:** Cincinnati, OH
-- 🕒 **Posted:** 2026-10-27
-
-### [DevOps/Cloud Engineer Information Technology Analyst 3 #261026-7605FR-001](https://www.linkedin.com/jobs/view/4484402751/) — State of Connecticut
+### [Senior Agentic AI Platform Engineer](https://www.linkedin.com/jobs/view/4484424414/) — CVS Health
 - 📍 **Location:** Hartford, CT
-- 🕒 **Posted:** 2026-10-27
+- 🕒 **Posted:** 2026-10-28
 
-### [Sr. Software Engineer (C# .NET)](https://www.linkedin.com/jobs/view/4483818960/) — OPENLANE
-- 📍 **Location:** Carmel, IN
-- 🕒 **Posted:** 2026-10-27
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4476242755/) — Trucker Path
+- 📍 **Location:** Baltimore City County, MD
+- 🕒 **Posted:** 2026-10-28
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4484415151/) — Raydar
+### [Backend Software Engineer - Identity](https://www.linkedin.com/jobs/view/4484293034/) — Atlassian
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-27
+- 🕒 **Posted:** 2026-10-28
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4484412285/) — ServiceNow
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4484411350/) — NTT DATA North America
-- 📍 **Location:** Plano, TX
-- 🕒 **Posted:** 2026-10-27
-
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4482285122/) — Leidos
-- 📍 **Location:** Odenton, MD
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Autonomous Systems Engineer](https://www.linkedin.com/jobs/view/4484414867/) — Noblis
-- 📍 **Location:** Albuquerque, NM
-- 🕒 **Posted:** 2026-10-27
-
-### [Aerospace NPM Requirements Systems Engineer](https://www.linkedin.com/jobs/view/4482285173/) — HX5, LLC
-- 📍 **Location:** Brook Park, OH
-- 🕒 **Posted:** 2026-10-27
-
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4478652265/) — Noblis
-- 📍 **Location:** Chantilly, VA
-- 🕒 **Posted:** 2026-10-27
-
-### [Sr. Software Systems Engineer,](https://www.linkedin.com/jobs/view/4484402699/) — Baxter International Inc.
-- 📍 **Location:** Raleigh, NC
-- 🕒 **Posted:** 2026-10-27
-
-### [SETA Systems Engineer](https://www.linkedin.com/jobs/view/4483848091/) — SAIC
-- 📍 **Location:** Sterling, VA
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Test and Evaluation Systems Engineer III](https://www.linkedin.com/jobs/view/4483831875/) — Pacific Northwest National Laboratory
-- 📍 **Location:** Richland, WA
-- 🕒 **Posted:** 2026-10-27
-
-### [Embedded Software Engineer, Early Career](https://www.linkedin.com/jobs/view/4484414755/) — Viasat
-- 📍 **Location:** Marlborough, MA
-- 🕒 **Posted:** 2026-10-27
-
-### [Embedded Software Engineer, Early Career](https://www.linkedin.com/jobs/view/4484422174/) — Viasat
-- 📍 **Location:** Carlsbad, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Sr Software Engineer - Engineer](https://www.linkedin.com/jobs/view/4484411450/) — Uber
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4469671942/) — Autodesk
-- 📍 **Location:** Novi, MI
-- 🕒 **Posted:** 2026-10-27
-
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4482276326/) — Ramtec Consulting LLC
-- 📍 **Location:** Herndon, VA
-- 🕒 **Posted:** 2026-10-27
-
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4483851010/) — SAIC
-- 📍 **Location:** Ohio, United States
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Software Engineer, Developer Experience (DevX)](https://www.linkedin.com/jobs/view/4482273514/) — Robinhood
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineer, Back-End](https://www.linkedin.com/jobs/view/4482269791/) — Superhuman
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-27
-
-### [Platform Engineering and Operations Lead (Palantir)](https://www.linkedin.com/jobs/view/4482277285/) — Acosta
-- 📍 **Location:** Rogers, AR
-- 🕒 **Posted:** 2026-10-27
-
-### [Platform Engineering and Operations Lead (Palantir)](https://www.linkedin.com/jobs/view/4482266833/) — Acosta
-- 📍 **Location:** Jacksonville, FL
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineer, Back-End](https://www.linkedin.com/jobs/view/4482281109/) — Superhuman
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Machine Learning Engineer, ML Infrastructure- Online](https://www.linkedin.com/jobs/view/4475450140/) — Unity
-- 📍 **Location:** Washington County, OR
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior DevOps Platform Engineer](https://www.linkedin.com/jobs/view/4482276465/) — Leidos
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4438882415/) — Sakata Seed America, Inc.
-- 📍 **Location:** Woodland, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4484405572/) — NTT DATA North America
-- 📍 **Location:** Charlotte, NC
-- 🕒 **Posted:** 2026-10-27
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4483836291/) — Jack
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4482283106/) — Virtusa
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineer - Infrastructure](https://www.linkedin.com/jobs/view/4483824938/) — Ryder System, Inc.
+### [Backend Software Engineer - Focus Funds and AI](https://www.linkedin.com/jobs/view/4484281302/) — Atlassian
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-27
+- 🕒 **Posted:** 2026-10-28
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4484404149/) — Western Governors University
-- 📍 **Location:** Salt Lake City Metropolitan Area
-- 🕒 **Posted:** 2026-10-27
+### [Senior Backend Engineer - Alerts and Operations](https://www.linkedin.com/jobs/view/4484297359/) — Verkada
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-10-28
 
-### [Data Engineer (Business Information Developer Consultant Senior)](https://www.linkedin.com/jobs/view/4483832839/) — Elevance Health
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-10-27
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4480728352/) — DTEX
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-10-28
 
-### [Data Engineering Manager](https://www.linkedin.com/jobs/view/4464636015/) — NBCUniversal
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-10-27
+### [Senior Systems Engineer](https://www.linkedin.com/jobs/view/4484424274/) — Motivo
+- 📍 **Location:** West Rancho Dominguez, CA
+- 🕒 **Posted:** 2026-10-28
 
-### [GE Vernova AI Engineer](https://www.linkedin.com/jobs/view/4484296279/) — GE Vernova
-- 📍 **Location:** Greenville, SC
-- 🕒 **Posted:** 2026-10-27
+### [Design Systems Engineer - HD Truck Driveline, Axles and 4WD systems](https://www.linkedin.com/jobs/view/4484438114/) — Stellantis
+- 📍 **Location:** Auburn Hills, MI
+- 🕒 **Posted:** 2026-10-28
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4484411254/) — Raydar
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-27
+### [C/C++ Software Engineer- Tualatin,Oregon,US](https://www.linkedin.com/jobs/view/4483835998/) — Rayvector Technologies
+- 📍 **Location:** Tualatin, OR
+- 🕒 **Posted:** 2026-10-28
 
-### [R-1101008 Senior AI Engineer](https://www.linkedin.com/jobs/view/4484410300/) — Verizon
-- 📍 **Location:** Basking Ridge, NJ
-- 🕒 **Posted:** 2026-10-27
-
-### [Machine Learning Engineer, Link](https://www.linkedin.com/jobs/view/4469961699/) — Stripe
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineer III | AI/ML](https://www.linkedin.com/jobs/view/4441492134/) — ExtraHop
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-27
-
-### [Agentic AI and Data Engineer](https://www.linkedin.com/jobs/view/4484415525/) — Booz Allen Hamilton
-- 📍 **Location:** Mahinahina Camp, HI
-- 🕒 **Posted:** 2026-10-27
-
-### [Lead Applied AI & Machine Learning Engineer](https://www.linkedin.com/jobs/view/4484421190/) — JPMorganChase
-- 📍 **Location:** Plano, TX
-- 🕒 **Posted:** 2026-10-27
-
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4484293126/) — Netrolynx AI
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-27
-
-### [Lead Software Engineer Python GenAI](https://www.linkedin.com/jobs/view/4484421194/) — JPMorganChase
-- 📍 **Location:** Wilmington, DE
-- 🕒 **Posted:** 2026-10-27
-
-### [Imaging Systems Engineer II](https://www.linkedin.com/jobs/view/4483836829/) — Collectors
-- 📍 **Location:** Santa Ana, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4482272745/) — onsemi
-- 📍 **Location:** Scottsdale, AZ
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineer III - Backend](https://www.linkedin.com/jobs/view/4484420300/) — JPMorganChase
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Backend / API Engineer, Radar](https://www.linkedin.com/jobs/view/4484420295/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4484401653/) — ServiceNow
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineer, Applied AI (RCM)](https://www.linkedin.com/jobs/view/4484414513/) — Athelas
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Audio Systems Engineer](https://www.linkedin.com/jobs/view/4484283561/) — Sesame
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Platform Engineering and Operations Lead (Palantir)](https://www.linkedin.com/jobs/view/4482277286/) — Acosta
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [IT Systems Engineer](https://www.linkedin.com/jobs/view/4457409690/) — Penumbra, Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineer - Hardware Diagnostics](https://www.linkedin.com/jobs/view/4484420487/) — Cisco
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Development Engineer in Test - AI Platform](https://www.linkedin.com/jobs/view/4482276426/) — AMD
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineering Technical Leader - SRE](https://www.linkedin.com/jobs/view/4484274638/) — Cisco
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineering Architect, Mulesoft Platforms](https://www.linkedin.com/jobs/view/4484298690/) — Salesforce
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4484409287/) — Raydar
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineer III (Full Stack Java)](https://www.linkedin.com/jobs/view/4484409773/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-10-27
-
-### [Full-Stack Java React Software Engineer III](https://www.linkedin.com/jobs/view/4484401941/) — JPMorganChase
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-27
-
-### [Full-Stack Software Developer (Remote)](https://www.linkedin.com/jobs/view/4473070917/) — NextGen Coding Company
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-27
-
-### [Full Stack Sr Lead Software Engineer](https://www.linkedin.com/jobs/view/4484411638/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-10-27
-
-### [Lead Software Engineer - Data Platform](https://www.linkedin.com/jobs/view/4484423002/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineer III - Full Stack](https://www.linkedin.com/jobs/view/4484411738/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-10-27
-
-### [SRE Software Engineer III](https://www.linkedin.com/jobs/view/4484401942/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineer III - Model Review Governance Risk - Senior Associate](https://www.linkedin.com/jobs/view/4484403868/) — JPMorganChase
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-27
-
-### [Backend / API Engineer, Radar](https://www.linkedin.com/jobs/view/4484299923/) — Stripe
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineering Architect, Mulesoft Platforms](https://www.linkedin.com/jobs/view/4484401619/) — Salesforce
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4483835922/) — Teradata
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineer, Senior - Secret](https://www.linkedin.com/jobs/view/4484413513/) — DCS Corp
-- 📍 **Location:** Bedford, MA
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Development Engineer in Test II (Kubernetes)](https://www.linkedin.com/jobs/view/4484407472/) — Akamai Technologies
-- 📍 **Location:** Cambridge, MA
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Software Engineer, Gameplay (Bots) - League of Legends (Mandarin-Proficiency Required)](https://www.linkedin.com/jobs/view/4482281064/) — Riot Games
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Wireless Software Engineer (5G/6G Protocol Stack)](https://www.linkedin.com/jobs/view/4474877114/) — Keysight Technologies
-- 📍 **Location:** Calabasas, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior System Software Engineer](https://www.linkedin.com/jobs/view/4482214580/) — FemtoMetrix, Inc.
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Backend Engineer (Go)｜Fintech Platform](https://www.linkedin.com/jobs/view/4476967710/) — Michael Page
-- 📍 **Location:** Greater Tokyo Area
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Platform Software Engineer - OCI Secure Network Engineering](https://www.linkedin.com/jobs/view/4482273787/) — Oracle
-- 📍 **Location:** Nashville, TN
-- 🕒 **Posted:** 2026-10-27
-
-### [Azure Data Engineer](https://www.linkedin.com/jobs/view/4483844230/) — Tech Mahindra
-- 📍 **Location:** Greater Sydney Area
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Associate, Tax Ignition - Software Engineer](https://www.linkedin.com/jobs/view/4476205571/) — KPMG US
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-10-27
-
-### [Sr. Software Engineer](https://www.linkedin.com/jobs/view/4482283092/) — Inspire
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4483848051/) — Enexus Global Inc.
-- 📍 **Location:** Alpharetta, GA
-- 🕒 **Posted:** 2026-10-27
-
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4484411623/) — Caterpillar Inc.
-- 📍 **Location:** Broomfield, CO
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Systems Engineer (Network Security Engineer)](https://www.linkedin.com/jobs/view/4477846901/) — U.S. Bank
-- 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineering MTS](https://www.linkedin.com/jobs/view/4484298692/) — Salesforce
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-10-27
-
-### [Sr Security Platform Engineer, AI and Automation](https://www.linkedin.com/jobs/view/4484404895/) — Vanguard
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineer, Creative Technology](https://www.linkedin.com/jobs/view/4429599127/) — Cheil USA
-- 📍 **Location:** Plano, TX
-- 🕒 **Posted:** 2026-10-27
-
-### [Platform Engineering and Operations Lead (Palantir)](https://www.linkedin.com/jobs/view/4482272616/) — Acosta
-- 📍 **Location:** Lewisville, TX
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineering SMTS](https://www.linkedin.com/jobs/view/4484410440/) — Salesforce
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-10-27
-
-### [Platform Engineering Manager](https://www.linkedin.com/jobs/view/4484299829/) — Cheil USA
-- 📍 **Location:** Plano, TX
-- 🕒 **Posted:** 2026-10-27
-
-### [Application Engineer](https://www.linkedin.com/jobs/view/4483832953/) — Ericsson
-- 📍 **Location:** Plano, TX
-- 🕒 **Posted:** 2026-10-27
-
-### [Senior Systems Engineer (Network Security Engineer)](https://www.linkedin.com/jobs/view/4477845900/) — U.S. Bank
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4484416800/) — Abbott
 - 📍 **Location:** Irving, TX
-- 🕒 **Posted:** 2026-10-27
+- 🕒 **Posted:** 2026-10-28
 
-### [Systems Engineering Senior Associate](https://www.linkedin.com/jobs/view/4484407444/) — Salesforce
+### [Cloud Engineer, Mid.](https://www.linkedin.com/jobs/view/4483833983/) — Technica Corporation
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-28
+
+### [AWS Cloud Engineer](https://www.linkedin.com/jobs/view/4483847390/) — Peraton
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-28
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4483843483/) — Klanik
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-28
+
+### [Lead Consultant Data Engineer (DHS)](https://www.linkedin.com/jobs/view/4483857139/) — Archer
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-10-28
+
+### [Data Engineer – Entry Level](https://www.linkedin.com/jobs/view/4483836989/) — Emonics LLC
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-10-28
+
+### [Data Engineer - Cloud & Analytics, Officer - State Street Investment Management](https://www.linkedin.com/jobs/view/4481226473/) — State Street Investment Management
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-28
+
+### [Data Engineer - Cloud & Analytics, Officer - State Street Investment Management](https://www.linkedin.com/jobs/view/4481218870/) — State Street Investment Management
+- 📍 **Location:** Quincy, MA
+- 🕒 **Posted:** 2026-10-28
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4484414962/) — Chartmetric
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-28
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4484418750/) — Chartmetric
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-10-28
+
+### [AI/ML Engineer - Senior](https://www.linkedin.com/jobs/view/4482130282/) — Halvik
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-28
+
+### [Finance Transformation Data/AIML Engineer](https://www.linkedin.com/jobs/view/4484010473/) — Hewlett Packard Enterprise
+- 📍 **Location:** Spring, TX
+- 🕒 **Posted:** 2026-10-28
+
+### [Senior Data and AI Engineer](https://www.linkedin.com/jobs/view/4484415922/) — Panacea Financial
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-28
+
+### [Computer Vision Engineer](https://www.linkedin.com/jobs/view/4483841696/) — Daentra
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-28
+
+### [Software Engineer [Multiple Positions Available]](https://www.linkedin.com/jobs/view/4483836990/) — Archer
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-28
+
+### [Software Engineer (Backend / Full Stack)](https://www.linkedin.com/jobs/view/4483628065/) — KN Group
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-28
+
+### [Lead AI Systems Engineer- Autonomous Driving](https://www.linkedin.com/jobs/view/4475259856/) — Bosch USA
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-28
+
+### [Software Engineer - Manipulation](https://www.linkedin.com/jobs/view/4484284202/) — Apptronik
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-28
+
+### [Intern, Power-Thermal Simulation Software Engineer](https://www.linkedin.com/jobs/view/4483847314/) — Samsung Semiconductor
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-28
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4484291866/) — GDH
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-28
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4482275655/) — Chubb
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-28
+
+### [Senior AI Engineer – Human Capital (69220F8)](https://www.linkedin.com/jobs/view/4484416943/) — Referment
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-28
+
+### [Platform Engineering Manager, AI Submission Ingestion](https://www.linkedin.com/jobs/view/4482279414/) — Chubb
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-28
+
+### [Back-end Ground Software Engineer III - Lunar Permanence](https://www.linkedin.com/jobs/view/4482283262/) — Blue Origin
+- 📍 **Location:** Greater Seattle Area
+- 🕒 **Posted:** 2026-10-28
+
+### [Associate Generative AI Engineer](https://www.linkedin.com/jobs/view/4481791906/) — MITRE
+- 📍 **Location:** Bedford, MA
+- 🕒 **Posted:** 2026-10-28
+
+### [Senior Software Engineer, R&D Informatics](https://www.linkedin.com/jobs/view/4484411993/) — Terray Therapeutics
+- 📍 **Location:** Monrovia, CA
+- 🕒 **Posted:** 2026-10-28
+
+### [NS4R Software Developer](https://www.linkedin.com/jobs/view/4484287839/) — Trinzic
+- 📍 **Location:** El Segundo, CA
+- 🕒 **Posted:** 2026-10-28
+
+### [Contract Software Development Engineer in Test - Subscription Platform](https://www.linkedin.com/jobs/view/4482288107/) — Sony Interactive Entertainment
+- 📍 **Location:** Aliso Viejo, CA
+- 🕒 **Posted:** 2026-10-28
+
+### [Systems Engineer](https://www.linkedin.com/jobs/view/4484417905/) — Motivo
+- 📍 **Location:** West Rancho Dominguez, CA
+- 🕒 **Posted:** 2026-10-28
+
+### [Technology Platform Engineer](https://www.linkedin.com/jobs/view/4484430309/) — Endeavour Foundation
+- 📍 **Location:** Greater Brisbane Area
+- 🕒 **Posted:** 2026-10-28
+
+### [Associate Generative AI Engineer](https://www.linkedin.com/jobs/view/4481795492/) — MITRE
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-28
+
+### [Back-end Ground Software Engineer III - Lunar Permanence](https://www.linkedin.com/jobs/view/4482285279/) — Blue Origin
+- 📍 **Location:** Denver, CO
+- 🕒 **Posted:** 2026-10-28
+
+### [Software Engineer II - Flight Software](https://www.linkedin.com/jobs/view/4484285345/) — Sierra Space
+- 📍 **Location:** Centennial, CO
+- 🕒 **Posted:** 2026-10-28
+
+### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4483842563/) — Emonics LLC
 - 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-10-27
+- 🕒 **Posted:** 2026-10-28
 
-### [Software Engineering MTS](https://www.linkedin.com/jobs/view/4484403540/) — Salesforce
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-10-27
+### [Sr. AI & Data Engineer – Snowflake](https://www.linkedin.com/jobs/view/4483841670/) — Archer
+- 📍 **Location:** Irving, TX
+- 🕒 **Posted:** 2026-10-28
 
-### [Contract Software Development Engineer in Test - Subscription Platform](https://www.linkedin.com/jobs/view/4482288102/) — Sony Interactive Entertainment
+### [Software Engineering Manager (Mobile)](https://www.linkedin.com/jobs/view/4482776918/) — MiniMed
 - 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-27
+- 🕒 **Posted:** 2026-10-28
 
-### [Software Engineer - Automation, Early Career](https://www.linkedin.com/jobs/view/4484414873/) — Viasat
-- 📍 **Location:** Carlsbad, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Embedded Software Engineer, Viasat Government](https://www.linkedin.com/jobs/view/4477876510/) — Viasat
-- 📍 **Location:** Carlsbad, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Embedded Software Engineer, Early Career](https://www.linkedin.com/jobs/view/4484412716/) — Viasat
-- 📍 **Location:** Tempe, AZ
-- 🕒 **Posted:** 2026-10-27
-
-### [Embedded Software Engineer (Developer)](https://www.linkedin.com/jobs/view/4483827932/) — American Nexus Trading Inc (AMNEXT)
+### [Full Stack Software Engineer - Entry Level](https://www.linkedin.com/jobs/view/4483845429/) — Emonics LLC
 - 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-10-27
+- 🕒 **Posted:** 2026-10-28
 
-### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4461246896/) — Garmin
-- 📍 **Location:** Chandler, AZ
-- 🕒 **Posted:** 2026-10-27
+### [Junior AI Engineer](https://www.linkedin.com/jobs/view/4483855153/) — Emonics LLC
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-10-28
 
-### [USB & USB PD System Application Engineer](https://www.linkedin.com/jobs/view/4484403794/) — NXP Semiconductors
-- 📍 **Location:** Chandler, AZ
-- 🕒 **Posted:** 2026-10-27
-
-### [Embedded Software Engineer, Viasat Government](https://www.linkedin.com/jobs/view/4477872667/) — Viasat
-- 📍 **Location:** Tempe, AZ
-- 🕒 **Posted:** 2026-10-27
-
-### [Manager, Software Engineering](https://www.linkedin.com/jobs/view/4483840565/) — RevolutionParts
-- 📍 **Location:** Tempe, AZ
-- 🕒 **Posted:** 2026-10-27
-
-### [Sr Security Platform Engineer, AI and Automation](https://www.linkedin.com/jobs/view/4484415582/) — Vanguard
-- 📍 **Location:** Malvern, PA
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineering MTS](https://www.linkedin.com/jobs/view/4484400643/) — Salesforce
-- 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineering SMTS](https://www.linkedin.com/jobs/view/4484412401/) — Salesforce
-- 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-10-27
-
-### [Systems Engineering Senior Associate](https://www.linkedin.com/jobs/view/4484409352/) — Salesforce
-- 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineering MTS](https://www.linkedin.com/jobs/view/4484406472/) — Salesforce
-- 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-10-27
-
-### [Project Application Engineer](https://www.linkedin.com/jobs/view/4484406833/) — Rolls-Royce
-- 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-10-27
+### [Software Engineer (Remote)](https://www.linkedin.com/jobs/view/4483839897/) — OPENLANE
+- 📍 **Location:** Carmel, IN
+- 🕒 **Posted:** 2026-10-28
