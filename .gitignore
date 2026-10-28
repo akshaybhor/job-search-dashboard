@@ -30,5 +30,7 @@ jobs.*
 linkedin_jobs.*
 scores.json
 workflow_runs.jsonl
+daily/*.json
+daily/*.txt
 Daily/*.json
 Daily/*.txt
