@@ -316,6 +316,7 @@ EXCLUDED_COMPANIES = [
     "Travelers",
     "consultnet technology services and solutions",
     "findr",
+    "Genesys",
     "breed staffing",
     "Raytheon",
     "Lockheed Martin",
