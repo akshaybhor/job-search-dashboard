@@ -37,7 +37,7 @@ WORKDAY_QUEUE_TXT_PATH = os.path.join(DAILY_DIR, "workday_daily_queue.txt")
 def get_effective_direct_url(job: dict) -> tuple[str, str]:
     """
     Returns (direct_url, ats_name) if the job has a valid direct ATS URL
-    (Greenhouse, Ashby, or Workday).
+    (Greenhouse, Ashby, Workday, Lever, SmartRecruiters, or Universal).
     Prefers job['direct_url'], then job['url'].
     """
     d_url = (job.get("direct_url") or "").strip()
@@ -54,6 +54,10 @@ def get_effective_direct_url(job: dict) -> tuple[str, str]:
             return candidate, "Ashby"
         if "myworkdayjobs.com" in c_low and "/job/" in c_low:
             return candidate, "Workday"
+        if "lever.co" in c_low or "jobs.lever.co" in c_low:
+            return candidate, "Lever"
+        if "smartrecruiters.com" in c_low:
+            return candidate, "SmartRecruiters"
 
     if "greenhouse" in ats_field and ("boards.greenhouse.io" in u or "job-boards.greenhouse.io" in u):
         return u, "Greenhouse"
@@ -61,6 +65,20 @@ def get_effective_direct_url(job: dict) -> tuple[str, str]:
         return u, "Ashby"
     if "workday" in ats_field and "myworkdayjobs.com" in u.lower() and "/job/" in u.lower():
         return u, "Workday"
+    if "lever" in ats_field and "lever.co" in u.lower():
+        return u, "Lever"
+    if "smartrecruiters" in ats_field and "smartrecruiters.com" in u.lower():
+        return u, "SmartRecruiters"
+
+    # Direct company career site or generic ATS (Universal form engine)
+    for candidate in [d_url, u]:
+        if not candidate:
+            continue
+        c_low = candidate.lower()
+        if any(agg in c_low for agg in ["linkedin.com", "indeed.com", "ziprecruiter.com", "glassdoor.com", "dice.com", "monster.com", "simplyhired.com"]):
+            continue
+        if any(k in c_low for k in ["/job", "/career", "/apply", "bamboohr.com", "breezy.hr", "applytojob.com", "workable.com", "rippling.com"]):
+            return candidate, "Universal"
 
     return "", ""
 
@@ -127,6 +145,9 @@ def build_daily_queue(min_score: int = 50, max_hours: int = 48) -> dict:
     greenhouse_jobs = []
     ashby_jobs = []
     workday_jobs = []
+    lever_jobs = []
+    smartrecruiters_jobs = []
+    universal_jobs = []
     seen_urls = set()
 
     for job in all_jobs:
@@ -177,11 +198,24 @@ def build_daily_queue(min_score: int = 50, max_hours: int = 48) -> dict:
             ashby_jobs.append(item)
         elif ats == "Workday":
             workday_jobs.append(item)
+        elif ats == "Lever":
+            lever_jobs.append(item)
+        elif ats == "SmartRecruiters":
+            smartrecruiters_jobs.append(item)
+        elif ats == "Universal":
+            universal_jobs.append(item)
 
     greenhouse_jobs.sort(key=lambda x: x["score"], reverse=True)
     ashby_jobs.sort(key=lambda x: x["score"], reverse=True)
     workday_jobs.sort(key=lambda x: x["score"], reverse=True)
-    all_eligible = sorted(greenhouse_jobs + ashby_jobs + workday_jobs, key=lambda x: x["score"], reverse=True)
+    lever_jobs.sort(key=lambda x: x["score"], reverse=True)
+    smartrecruiters_jobs.sort(key=lambda x: x["score"], reverse=True)
+    universal_jobs.sort(key=lambda x: x["score"], reverse=True)
+    all_eligible = sorted(
+        greenhouse_jobs + ashby_jobs + workday_jobs + lever_jobs + smartrecruiters_jobs + universal_jobs,
+        key=lambda x: x["score"],
+        reverse=True,
+    )
 
     now_utc = datetime.now(timezone.utc)
     # Calculate EST offset approx (UTC - 5 / UTC - 4)
@@ -197,10 +231,16 @@ def build_daily_queue(min_score: int = 50, max_hours: int = 48) -> dict:
             "greenhouse_count": len(greenhouse_jobs),
             "ashby_count": len(ashby_jobs),
             "workday_count": len(workday_jobs),
+            "lever_count": len(lever_jobs),
+            "smartrecruiters_count": len(smartrecruiters_jobs),
+            "universal_count": len(universal_jobs),
         },
         "greenhouse": greenhouse_jobs,
         "ashby": ashby_jobs,
         "workday": workday_jobs,
+        "lever": lever_jobs,
+        "smartrecruiters": smartrecruiters_jobs,
+        "universal": universal_jobs,
         "all": all_eligible,
     }
 
@@ -247,9 +287,12 @@ def main():
 
     print(f"✅ Daily Queue successfully generated in '{DAILY_DIR}':")
     print(f"   • Total Eligible Roles (Score >={args.min_score}): {queue['summary']['total']}")
-    print(f"     - Greenhouse: {queue['summary']['greenhouse_count']}")
-    print(f"     - Ashby:      {queue['summary']['ashby_count']}")
-    print(f"     - Workday:    {queue['summary']['workday_count']}")
+    print(f"     - Greenhouse:      {queue['summary']['greenhouse_count']}")
+    print(f"     - Ashby:           {queue['summary']['ashby_count']}")
+    print(f"     - Workday:         {queue['summary']['workday_count']}")
+    print(f"     - Lever:           {queue['summary']['lever_count']}")
+    print(f"     - SmartRecruiters: {queue['summary']['smartrecruiters_count']}")
+    print(f"     - Universal:       {queue['summary']['universal_count']}")
     print(f"   • Files created: {QUEUE_JSON_PATH}, {QUEUE_TXT_PATH}, {WORKDAY_QUEUE_JSON_PATH}, {WORKDAY_QUEUE_TXT_PATH}")
 
 
