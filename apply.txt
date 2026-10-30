@@ -1,0 +1,17 @@
+# ====================================================================
+# QUICK APPLY — JOB URL LIST
+# ====================================================================
+# Add one or more job URLs below (separated by newlines or commas).
+# Lines starting with # are comments and will be ignored.
+#
+# Supported ATS Platforms (auto-detected):
+# - Workday          (e.g., https://company.wd5.myworkdayjobs.com/...)
+# - Greenhouse       (e.g., https://job-boards.greenhouse.io/company/jobs/...)
+# - Ashby            (e.g., https://jobs.ashbyhq.com/company/...)
+# - Lever            (e.g., https://jobs.lever.co/company/...)
+# - SmartRecruiters  (e.g., https://jobs.smartrecruiters.com/company/...)
+#
+# Examples:
+# https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7
+# https://jobs.ashbyhq.com/crusoe/03815252-2543-44f1-ad40-7ba71da6e450
+# https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Santa-Clara/Sr-Software-Engineer---Distributed-Systems_JR-0110113
