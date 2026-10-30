@@ -14,6 +14,7 @@ import time
 import urllib.request
 import urllib.parse
 from datetime import datetime, timezone, timedelta
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Ensure UTF-8 output on Windows consoles
 if hasattr(sys.stdout, "reconfigure"):
@@ -360,10 +361,32 @@ def probe_workday_company(company_name: str, career_url: str, max_lookback_hours
     return list(seen.values())
 
 
+def _probe_company_task(item: dict, lookback_hours: int) -> tuple[str, str, list[dict]]:
+    """Helper to probe an individual company across its detected ATS platform."""
+    c_name = item["name"]
+    ats = item["ats"]
+    slug = item["slug"]
+    career_url = item.get("career_url", "")
+    found = []
+    try:
+        if ats == "Greenhouse":
+            found = probe_greenhouse_company(c_name, slug, max_lookback_hours=lookback_hours)
+        elif ats == "Ashby":
+            found = probe_ashby_company(c_name, slug, max_lookback_hours=lookback_hours)
+        elif ats == "Lever":
+            found = probe_lever_company(c_name, slug, max_lookback_hours=lookback_hours)
+        elif ats == "Workday":
+            found = probe_workday_company(c_name, career_url, max_lookback_hours=lookback_hours)
+    except Exception as e:
+        pass
+    return c_name, ats, found
+
+
 def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 0) -> list[dict]:
     """
     Scans cataloged companies from companies.json, fetches fresh roles via direct APIs,
     and merges them into all_jobs.json. Supports Greenhouse, Ashby, Lever, and Workday.
+    Uses ThreadPoolExecutor across 15 parallel workers for high throughput.
     If max_companies <= 0, scans all eligible companies in the directory.
     """
     from company_directory import prune_excluded_companies
@@ -399,31 +422,17 @@ def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 0) -> 
     target_list.sort(key=lambda x: x.get("last_seen", ""), reverse=True)
     batch = target_list[:max_companies] if max_companies > 0 else target_list
 
-    print(f">>> [Direct ATS Scraper] Scanning {len(batch)} of {len(target_list)} companies (lookback: {lookback_hours}h)...")
+    workers = min(15, len(batch)) if batch else 1
+    print(f">>> [Direct ATS Scraper] Scanning {len(batch)} of {len(target_list)} companies in parallel (lookback: {lookback_hours}h, workers: {workers})...", flush=True)
     surfaced_jobs = []
 
-    for item in batch:
-        c_name = item["name"]
-        ats = item["ats"]
-        slug = item["slug"]
-        career_url = item.get("career_url", "")
-        time.sleep(0.25)  # Polite throttle
-
-        found = []
-        if ats == "Greenhouse":
-            found = probe_greenhouse_company(c_name, slug, max_lookback_hours=lookback_hours)
-        elif ats == "Ashby":
-            found = probe_ashby_company(c_name, slug, max_lookback_hours=lookback_hours)
-        elif ats == "Lever":
-            found = probe_lever_company(c_name, slug, max_lookback_hours=lookback_hours)
-        elif ats == "Workday":
-            found = probe_workday_company(c_name, career_url, max_lookback_hours=lookback_hours)
-
-        if found:
-            print(f"  [+] {c_name} ({ats}): +{len(found)} fresh role(s)")
-            surfaced_jobs.extend(found)
-        else:
-            print(f"  [-] {c_name} ({ats}): 0 new roles in window")
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        futures = {executor.submit(_probe_company_task, item, lookback_hours): item for item in batch}
+        for future in as_completed(futures):
+            c_name, ats, found = future.result()
+            if found:
+                print(f"  [+] {c_name} ({ats}): +{len(found)} fresh role(s)", flush=True)
+                surfaced_jobs.extend(found)
 
     print(f"\n[Direct ATS Scraper] Total fresh roles surfaced: {len(surfaced_jobs)}")
 
