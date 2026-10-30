@@ -176,6 +176,14 @@ def record_company(
     if not company_key:
         return False
 
+    # Block any company listed in scrape_jobs.EXCLUDED_COMPANIES from ever being registered
+    try:
+        from scrape_jobs import is_excluded_company
+        if is_excluded_company(company_name) or is_excluded_company(company_key.replace("-", " ")):
+            return False
+    except ImportError:
+        pass
+
     today_iso = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     now_date = date_seen if (date_seen and re.match(r"^\d{4}-\d{2}-\d{2}", str(date_seen))) else today_iso
     now_date = now_date[:10]
@@ -205,6 +213,40 @@ def record_company(
         return True
 
 
+def prune_excluded_companies(directory_data: dict = None, filepath: str = COMPANIES_FILE) -> tuple[int, list[str]]:
+    """
+    Scans companies.json (or passed directory_data) and deletes any company
+    matching EXCLUDED_COMPANIES in scrape_jobs.py.
+    Returns (evicted_count, evicted_names).
+    """
+    try:
+        from scrape_jobs import is_excluded_company
+    except ImportError:
+        return 0, []
+
+    data = directory_data if directory_data is not None else load_company_directory(filepath)
+    companies = data.get("companies", {})
+    evicted_keys = []
+    evicted_names = []
+
+    for key, c_info in list(companies.items()):
+        name = c_info.get("name", "")
+        # Check display name, dictionary key, and key with dashes replaced with spaces
+        if is_excluded_company(name) or is_excluded_company(key) or is_excluded_company(key.replace("-", " ")):
+            evicted_keys.append(key)
+            evicted_names.append(name or key)
+
+    for k in evicted_keys:
+        del companies[k]
+
+    if evicted_keys:
+        save_company_directory(data, filepath)
+        sample_names = ", ".join(evicted_names[:8]) + ("..." if len(evicted_names) > 8 else "")
+        print(f"🧹 [Company Directory Purge] Evicted {len(evicted_keys)} excluded company(s) from {os.path.basename(filepath)}: {sample_names}")
+
+    return len(evicted_keys), evicted_names
+
+
 def seed_from_all_jobs(all_jobs_path: str = None) -> int:
     """Scans all_jobs.json for any direct ATS jobs and seeds companies.json."""
     if not all_jobs_path:
@@ -232,10 +274,23 @@ def seed_from_all_jobs(all_jobs_path: str = None) -> int:
             if record_company(company, url, date_seen=date_p, ats_hint=ats, directory_data=data):
                 added_count += 1
 
+    prune_excluded_companies(data)
     save_company_directory(data)
     print(f"[OK] Populated Company Directory: {len(data['companies'])} companies registered.")
     return len(data["companies"])
 
 
 if __name__ == "__main__":
-    seed_from_all_jobs()
+    import argparse
+    parser = argparse.ArgumentParser(description="Company Directory Manager")
+    parser.add_argument("--prune", action="store_true", help="Prune any excluded companies from companies.json")
+    parser.add_argument("--seed", action="store_true", help="Seed companies from all_jobs.json")
+    args = parser.parse_args()
+
+    if args.prune:
+        prune_excluded_companies()
+    elif args.seed:
+        seed_from_all_jobs()
+    else:
+        prune_excluded_companies()
+        seed_from_all_jobs()

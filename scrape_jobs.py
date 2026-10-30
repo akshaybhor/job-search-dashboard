@@ -1899,7 +1899,16 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
             added += 1
 
     cutoff = (now - timedelta(days=ALL_JOBS_PRUNE_DAYS)).strftime("%Y-%m-%dT%H:%M:%SZ")
-    kept = [j for j in by_url.values() if j.get("first_seen", stamp) >= cutoff]
+    purged_excluded_jobs = 0
+    kept = []
+    for j in by_url.values():
+        comp = j.get("company", "")
+        if is_excluded_company(comp):
+            purged_excluded_jobs += 1
+            continue
+        if j.get("first_seen", stamp) >= cutoff:
+            kept.append(j)
+
     kept.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
 
     with open(path, "w") as f:
@@ -1907,10 +1916,12 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
         json.dump({"updated_at": now.strftime("%Y-%m-%d %H:%M UTC"), "jobs": kept},
                   f, separators=(",", ":"))
     print(f"🗂  all_jobs.json: +{added} new, {len(kept)} total (last {ALL_JOBS_PRUNE_DAYS}d)")
+    if purged_excluded_jobs > 0:
+        print(f"  🧹 all_jobs.json: purged {purged_excluded_jobs} lingering job(s) from excluded companies")
 
     # Dynamically register companies with direct ATS / career links into companies.json
     try:
-        from company_directory import load_company_directory, record_company, save_company_directory
+        from company_directory import load_company_directory, record_company, save_company_directory, prune_excluded_companies
         comp_dir = load_company_directory()
         comp_changed = False
         for j in new_jobs:
@@ -1919,7 +1930,8 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
             if c_url and "linkedin.com" not in c_url and "indeed.com" not in c_url:
                 if record_company(c_name, c_url, date_seen=j.get("date_posted"), ats_hint=j.get("ats"), directory_data=comp_dir):
                     comp_changed = True
-        if comp_changed:
+        pruned_count, _ = prune_excluded_companies(comp_dir)
+        if comp_changed or pruned_count > 0:
             save_company_directory(comp_dir)
             print(f"  🏢 companies.json: updated ({comp_dir.get('total_companies', 0)} companies)")
     except Exception as e:

@@ -366,6 +366,8 @@ def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 0) -> 
     and merges them into all_jobs.json. Supports Greenhouse, Ashby, Lever, and Workday.
     If max_companies <= 0, scans all eligible companies in the directory.
     """
+    from company_directory import prune_excluded_companies
+    prune_excluded_companies()
     comp_data = load_company_directory()
     companies = comp_data.get("companies", {})
     if not companies:
@@ -376,7 +378,7 @@ def run_direct_ats_scraper(lookback_hours: int = 48, max_companies: int = 0) -> 
     target_list = []
     for key, c in companies.items():
         c_name = c.get("name", key)
-        if is_excluded_company(c_name):
+        if is_excluded_company(c_name) or is_excluded_company(key) or is_excluded_company(key.replace("-", " ")):
             continue
         ats = (c.get("ats") or "").strip()
         career_url = (c.get("career_url") or "").strip()

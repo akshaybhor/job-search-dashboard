@@ -42,6 +42,9 @@ jobs:
       - name: Scrape direct ATS career portals (Greenhouse, Ashby, Lever, Workday)
         run: python scrape_direct_ats.py --lookback 48 --limit 0
 
+      - name: Prune excluded companies from Company Directory
+        run: python company_directory.py --prune
+
       - name: Record workflow run
         run: |
           python - <<'EOF'

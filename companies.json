@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29 10:10 UTC",
-  "total_companies": 278,
+  "updated_at": "2026-10-30 01:05 UTC",
+  "total_companies": 268,
   "companies": {
     "abaka-ai": {
       "name": "Abaka AI",
@@ -137,14 +137,6 @@
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
       "total_jobs_seen": 1
-    },
-    "amgen": {
-      "name": "Amgen",
-      "career_url": "https://amgen.wd1.myworkdayjobs.com/careers",
-      "ats": "Workday",
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-28",
-      "total_jobs_seen": 62
     },
     "analog-devices": {
       "name": "Analog Devices",
@@ -306,22 +298,6 @@
       "last_seen": "2026-10-24",
       "total_jobs_seen": 1
     },
-    "blue-origin": {
-      "name": "Blue Origin",
-      "career_url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin",
-      "ats": "Workday",
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-28",
-      "total_jobs_seen": 20
-    },
-    "boeing": {
-      "name": "Boeing",
-      "career_url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS",
-      "ats": "Workday",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-26",
-      "total_jobs_seen": 124
-    },
     "bold-orange": {
       "name": "Bold Orange",
       "career_url": "https://jobs.lever.co/bold-orange",
@@ -329,14 +305,6 @@
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-17",
       "total_jobs_seen": 1
-    },
-    "booz-allen-hamilton": {
-      "name": "Booz Allen Hamilton",
-      "career_url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs",
-      "ats": "Workday",
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-28",
-      "total_jobs_seen": 63
     },
     "braze": {
       "name": "Braze",
@@ -369,14 +337,6 @@
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-29",
       "total_jobs_seen": 47
-    },
-    "caci-international": {
-      "name": "CACI International Inc",
-      "career_url": "https://caci.wd1.myworkdayjobs.com/External",
-      "ats": "Workday",
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-26",
-      "total_jobs_seen": 99
     },
     "cadence": {
       "name": "Cadence Design Systems",
@@ -609,14 +569,6 @@
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-27",
       "total_jobs_seen": 40
-    },
-    "collins-aerospace": {
-      "name": "Collins Aerospace",
-      "career_url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway",
-      "ats": "Workday",
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-26",
-      "total_jobs_seen": 117
     },
     "companycam": {
       "name": "CompanyCam",
@@ -1394,14 +1346,6 @@
       "last_seen": "2026-10-20",
       "total_jobs_seen": 1
     },
-    "northrop-grumman": {
-      "name": "Northrop Grumman",
-      "career_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site",
-      "ats": "Workday",
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-26",
-      "total_jobs_seen": 48
-    },
     "notion": {
       "name": "Notion",
       "career_url": "https://jobs.ashbyhq.com/notion",
@@ -1409,14 +1353,6 @@
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-28",
       "total_jobs_seen": 17
-    },
-    "nvidia": {
-      "name": "NVIDIA",
-      "career_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
-      "ats": "Workday",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-27",
-      "total_jobs_seen": 168
     },
     "obvio": {
       "name": "Obvio",
@@ -1682,14 +1618,6 @@
       "last_seen": "2026-10-22",
       "total_jobs_seen": 75
     },
-    "raytheon": {
-      "name": "Raytheon",
-      "career_url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway",
-      "ats": "Workday",
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-27",
-      "total_jobs_seen": 232
-    },
     "reddit": {
       "name": "Reddit, Inc.",
       "career_url": "https://job-boards.greenhouse.io/reddit",
@@ -1810,8 +1738,8 @@
       "last_seen": "2026-10-22",
       "total_jobs_seen": 1
     },
-    "schr\u00f6dinger": {
-      "name": "Schr\u00f6dinger",
+    "schrödinger": {
+      "name": "Schrödinger",
       "career_url": "https://job-boards.greenhouse.io/schrdinger",
       "ats": "Greenhouse",
       "first_seen": "2026-09-30",
@@ -2033,14 +1961,6 @@
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
       "total_jobs_seen": 1
-    },
-    "travelers": {
-      "name": "Travelers",
-      "career_url": "https://travelers.wd5.myworkdayjobs.com/External",
-      "ats": "Workday",
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-27",
-      "total_jobs_seen": 291
     },
     "trm-labs": {
       "name": "TRM Labs",
