@@ -292,6 +292,7 @@ def enrich_jobs(all_jobs_path: str = None, max_known: int = 150, max_unknown: in
     with open(all_jobs_path, "r", encoding="utf-8") as f:
         all_data = json.load(f)
 
+    jobs = all_data.get("jobs", [])
     comp_dir = load_company_directory()
     from company_directory import prune_excluded_companies
     prune_excluded_companies(comp_dir)
