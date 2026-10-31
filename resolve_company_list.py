@@ -65,10 +65,14 @@ def probe_lever(slug: str) -> str:
 def search_workday_ddg(company_name: str) -> str:
     """Searches DuckDuckGo HTML for a company's Workday career portal."""
     query = f"{company_name} careers workday"
-    url = f"https://html.duckduckgo.com/html/?q={urllib.parse.quote_plus(query)}"
+    data = urllib.parse.urlencode({"q": query}).encode("utf-8")
     req = urllib.request.Request(
-        url,
-        headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+        "https://html.duckduckgo.com/html/",
+        data=data,
+        headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+            "Content-Type": "application/x-www-form-urlencoded"
+        }
     )
     try:
         with urllib.request.urlopen(req, timeout=5) as res:
@@ -82,6 +86,8 @@ def search_workday_ddg(company_name: str) -> str:
                 elif m.startswith("http"):
                     target = m
                 if "myworkdayjobs.com" in target:
+                    if "workday.wd5.myworkdayjobs.com/Workday" in target and "workday" not in company_name.lower():
+                        continue
                     root, ats = extract_career_root_url(target)
                     if root and ats == "Workday":
                         return root

@@ -5,13 +5,24 @@
 # Lines starting with # are comments and will be ignored.
 #
 # Supported ATS Platforms (auto-detected):
-# - Workday          (e.g., https://company.wd5.myworkdayjobs.com/...)
-# - Greenhouse       (e.g., https://job-boards.greenhouse.io/company/jobs/...)
-# - Ashby            (e.g., https://jobs.ashbyhq.com/company/...)
-# - Lever            (e.g., https://jobs.lever.co/company/...)
-# - SmartRecruiters  (e.g., https://jobs.smartrecruiters.com/company/...)
+# - Workday                  (e.g., https://company.wd5.myworkdayjobs.com/...)
+# - Greenhouse               (e.g., https://job-boards.greenhouse.io/company/jobs/...)
+# - Ashby                    (e.g., https://jobs.ashbyhq.com/company/...)
+# - Lever                    (e.g., https://jobs.lever.co/company/...)
+# - SmartRecruiters          (e.g., https://jobs.smartrecruiters.com/company/...)
+# - Any Company Career Page  (Universal AI Engine: IBM, CGI, Qualtrics, Starbucks, Fastly, Databricks, etc.)
 #
 # Examples:
 # https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7
 # https://jobs.ashbyhq.com/crusoe/03815252-2543-44f1-ad40-7ba71da6e450
 # https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Santa-Clara/Sr-Software-Engineer---Distributed-Systems_JR-0110113
+https://www.databricks.com/company/careers/infrastructure/software-engineer-infrastructure-8829039002?gh_jid=8829039002
+https://jobs.ashbyhq.com/airbyte/b59bbc91-fb77-4a08-9c47-0fca7f755942
+https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3
+https://jobs.lenovo.com/en_US/careers/JobDetail?jobId=82261&src=LinkedIn
+https://alsacstjude.wd1.myworkdayjobs.com/en-US/careersalsacstjude/job/Memphis-TN/Software-Engineer-III---Salesforce-Data-Cloud_R0011049?source=LinkedIn
+https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161125?utm_medium=jobboard&utm_source=linkedin
+https://careers.docusign.com/careers-home/jobs/30511?lang=en-us&iis=Job%20board&iisn=LinkedIn
+https://www.schwabjobs.com/job/-/-/33727/102615581136?iis=linkedin_job_wrapping&iisn=rd_linkedin_job_wrapping&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=Annual_Media&utm_content=social_media&utm_term=383638107&ss=paid
+https://job-boards.greenhouse.io/morsecorp/jobs/6042651003?gh_jid=6042651003&gh_src=6a34c2333us
+https://careers.ozk.com/career-home/jobs/6663/AVP,+Cloud+Engineer?lang=en-US&mode=apply&iis=LinkedIn
