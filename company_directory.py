@@ -188,9 +188,15 @@ def record_company(
     now_date = date_seen if (date_seen and re.match(r"^\d{4}-\d{2}-\d{2}", str(date_seen))) else today_iso
     now_date = now_date[:10]
 
+    should_save = False
+    if directory_data is None:
+        directory_data = load_company_directory()
+        should_save = True
+
     companies = directory_data.setdefault("companies", {})
     existing = companies.get(company_key)
 
+    changed = False
     if existing:
         existing["total_jobs_seen"] = existing.get("total_jobs_seen", 1) + 1
         existing["last_seen"] = max(existing.get("last_seen", now_date), now_date)
@@ -200,7 +206,7 @@ def record_company(
         ):
             existing["career_url"] = root_url
             existing["ats"] = detected_ats
-        return True
+            changed = True
     else:
         companies[company_key] = {
             "name": company_name.strip(),
@@ -210,7 +216,13 @@ def record_company(
             "last_seen": now_date,
             "total_jobs_seen": 1,
         }
-        return True
+        changed = True
+
+    if should_save and changed:
+        save_company_directory(directory_data)
+
+    return True
+
 
 
 def prune_excluded_companies(directory_data: dict = None, filepath: str = COMPANIES_FILE) -> tuple[int, list[str]]:
