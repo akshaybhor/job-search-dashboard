@@ -88,6 +88,8 @@ def search_workday_ddg(company_name: str) -> str:
                 if "myworkdayjobs.com" in target:
                     if "workday.wd5.myworkdayjobs.com/Workday" in target and "workday" not in company_name.lower():
                         continue
+                    if any(fake in target for fake in ("google.wd501.myworkdayjobs.com", "applebank.wd5.myworkdayjobs.com", "xenergy.wd5.myworkdayjobs.com")):
+                        continue
                     root, ats = extract_career_root_url(target)
                     if root and ats == "Workday":
                         return root
