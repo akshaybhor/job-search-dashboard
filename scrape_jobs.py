@@ -1085,12 +1085,10 @@ def probe_curated_lever(entry: dict) -> list:
 WORKDAY_SEARCH_TERMS = [
     "software engineer",
     "backend engineer",
-    "systems engineer",
     "C++",
     "cloud engineer",
     "site reliability",
     "data engineer",
-    "ETL",
     "AI engineer",
     "machine learning",
     "MLOps",
