@@ -31,6 +31,7 @@ from scrape_jobs import (
     is_dealbreaker_role,
     EXCLUDED_CLEARANCE_RE,
     EXCLUDED_SENIORITY_RE,
+    WORKDAY_SEARCH_TERMS,
     _merge_into_all_jobs,
 )
 from company_directory import (
@@ -292,7 +293,7 @@ def probe_workday_company(company_name: str, career_url: str, max_lookback_hours
         cxs_url = f"https://{netloc}/wday/cxs/{tenant}/{site}/jobs"
         base_url = f"https://{netloc}/{site}"
 
-    terms = ["software engineer", "machine learning", "data engineer", "backend", "ai engineer"]
+    terms = WORKDAY_SEARCH_TERMS
     seen: dict[str, dict] = {}
 
     for term in terms:
