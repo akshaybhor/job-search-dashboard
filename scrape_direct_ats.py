@@ -195,7 +195,7 @@ def probe_lever_company(company_name: str, slug: str, max_lookback_hours: int = 
     url = f"https://api.lever.co/v0/postings/{slug}?mode=json"
     req = urllib.request.Request(url, headers=HEADERS)
     try:
-        with urllib.request.urlopen(req, timeout=10) as res:
+        with urllib.request.urlopen(req, timeout=18) as res:
             data = json.loads(res.read().decode("utf-8"))
             if not isinstance(data, list):
                 return []
